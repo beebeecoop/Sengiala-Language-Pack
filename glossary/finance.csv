@@ -1,42 +1,68 @@
 english,malay,context,status
-Account,Akaun,Accounting,approved
-Account Number,Nombor Akaun,Accounting,approved
-Account Type,Jenis Akaun,Accounting,approved
-Accounting Period,Tempoh Perakaunan,Accounting,approved
-Asset,Aset,Financial reporting,approved
-Balance,Baki,Accounting,approved
-Balance Sheet,Kunci Kira-Kira,Financial reporting,approved
-Appropriation,Pembahagian Keuntungan,Cooperative financial reporting,approved
-Appropriation Account,Akaun Pembahagian Keuntungan,Cooperative accounting,approved
-Bank Reconciliation,Penyesuaian Bank,Banking and accounting,approved
-Cash Flow Statement,Penyata Aliran Tunai,Financial reporting,approved
-Chart of Accounts,Carta Akaun,Accounting,approved
-Closing Balance,Baki Akhir,Accounting,approved
-Cost Centre,Pusat Kos,Management accounting,approved
-Credit,Kredit,Accounting,approved
-Debit,Debit,Accounting,approved
-Deficit,Kurangan,Cooperative reporting,approved
-Equity,Ekuiti,Financial reporting,approved
-Expense,Perbelanjaan,Accounting,approved
-Financial Year,Tahun Kewangan,Accounting,approved
-Fiscal Year,Tahun Kewangan,Accounting,approved
-General Ledger,Lejar Am,Accounting,approved
-Income,Pendapatan,Accounting,approved
-Income Statement,Penyata Untung atau Rugi,Financial reporting,approved
-Journal,Jurnal,Accounting,approved
-Journal Entry,Catatan Jurnal,Accounting,approved
-Ledger,Lejar,Accounting,approved
-Liability,Liabiliti,Financial reporting,approved
-Loss,Kerugian,Financial reporting,approved
-Opening Balance,Baki Awal,Accounting,approved
-Posting,Pengeposan,Accounting process,approved
-Profit,Keuntungan,Financial reporting,approved
-Profit and Loss Statement,Penyata Untung atau Rugi,Financial reporting,approved
-Reconciliation,Penyesuaian,Accounting,approved
-Reserve Fund,Kumpulan Wang Rizab,Cooperative reporting,approved
-Revenue,Hasil,Accounting,approved
-Share Capital,Modal Syer,Cooperative accounting,approved
-Statutory Reserve,Rizab Berkanun,Cooperative reporting,approved
-Surplus,Lebihan,Cooperative reporting,approved
-Suspense Account,Akaun Tergantung,Accounting,approved
-Trial Balance,Imbangan Duga,Accounting,approved
+Account,Akaun,Accounting,Diluluskan
+Account Number,Nombor Akaun,Accounting,Diluluskan
+Account Statement,Penyata Akaun,Banking,Diluluskan
+Account Type,Jenis Akaun,Accounting,Diluluskan
+Accounting Period,Tempoh Perakaunan,Accounting,Diluluskan
+Appropriation,Pembahagian Keuntungan,Cooperative financial reporting,Diluluskan
+Appropriation Account,Akaun Pembahagian Keuntungan,Cooperative accounting,Diluluskan
+Asset,Aset,Financial reporting,Diluluskan
+Balance,Baki,Accounting,Diluluskan
+Balance Sheet,Kunci Kira-Kira,Financial reporting,Diluluskan
+Bank Account,Akaun Bank,Banking,Diluluskan
+Bank Charges,Caj Bank,Banking,Diluluskan
+Bank Reconciliation,Penyelarasan Bank,Banking and accounting,Diluluskan
+Bank Statement,Penyata Bank,Banking,Diluluskan
+Cash,Tunai,Cash management,Diluluskan
+Cash Account,Akaun Tunai,Cash management,Diluluskan
+Cash Balance,Baki Tunai,Cash management,Diluluskan
+Cash Book,Buku Tunai,Cash management,Diluluskan
+Cash Flow Statement,Penyata Aliran Tunai,Financial reporting,Diluluskan
+Cash Payment,Bayaran Tunai,Cash management,Diluluskan
+Cash Receipt,Penerimaan Tunai,Cash management,Diluluskan
+Cash Register,Daftar Tunai,Cash management,Diluluskan
+Cash Transaction,Transaksi Tunai,Cash management,Diluluskan
+Chart of Accounts,Carta Akaun,Accounting,Diluluskan
+Cheque,Cek,Banking,Diluluskan
+Cheque Number,Nombor Cek,Banking,Diluluskan
+Cleared,Telah Dijelaskan,Banking,Diluluskan
+Closing Balance,Baki Akhir,Accounting,Diluluskan
+Cost Centre,Pusat Kos,Management accounting,Diluluskan
+Credit,Kredit,Accounting,Diluluskan
+Debit,Debit,Accounting,Diluluskan
+Deficit,Kurangan,Cooperative reporting,Diluluskan
+Deposit,Deposit,Banking and cash management,Diluluskan
+Equity,Ekuiti,Financial reporting,Diluluskan
+Expense,Perbelanjaan,Accounting,Diluluskan
+Financial Year,Tahun Kewangan,Accounting,Diluluskan
+Fiscal Year,Tahun Kewangan,Accounting,Diluluskan
+General Ledger,Lejar Am,Accounting,Diluluskan
+Income,Pendapatan,Accounting,Diluluskan
+Income Statement,Penyata Untung atau Rugi,Financial reporting,Diluluskan
+Interest,Faedah,Banking,Diluluskan
+Internal Transfer,Pindahan Dalaman,Banking and cash management,Diluluskan
+Journal,Jurnal,Accounting,Diluluskan
+Journal Entry,Catatan Jurnal,Accounting,Diluluskan
+Ledger,Lejar,Accounting,Diluluskan
+Liability,Liabiliti,Financial reporting,Diluluskan
+Loss,Kerugian,Financial reporting,Diluluskan
+Opening Balance,Baki Awal,Accounting,Diluluskan
+Outstanding,Belum Dijelaskan,Banking,Diluluskan
+Petty Cash,Wang Tunai Runcit,Cash management,Diluluskan
+Posting,Pengeposan,Accounting process,Diluluskan
+Profit,Keuntungan,Financial reporting,Diluluskan
+Profit and Loss Statement,Penyata Untung atau Rugi,Financial reporting,Diluluskan
+Reconcile,Selaraskan,Banking and accounting,Diluluskan
+Reconciled,Telah Diselaraskan,Banking and accounting,Diluluskan
+Reconciliation,Penyelarasan,Accounting,Diluluskan
+Reconciliation Date,Tarikh Penyelarasan,Banking and accounting,Diluluskan
+Reserve Fund,Kumpulan Wang Rizab,Cooperative reporting,Diluluskan
+Revenue,Hasil,Accounting,Diluluskan
+Share Capital,Modal Syer,Cooperative accounting,Diluluskan
+Statutory Reserve,Rizab Berkanun,Cooperative reporting,Diluluskan
+Surplus,Lebihan,Cooperative reporting,Diluluskan
+Suspense Account,Akaun Tergantung,Accounting,Diluluskan
+Transfer,Pindahan,Banking and cash management,Diluluskan
+Trial Balance,Imbangan Duga,Accounting,Diluluskan
+Unreconciled,Belum Diselaraskan,Banking and accounting,Diluluskan
+Withdrawal,Pengeluaran,Banking and cash management,Diluluskan
