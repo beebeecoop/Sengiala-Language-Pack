@@ -1,0 +1,45 @@
+# Dolibarr Bahasa Melayu Malaysia - Members
+# Encoding: UTF-8
+
+Member=Anggota
+Members=Anggota
+Membership=Keanggotaan
+MemberCard=Kad Anggota
+MemberList=Senarai Anggota
+NewMember=Anggota Baharu
+AddMember=Tambah Anggota
+EditMember=Sunting Anggota
+DeleteMember=Padam Anggota
+MemberStatus=Status Anggota
+MemberType=Jenis Anggota
+MemberSince=Anggota Sejak
+MembershipDate=Tarikh Keanggotaan
+MembershipStartDate=Tarikh Mula Keanggotaan
+MembershipEndDate=Tarikh Tamat Keanggotaan
+MembershipFee=Yuran Keanggotaan
+MembershipFees=Yuran Keanggotaan
+Subscription=Langganan
+Subscriptions=Langganan
+Contribution=Caruman
+Contributions=Caruman
+ShareCapital=Modal Syer
+ShareCapitalAccount=Akaun Modal Syer
+BonusShare=Syer Bonus
+BonusShares=Syer Bonus
+Patronage=Potongan Langganan
+PatronageBonus=Bonus Langganan
+Dividend=Dividen
+Dividends=Dividen
+MemberNumber=Nombor Anggota
+MemberReference=Rujukan Anggota
+MemberAddress=Alamat Anggota
+MemberEmail=E-mel Anggota
+MemberPhone=Telefon Anggota
+MemberActive=Anggota Aktif
+MemberInactive=Anggota Tidak Aktif
+MemberValidated=Anggota Disahkan
+MemberResigned=Anggota Berhenti
+MemberExcluded=Anggota Dikecualikan
+ValidateMember=Sahkan Anggota
+TerminateMembership=Tamatkan Keanggotaan
+RenewMembership=Perbaharui Keanggotaan
