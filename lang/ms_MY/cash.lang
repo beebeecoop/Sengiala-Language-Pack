@@ -1,3 +1,43 @@
 # Dolibarr language file - Bahasa Melayu Malaysia
 # Module: Cash
-# Status: structure placeholder for v0.2.0
+# Status: Finance Foundation v0.2.0
+# Note: Compatibility terminology for cash-management labels used by SengialaSuite.
+
+Cash=Tunai
+CashAccount=Akaun Tunai
+CashAccounts=Akaun Tunai
+CashBalance=Baki Tunai
+CashBook=Buku Tunai
+CashControl=Kawalan Tunai
+CashDeposit=Deposit Tunai
+CashDesk=Kaunter Tunai
+CashEntry=Catatan Tunai
+CashFlow=Aliran Tunai
+CashFlowStatement=Penyata Aliran Tunai
+CashFund=Dana Tunai
+CashIn=Tunai Masuk
+CashMovement=Pergerakan Tunai
+CashMovements=Pergerakan Tunai
+CashOpening=Pembukaan Tunai
+CashClosing=Penutupan Tunai
+CashOut=Tunai Keluar
+CashPayment=Bayaran Tunai
+CashReceipt=Penerimaan Tunai
+CashRegister=Daftar Tunai
+CashTransaction=Transaksi Tunai
+CashTransactions=Transaksi Tunai
+ClosingBalance=Baki Akhir
+CurrentBalance=Baki Semasa
+Deposit=Deposit
+InitialBalance=Baki Awal
+InternalTransfer=Pindahan Dalaman
+OpeningBalance=Baki Awal
+PettyCash=Wang Tunai Runcit
+PettyCashAccount=Akaun Wang Tunai Runcit
+PettyCashBook=Buku Wang Tunai Runcit
+Reconcile=Selaraskan
+Reconciled=Telah Diselaraskan
+Reconciliation=Penyelarasan
+ReconciliationDate=Tarikh Penyelarasan
+Unreconciled=Belum Diselaraskan
+Withdrawal=Pengeluaran
