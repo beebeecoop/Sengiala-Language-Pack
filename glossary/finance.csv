@@ -1,16 +1,42 @@
 english,malay,context,status
+Account,Akaun,Accounting,approved
+Account Number,Nombor Akaun,Accounting,approved
+Account Type,Jenis Akaun,Accounting,approved
+Accounting Period,Tempoh Perakaunan,Accounting,approved
+Asset,Aset,Financial reporting,approved
+Balance,Baki,Accounting,approved
 Balance Sheet,Kunci Kira-Kira,Financial reporting,approved
 Appropriation,Pembahagian Keuntungan,Cooperative financial reporting,approved
 Appropriation Account,Akaun Pembahagian Keuntungan,Cooperative accounting,approved
+Bank Reconciliation,Penyesuaian Bank,Banking and accounting,approved
+Cash Flow Statement,Penyata Aliran Tunai,Financial reporting,approved
 Chart of Accounts,Carta Akaun,Accounting,approved
+Closing Balance,Baki Akhir,Accounting,approved
+Cost Centre,Pusat Kos,Management accounting,approved
+Credit,Kredit,Accounting,approved
+Debit,Debit,Accounting,approved
+Deficit,Kurangan,Cooperative reporting,approved
+Equity,Ekuiti,Financial reporting,approved
+Expense,Perbelanjaan,Accounting,approved
+Financial Year,Tahun Kewangan,Accounting,approved
+Fiscal Year,Tahun Kewangan,Accounting,approved
 General Ledger,Lejar Am,Accounting,approved
-Trial Balance,Imbangan Duga,Accounting,approved
+Income,Pendapatan,Accounting,approved
+Income Statement,Penyata Untung atau Rugi,Financial reporting,approved
 Journal,Jurnal,Accounting,approved
 Journal Entry,Catatan Jurnal,Accounting,approved
-Financial Year,Tahun Kewangan,Accounting,approved
+Ledger,Lejar,Accounting,approved
+Liability,Liabiliti,Financial reporting,approved
+Loss,Kerugian,Financial reporting,approved
 Opening Balance,Baki Awal,Accounting,approved
-Closing Balance,Baki Akhir,Accounting,approved
-Income Statement,Penyata Untung atau Rugi,Financial reporting,approved
-Cash Flow Statement,Penyata Aliran Tunai,Financial reporting,approved
+Posting,Pengeposan,Accounting process,approved
+Profit,Keuntungan,Financial reporting,approved
+Profit and Loss Statement,Penyata Untung atau Rugi,Financial reporting,approved
+Reconciliation,Penyesuaian,Accounting,approved
+Reserve Fund,Kumpulan Wang Rizab,Cooperative reporting,approved
+Revenue,Hasil,Accounting,approved
+Share Capital,Modal Syer,Cooperative accounting,approved
+Statutory Reserve,Rizab Berkanun,Cooperative reporting,approved
 Surplus,Lebihan,Cooperative reporting,approved
-Deficit,Kurangan,Cooperative reporting,approved
+Suspense Account,Akaun Tergantung,Accounting,approved
+Trial Balance,Imbangan Duga,Accounting,approved
