@@ -1,3 +1,65 @@
 # Dolibarr language file - Bahasa Melayu Malaysia
 # Module: Accountancy
-# Status: structure placeholder for v0.2.0
+# Release: v0.2.0 Finance Foundation
+# Maintainer: Sengiala Language Pack
+
+Accountancy=Perakaunan
+Accounting=Perakaunan
+AccountingArea=Ruang Perakaunan
+AccountingSystem=Sistem Perakaunan
+Account=Akaun
+Accounts=Akaun
+AccountNumber=Nombor Akaun
+AccountName=Nama Akaun
+AccountType=Jenis Akaun
+ChartOfAccounts=Carta Akaun
+GeneralLedger=Lejar Am
+Ledger=Lejar
+Journal=Jurnal
+Journals=Jurnal
+JournalEntry=Catatan Jurnal
+AccountingEntry=Catatan Perakaunan
+AccountingEntries=Catatan Perakaunan
+Debit=Debit
+Credit=Kredit
+DebitAmount=Amaun Debit
+CreditAmount=Amaun Kredit
+Balance=Baki
+OpeningBalance=Baki Awal
+ClosingBalance=Baki Akhir
+TrialBalance=Imbangan Duga
+BalanceSheet=Kunci Kira-Kira
+IncomeStatement=Penyata Untung atau Rugi
+ProfitAndLossStatement=Penyata Untung atau Rugi
+CashFlowStatement=Penyata Aliran Tunai
+FiscalYear=Tahun Kewangan
+FinancialYear=Tahun Kewangan
+AccountingPeriod=Tempoh Perakaunan
+PeriodStart=Tarikh Mula Tempoh
+PeriodEnd=Tarikh Akhir Tempoh
+Asset=Aset
+Assets=Aset
+Liability=Liabiliti
+Liabilities=Liabiliti
+Equity=Ekuiti
+Revenue=Hasil
+Income=Pendapatan
+Expense=Perbelanjaan
+Expenses=Perbelanjaan
+Profit=Keuntungan
+Loss=Kerugian
+Surplus=Lebihan
+Deficit=Kurangan
+Appropriation=Pembahagian Keuntungan
+AppropriationAccount=Akaun Pembahagian Keuntungan
+ReserveFund=Kumpulan Wang Rizab
+StatutoryReserve=Rizab Berkanun
+ShareCapital=Modal Syer
+ValidateAccountingEntry=Sahkan Catatan Perakaunan
+ValidatedAccountingEntry=Catatan Perakaunan Disahkan
+PostAccountingEntry=Pos Catatan Perakaunan
+PostedAccountingEntry=Catatan Perakaunan Telah Dipos
+AccountingExport=Eksport Perakaunan
+AccountingImport=Import Perakaunan
+AccountingReport=Laporan Perakaunan
+AccountingReports=Laporan Perakaunan
