@@ -91,6 +91,46 @@ Rekod keputusan terminologi untuk memastikan terjemahan Bahasa Melayu Malaysia k
 
 **Status:** Digunakan dalam `bills.lang`.
 
+### FIN-0011 — Bank Entry → Catatan Bank
+
+**Konteks:** satu rekod pergerakan debit atau kredit dalam akaun bank.
+
+**Keputusan:** gunakan `Catatan Bank`, bukan `Transaksi Bank`, apabila label sumber merujuk kepada `Bank entry`. `Transaksi Bank` kekal sebagai konsep umum apabila sumber benar-benar menggunakan perkataan `transaction`.
+
+**Status:** Digunakan dalam `banks.lang`.
+
+### FIN-0012 — Credit Transfer → Pindahan Kredit
+
+**Konteks:** pindahan wang melalui saluran perbankan kepada akaun penerima.
+
+**Keputusan:** gunakan `Pindahan Kredit` bagi `Credit Transfer`. `Pindahan Bank` hanya digunakan apabila sumber merujuk secara umum kepada `Bank Transfer` dan konteks tidak memerlukan klasifikasi kaedah pembayaran khusus.
+
+**Status:** Digunakan dalam `banks.lang`.
+
+### FIN-0013 — Internal Transfer → Pindahan Dalaman
+
+**Konteks:** pindahan antara dua akaun kewangan milik entiti yang sama.
+
+**Keputusan:** gunakan `Pindahan Dalaman` secara konsisten dalam `banks.lang`, `cash.lang` dan modul SengialaSuite.
+
+**Status:** Digunakan.
+
+### FIN-0014 — Direct Debit Order → Arahan Debit Terus
+
+**Konteks:** arahan berulang atau mandat untuk mendebit akaun bank pembayar.
+
+**Keputusan:** gunakan `Arahan Debit Terus`. `Bayaran Debit Terus` digunakan hanya untuk transaksi bayaran yang telah berlaku, bukan untuk arahan atau mandat.
+
+**Status:** Digunakan dalam `banks.lang`.
+
+### FIN-0015 — Cash Compatibility Layer
+
+**Konteks:** `cash.lang` tidak wujud sebagai fail bahasa asli dalam baseline Dolibarr 23.0.3 tetapi digunakan oleh SengialaSuite untuk istilah pengurusan tunai.
+
+**Keputusan:** kekalkan `cash.lang` sebagai lapisan keserasian SengialaSuite. Ia tidak boleh dinyatakan sebagai fail upstream Dolibarr dan istilah yang bertindih dengan `banks.lang` mesti kekal seragam.
+
+**Status:** Digunakan dalam M2-02.
+
 ## Status Kitar Hayat Terminologi
 
 | Status | Maksud |
