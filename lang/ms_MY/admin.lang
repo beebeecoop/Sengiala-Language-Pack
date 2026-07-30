@@ -1,0 +1,46 @@
+# Dolibarr Bahasa Melayu Malaysia - Admin
+# Foundation Draft - Sprint 01
+# Encoding: UTF-8
+
+Admin=Pentadbiran
+Setup=Persediaan
+Configuration=Konfigurasi
+System=Sistem
+SystemTools=Alat Sistem
+Users=Pengguna
+User=Pengguna
+Groups=Kumpulan
+Group=Kumpulan
+Permissions=Kebenaran
+Permission=Kebenaran
+Module=Modul
+Modules=Modul
+ModuleSetup=Persediaan Modul
+Company=Syarikat
+Organization=Organisasi
+Security=Keselamatan
+Password=Kata Laluan
+ChangePassword=Tukar Kata Laluan
+Login=Log Masuk
+Logout=Log Keluar
+Session=Sesi
+Audit=Audit
+Logs=Log
+Backup=Sandaran
+Restore=Pulihkan
+EmailSetup=Persediaan E-mel
+Dictionary=Kamus
+Dictionaries=Kamus
+Translation=Terjemahan
+Translations=Terjemahan
+Language=Bahasa
+Languages=Bahasa
+DefaultLanguage=Bahasa Lalai
+Theme=Tema
+MenuManager=Pengurus Menu
+Feature=Fungsi
+Features=Fungsi
+EnabledModules=Modul Diaktifkan
+DisabledModules=Modul Dinyahaktifkan
+Activate=Aktifkan
+Deactivate=Nyahaktifkan
