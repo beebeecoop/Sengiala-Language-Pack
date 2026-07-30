@@ -1,0 +1,72 @@
+# Dolibarr Bahasa Melayu Malaysia - Categories
+# Encoding: UTF-8
+
+Category=Kategori
+Categories=Kategori
+CategoryCard=Kad Kategori
+CategoryList=Senarai Kategori
+CategoryRef=Rujukan Kategori
+CategoryLabel=Label Kategori
+CategoryDescription=Keterangan Kategori
+CategoryType=Jenis Kategori
+CategoryStatus=Status Kategori
+
+NewCategory=Kategori Baharu
+CreateCategory=Cipta Kategori
+AddCategory=Tambah Kategori
+EditCategory=Sunting Kategori
+ModifyCategory=Ubah Kategori
+DeleteCategory=Hapus Kategori
+ValidateCategory=Sahkan Kategori
+CloseCategory=Tutup Kategori
+ReopenCategory=Buka Semula Kategori
+
+ParentCategory=Kategori Induk
+ChildCategory=Kategori Anak
+SubCategory=Subkategori
+SubCategories=Subkategori
+RootCategory=Kategori Akar
+
+ProductCategory=Kategori Produk
+ProductCategories=Kategori Produk
+ServiceCategory=Kategori Perkhidmatan
+ServiceCategories=Kategori Perkhidmatan
+CustomerCategory=Kategori Pelanggan
+CustomerCategories=Kategori Pelanggan
+SupplierCategory=Kategori Pembekal
+SupplierCategories=Kategori Pembekal
+MemberCategory=Kategori Anggota
+MemberCategories=Kategori Anggota
+ProjectCategory=Kategori Projek
+ProjectCategories=Kategori Projek
+
+CategoryCreated=Kategori Telah Dicipta
+CategoryModified=Kategori Telah Diubah
+CategoryValidated=Kategori Telah Disahkan
+CategoryDeleted=Kategori Telah Dihapuskan
+CategoryClosed=Kategori Telah Ditutup
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+Customer=Pelanggan
+Customers=Pelanggan
+Supplier=Pembekal
+Suppliers=Pembekal
+Member=Anggota
+Members=Anggota
+Project=Projek
+Projects=Projek
+ThirdParty=Pihak Ketiga
+ThirdParties=Pihak Ketiga
+
+AddToCategory=Tambah ke Kategori
+RemoveFromCategory=Buang daripada Kategori
+AssignCategory=Tetapkan Kategori
+UnassignCategory=Nyah Tetap Kategori
+LinkedCategories=Kategori Berkaitan
+NoCategory=Tiada Kategori
+NoCategoryFound=Tiada Kategori Dijumpai
+SearchCategory=Cari Kategori
+SelectCategory=Pilih Kategori
