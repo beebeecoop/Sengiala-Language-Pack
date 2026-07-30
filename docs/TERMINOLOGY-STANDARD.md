@@ -26,6 +26,11 @@ The goal is to keep translation consistent across Dolibarr modules while preserv
 | --- | --- | --- |
 | Accounting | Perakaunan | General accounting context. |
 | Account | Akaun | General account context. |
+| Accountancy | Perakaunan | Use where Dolibarr refers to the accounting discipline/module. |
+| Bookkeeping | Simpan Kira | Use for bookkeeping function/context. |
+| Double Entry Bookkeeping | Catatan Bergu | Use for double-entry accounting method. |
+| Account Entry | Catatan Akaun | Use only if upstream key clearly refers to an account entry rather than a journal entry. |
+| Accounting Entry | Catatan Perakaunan | Use for formal accounting entry. |
 | Chart of Accounts | Carta Akaun | Use for accounting account structure. |
 | Asset | Aset | Do not leave as English `Asset`. |
 | Liability | Liabiliti | Formal accounting term. |
@@ -42,6 +47,8 @@ The goal is to keep translation consistent across Dolibarr modules while preserv
 | Reconcile | Selaraskan | Action verb. |
 | Reconciled | Telah Diselaraskan | Completed status. |
 | Unreconciled | Belum Diselaraskan | Pending status. |
+| Carried Forward Balance | Baki Bawa Hadapan | Use for balance carried forward into the next period. |
+| Brought Forward Balance | Baki Bawa Bawah | Use for balance brought forward from the previous period. |
 | General Ledger | Lejar Am | Formal accounting report. |
 | Trial Balance | Imbangan Duga | Formal accounting report. |
 | Cash Flow Statement | Penyata Aliran Tunai | Formal financial statement. |
@@ -93,7 +100,9 @@ The goal is to keep translation consistent across Dolibarr modules while preserv
 7. Use `Income=Pendapatan` and `Revenue=Hasil`; do not translate both as `Hasil`.
 8. Use `Reconciliation=Penyelarasan`, `Reconcile=Selaraskan`, `Reconciled=Telah Diselaraskan`, and `Unreconciled=Belum Diselaraskan` consistently.
 9. Use `PostEntry=Hantar Catatan` for user-facing action labels, while retaining `Posting=Pengeposan` where the technical accounting concept is required.
-10. Use Dolibarr `.lang` format exactly as `Key=Value` with no spaces around `=`.
+10. Use `DoubleEntryBookkeeping=Catatan Bergu`, not `Simpan Kira Bergu`.
+11. Use `CarriedForwardBalance=Baki Bawa Hadapan` and `BroughtForwardBalance=Baki Bawa Bawah` consistently.
+12. Use Dolibarr `.lang` format exactly as `Key=Value` with no spaces around `=`.
 
 ## Review Status
 
