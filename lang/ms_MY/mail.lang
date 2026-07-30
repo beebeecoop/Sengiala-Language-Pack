@@ -1,0 +1,99 @@
+# Dolibarr Bahasa Melayu Malaysia - Mail / Email
+# Encoding: UTF-8
+
+Mail=Mel
+Email=E-mel
+Emails=E-mel
+EmailAddress=Alamat E-mel
+EmailAddresses=Alamat E-mel
+Mailing=Penghantaran Mel
+MailingList=Senarai Mel
+MailTemplate=Templat E-mel
+MailTemplates=Templat E-mel
+
+NewEmail=E-mel Baharu
+CreateEmail=Cipta E-mel
+WriteEmail=Tulis E-mel
+SendEmail=Hantar E-mel
+EditEmail=Sunting E-mel
+DeleteEmail=Hapus E-mel
+EmailDeleted=E-mel Telah Dihapuskan
+
+Sender=Pengirim
+Recipient=Penerima
+Recipients=Penerima
+To=Kepada
+Cc=Sk
+Bcc=Skt
+From=Daripada
+ReplyTo=Balas Kepada
+Subject=Subjek
+Message=Mesej
+Body=Kandungan
+Attachment=Lampiran
+Attachments=Lampiran
+
+Send=Hantar
+Sent=Dihantar
+NotSent=Belum Dihantar
+Draft=Draf
+Drafts=Draf
+Inbox=Peti Masuk
+Outbox=Peti Keluar
+SentBox=Peti Dihantar
+Trash=Sampah
+Spam=Spam
+
+EmailSent=E-mel Telah Dihantar
+EmailNotSent=E-mel Belum Dihantar
+EmailFailed=E-mel Gagal Dihantar
+EmailQueued=E-mel Dalam Giliran
+EmailRead=E-mel Telah Dibaca
+EmailUnread=E-mel Belum Dibaca
+
+SendMail=Hantar Mel
+SendMailTo=Hantar Mel Kepada
+SendEmailTo=Hantar E-mel Kepada
+SendByEmail=Hantar melalui E-mel
+SendByMail=Hantar melalui Mel
+
+MailSentSuccessfully=Mel Berjaya Dihantar
+EmailSentSuccessfully=E-mel Berjaya Dihantar
+ErrorSendingMail=Ralat Semasa Menghantar Mel
+ErrorSendingEmail=Ralat Semasa Menghantar E-mel
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Contact=Kenalan
+Contacts=Kenalan
+User=Pengguna
+Users=Pengguna
+
+Invoice=Invois
+Order=Pesanan
+Proposal=Sebut Harga
+Contract=Kontrak
+Project=Projek
+
+EmailInvoice=E-mel Invois
+EmailOrder=E-mel Pesanan
+EmailProposal=E-mel Sebut Harga
+EmailContract=E-mel Kontrak
+EmailProject=E-mel Projek
+
+AttachFile=Lampirkan Fail
+AttachedFile=Fail Dilampirkan
+AttachedFiles=Fail Dilampirkan
+NoAttachment=Tiada Lampiran
+RemoveAttachment=Buang Lampiran
+
+Signature=Tandatangan
+EmailSignature=Tandatangan E-mel
+DefaultEmailTemplate=Templat E-mel Lalai
+SelectEmailTemplate=Pilih Templat E-mel
+
+NoEmail=Tiada E-mel
+NoEmailFound=Tiada E-mel Dijumpai
+SearchEmail=Cari E-mel
+SelectEmail=Pilih E-mel
