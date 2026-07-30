@@ -1,3 +1,69 @@
-# Dolibarr language file - Bahasa Melayu Malaysia
-# Module: Companies
-# Status: structure placeholder for v0.2.0
+# Dolibarr Bahasa Melayu Malaysia - Companies / Third Parties
+# Encoding: UTF-8
+
+ThirdParty=Pihak Ketiga
+ThirdParties=Pihak Ketiga
+Company=Syarikat
+Companies=Syarikat
+Organization=Organisasi
+Organizations=Organisasi
+
+Customer=Pelanggan
+Customers=Pelanggan
+Supplier=Pembekal
+Suppliers=Pembekal
+Vendor=Pembekal
+Vendors=Pembekal
+Prospect=Prospek
+Prospects=Prospek
+
+Contact=Kenalan
+Contacts=Kenalan
+NewContact=Kenalan Baharu
+AddContact=Tambah Kenalan
+EditContact=Sunting Kenalan
+DeleteContact=Padam Kenalan
+ContactCard=Kad Kenalan
+ContactList=Senarai Kenalan
+
+NewThirdParty=Pihak Ketiga Baharu
+AddThirdParty=Tambah Pihak Ketiga
+EditThirdParty=Sunting Pihak Ketiga
+DeleteThirdParty=Padam Pihak Ketiga
+ThirdPartyCard=Kad Pihak Ketiga
+ThirdPartyList=Senarai Pihak Ketiga
+
+CompanyName=Nama Syarikat
+CommercialName=Nama Komersial
+AliasName=Nama Alias
+LegalForm=Bentuk Undang-undang
+BusinessRegistrationNo=Nombor Pendaftaran Perniagaan
+RegistrationNumber=Nombor Pendaftaran
+TaxID=ID Cukai
+VATNumber=Nombor SST/VAT
+
+Address=Alamat
+Street=Jalan
+Town=Bandar
+PostCode=Poskod
+State=Negeri
+Country=Negara
+Phone=Telefon
+Fax=Faks
+Email=E-mel
+Website=Laman Web
+
+CustomerCode=Kod Pelanggan
+SupplierCode=Kod Pembekal
+AccountingCustomerCode=Kod Perakaunan Pelanggan
+AccountingSupplierCode=Kod Perakaunan Pembekal
+
+CommercialStatus=Status Komersial
+CustomerStatus=Status Pelanggan
+SupplierStatus=Status Pembekal
+ProspectStatus=Status Prospek
+PotentialCustomer=Bakal Pelanggan
+ActiveCustomer=Pelanggan Aktif
+InactiveCustomer=Pelanggan Tidak Aktif
+ActiveSupplier=Pembekal Aktif
+InactiveSupplier=Pembekal Tidak Aktif
