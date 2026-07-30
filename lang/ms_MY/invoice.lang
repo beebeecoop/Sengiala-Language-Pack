@@ -1,3 +1,108 @@
-# Bahasa Melayu Malaysia
-# Dolibarr module scaffold: Invoice
-# Translation content will be added in a later pull request.
+# Dolibarr Bahasa Melayu Malaysia - Invoice
+# Encoding: UTF-8
+
+Invoice=Invois
+Invoices=Invois
+InvoiceCard=Kad Invois
+InvoiceList=Senarai Invois
+InvoiceRef=Rujukan Invois
+InvoiceNumber=Nombor Invois
+InvoiceDate=Tarikh Invois
+InvoiceType=Jenis Invois
+InvoiceStatus=Status Invois
+
+NewInvoice=Invois Baharu
+CreateInvoice=Cipta Invois
+AddInvoice=Tambah Invois
+EditInvoice=Sunting Invois
+ModifyInvoice=Ubah Invois
+DeleteInvoice=Padam Invois
+ValidateInvoice=Sahkan Invois
+CancelInvoice=Batalkan Invois
+CloseInvoice=Tutup Invois
+ReopenInvoice=Buka Semula Invois
+CloneInvoice=Salin Invois
+
+CustomerInvoice=Invois Pelanggan
+CustomerInvoices=Invois Pelanggan
+SupplierInvoice=Invois Pembekal
+SupplierInvoices=Invois Pembekal
+StandardInvoice=Invois Biasa
+DepositInvoice=Invois Deposit
+ReplacementInvoice=Invois Gantian
+CreditNote=Nota Kredit
+CreditNotes=Nota Kredit
+DebitNote=Nota Debit
+DebitNotes=Nota Debit
+
+DraftInvoice=Invois Draf
+ValidatedInvoice=Invois Disahkan
+PaidInvoice=Invois Dibayar
+UnpaidInvoice=Invois Belum Dibayar
+PartiallyPaidInvoice=Invois Dibayar Sebahagian
+OverdueInvoice=Invois Tertunggak
+CanceledInvoice=Invois Dibatalkan
+ClosedInvoice=Invois Ditutup
+
+InvoiceCreated=Invois Telah Dicipta
+InvoiceModified=Invois Telah Diubah
+InvoiceValidated=Invois Telah Disahkan
+InvoiceCanceled=Invois Telah Dibatalkan
+InvoiceDeleted=Invois Telah Dipadam
+InvoiceClosed=Invois Telah Ditutup
+
+InvoiceAmount=Jumlah Invois
+InvoiceTotal=Jumlah Keseluruhan Invois
+AmountPaid=Jumlah Dibayar
+AmountRemaining=Baki Belum Dibayar
+RemainderToPay=Baki Perlu Dibayar
+TotalToPay=Jumlah Perlu Dibayar
+AlreadyPaid=Telah Dibayar
+
+Subtotal=Subjumlah
+TotalHT=Jumlah Tidak Termasuk Cukai
+TotalVAT=Jumlah Cukai
+TotalTTC=Jumlah Termasuk Cukai
+TotalTax=Jumlah Cukai
+UnitPrice=Harga Unit
+Quantity=Kuantiti
+Discount=Diskaun
+DiscountAmount=Jumlah Diskaun
+LineTotal=Jumlah Baris
+
+Payment=Bayaran
+Payments=Bayaran
+PaymentDate=Tarikh Bayaran
+PaymentMode=Kaedah Bayaran
+PaymentTerms=Terma Bayaran
+PaymentCondition=Syarat Bayaran
+DueDate=Tarikh Matang
+PaymentDueDate=Tarikh Matang Bayaran
+LatePayment=Bayaran Lewat
+LatePaymentPenalty=Penalti Bayaran Lewat
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+BillingAddress=Alamat Pengebilan
+ShippingAddress=Alamat Penghantaran
+DeliveryAddress=Alamat Serahan
+
+SendInvoice=Hantar Invois
+PrintInvoice=Cetak Invois
+DownloadInvoice=Muat Turun Invois
+ExportInvoice=Eksport Invois
+ImportInvoice=Import Invois
+EmailInvoice=E-mel Invois
+GenerateInvoice=Jana Invois
+
+InvoiceTemplate=Templat Invois
+InvoiceModel=Model Invois
+InvoicePDF=PDF Invois
+InvoiceDocument=Dokumen Invois
+InvoiceDocuments=Dokumen Invois
+
+NoInvoice=Tiada Invois
+NoInvoiceFound=Tiada Invois Dijumpai
+SelectInvoice=Pilih Invois
+SearchInvoice=Cari Invois
