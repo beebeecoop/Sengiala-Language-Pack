@@ -11,6 +11,7 @@ Balance,Baki,Accounting,Diluluskan
 Balance Sheet,Kunci Kira-Kira,Financial reporting,Diluluskan
 Bank Account,Akaun Bank,Banking,Diluluskan
 Bank Charges,Caj Bank,Banking,Diluluskan
+Bank Entry,Catatan Bank,Banking,Diluluskan
 Bank Reconciliation,Penyelarasan Bank,Banking and accounting,Diluluskan
 Bank Statement,Penyata Bank,Banking,Diluluskan
 Bank Transfer,Pindahan Bank,Payment method,Diluluskan
@@ -31,12 +32,14 @@ Closing Balance,Baki Akhir,Accounting,Diluluskan
 Cost Centre,Pusat Kos,Management accounting,Diluluskan
 Credit,Kredit,Accounting,Diluluskan
 Credit Card,Kad Kredit,Payment method,Diluluskan
+Credit Transfer,Pindahan Kredit,Banking and payment method,Diluluskan
 Debit,Debit,Accounting,Diluluskan
 Debit Card,Kad Debit,Payment method,Diluluskan
 Default Payment Method,Kaedah Bayaran Lalai,Payment configuration,Diluluskan
 Deficit,Kurangan,Cooperative reporting,Diluluskan
 Deposit,Deposit,Banking and cash management,Diluluskan
 Direct Debit,Debit Terus,Payment method,Diluluskan
+Direct Debit Order,Arahan Debit Terus,Banking mandate,Diluluskan
 Equity,Ekuiti,Financial reporting,Diluluskan
 Excess Paid,Lebihan Dibayar,Payment processing,Diluluskan
 Excess Received,Lebihan Diterima,Payment processing,Diluluskan
