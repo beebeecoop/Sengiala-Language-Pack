@@ -43,10 +43,12 @@ The goal is to keep translation consistent across Dolibarr modules while preserv
 | Credit | Kredit | Preserve accounting term. |
 | Posting | Pengeposan | Use for technical accounting posting concept. |
 | Post Entry | Hantar Catatan | Use for user-facing action label. |
-| Reconciliation | Penyelarasan | Standard user-facing term across accounts and bank modules. |
-| Reconcile | Selaraskan | Action verb. |
-| Reconciled | Telah Diselaraskan | Completed status. |
-| Unreconciled | Belum Diselaraskan | Pending status. |
+| Reconciliation | Penyesuaian | Standard accounting and bank reconciliation term. |
+| Bank Reconciliation | Penyesuaian Bank | Use for matching bank records with accounting records. |
+| Reconcile | Sesuaikan | Action verb for reconciliation. |
+| Reconciled | Telah Disesuaikan | Completed reconciliation status. |
+| Unreconciled | Belum Disesuaikan | Pending reconciliation status. |
+| Adjustment | Pelarasan | Use for accounting adjustment, not reconciliation. |
 | Carried Forward Balance | Baki Bawa Hadapan | Use for balance carried forward into the next period. |
 | Brought Forward Balance | Baki Bawa Bawah | Use for balance brought forward from the previous period. |
 | General Ledger | Lejar Am | Formal accounting report. |
@@ -98,11 +100,12 @@ The goal is to keep translation consistent across Dolibarr modules while preserv
 5. Use `Modal Syer` for share capital and `Syer Bonus` for bonus shares.
 6. Use `Pembahagian Keuntungan` for appropriation in cooperative financial reporting context.
 7. Use `Income=Pendapatan` and `Revenue=Hasil`; do not translate both as `Hasil`.
-8. Use `Reconciliation=Penyelarasan`, `Reconcile=Selaraskan`, `Reconciled=Telah Diselaraskan`, and `Unreconciled=Belum Diselaraskan` consistently.
-9. Use `PostEntry=Hantar Catatan` for user-facing action labels, while retaining `Posting=Pengeposan` where the technical accounting concept is required.
-10. Use `DoubleEntryBookkeeping=Catatan Bergu`, not `Simpan Kira Bergu`.
-11. Use `CarriedForwardBalance=Baki Bawa Hadapan` and `BroughtForwardBalance=Baki Bawa Bawah` consistently.
-12. Use Dolibarr `.lang` format exactly as `Key=Value` with no spaces around `=`.
+8. Use `Reconciliation=Penyesuaian`, `BankReconciliation=Penyesuaian Bank`, `Reconcile=Sesuaikan`, `Reconciled=Telah Disesuaikan`, and `Unreconciled=Belum Disesuaikan` consistently.
+9. Use `Adjustment=Pelarasan`; do not use `Penyelarasan` for reconciliation because it is closer to adjustment/alignment.
+10. Use `PostEntry=Hantar Catatan` for user-facing action labels, while retaining `Posting=Pengeposan` where the technical accounting concept is required.
+11. Use `DoubleEntryBookkeeping=Catatan Bergu`, not `Simpan Kira Bergu`.
+12. Use `CarriedForwardBalance=Baki Bawa Hadapan` and `BroughtForwardBalance=Baki Bawa Bawah` consistently.
+13. Use Dolibarr `.lang` format exactly as `Key=Value` with no spaces around `=`.
 
 ## Review Status
 
