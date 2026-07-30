@@ -1,0 +1,127 @@
+# Dolibarr Bahasa Melayu Malaysia - Commercial Workflow
+# Encoding: UTF-8
+
+Commercial=Komersial
+CommercialArea=Ruang Komersial
+CommercialManagement=Pengurusan Komersial
+CommercialWorkflow=Aliran Kerja Komersial
+CommercialStatus=Status Komersial
+
+Customer=Pelanggan
+Customers=Pelanggan
+Prospect=Prospek
+Prospects=Prospek
+Supplier=Pembekal
+Suppliers=Pembekal
+ThirdParty=Pihak Ketiga
+ThirdParties=Pihak Ketiga
+Contact=Kenalan
+Contacts=Kenalan
+
+Opportunity=Peluang
+Opportunities=Peluang
+Lead=Petunjuk
+Leads=Petunjuk
+SalesLead=Petunjuk Jualan
+SalesLeads=Petunjuk Jualan
+Pipeline=Saluran Jualan
+SalesPipeline=Saluran Jualan
+CommercialPipeline=Saluran Komersial
+
+NewOpportunity=Peluang Baharu
+CreateOpportunity=Cipta Peluang
+AddOpportunity=Tambah Peluang
+EditOpportunity=Sunting Peluang
+ModifyOpportunity=Ubah Peluang
+DeleteOpportunity=Hapus Peluang
+CloseOpportunity=Tutup Peluang
+ReopenOpportunity=Buka Semula Peluang
+
+OpportunityCreated=Peluang Telah Dicipta
+OpportunityModified=Peluang Telah Diubah
+OpportunityClosed=Peluang Telah Ditutup
+OpportunityDeleted=Peluang Telah Dihapuskan
+
+Prospection=Prospek Jualan
+Prospecting=Aktiviti Prospek
+ProspectionStatus=Status Prospek Jualan
+ProspectionDate=Tarikh Prospek Jualan
+ProspectionResult=Keputusan Prospek Jualan
+
+Proposal=Sebut Harga
+Proposals=Sebut Harga
+Quotation=Sebut Harga
+Quotations=Sebut Harga
+Order=Pesanan
+Orders=Pesanan
+Invoice=Invois
+Invoices=Invois
+Contract=Kontrak
+Contracts=Kontrak
+Project=Projek
+Projects=Projek
+
+CreateProposal=Cipta Sebut Harga
+CreateOrder=Cipta Pesanan
+CreateInvoice=Cipta Invois
+CreateContract=Cipta Kontrak
+CreateProject=Cipta Projek
+
+CreateProposalFromOpportunity=Cipta Sebut Harga Daripada Peluang
+CreateOrderFromProposal=Cipta Pesanan Daripada Sebut Harga
+CreateInvoiceFromOrder=Cipta Invois Daripada Pesanan
+CreateInvoiceFromContract=Cipta Invois Daripada Kontrak
+
+Sales=Jualan
+Sale=Jualan
+Purchase=Belian
+Purchases=Belian
+SellingPrice=Harga Jualan
+SalesPrice=Harga Jualan
+PurchasePrice=Harga Belian
+CostPrice=Harga Kos
+
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Discount=Diskaun
+DiscountAmount=Jumlah Diskaun
+Margin=Margin
+Profit=Keuntungan
+Loss=Kerugian
+Revenue=Hasil
+Income=Pendapatan
+
+Payment=Bayaran
+Payments=Bayaran
+PaymentTerms=Terma Bayaran
+PaymentMode=Kaedah Bayaran
+DueDate=Tarikh Matang
+Delivery=Serahan
+Shipment=Penghantaran
+Shipping=Penghantaran
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+Quantity=Kuantiti
+Unit=Unit
+UnitPrice=Harga Unit
+
+Draft=Draf
+Validated=Disahkan
+Accepted=Diterima
+Refused=Ditolak
+Canceled=Dibatalkan
+Closed=Ditutup
+InProgress=Dalam Proses
+Completed=Selesai
+
+NoOpportunity=Tiada Peluang
+NoOpportunityFound=Tiada Peluang Dijumpai
+SearchOpportunity=Cari Peluang
+SelectOpportunity=Pilih Peluang
+
+NoCommercialRecord=Tiada Rekod Komersial
+NoCommercialRecordFound=Tiada Rekod Komersial Dijumpai
+SearchCommercialRecord=Cari Rekod Komersial
