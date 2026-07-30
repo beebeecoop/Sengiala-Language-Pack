@@ -5,7 +5,7 @@ Rekod keputusan terminologi untuk memastikan terjemahan Bahasa Melayu Malaysia k
 ## Status
 
 - Versi: v0.2.0 Finance Foundation
-- Skop semasa: `accountancy.lang`, `accounting.lang`, `banks.lang`, `cash.lang` dan glosari kewangan
+- Skop semasa: `accountancy.lang`, `accounting.lang`, `banks.lang`, `cash.lang`, `bills.lang` dan glosari kewangan
 
 ## Keputusan Normatif
 
@@ -59,6 +59,38 @@ Rekod keputusan terminologi untuk memastikan terjemahan Bahasa Melayu Malaysia k
 
 **Status:** Digunakan.
 
+### FIN-0007 — Payment Method → Kaedah Bayaran
+
+**Konteks:** cara sesuatu bayaran dibuat atau diterima.
+
+**Keputusan:** gunakan `Kaedah Bayaran`, bukan `Mod Bayaran` atau `Jenis Pembayaran`.
+
+**Status:** Digunakan dalam `bills.lang`.
+
+### FIN-0008 — Payment Term → Terma Bayaran
+
+**Konteks:** syarat masa dan jadual penyelesaian invois atau bil.
+
+**Keputusan:** gunakan `Terma Bayaran`. `Payment Conditions` turut dipaparkan sebagai `Terma Bayaran` apabila kedua-duanya merujuk kepada konsep UI yang sama.
+
+**Status:** Digunakan dalam `bills.lang`.
+
+### FIN-0009 — Supplier Invoice → Bil Pembekal
+
+**Konteks:** dokumen tuntutan bayaran yang diterima daripada pembekal.
+
+**Keputusan:** gunakan `Bil Pembekal`, bukan `Invois Pembekal`, bagi membezakan dokumen diterima daripada `Invois Pelanggan` yang dikeluarkan oleh organisasi.
+
+**Status:** Digunakan dalam `bills.lang`.
+
+### FIN-0010 — Refund → Bayaran Balik
+
+**Konteks:** pemulangan amaun yang telah dibayar atau diterima.
+
+**Keputusan:** gunakan `Bayaran Balik` sebagai istilah rasmi. Kata `Pulangan` tidak digunakan untuk transaksi pembayaran balik.
+
+**Status:** Digunakan dalam `bills.lang`.
+
 ## Status Kitar Hayat Terminologi
 
 | Status | Maksud |
@@ -78,3 +110,4 @@ Rekod keputusan terminologi untuk memastikan terjemahan Bahasa Melayu Malaysia k
 5. Keputusan baharu hendaklah direkodkan bersama konteks, rasional dan modul terlibat.
 6. Kata Nama Rasmi sistem menggunakan Huruf Besar pada setiap perkataan, seperti `Lejar Am`, `Buku Tunai` dan `Akaun Bank`.
 7. Pernyataan dan ayat menggunakan struktur ayat Bahasa Melayu biasa, manakala Kata Nama Rasmi mengekalkan konvensyen tersebut.
+8. Nama fail modul mesti sepadan dengan fail bahasa sebenar dalam baseline Dolibarr yang disokong.
