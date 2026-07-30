@@ -1,7 +1,6 @@
-# Dolibarr language file - Bahasa Melayu Malaysia
-# Module: Accounting
-# Release: v0.2.0 Finance Foundation
-# Maintainer: Sengiala Language Pack
+# Dolibarr Bahasa Melayu Malaysia - Accounting
+# Foundation Draft - Sprint 01
+# Encoding: UTF-8
 
 Accounting=Perakaunan
 AccountingSetup=Persediaan Perakaunan
@@ -60,3 +59,18 @@ AccountingEntryUnbalanced=Catatan Perakaunan Tidak Seimbang
 TotalDebit=Jumlah Debit
 TotalCredit=Jumlah Kredit
 DebitCreditDifference=Perbezaan Debit dan Kredit
+BalanceSheet=Kunci Kira-Kira
+ProfitAndLoss=Penyata Untung Rugi
+IncomeStatement=Penyata Pendapatan
+CashFlowStatement=Penyata Aliran Tunai
+Appropriation=Pembahagian Keuntungan
+ProfitAppropriation=Pembahagian Keuntungan
+AppropriationAccount=Akaun Pembahagian Keuntungan
+UndistributedProfit=Keuntungan Belum Dibahagikan
+NetProfit=Keuntungan Bersih
+NetProfitAfterAdjustment=Keuntungan Bersih Selepas Pelarasan
+StatutoryReserve=Rizab Berkanun
+Dividend=Dividen
+PatronageBonus=Bonus Langganan
+BonusShare=Syer Bonus
+ShareCapital=Modal Syer
