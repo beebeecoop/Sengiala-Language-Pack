@@ -1,3 +1,120 @@
-# Bahasa Melayu Malaysia
-# Dolibarr module scaffold: Products
-# Translation content will be added in a later pull request.
+# Dolibarr Bahasa Melayu Malaysia - Products / Services / Stock
+# Encoding: UTF-8
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+ProductService=Produk / Perkhidmatan
+ProductsServices=Produk / Perkhidmatan
+
+NewProduct=Produk Baharu
+CreateProduct=Cipta Produk
+AddProduct=Tambah Produk
+EditProduct=Sunting Produk
+ModifyProduct=Ubah Produk
+DeleteProduct=Padam Produk
+CloneProduct=Salin Produk
+
+NewService=Perkhidmatan Baharu
+CreateService=Cipta Perkhidmatan
+AddService=Tambah Perkhidmatan
+EditService=Sunting Perkhidmatan
+ModifyService=Ubah Perkhidmatan
+DeleteService=Padam Perkhidmatan
+CloneService=Salin Perkhidmatan
+
+ProductCard=Kad Produk
+ProductList=Senarai Produk
+ServiceCard=Kad Perkhidmatan
+ServiceList=Senarai Perkhidmatan
+
+ProductRef=Rujukan Produk
+ProductReference=Rujukan Produk
+ProductLabel=Label Produk
+ProductDescription=Keterangan Produk
+ProductType=Jenis Produk
+ProductStatus=Status Produk
+ProductCategory=Kategori Produk
+
+ServiceRef=Rujukan Perkhidmatan
+ServiceReference=Rujukan Perkhidmatan
+ServiceLabel=Label Perkhidmatan
+ServiceDescription=Keterangan Perkhidmatan
+ServiceType=Jenis Perkhidmatan
+ServiceStatus=Status Perkhidmatan
+ServiceCategory=Kategori Perkhidmatan
+
+SellingPrice=Harga Jualan
+SalesPrice=Harga Jualan
+CostPrice=Harga Kos
+PurchasePrice=Harga Belian
+UnitPrice=Harga Unit
+PriceLevel=Tahap Harga
+PriceBaseType=Jenis Asas Harga
+PriceMin=Harga Minimum
+PriceMax=Harga Maksimum
+Discount=Diskaun
+TaxRate=Kadar Cukai
+
+Stock=Stok
+Stocks=Stok
+StockMovement=Pergerakan Stok
+StockMovements=Pergerakan Stok
+StockLevel=Paras Stok
+StockValue=Nilai Stok
+StockAlert=Amaran Stok
+StockTooLow=Stok Terlalu Rendah
+StockTooHigh=Stok Terlalu Tinggi
+InStock=Dalam Stok
+OutOfStock=Kehabisan Stok
+PhysicalStock=Stok Fizikal
+TheoreticalStock=Stok Teori
+
+Warehouse=Stor
+Warehouses=Stor
+WarehouseCard=Kad Stor
+WarehouseList=Senarai Stor
+NewWarehouse=Stor Baharu
+AddWarehouse=Tambah Stor
+EditWarehouse=Sunting Stor
+DeleteWarehouse=Padam Stor
+DefaultWarehouse=Stor Lalai
+
+Barcode=Kod Bar
+BarcodeType=Jenis Kod Bar
+Lot=Lot
+Batch=Kelompok
+SerialNumber=Nombor Siri
+ExpiryDate=Tarikh Luput
+BestBeforeDate=Tarikh Baik Sebelum
+
+Unit=Unit
+Units=Unit
+Weight=Berat
+Length=Panjang
+Width=Lebar
+Height=Tinggi
+Volume=Isipadu
+Surface=Keluasan
+
+Sell=Jual
+Buy=Beli
+CanBeSold=Boleh Dijual
+CanBePurchased=Boleh Dibeli
+NotForSale=Bukan Untuk Dijual
+NotForPurchase=Bukan Untuk Dibeli
+
+SupplierProduct=Produk Pembekal
+SupplierProducts=Produk Pembekal
+CustomerProduct=Produk Pelanggan
+CustomerProducts=Produk Pelanggan
+
+NoProduct=Tiada Produk
+NoService=Tiada Perkhidmatan
+NoProductFound=Tiada Produk Dijumpai
+NoServiceFound=Tiada Perkhidmatan Dijumpai
+SearchProduct=Cari Produk
+SearchService=Cari Perkhidmatan
+SelectProduct=Pilih Produk
+SelectService=Pilih Perkhidmatan
