@@ -42,3 +42,9 @@ Reconciliation=Penyesuaian
 ReconciliationDate=Tarikh Penyesuaian
 Unreconciled=Belum Disesuaikan
 Withdrawal=Pengeluaran
+
+Amount=Jumlah
+PaymentAmount=Jumlah Bayaran
+ReceivedAmount=Jumlah Terimaan
+PaidAmount=Jumlah Dibayar
+Balance=Baki
