@@ -13,7 +13,7 @@ CreateProduct=Cipta Produk
 AddProduct=Tambah Produk
 EditProduct=Sunting Produk
 ModifyProduct=Ubah Produk
-DeleteProduct=Padam Produk
+DeleteProduct=Hapus Produk
 CloneProduct=Salin Produk
 
 NewService=Perkhidmatan Baharu
@@ -21,7 +21,7 @@ CreateService=Cipta Perkhidmatan
 AddService=Tambah Perkhidmatan
 EditService=Sunting Perkhidmatan
 ModifyService=Ubah Perkhidmatan
-DeleteService=Padam Perkhidmatan
+DeleteService=Hapus Perkhidmatan
 CloneService=Salin Perkhidmatan
 
 ProductCard=Kad Produk
@@ -78,7 +78,7 @@ WarehouseList=Senarai Stor
 NewWarehouse=Stor Baharu
 AddWarehouse=Tambah Stor
 EditWarehouse=Sunting Stor
-DeleteWarehouse=Padam Stor
+DeleteWarehouse=Hapus Stor
 DefaultWarehouse=Stor Lalai
 
 Barcode=Kod Bar

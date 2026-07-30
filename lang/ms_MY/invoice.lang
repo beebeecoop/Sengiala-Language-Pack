@@ -16,7 +16,7 @@ CreateInvoice=Cipta Invois
 AddInvoice=Tambah Invois
 EditInvoice=Sunting Invois
 ModifyInvoice=Ubah Invois
-DeleteInvoice=Padam Invois
+DeleteInvoice=Hapus Invois
 ValidateInvoice=Sahkan Invois
 CancelInvoice=Batalkan Invois
 CloseInvoice=Tutup Invois
@@ -48,7 +48,7 @@ InvoiceCreated=Invois Telah Dicipta
 InvoiceModified=Invois Telah Diubah
 InvoiceValidated=Invois Telah Disahkan
 InvoiceCanceled=Invois Telah Dibatalkan
-InvoiceDeleted=Invois Telah Dipadam
+InvoiceDeleted=Invois Telah DiHapus
 InvoiceClosed=Invois Telah Ditutup
 
 InvoiceAmount=Jumlah Invois

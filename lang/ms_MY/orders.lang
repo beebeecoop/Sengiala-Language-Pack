@@ -17,7 +17,7 @@ CreateOrder=Cipta Pesanan
 AddOrder=Tambah Pesanan
 EditOrder=Sunting Pesanan
 ModifyOrder=Ubah Pesanan
-DeleteOrder=Padam Pesanan
+DeleteOrder=Hapus Pesanan
 ValidateOrder=Sahkan Pesanan
 CancelOrder=Batalkan Pesanan
 CloseOrder=Tutup Pesanan
@@ -49,7 +49,7 @@ OrderCreated=Pesanan Telah Dicipta
 OrderModified=Pesanan Telah Diubah
 OrderValidated=Pesanan Telah Disahkan
 OrderCanceled=Pesanan Telah Dibatalkan
-OrderDeleted=Pesanan Telah Dipadam
+OrderDeleted=Pesanan Telah DiHapus
 OrderClosed=Pesanan Telah Ditutup
 
 Customer=Pelanggan
