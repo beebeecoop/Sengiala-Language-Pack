@@ -12,6 +12,7 @@ The goal is to keep translation consistent across Dolibarr modules while preserv
 | --- | --- | --- |
 | Member | Anggota | Use for cooperative membership context. |
 | Membership | Keanggotaan | Use for records, applications and membership module context. |
+| Membership Fee | Fi Masuk | Use for entrance/admission fee into membership. |
 | Member Subscription | Caruman Anggota | Use in Dolibarr members module where subscription means member contribution. |
 | Subscription Payment | Bayaran Caruman Anggota | Use for payment of member subscription/contribution. |
 | Share | Modal Syer | Use when referring to cooperative member share capital. |
@@ -100,16 +101,17 @@ The goal is to keep translation consistent across Dolibarr modules while preserv
 2. Preserve Dolibarr functional meaning.
 3. Avoid mixing cooperative-specific terms into non-cooperative contexts unless the key clearly belongs to membership or cooperative finance.
 4. Use `Anggota` for cooperative members, not `Ahli`, unless the upstream context clearly refers to a generic group member.
-5. Use `Modal Syer` for share capital and `Syer Bonus` for bonus shares.
-6. Use `Pembahagian Keuntungan` for appropriation in cooperative financial reporting context.
-7. Use `Subscription=Caruman Anggota` in the members module; use `Subscription=Langganan` only in general/commercial context.
-8. Use `Income=Pendapatan` and `Revenue=Hasil`; do not translate both as `Hasil`.
-9. Use `Reconciliation=Penyesuaian`, `BankReconciliation=Penyesuaian Bank`, `Reconcile=Sesuaikan`, `Reconciled=Telah Disesuaikan`, and `Unreconciled=Belum Disesuaikan` consistently.
-10. Use `Adjustment=Pelarasan`; do not use `Penyelarasan` for reconciliation because it is closer to adjustment/alignment.
-11. Use `PostEntry=Hantar Catatan` for user-facing action labels, while retaining `Posting=Pengeposan` where the technical accounting concept is required.
-12. Use `DoubleEntryBookkeeping=Catatan Bergu`, not `Simpan Kira Bergu`.
-13. Use `CarriedForwardBalance=Baki Bawa Hadapan` and `BroughtForwardBalance=Baki Bawa Bawah` consistently.
-14. Use Dolibarr `.lang` format exactly as `Key=Value` with no spaces around `=`.
+5. Use `MembershipFee=Fi Masuk` in the members module for entrance/admission fee.
+6. Use `Modal Syer` for share capital and `Syer Bonus` for bonus shares.
+7. Use `Pembahagian Keuntungan` for appropriation in cooperative financial reporting context.
+8. Use `Subscription=Caruman Anggota` in the members module; use `Subscription=Langganan` only in general/commercial context.
+9. Use `Income=Pendapatan` and `Revenue=Hasil`; do not translate both as `Hasil`.
+10. Use `Reconciliation=Penyesuaian`, `BankReconciliation=Penyesuaian Bank`, `Reconcile=Sesuaikan`, `Reconciled=Telah Disesuaikan`, and `Unreconciled=Belum Disesuaikan` consistently.
+11. Use `Adjustment=Pelarasan`; do not use `Penyelarasan` for reconciliation because it is closer to adjustment/alignment.
+12. Use `PostEntry=Hantar Catatan` for user-facing action labels, while retaining `Posting=Pengeposan` where the technical accounting concept is required.
+13. Use `DoubleEntryBookkeeping=Catatan Bergu`, not `Simpan Kira Bergu`.
+14. Use `CarriedForwardBalance=Baki Bawa Hadapan` and `BroughtForwardBalance=Baki Bawa Bawah` consistently.
+15. Use Dolibarr `.lang` format exactly as `Key=Value` with no spaces around `=`.
 
 ## Review Status
 
