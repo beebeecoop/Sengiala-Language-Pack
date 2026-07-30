@@ -1,4 +1,5 @@
 # Dolibarr Bahasa Melayu Malaysia - Members
+# Foundation Draft - Sprint 01
 # Encoding: UTF-8
 
 Member=Anggota
@@ -10,18 +11,25 @@ NewMember=Anggota Baharu
 AddMember=Tambah Anggota
 EditMember=Sunting Anggota
 DeleteMember=Padam Anggota
+MemberRef=Rujukan Anggota
+MemberNumber=Nombor Anggota
+MemberReference=Rujukan Anggota
 MemberStatus=Status Anggota
 MemberType=Jenis Anggota
+MemberTypes=Jenis Anggota
 MemberSince=Anggota Sejak
 MembershipDate=Tarikh Keanggotaan
 MembershipStartDate=Tarikh Mula Keanggotaan
 MembershipEndDate=Tarikh Tamat Keanggotaan
 MembershipFee=Yuran Keanggotaan
 MembershipFees=Yuran Keanggotaan
-Subscription=Langganan
-Subscriptions=Langganan
+Subscription=Yuran Keanggotaan
+Subscriptions=Yuran Keanggotaan
+SubscriptionPayment=Bayaran Yuran Keanggotaan
 Contribution=Caruman
 Contributions=Caruman
+Share=Modal Syer
+Shares=Modal Syer
 ShareCapital=Modal Syer
 ShareCapitalAccount=Akaun Modal Syer
 BonusShare=Syer Bonus
@@ -30,8 +38,11 @@ Patronage=Potongan Langganan
 PatronageBonus=Bonus Langganan
 Dividend=Dividen
 Dividends=Dividen
-MemberNumber=Nombor Anggota
-MemberReference=Rujukan Anggota
+MemberAccount=Akaun Anggota
+MemberAccounts=Akaun Anggota
+Cooperative=Koperasi
+CooperativeMember=Anggota Koperasi
+CooperativeMembers=Anggota Koperasi
 MemberAddress=Alamat Anggota
 MemberEmail=E-mel Anggota
 MemberPhone=Telefon Anggota
