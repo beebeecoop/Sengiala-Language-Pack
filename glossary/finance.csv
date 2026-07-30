@@ -13,6 +13,8 @@ Bank Account,Akaun Bank,Banking,Diluluskan
 Bank Charges,Caj Bank,Banking,Diluluskan
 Bank Reconciliation,Penyelarasan Bank,Banking and accounting,Diluluskan
 Bank Statement,Penyata Bank,Banking,Diluluskan
+Bank Transfer,Pindahan Bank,Payment method,Diluluskan
+Bill Pembekal,Bil Pembekal,Supplier invoicing,Diluluskan
 Cash,Tunai,Cash management,Diluluskan
 Cash Account,Akaun Tunai,Cash management,Diluluskan
 Cash Balance,Baki Tunai,Cash management,Diluluskan
@@ -29,10 +31,16 @@ Cleared,Telah Dijelaskan,Banking,Diluluskan
 Closing Balance,Baki Akhir,Accounting,Diluluskan
 Cost Centre,Pusat Kos,Management accounting,Diluluskan
 Credit,Kredit,Accounting,Diluluskan
+Credit Card,Kad Kredit,Payment method,Diluluskan
 Debit,Debit,Accounting,Diluluskan
+Debit Card,Kad Debit,Payment method,Diluluskan
+Default Payment Method,Kaedah Bayaran Lalai,Payment configuration,Diluluskan
 Deficit,Kurangan,Cooperative reporting,Diluluskan
 Deposit,Deposit,Banking and cash management,Diluluskan
+Direct Debit,Debit Terus,Payment method,Diluluskan
 Equity,Ekuiti,Financial reporting,Diluluskan
+Excess Paid,Lebihan Dibayar,Payment processing,Diluluskan
+Excess Received,Lebihan Diterima,Payment processing,Diluluskan
 Expense,Perbelanjaan,Accounting,Diluluskan
 Financial Year,Tahun Kewangan,Accounting,Diluluskan
 Fiscal Year,Tahun Kewangan,Accounting,Diluluskan
@@ -41,6 +49,7 @@ Income,Pendapatan,Accounting,Diluluskan
 Income Statement,Penyata Untung atau Rugi,Financial reporting,Diluluskan
 Interest,Faedah,Banking,Diluluskan
 Internal Transfer,Pindahan Dalaman,Banking and cash management,Diluluskan
+Invoice,Invois,Customer invoicing,Diluluskan
 Journal,Jurnal,Accounting,Diluluskan
 Journal Entry,Catatan Jurnal,Accounting,Diluluskan
 Ledger,Lejar,Accounting,Diluluskan
@@ -48,6 +57,12 @@ Liability,Liabiliti,Financial reporting,Diluluskan
 Loss,Kerugian,Financial reporting,Diluluskan
 Opening Balance,Baki Awal,Accounting,Diluluskan
 Outstanding,Belum Dijelaskan,Banking,Diluluskan
+Payment,Bayaran,Payment processing,Diluluskan
+Payment Amount,Amaun Bayaran,Payment processing,Diluluskan
+Payment Method,Kaedah Bayaran,Payment configuration,Diluluskan
+Payment Receipt,Resit Bayaran,Payment processing,Diluluskan
+Payment Reference,Rujukan Bayaran,Payment processing,Diluluskan
+Payment Term,Terma Bayaran,Payment configuration,Diluluskan
 Petty Cash,Wang Tunai Runcit,Cash management,Diluluskan
 Posting,Pengeposan,Accounting process,Diluluskan
 Profit,Keuntungan,Financial reporting,Diluluskan
@@ -56,10 +71,13 @@ Reconcile,Selaraskan,Banking and accounting,Diluluskan
 Reconciled,Telah Diselaraskan,Banking and accounting,Diluluskan
 Reconciliation,Penyelarasan,Accounting,Diluluskan
 Reconciliation Date,Tarikh Penyelarasan,Banking and accounting,Diluluskan
+Refund,Bayaran Balik,Payment processing,Diluluskan
+Remaining Unpaid,Baki Belum Dibayar,Payment processing,Diluluskan
 Reserve Fund,Kumpulan Wang Rizab,Cooperative reporting,Diluluskan
 Revenue,Hasil,Accounting,Diluluskan
 Share Capital,Modal Syer,Cooperative accounting,Diluluskan
 Statutory Reserve,Rizab Berkanun,Cooperative reporting,Diluluskan
+Supplier Invoice,Bil Pembekal,Supplier invoicing,Diluluskan
 Surplus,Lebihan,Cooperative reporting,Diluluskan
 Suspense Account,Akaun Tergantung,Accounting,Diluluskan
 Transfer,Pindahan,Banking and cash management,Diluluskan
