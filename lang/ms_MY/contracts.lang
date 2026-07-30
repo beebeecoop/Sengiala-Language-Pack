@@ -1,0 +1,106 @@
+# Dolibarr Bahasa Melayu Malaysia - Contracts
+# Encoding: UTF-8
+
+Contract=Kontrak
+Contracts=Kontrak
+ContractCard=Kad Kontrak
+ContractList=Senarai Kontrak
+ContractRef=Rujukan Kontrak
+ContractReference=Rujukan Kontrak
+ContractNumber=Nombor Kontrak
+ContractLabel=Label Kontrak
+ContractDescription=Keterangan Kontrak
+ContractStatus=Status Kontrak
+ContractType=Jenis Kontrak
+
+NewContract=Kontrak Baharu
+CreateContract=Cipta Kontrak
+AddContract=Tambah Kontrak
+EditContract=Sunting Kontrak
+ModifyContract=Ubah Kontrak
+DeleteContract=Hapus Kontrak
+ValidateContract=Sahkan Kontrak
+ActivateContract=Aktifkan Kontrak
+CloseContract=Tutup Kontrak
+ReopenContract=Buka Semula Kontrak
+CloneContract=Salin Kontrak
+
+DraftContract=Kontrak Draf
+ValidatedContract=Kontrak Disahkan
+ActiveContract=Kontrak Aktif
+InactiveContract=Kontrak Tidak Aktif
+ClosedContract=Kontrak Ditutup
+CanceledContract=Kontrak Dibatalkan
+
+ContractCreated=Kontrak Telah Dicipta
+ContractModified=Kontrak Telah Diubah
+ContractValidated=Kontrak Telah Disahkan
+ContractActivated=Kontrak Telah Diaktifkan
+ContractClosed=Kontrak Telah Ditutup
+ContractDeleted=Kontrak Telah Dihapuskan
+ContractCanceled=Kontrak Telah Dibatalkan
+
+ContractLine=Baris Kontrak
+ContractLines=Baris Kontrak
+ServiceContract=Kontrak Perkhidmatan
+ServiceContracts=Kontrak Perkhidmatan
+ContractService=Perkhidmatan Kontrak
+ContractServices=Perkhidmatan Kontrak
+
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+ContractStartDate=Tarikh Mula Kontrak
+ContractEndDate=Tarikh Tamat Kontrak
+PlannedStartDate=Tarikh Mula Dirancang
+PlannedEndDate=Tarikh Tamat Dirancang
+EffectiveDate=Tarikh Berkuat Kuasa
+ExpiryDate=Tarikh Luput
+RenewalDate=Tarikh Pembaharuan
+Duration=Tempoh
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Contact=Kenalan
+Contacts=Kenalan
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+Quantity=Kuantiti
+Unit=Unit
+UnitPrice=Harga Unit
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Discount=Diskaun
+DiscountAmount=Jumlah Diskaun
+TotalHT=Jumlah Tidak Termasuk Cukai
+TotalVAT=Jumlah Cukai
+TotalTTC=Jumlah Termasuk Cukai
+TotalTax=Jumlah Cukai
+
+PaymentTerms=Terma Bayaran
+PaymentMode=Kaedah Bayaran
+BillingFrequency=Kekerapan Pengebilan
+MonthlyBilling=Pengebilan Bulanan
+AnnualBilling=Pengebilan Tahunan
+Renewal=Pembaharuan
+AutomaticRenewal=Pembaharuan Automatik
+ManualRenewal=Pembaharuan Manual
+
+CreateInvoiceFromContract=Cipta Invois Daripada Kontrak
+CreateOrderFromContract=Cipta Pesanan Daripada Kontrak
+CreateProjectFromContract=Cipta Projek Daripada Kontrak
+
+SendContract=Hantar Kontrak
+PrintContract=Cetak Kontrak
+DownloadContract=Muat Turun Kontrak
+ExportContract=Eksport Kontrak
+ImportContract=Import Kontrak
+EmailContract=E-mel Kontrak
+
+NoContract=Tiada Kontrak
+NoContractFound=Tiada Kontrak Dijumpai
+SearchContract=Cari Kontrak
+SelectContract=Pilih Kontrak
