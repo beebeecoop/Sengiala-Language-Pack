@@ -56,6 +56,8 @@ The goal is to keep translation consistent across Dolibarr modules while preserv
 | Brought Forward Balance | Baki Bawa Bawah | Use for balance brought forward from the previous period. |
 | General Ledger | Lejar Am | Formal accounting report. |
 | Trial Balance | Imbangan Duga | Formal accounting report. |
+| Income Statement | Penyata Pendapatan | Use when the upstream key is specifically `IncomeStatement`. |
+| Profit and Loss Statement | Penyata Untung Rugi | Use when the upstream key is specifically `ProfitAndLossStatement` or `ProfitAndLoss`. |
 | Cash Flow Statement | Penyata Aliran Tunai | Formal financial statement. |
 
 ## Controlled Commercial Terms
@@ -106,12 +108,13 @@ The goal is to keep translation consistent across Dolibarr modules while preserv
 7. Use `Pembahagian Keuntungan` for appropriation in cooperative financial reporting context.
 8. Use `Subscription=Caruman Anggota` in the members module; use `Subscription=Langganan` only in general/commercial context.
 9. Use `Income=Pendapatan` and `Revenue=Hasil`; do not translate both as `Hasil`.
-10. Use `Reconciliation=Penyesuaian`, `BankReconciliation=Penyesuaian Bank`, `Reconcile=Sesuaikan`, `Reconciled=Telah Disesuaikan`, and `Unreconciled=Belum Disesuaikan` consistently.
-11. Use `Adjustment=Pelarasan`; do not use `Penyelarasan` for reconciliation because it is closer to adjustment/alignment.
-12. Use `PostEntry=Hantar Catatan` for user-facing action labels, while retaining `Posting=Pengeposan` where the technical accounting concept is required.
-13. Use `DoubleEntryBookkeeping=Catatan Bergu`, not `Simpan Kira Bergu`.
-14. Use `CarriedForwardBalance=Baki Bawa Hadapan` and `BroughtForwardBalance=Baki Bawa Bawah` consistently.
-15. Use Dolibarr `.lang` format exactly as `Key=Value` with no spaces around `=`.
+10. Use `IncomeStatement=Penyata Pendapatan` and `ProfitAndLossStatement=Penyata Untung Rugi` consistently.
+11. Use `Reconciliation=Penyesuaian`, `BankReconciliation=Penyesuaian Bank`, `Reconcile=Sesuaikan`, `Reconciled=Telah Disesuaikan`, and `Unreconciled=Belum Disesuaikan` consistently.
+12. Use `Adjustment=Pelarasan`; do not use `Penyelarasan` for reconciliation because it is closer to adjustment/alignment.
+13. Use `PostEntry=Hantar Catatan` for user-facing action labels, while retaining `Posting=Pengeposan` where the technical accounting concept is required.
+14. Use `DoubleEntryBookkeeping=Catatan Bergu`, not `Simpan Kira Bergu`.
+15. Use `CarriedForwardBalance=Baki Bawa Hadapan` and `BroughtForwardBalance=Baki Bawa Bawah` consistently.
+16. Use Dolibarr `.lang` format exactly as `Key=Value` with no spaces around `=`.
 
 ## Review Status
 
