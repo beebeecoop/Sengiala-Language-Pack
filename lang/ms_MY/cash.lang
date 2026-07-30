@@ -1,7 +1,8 @@
-# Dolibarr language file - Bahasa Melayu Malaysia
-# Module: Cash
-# Status: Finance Foundation v0.2.0
-# Note: Compatibility terminology for cash-management labels used by SengialaSuite.
+# SengialaSuite language compatibility file - Bahasa Melayu Malaysia
+# Domain: Cash Management
+# Baseline context: Dolibarr 23.0.3
+# Status: M2-02 Banking & Cash Foundation
+# Note: This is a SengialaSuite compatibility vocabulary, not an upstream Dolibarr language file.
 
 Cash=Tunai
 CashAccount=Akaun Tunai
