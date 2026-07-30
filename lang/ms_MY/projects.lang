@@ -1,0 +1,113 @@
+# Dolibarr Bahasa Melayu Malaysia - Projects
+# Encoding: UTF-8
+
+Project=Projek
+Projects=Projek
+ProjectCard=Kad Projek
+ProjectList=Senarai Projek
+ProjectRef=Rujukan Projek
+ProjectReference=Rujukan Projek
+ProjectNumber=Nombor Projek
+ProjectLabel=Label Projek
+ProjectTitle=Tajuk Projek
+ProjectDescription=Keterangan Projek
+ProjectStatus=Status Projek
+ProjectType=Jenis Projek
+
+NewProject=Projek Baharu
+CreateProject=Cipta Projek
+AddProject=Tambah Projek
+EditProject=Sunting Projek
+ModifyProject=Ubah Projek
+DeleteProject=Hapus Projek
+ValidateProject=Sahkan Projek
+CloseProject=Tutup Projek
+ReopenProject=Buka Semula Projek
+CloneProject=Salin Projek
+
+DraftProject=Projek Draf
+OpenedProject=Projek Dibuka
+ClosedProject=Projek Ditutup
+CanceledProject=Projek Dibatalkan
+ProjectOpened=Projek Dibuka
+ProjectClosed=Projek Ditutup
+
+ProjectCreated=Projek Telah Dicipta
+ProjectModified=Projek Telah Diubah
+ProjectValidated=Projek Telah Disahkan
+ProjectDeleted=Projek Telah Dihapuskan
+ProjectClosed=Projek Telah Ditutup
+
+Task=Tugasan
+Tasks=Tugasan
+ProjectTask=Tugasan Projek
+ProjectTasks=Tugasan Projek
+TaskCard=Kad Tugasan
+TaskList=Senarai Tugasan
+TaskRef=Rujukan Tugasan
+TaskLabel=Label Tugasan
+TaskDescription=Keterangan Tugasan
+TaskStatus=Status Tugasan
+
+NewTask=Tugasan Baharu
+CreateTask=Cipta Tugasan
+AddTask=Tambah Tugasan
+EditTask=Sunting Tugasan
+ModifyTask=Ubah Tugasan
+DeleteTask=Hapus Tugasan
+ValidateTask=Sahkan Tugasan
+CloseTask=Tutup Tugasan
+ReopenTask=Buka Semula Tugasan
+
+TaskStarted=Tugasan Dimulakan
+TaskInProgress=Tugasan Dalam Proses
+TaskCompleted=Tugasan Selesai
+TaskClosed=Tugasan Ditutup
+TaskCanceled=Tugasan Dibatalkan
+
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+PlannedStartDate=Tarikh Mula Dirancang
+PlannedEndDate=Tarikh Tamat Dirancang
+RealStartDate=Tarikh Mula Sebenar
+RealEndDate=Tarikh Tamat Sebenar
+Deadline=Tarikh Akhir
+Duration=Tempoh
+Progress=Kemajuan
+ProgressPercent=Peratus Kemajuan
+
+Budget=Bajet
+ProjectBudget=Bajet Projek
+TaskBudget=Bajet Tugasan
+Cost=Kos
+Costs=Kos
+ProjectCost=Kos Projek
+TaskCost=Kos Tugasan
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Contact=Kenalan
+Contacts=Kenalan
+User=Pengguna
+Users=Pengguna
+
+AssignedTo=Ditugaskan Kepada
+ResponsibleUser=Pengguna Bertanggungjawab
+ProjectManager=Pengurus Projek
+ProjectOwner=Pemilik Projek
+
+CreateOrderFromProject=Cipta Pesanan Daripada Projek
+CreateInvoiceFromProject=Cipta Invois Daripada Projek
+CreateProposalFromProject=Cipta Sebut Harga Daripada Projek
+
+NoProject=Tiada Projek
+NoProjectFound=Tiada Projek Dijumpai
+SearchProject=Cari Projek
+SelectProject=Pilih Projek
+NoTask=Tiada Tugasan
+NoTaskFound=Tiada Tugasan Dijumpai
+SearchTask=Cari Tugasan
+SelectTask=Pilih Tugasan
