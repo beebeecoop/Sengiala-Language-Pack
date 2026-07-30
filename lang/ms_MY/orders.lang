@@ -1,3 +1,113 @@
-# Bahasa Melayu Malaysia
-# Dolibarr module scaffold: Orders
-# Translation content will be added in a later pull request.
+# Dolibarr Bahasa Melayu Malaysia - Orders
+# Encoding: UTF-8
+
+Order=Pesanan
+Orders=Pesanan
+CustomerOrder=Pesanan Pelanggan
+CustomerOrders=Pesanan Pelanggan
+SupplierOrder=Pesanan Pembekal
+SupplierOrders=Pesanan Pembekal
+PurchaseOrder=Pesanan Belian
+PurchaseOrders=Pesanan Belian
+SalesOrder=Pesanan Jualan
+SalesOrders=Pesanan Jualan
+
+NewOrder=Pesanan Baharu
+CreateOrder=Cipta Pesanan
+AddOrder=Tambah Pesanan
+EditOrder=Sunting Pesanan
+ModifyOrder=Ubah Pesanan
+DeleteOrder=Padam Pesanan
+ValidateOrder=Sahkan Pesanan
+CancelOrder=Batalkan Pesanan
+CloseOrder=Tutup Pesanan
+ReopenOrder=Buka Semula Pesanan
+CloneOrder=Salin Pesanan
+
+OrderCard=Kad Pesanan
+OrderList=Senarai Pesanan
+OrderRef=Rujukan Pesanan
+OrderReference=Rujukan Pesanan
+OrderNumber=Nombor Pesanan
+OrderDate=Tarikh Pesanan
+OrderType=Jenis Pesanan
+OrderStatus=Status Pesanan
+OrderAmount=Jumlah Pesanan
+OrderTotal=Jumlah Keseluruhan Pesanan
+
+DraftOrder=Pesanan Draf
+ValidatedOrder=Pesanan Disahkan
+AcceptedOrder=Pesanan Diterima
+RefusedOrder=Pesanan Ditolak
+CanceledOrder=Pesanan Dibatalkan
+ClosedOrder=Pesanan Ditutup
+DeliveredOrder=Pesanan Telah Diserahkan
+PartiallyDeliveredOrder=Pesanan Diserahkan Sebahagian
+NotDeliveredOrder=Pesanan Belum Diserahkan
+
+OrderCreated=Pesanan Telah Dicipta
+OrderModified=Pesanan Telah Diubah
+OrderValidated=Pesanan Telah Disahkan
+OrderCanceled=Pesanan Telah Dibatalkan
+OrderDeleted=Pesanan Telah Dipadam
+OrderClosed=Pesanan Telah Ditutup
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Contact=Kenalan
+Contacts=Kenalan
+
+Delivery=Serahan
+Deliveries=Serahan
+DeliveryDate=Tarikh Serahan
+DeliveryAddress=Alamat Serahan
+DeliveryStatus=Status Serahan
+DeliveryNote=Nota Serahan
+
+Shipment=Penghantaran
+Shipments=Penghantaran
+Shipping=Penghantaran
+ShippingDate=Tarikh Penghantaran
+ShippingAddress=Alamat Penghantaran
+ShippingMethod=Kaedah Penghantaran
+TrackingNumber=Nombor Penjejakan
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+Quantity=Kuantiti
+Unit=Unit
+UnitPrice=Harga Unit
+Discount=Diskaun
+DiscountAmount=Jumlah Diskaun
+Subtotal=Subjumlah
+TotalHT=Jumlah Tidak Termasuk Cukai
+TotalVAT=Jumlah Cukai
+TotalTTC=Jumlah Termasuk Cukai
+TotalTax=Jumlah Cukai
+
+PaymentTerms=Terma Bayaran
+PaymentMode=Kaedah Bayaran
+PaymentStatus=Status Bayaran
+AmountPaid=Jumlah Dibayar
+AmountRemaining=Baki Belum Dibayar
+
+CreateInvoiceFromOrder=Cipta Invois Daripada Pesanan
+CreateShipmentFromOrder=Cipta Penghantaran Daripada Pesanan
+CreateDeliveryFromOrder=Cipta Serahan Daripada Pesanan
+OrderToInvoice=Pesanan Kepada Invois
+OrderToShipment=Pesanan Kepada Penghantaran
+
+SendOrder=Hantar Pesanan
+PrintOrder=Cetak Pesanan
+DownloadOrder=Muat Turun Pesanan
+ExportOrder=Eksport Pesanan
+ImportOrder=Import Pesanan
+EmailOrder=E-mel Pesanan
+
+NoOrder=Tiada Pesanan
+NoOrderFound=Tiada Pesanan Dijumpai
+SearchOrder=Cari Pesanan
+SelectOrder=Pilih Pesanan
