@@ -1,0 +1,99 @@
+# Dolibarr Bahasa Melayu Malaysia - Errors / System Messages
+# Encoding: UTF-8
+
+Error=Ralat
+Errors=Ralat
+Warning=Amaran
+Warnings=Amaran
+Information=Maklumat
+Success=Berjaya
+Failure=Gagal
+Failed=Gagal
+
+AccessDenied=Akses Ditolak
+PermissionDenied=Kebenaran Ditolak
+NotAllowed=Tidak Dibenarkan
+Unauthorized=Tidak Dibenarkan
+Forbidden=Dilarang
+AuthenticationFailed=Pengesahan Gagal
+LoginFailed=Log Masuk Gagal
+InvalidLogin=Log Masuk Tidak Sah
+InvalidPassword=Kata Laluan Tidak Sah
+PasswordRequired=Kata Laluan Diperlukan
+
+InvalidValue=Nilai Tidak Sah
+InvalidData=Data Tidak Sah
+InvalidFormat=Format Tidak Sah
+InvalidDate=Tarikh Tidak Sah
+InvalidEmail=E-mel Tidak Sah
+InvalidAmount=Jumlah Tidak Sah
+InvalidQuantity=Kuantiti Tidak Sah
+InvalidReference=Rujukan Tidak Sah
+
+RequiredField=Medan Diperlukan
+FieldRequired=Medan Diperlukan
+MissingField=Medan Tiada
+MissingValue=Nilai Tiada
+EmptyValue=Nilai Kosong
+ValueTooShort=Nilai Terlalu Pendek
+ValueTooLong=Nilai Terlalu Panjang
+
+RecordNotFound=Rekod Tidak Dijumpai
+FileNotFound=Fail Tidak Dijumpai
+PageNotFound=Halaman Tidak Dijumpai
+UserNotFound=Pengguna Tidak Dijumpai
+CustomerNotFound=Pelanggan Tidak Dijumpai
+SupplierNotFound=Pembekal Tidak Dijumpai
+ProductNotFound=Produk Tidak Dijumpai
+ServiceNotFound=Perkhidmatan Tidak Dijumpai
+InvoiceNotFound=Invois Tidak Dijumpai
+OrderNotFound=Pesanan Tidak Dijumpai
+ProposalNotFound=Sebut Harga Tidak Dijumpai
+ProjectNotFound=Projek Tidak Dijumpai
+ContractNotFound=Kontrak Tidak Dijumpai
+
+AlreadyExists=Sudah Wujud
+RecordAlreadyExists=Rekod Sudah Wujud
+ReferenceAlreadyExists=Rujukan Sudah Wujud
+DuplicateRecord=Rekod Pendua
+DuplicateReference=Rujukan Pendua
+
+CannotCreate=Tidak Dapat Dicipta
+CannotUpdate=Tidak Dapat Dikemas Kini
+CannotModify=Tidak Dapat Diubah
+CannotDelete=Tidak Dapat Dihapuskan
+CannotValidate=Tidak Dapat Disahkan
+CannotClose=Tidak Dapat Ditutup
+CannotCancel=Tidak Dapat Dibatalkan
+
+CreateFailed=Ciptaan Gagal
+UpdateFailed=Kemas Kini Gagal
+ModificationFailed=Pengubahan Gagal
+DeleteFailed=Penghapusan Gagal
+ValidationFailed=Pengesahan Gagal
+ClosingFailed=Penutupan Gagal
+CancellationFailed=Pembatalan Gagal
+
+SaveFailed=Simpan Gagal
+FileUploadFailed=Muat Naik Fail Gagal
+FileDownloadFailed=Muat Turun Fail Gagal
+ImportFailed=Import Gagal
+ExportFailed=Eksport Gagal
+EmailSendFailed=Penghantaran E-mel Gagal
+
+DatabaseError=Ralat Pangkalan Data
+ConnectionError=Ralat Sambungan
+NetworkError=Ralat Rangkaian
+ServerError=Ralat Pelayan
+SystemError=Ralat Sistem
+UnknownError=Ralat Tidak Diketahui
+
+OperationSuccessful=Operasi Berjaya
+OperationFailed=Operasi Gagal
+RecordCreated=Rekod Telah Dicipta
+RecordUpdated=Rekod Telah Dikemas Kini
+RecordModified=Rekod Telah Diubah
+RecordDeleted=Rekod Telah Dihapuskan
+RecordValidated=Rekod Telah Disahkan
+RecordClosed=Rekod Telah Ditutup
+RecordCanceled=Rekod Telah Dibatalkan
