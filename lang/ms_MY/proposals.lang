@@ -1,0 +1,96 @@
+# Dolibarr Bahasa Melayu Malaysia - Proposals / Quotations
+# Encoding: UTF-8
+
+Proposal=Sebut Harga
+Proposals=Sebut Harga
+CommercialProposal=Sebut Harga Komersial
+CommercialProposals=Sebut Harga Komersial
+Quotation=Sebut Harga
+Quotations=Sebut Harga
+Quote=Sebut Harga
+Quotes=Sebut Harga
+
+NewProposal=Sebut Harga Baharu
+CreateProposal=Cipta Sebut Harga
+AddProposal=Tambah Sebut Harga
+EditProposal=Sunting Sebut Harga
+ModifyProposal=Ubah Sebut Harga
+DeleteProposal=Padam Sebut Harga
+ValidateProposal=Sahkan Sebut Harga
+CancelProposal=Batalkan Sebut Harga
+CloseProposal=Tutup Sebut Harga
+ReopenProposal=Buka Semula Sebut Harga
+CloneProposal=Salin Sebut Harga
+
+ProposalCard=Kad Sebut Harga
+ProposalList=Senarai Sebut Harga
+ProposalRef=Rujukan Sebut Harga
+ProposalReference=Rujukan Sebut Harga
+ProposalNumber=Nombor Sebut Harga
+ProposalDate=Tarikh Sebut Harga
+ProposalStatus=Status Sebut Harga
+ProposalAmount=Jumlah Sebut Harga
+ProposalTotal=Jumlah Keseluruhan Sebut Harga
+
+DraftProposal=Sebut Harga Draf
+ValidatedProposal=Sebut Harga Disahkan
+SignedProposal=Sebut Harga Ditandatangani
+RefusedProposal=Sebut Harga Ditolak
+AcceptedProposal=Sebut Harga Diterima
+CanceledProposal=Sebut Harga Dibatalkan
+ClosedProposal=Sebut Harga Ditutup
+
+ProposalCreated=Sebut Harga Telah Dicipta
+ProposalModified=Sebut Harga Telah Diubah
+ProposalValidated=Sebut Harga Telah Disahkan
+ProposalSigned=Sebut Harga Telah Ditandatangani
+ProposalAccepted=Sebut Harga Telah Diterima
+ProposalRefused=Sebut Harga Telah Ditolak
+ProposalCanceled=Sebut Harga Telah Dibatalkan
+ProposalClosed=Sebut Harga Telah Ditutup
+
+Customer=Pelanggan
+Prospect=Prospek
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Contact=Kenalan
+Contacts=Kenalan
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+Quantity=Kuantiti
+Unit=Unit
+UnitPrice=Harga Unit
+Discount=Diskaun
+DiscountAmount=Jumlah Diskaun
+Subtotal=Subjumlah
+TotalHT=Jumlah Tidak Termasuk Cukai
+TotalVAT=Jumlah Cukai
+TotalTTC=Jumlah Termasuk Cukai
+TotalTax=Jumlah Cukai
+
+ValidityDuration=Tempoh Sah Laku
+ValidUntil=Sah Hingga
+ExpiryDate=Tarikh Luput
+DeliveryDelay=Tempoh Serahan
+PaymentTerms=Terma Bayaran
+PaymentMode=Kaedah Bayaran
+
+CreateOrderFromProposal=Cipta Pesanan Daripada Sebut Harga
+CreateInvoiceFromProposal=Cipta Invois Daripada Sebut Harga
+ProposalToOrder=Sebut Harga Kepada Pesanan
+ProposalToInvoice=Sebut Harga Kepada Invois
+
+SendProposal=Hantar Sebut Harga
+PrintProposal=Cetak Sebut Harga
+DownloadProposal=Muat Turun Sebut Harga
+ExportProposal=Eksport Sebut Harga
+ImportProposal=Import Sebut Harga
+EmailProposal=E-mel Sebut Harga
+
+NoProposal=Tiada Sebut Harga
+NoProposalFound=Tiada Sebut Harga Dijumpai
+SearchProposal=Cari Sebut Harga
+SelectProposal=Pilih Sebut Harga
