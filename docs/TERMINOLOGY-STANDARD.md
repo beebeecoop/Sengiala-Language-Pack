@@ -119,3 +119,7 @@ The goal is to keep translation consistent across Dolibarr modules while preserv
 ## Review Status
 
 This standard is part of Dolibarr Malay Translation Sprint 01 and should be expanded as more Dolibarr `.lang` files are translated.
+- Delete → Hapus
+- Deleted → Dihapuskan
+- Delete action sentence → menghapus / menghapuskan
+- Deleted sentence form → dihapuskan
