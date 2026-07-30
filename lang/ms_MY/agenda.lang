@@ -1,0 +1,109 @@
+# Dolibarr Bahasa Melayu Malaysia - Agenda / Events
+# Encoding: UTF-8
+
+Agenda=Agenda
+Event=Acara
+Events=Acara
+Action=Tindakan
+Actions=Tindakan
+ActionCard=Kad Tindakan
+ActionList=Senarai Tindakan
+EventCard=Kad Acara
+EventList=Senarai Acara
+
+NewEvent=Acara Baharu
+CreateEvent=Cipta Acara
+AddEvent=Tambah Acara
+EditEvent=Sunting Acara
+ModifyEvent=Ubah Acara
+DeleteEvent=Hapus Acara
+ValidateEvent=Sahkan Acara
+CloseEvent=Tutup Acara
+ReopenEvent=Buka Semula Acara
+CancelEvent=Batalkan Acara
+
+EventCreated=Acara Telah Dicipta
+EventModified=Acara Telah Diubah
+EventValidated=Acara Telah Disahkan
+EventDeleted=Acara Telah Dihapuskan
+EventClosed=Acara Telah Ditutup
+EventCanceled=Acara Telah Dibatalkan
+
+ActionCreated=Tindakan Telah Dicipta
+ActionModified=Tindakan Telah Diubah
+ActionDone=Tindakan Selesai
+ActionDeleted=Tindakan Telah Dihapuskan
+ActionClosed=Tindakan Telah Ditutup
+ActionCanceled=Tindakan Telah Dibatalkan
+
+Appointment=Janji Temu
+Appointments=Janji Temu
+Meeting=Mesyuarat
+Meetings=Mesyuarat
+Call=Panggilan
+Calls=Panggilan
+Task=Tugasan
+Tasks=Tugasan
+Reminder=Peringatan
+Reminders=Peringatan
+Deadline=Tarikh Akhir
+
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+StartTime=Masa Mula
+EndTime=Masa Tamat
+Date=Tarikh
+Time=Masa
+Duration=Tempoh
+Location=Lokasi
+
+Title=Tajuk
+Label=Label
+Description=Keterangan
+Note=Nota
+Status=Status
+Priority=Keutamaan
+Progress=Kemajuan
+
+Planned=Dirancang
+InProgress=Dalam Proses
+Done=Selesai
+Canceled=Dibatalkan
+Closed=Ditutup
+Late=Lewat
+Overdue=Tertunggak
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Contact=Kenalan
+Contacts=Kenalan
+User=Pengguna
+Users=Pengguna
+AssignedTo=Ditugaskan Kepada
+ResponsibleUser=Pengguna Bertanggungjawab
+
+Project=Projek
+Projects=Projek
+Proposal=Sebut Harga
+Order=Pesanan
+Invoice=Invois
+Contract=Kontrak
+
+Calendar=Kalendar
+CalendarView=Paparan Kalendar
+DayView=Paparan Hari
+WeekView=Paparan Minggu
+MonthView=Paparan Bulan
+Today=Hari Ini
+Tomorrow=Esok
+Yesterday=Semalam
+
+NoEvent=Tiada Acara
+NoEventFound=Tiada Acara Dijumpai
+SearchEvent=Cari Acara
+SelectEvent=Pilih Acara
+NoAction=Tiada Tindakan
+NoActionFound=Tiada Tindakan Dijumpai
+SearchAction=Cari Tindakan
+SelectAction=Pilih Tindakan
