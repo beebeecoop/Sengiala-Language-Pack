@@ -2,7 +2,7 @@
 # Encoding: UTF-8
 
 ThirdParty=Pihak Ketiga
-ThirdParties=Pihak Ketiga
+ThirdParties=Perhubungan
 Company=Syarikat
 Companies=Syarikat
 Organization=Organisasi
@@ -67,3 +67,15 @@ ActiveCustomer=Pelanggan Aktif
 InactiveCustomer=Pelanggan Tidak Aktif
 ActiveSupplier=Pembekal Aktif
 InactiveSupplier=Pembekal Tidak Aktif
+
+# Sprint 11 - Relationship UI Coverage
+Relationship=Perhubungan
+Relationships=Perhubungan
+RelationshipManagement=Pengurusan Perhubungan
+RelationshipArea=Ruang Perhubungan
+ThirdPartyNavigation=Perhubungan
+ThirdPartiesNavigation=Perhubungan
+CustomerRelationship=Perhubungan Pelanggan
+SupplierRelationship=Perhubungan Pembekal
+ProspectRelationship=Perhubungan Prospek
+ContactRelationship=Perhubungan Kenalan
