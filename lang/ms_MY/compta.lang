@@ -1,0 +1,152 @@
+# Dolibarr Bahasa Melayu Malaysia - Accounting / Compta
+# Encoding: UTF-8
+
+Accounting=Perakaunan
+Accountancy=Perakaunan
+Bookkeeping=Simpan Kira
+DoubleEntryBookkeeping=Catatan Bergu
+ChartOfAccounts=Carta Akaun
+AccountingSystem=Sistem Perakaunan
+AccountingModule=Modul Perakaunan
+AccountingSetup=Tetapan Perakaunan
+AccountingConfiguration=Konfigurasi Perakaunan
+
+Account=Akaun
+Accounts=Akaun
+AccountingAccount=Akaun Perakaunan
+AccountingAccounts=Akaun Perakaunan
+AccountCode=Kod Akaun
+AccountLabel=Label Akaun
+AccountNumber=Nombor Akaun
+AccountType=Jenis Akaun
+AccountBalance=Baki Akaun
+
+Journal=Jurnal
+Journals=Jurnal
+AccountingJournal=Jurnal Perakaunan
+SalesJournal=Jurnal Jualan
+PurchaseJournal=Jurnal Belian
+BankJournal=Jurnal Bank
+CashJournal=Jurnal Tunai
+MiscellaneousJournal=Jurnal Pelbagai
+JournalEntry=Catatan Jurnal
+JournalEntries=Catatan Jurnal
+
+Ledger=Lejar
+Ledgers=Lejar
+GeneralLedger=Lejar Am
+Subledger=Lejar Subsidiari
+CustomerLedger=Lejar Pelanggan
+SupplierLedger=Lejar Pembekal
+
+Debit=Debit
+Credit=Kredit
+DebitAmount=Jumlah Debit
+CreditAmount=Jumlah Kredit
+Balance=Baki
+OpeningBalance=Baki Pembukaan
+ClosingBalance=Baki Penutup
+CarriedForwardBalance=Baki Bawa Hadapan
+BroughtForwardBalance=Baki Bawa Bawah
+
+TrialBalance=Imbangan Duga
+BalanceSheet=Penyata Kedudukan Kewangan
+IncomeStatement=Penyata Pendapatan
+ProfitAndLossStatement=Penyata Untung Rugi
+CashFlowStatement=Penyata Aliran Tunai
+FinancialStatement=Penyata Kewangan
+FinancialStatements=Penyata Kewangan
+
+Asset=Aset
+Assets=Aset
+Liability=Liabiliti
+Liabilities=Liabiliti
+Equity=Ekuiti
+Income=Pendapatan
+Revenue=Hasil
+Expense=Belanja
+Expenses=Belanja
+Cost=Kos
+Costs=Kos
+Profit=Keuntungan
+Loss=Kerugian
+
+Tax=Cukai
+Taxes=Cukai
+VAT=SST
+SST=SST
+GST=GST
+TaxRate=Kadar Cukai
+VATRate=Kadar SST
+TaxAmount=Jumlah Cukai
+VATAmount=Jumlah SST
+TotalTax=Jumlah Cukai
+TotalVAT=Jumlah SST
+
+Invoice=Invois
+Invoices=Invois
+CustomerInvoice=Invois Pelanggan
+SupplierInvoice=Invois Pembekal
+Payment=Bayaran
+Payments=Bayaran
+Receipt=Resit
+Receipts=Resit
+Bank=Bank
+BankAccount=Akaun Bank
+BankAccounts=Akaun Bank
+BankTransfer=Pindahan Bank
+Reconciliation=Penyesuaian
+BankReconciliation=Penyesuaian Bank
+Reconcile=Sesuaikan
+Reconciled=Telah Disesuaikan
+Unreconciled=Belum Disesuaikan
+
+FiscalYear=Tahun Kewangan
+FiscalPeriod=Tempoh Kewangan
+AccountingPeriod=Tempoh Perakaunan
+Period=Tempoh
+OpeningDate=Tarikh Pembukaan
+ClosingDate=Tarikh Penutupan
+ValidationDate=Tarikh Pengesahan
+PostingDate=Tarikh Catatan
+
+AccountingEntry=Catatan Perakaunan
+AccountingEntries=Catatan Perakaunan
+AccountingExport=Eksport Perakaunan
+AccountingImport=Import Perakaunan
+AccountingReport=Laporan Perakaunan
+AccountingReports=Laporan Perakaunan
+
+CreateAccountingEntry=Cipta Catatan Perakaunan
+EditAccountingEntry=Sunting Catatan Perakaunan
+DeleteAccountingEntry=Hapus Catatan Perakaunan
+ValidateAccountingEntry=Sahkan Catatan Perakaunan
+PostAccountingEntry=Pos Catatan Perakaunan
+
+EntryCreated=Catatan Telah Dicipta
+EntryModified=Catatan Telah Diubah
+EntryDeleted=Catatan Telah Dihapuskan
+EntryValidated=Catatan Telah Disahkan
+EntryPosted=Catatan Telah Diposkan
+
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Subtotal=Subjumlah
+Currency=Mata Wang
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+Posted=Diposkan
+Active=Aktif
+Inactive=Tidak Aktif
+Closed=Ditutup
+Canceled=Dibatalkan
+
+NoAccountingEntry=Tiada Catatan Perakaunan
+NoAccountingEntryFound=Tiada Catatan Perakaunan Dijumpai
+SearchAccountingEntry=Cari Catatan Perakaunan
+SelectAccountingEntry=Pilih Catatan Perakaunan
