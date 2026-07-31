@@ -101,3 +101,18 @@ MembersStatusToValid=Bakal Anggota
 MembersStatusExcluded=Anggota Terkecuali
 MembersStatusResiliated=Penamatan Anggota
 NoTypeDefinedGoToSetup=Tiada kelas anggota ditakrifkan. Pergi ke menu "Kelas Anggota"
+
+# Sprint 12 - Real Dolibarr Members Status Keys
+MembersListToValid=Senarai Bakal Anggota
+MembersListValid=Senarai Anggota Sah
+MembersListUpToDate=Senarai Anggota Sah dengan caruman terkini
+MembersListNotUpToDate=Senarai Anggota Sah dengan caruman tamat
+MemberStatusDraft=Bakal Anggota
+MemberStatusActive=Anggota Sah (Tunggu Caruman)
+MemberStatusActiveShort=Anggota Sah
+MemberStatusPaid=Caruman Terkini
+MemberStatusPaidShort=Terkini
+MemberStatusNoSubscription=Anggota Sah (Tiada Caruman Diperlukan)
+MemberStatusNoSubscriptionShort=Anggota Sah
+SubscriptionNotNeeded=Tiada Caruman Diperlukan
+WaitingSubscriptionShort=Menunggu
