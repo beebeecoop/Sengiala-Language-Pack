@@ -1,0 +1,105 @@
+# Dolibarr Bahasa Melayu Malaysia - ECM / Document Management
+# Encoding: UTF-8
+
+ECM=ECM
+ElectronicContentManagement=Pengurusan Kandungan Elektronik
+DocumentManagement=Pengurusan Dokumen
+DocumentStorage=Storan Dokumen
+DocumentRepository=Repositori Dokumen
+Repository=Repositori
+Repositories=Repositori
+
+Document=Dokumen
+Documents=Dokumen
+File=Fail
+Files=Fail
+Folder=Folder
+Folders=Folder
+Directory=Direktori
+Directories=Direktori
+Attachment=Lampiran
+Attachments=Lampiran
+
+ECMDirectory=Direktori ECM
+ECMDirectories=Direktori ECM
+ECMFile=Fail ECM
+ECMFiles=Fail ECM
+ECMDocument=Dokumen ECM
+ECMDocuments=Dokumen ECM
+
+NewDirectory=Direktori Baharu
+CreateDirectory=Cipta Direktori
+AddDirectory=Tambah Direktori
+EditDirectory=Sunting Direktori
+ModifyDirectory=Ubah Direktori
+DeleteDirectory=Hapus Direktori
+OpenDirectory=Buka Direktori
+CloseDirectory=Tutup Direktori
+
+DirectoryCreated=Direktori Telah Dicipta
+DirectoryModified=Direktori Telah Diubah
+DirectoryDeleted=Direktori Telah Dihapuskan
+
+NewFolder=Folder Baharu
+CreateFolder=Cipta Folder
+AddFolder=Tambah Folder
+EditFolder=Sunting Folder
+ModifyFolder=Ubah Folder
+DeleteFolder=Hapus Folder
+OpenFolder=Buka Folder
+
+FolderCreated=Folder Telah Dicipta
+FolderModified=Folder Telah Diubah
+FolderDeleted=Folder Telah Dihapuskan
+
+UploadFile=Muat Naik Fail
+DownloadFile=Muat Turun Fail
+DeleteFile=Hapus Fail
+PreviewFile=Pratonton Fail
+OpenFile=Buka Fail
+RenameFile=Namakan Semula Fail
+MoveFile=Pindah Fail
+CopyFile=Salin Fail
+
+FileUploaded=Fail Telah Dimuat Naik
+FileDownloaded=Fail Telah Dimuat Turun
+FileDeleted=Fail Telah Dihapuskan
+FileRenamed=Fail Telah Dinamakan Semula
+FileMoved=Fail Telah Dipindahkan
+FileCopied=Fail Telah Disalin
+
+FileName=Nama Fail
+FileSize=Saiz Fail
+FileType=Jenis Fail
+FilePath=Laluan Fail
+FileExtension=Sambungan Fail
+FileDate=Tarikh Fail
+FileOwner=Pemilik Fail
+
+LinkedObject=Objek Berkaitan
+LinkedObjects=Objek Berkaitan
+LinkedDocument=Dokumen Berkaitan
+LinkedDocuments=Dokumen Berkaitan
+AttachToObject=Lampirkan kepada Objek
+DetachFromObject=Nyah Lampir daripada Objek
+
+Invoice=Invois
+Order=Pesanan
+Proposal=Sebut Harga
+Contract=Kontrak
+Project=Projek
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+User=Pengguna
+
+NoFile=Tiada Fail
+NoFileFound=Tiada Fail Dijumpai
+NoDocument=Tiada Dokumen
+NoDocumentFound=Tiada Dokumen Dijumpai
+NoDirectory=Tiada Direktori
+NoDirectoryFound=Tiada Direktori Dijumpai
+SearchFile=Cari Fail
+SearchDocument=Cari Dokumen
+SelectFile=Pilih Fail
+SelectDocument=Pilih Dokumen
