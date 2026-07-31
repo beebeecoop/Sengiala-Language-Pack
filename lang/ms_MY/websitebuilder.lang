@@ -1,0 +1,122 @@
+# Dolibarr Bahasa Melayu Malaysia - Website Builder
+# Encoding: UTF-8
+
+WebsiteBuilder=Pembina Laman Web
+WebsiteBuilders=Pembina Laman Web
+WebsiteBuilderManagement=Pengurusan Pembina Laman Web
+WebsiteBuilderModule=Modul Pembina Laman Web
+WebsiteBuilderEditor=Editor Pembina Laman Web
+
+Website=Laman Web
+Websites=Laman Web
+WebPage=Halaman Web
+WebPages=Halaman Web
+Page=Halaman
+Pages=Halaman
+
+NewPage=Halaman Baharu
+CreatePage=Cipta Halaman
+AddPage=Tambah Halaman
+EditPage=Sunting Halaman
+ModifyPage=Ubah Halaman
+DeletePage=Hapus Halaman
+DuplicatePage=Salin Halaman
+PublishPage=Terbitkan Halaman
+UnpublishPage=Nyahterbitkan Halaman
+PreviewPage=Pratonton Halaman
+
+PageCreated=Halaman Telah Dicipta
+PageModified=Halaman Telah Diubah
+PageDeleted=Halaman Telah Dihapuskan
+PagePublished=Halaman Telah Diterbitkan
+PageUnpublished=Halaman Telah Dinyahterbitkan
+
+Content=Kandungan
+Contents=Kandungan
+Block=Blok
+Blocks=Blok
+Section=Seksyen
+Sections=Seksyen
+Column=Lajur
+Columns=Lajur
+Row=Baris
+Rows=Baris
+
+AddBlock=Tambah Blok
+EditBlock=Sunting Blok
+ModifyBlock=Ubah Blok
+DeleteBlock=Hapus Blok
+MoveBlock=Alih Blok
+DuplicateBlock=Salin Blok
+
+Header=Pengepala
+Footer=Pengaki
+Sidebar=Bar Sisi
+Menu=Menu
+Menus=Menu
+Navigation=Navigasi
+
+Title=Tajuk
+Subtitle=Sari Tajuk
+Text=Teks
+Html=HTML
+Css=CSS
+Javascript=JavaScript
+Image=Imej
+Images=Imej
+Video=Video
+File=Fail
+Files=Fail
+Document=Dokumen
+Documents=Dokumen
+
+Template=Templat
+Templates=Templat
+Theme=Tema
+Themes=Tema
+Layout=Susun Atur
+Style=Gaya
+Design=Reka Bentuk
+
+Url=URL
+Slug=Slug
+Link=Pautan
+Links=Pautan
+MetaTitle=Tajuk Meta
+MetaDescription=Keterangan Meta
+Keywords=Kata Kunci
+
+Public=Awam
+Private=Peribadi
+Visible=Kelihatan
+Hidden=Tersembunyi
+Published=Diterbitkan
+Unpublished=Belum Diterbitkan
+Draft=Draf
+Validated=Disahkan
+Active=Aktif
+Inactive=Tidak Aktif
+
+Save=Simpan
+SaveDraft=Simpan Draf
+SaveAndPublish=Simpan dan Terbitkan
+Cancel=Batal
+Preview=Pratonton
+Publish=Terbitkan
+Unpublish=Nyahterbitkan
+
+Customer=Pelanggan
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Order=Pesanan
+Payment=Bayaran
+OnlinePayment=Bayaran Dalam Talian
+Cart=Troli
+Checkout=Daftar Keluar
+
+NoWebsiteBuilder=Tiada Pembina Laman Web
+NoPage=Tiada Halaman
+NoPageFound=Tiada Halaman Dijumpai
+SearchPage=Cari Halaman
+SelectPage=Pilih Halaman
