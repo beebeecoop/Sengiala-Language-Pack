@@ -1,0 +1,98 @@
+# Dolibarr Bahasa Melayu Malaysia - Holiday / Leave
+# Encoding: UTF-8
+
+Holiday=Cuti
+Holidays=Cuti
+Leave=Cuti
+Leaves=Cuti
+LeaveManagement=Pengurusan Cuti
+HolidayManagement=Pengurusan Cuti
+LeaveRequest=Permohonan Cuti
+LeaveRequests=Permohonan Cuti
+
+NewLeaveRequest=Permohonan Cuti Baharu
+CreateLeaveRequest=Cipta Permohonan Cuti
+AddLeaveRequest=Tambah Permohonan Cuti
+EditLeaveRequest=Sunting Permohonan Cuti
+ModifyLeaveRequest=Ubah Permohonan Cuti
+DeleteLeaveRequest=Hapus Permohonan Cuti
+ValidateLeaveRequest=Sahkan Permohonan Cuti
+ApproveLeaveRequest=Luluskan Permohonan Cuti
+RefuseLeaveRequest=Tolak Permohonan Cuti
+CancelLeaveRequest=Batalkan Permohonan Cuti
+CloseLeaveRequest=Tutup Permohonan Cuti
+
+LeaveRequestCreated=Permohonan Cuti Telah Dicipta
+LeaveRequestModified=Permohonan Cuti Telah Diubah
+LeaveRequestValidated=Permohonan Cuti Telah Disahkan
+LeaveRequestApproved=Permohonan Cuti Telah Diluluskan
+LeaveRequestRefused=Permohonan Cuti Telah Ditolak
+LeaveRequestCanceled=Permohonan Cuti Telah Dibatalkan
+LeaveRequestDeleted=Permohonan Cuti Telah Dihapuskan
+LeaveRequestClosed=Permohonan Cuti Telah Ditutup
+
+AnnualLeave=Cuti Tahunan
+SickLeave=Cuti Sakit
+MedicalLeave=Cuti Sakit
+MaternityLeave=Cuti Bersalin
+PaternityLeave=Cuti Paterniti
+EmergencyLeave=Cuti Kecemasan
+UnpaidLeave=Cuti Tanpa Gaji
+PaidLeave=Cuti Bergaji
+ReplacementLeave=Cuti Gantian
+CompassionateLeave=Cuti Ihsan
+StudyLeave=Cuti Belajar
+PublicHoliday=Cuti Umum
+PublicHolidays=Cuti Umum
+
+LeaveBalance=Baki Cuti
+LeaveEntitlement=Kelayakan Cuti
+LeaveTaken=Cuti Telah Diambil
+LeaveRemaining=Baki Cuti
+LeaveDuration=Tempoh Cuti
+LeaveType=Jenis Cuti
+LeaveStatus=Status Cuti
+LeaveReason=Sebab Cuti
+
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+StartTime=Masa Mula
+EndTime=Masa Tamat
+HalfDay=Separuh Hari
+FullDay=Sehari Penuh
+Morning=Pagi
+Afternoon=Petang
+NumberOfDays=Bilangan Hari
+NumberOfHours=Bilangan Jam
+
+Employee=Pekerja
+Employees=Pekerja
+User=Pengguna
+Users=Pengguna
+Manager=Pengurus
+Supervisor=Penyelia
+Approver=Pelulus
+ApprovedBy=Diluluskan Oleh
+RequestedBy=Dipohon Oleh
+
+Draft=Draf
+Submitted=Dihantar
+Validated=Disahkan
+Approved=Diluluskan
+Refused=Ditolak
+Canceled=Dibatalkan
+Closed=Ditutup
+Pending=Menunggu
+InProgress=Dalam Proses
+
+RequestLeave=Pohon Cuti
+SubmitLeaveRequest=Hantar Permohonan Cuti
+ApproveLeave=Luluskan Cuti
+RefuseLeave=Tolak Cuti
+CancelLeave=Batalkan Cuti
+
+NoLeave=Tiada Cuti
+NoLeaveRequest=Tiada Permohonan Cuti
+NoLeaveRequestFound=Tiada Permohonan Cuti Dijumpai
+SearchLeaveRequest=Cari Permohonan Cuti
+SelectLeaveRequest=Pilih Permohonan Cuti
