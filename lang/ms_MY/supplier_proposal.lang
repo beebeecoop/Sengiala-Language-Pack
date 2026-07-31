@@ -1,0 +1,102 @@
+# Dolibarr Bahasa Melayu Malaysia - Supplier Proposal
+# Encoding: UTF-8
+
+SupplierProposal=Sebut Harga Pembekal
+SupplierProposals=Sebut Harga Pembekal
+SupplierProposalCard=Kad Sebut Harga Pembekal
+SupplierProposalList=Senarai Sebut Harga Pembekal
+SupplierProposalRef=Rujukan Sebut Harga Pembekal
+SupplierProposalDate=Tarikh Sebut Harga Pembekal
+SupplierProposalStatus=Status Sebut Harga Pembekal
+
+NewSupplierProposal=Sebut Harga Pembekal Baharu
+CreateSupplierProposal=Cipta Sebut Harga Pembekal
+AddSupplierProposal=Tambah Sebut Harga Pembekal
+EditSupplierProposal=Sunting Sebut Harga Pembekal
+ModifySupplierProposal=Ubah Sebut Harga Pembekal
+DeleteSupplierProposal=Hapus Sebut Harga Pembekal
+ValidateSupplierProposal=Sahkan Sebut Harga Pembekal
+CloseSupplierProposal=Tutup Sebut Harga Pembekal
+ReopenSupplierProposal=Buka Semula Sebut Harga Pembekal
+
+SupplierProposalCreated=Sebut Harga Pembekal Telah Dicipta
+SupplierProposalModified=Sebut Harga Pembekal Telah Diubah
+SupplierProposalValidated=Sebut Harga Pembekal Telah Disahkan
+SupplierProposalDeleted=Sebut Harga Pembekal Telah Dihapuskan
+SupplierProposalClosed=Sebut Harga Pembekal Telah Ditutup
+
+Supplier=Pembekal
+Suppliers=Pembekal
+SupplierRef=Rujukan Pembekal
+SupplierName=Nama Pembekal
+SupplierContact=Kontak Pembekal
+
+Proposal=Sebut Harga
+Proposals=Sebut Harga
+RequestForQuotation=Permintaan Sebut Harga
+RequestForQuotations=Permintaan Sebut Harga
+Quotation=Sebut Harga
+Quotations=Sebut Harga
+
+Order=Pesanan
+Orders=Pesanan
+SupplierOrder=Pesanan Pembekal
+SupplierOrders=Pesanan Pembekal
+SupplierOrderRef=Rujukan Pesanan Pembekal
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+ProductRef=Rujukan Produk
+ProductLabel=Label Produk
+ProductDescription=Keterangan Produk
+
+Quantity=Kuantiti
+Unit=Unit
+UnitPrice=Harga Unit
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Subtotal=Subjumlah
+Discount=Diskaun
+Tax=Cukai
+TotalHT=Jumlah Tidak Termasuk Cukai
+TotalVAT=Jumlah Cukai
+TotalTTC=Jumlah Termasuk Cukai
+
+PaymentTerms=Terma Bayaran
+PaymentMode=Kaedah Bayaran
+DeliveryTime=Tempoh Serahan
+DeliveryDate=Tarikh Serahan
+DeliveryAddress=Alamat Serahan
+
+Warehouse=Stor
+Stock=Stok
+Reception=Penerimaan
+Shipment=Penghantaran
+Delivery=Serahan
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+PublicNote=Nota Awam
+PrivateNote=Nota Peribadi
+
+Draft=Draf
+Validated=Disahkan
+Accepted=Diterima
+Refused=Ditolak
+Signed=Ditandatangani
+Closed=Ditutup
+Canceled=Dibatalkan
+
+AcceptSupplierProposal=Terima Sebut Harga Pembekal
+RefuseSupplierProposal=Tolak Sebut Harga Pembekal
+SignSupplierProposal=Tandatangani Sebut Harga Pembekal
+ConvertToSupplierOrder=Tukar kepada Pesanan Pembekal
+
+NoSupplierProposal=Tiada Sebut Harga Pembekal
+NoSupplierProposalFound=Tiada Sebut Harga Pembekal Dijumpai
+SearchSupplierProposal=Cari Sebut Harga Pembekal
+SelectSupplierProposal=Pilih Sebut Harga Pembekal
