@@ -1,0 +1,98 @@
+# Dolibarr Bahasa Melayu Malaysia - Deliveries
+# Encoding: UTF-8
+
+Delivery=Serahan
+Deliveries=Serahan
+DeliveryManagement=Pengurusan Serahan
+DeliveryCard=Kad Serahan
+DeliveryList=Senarai Serahan
+DeliveryRef=Rujukan Serahan
+DeliveryDate=Tarikh Serahan
+DeliveryStatus=Status Serahan
+DeliveryAddress=Alamat Serahan
+DeliveryContact=Kontak Serahan
+DeliveryNote=Nota Serahan
+
+NewDelivery=Serahan Baharu
+CreateDelivery=Cipta Serahan
+AddDelivery=Tambah Serahan
+EditDelivery=Sunting Serahan
+ModifyDelivery=Ubah Serahan
+DeleteDelivery=Hapus Serahan
+ValidateDelivery=Sahkan Serahan
+CloseDelivery=Tutup Serahan
+ReopenDelivery=Buka Semula Serahan
+
+DeliveryCreated=Serahan Telah Dicipta
+DeliveryModified=Serahan Telah Diubah
+DeliveryValidated=Serahan Telah Disahkan
+DeliveryDeleted=Serahan Telah Dihapuskan
+DeliveryClosed=Serahan Telah Ditutup
+
+Shipment=Penghantaran
+Shipments=Penghantaran
+Shipping=Penghantaran
+ShipmentRef=Rujukan Penghantaran
+ShipmentDate=Tarikh Penghantaran
+ShipmentStatus=Status Penghantaran
+ShippingMethod=Kaedah Penghantaran
+
+Order=Pesanan
+Orders=Pesanan
+CustomerOrder=Pesanan Pelanggan
+OrderRef=Rujukan Pesanan
+OrderDate=Tarikh Pesanan
+
+Customer=Pelanggan
+Customers=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Contact=Kontak
+Contacts=Kontak
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+ProductRef=Rujukan Produk
+ProductLabel=Label Produk
+ProductDescription=Keterangan Produk
+
+Warehouse=Stor
+Warehouses=Stor
+Stock=Stok
+Stocks=Stok
+StockOut=Stok Keluar
+StockMovement=Pergerakan Stok
+
+Quantity=Kuantiti
+QuantityToDeliver=Kuantiti Untuk Diserahkan
+QuantityDelivered=Kuantiti Telah Diserahkan
+QuantityRemaining=Kuantiti Berbaki
+Unit=Unit
+Weight=Berat
+Volume=Isipadu
+Package=Pakej
+Packages=Pakej
+
+TrackingNumber=Nombor Penjejakan
+Carrier=Pengangkut
+ShippingCost=Kos Penghantaran
+ShippingFees=Fi Penghantaran
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+PublicNote=Nota Awam
+PrivateNote=Nota Peribadi
+
+Draft=Draf
+Validated=Disahkan
+Closed=Ditutup
+Canceled=Dibatalkan
+
+NoDelivery=Tiada Serahan
+NoDeliveryFound=Tiada Serahan Dijumpai
+SearchDelivery=Cari Serahan
+SelectDelivery=Pilih Serahan
