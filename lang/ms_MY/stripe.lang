@@ -1,0 +1,100 @@
+# Dolibarr Bahasa Melayu Malaysia - Stripe
+# Encoding: UTF-8
+
+Stripe=Stripe
+StripePayment=Bayaran Stripe
+StripePayments=Bayaran Stripe
+StripeModule=Modul Stripe
+StripeAccount=Akaun Stripe
+StripeCustomer=Pelanggan Stripe
+StripeTransaction=Transaksi Stripe
+StripeTransactions=Transaksi Stripe
+
+OnlinePayment=Bayaran Dalam Talian
+Payment=Bayaran
+Payments=Bayaran
+PaymentMode=Kaedah Bayaran
+PaymentMethod=Kaedah Bayaran
+PaymentStatus=Status Bayaran
+PaymentDate=Tarikh Bayaran
+PaymentRef=Rujukan Bayaran
+PaymentReference=Rujukan Bayaran
+
+NewPayment=Bayaran Baharu
+CreatePayment=Cipta Bayaran
+AddPayment=Tambah Bayaran
+ValidatePayment=Sahkan Bayaran
+CancelPayment=Batal Bayaran
+RefundPayment=Bayaran Balik
+CapturePayment=Sahkan Tangkapan Bayaran
+
+PaymentCreated=Bayaran Telah Dicipta
+PaymentValidated=Bayaran Telah Disahkan
+PaymentCanceled=Bayaran Telah Dibatalkan
+PaymentRefunded=Bayaran Telah Dikembalikan
+PaymentReceived=Bayaran Telah Diterima
+PaymentFailed=Bayaran Gagal
+
+CardPayment=Bayaran Kad
+BankCard=Kad Bank
+CreditCard=Kad Kredit
+DebitCard=Kad Debit
+CardNumber=Nombor Kad
+CardHolder=Pemegang Kad
+CardExpiryDate=Tarikh Luput Kad
+CardCvv=CVV Kad
+
+Transaction=Transaksi
+Transactions=Transaksi
+TransactionId=ID Transaksi
+TransactionRef=Rujukan Transaksi
+TransactionDate=Tarikh Transaksi
+TransactionStatus=Status Transaksi
+TransactionAmount=Jumlah Transaksi
+
+Charge=Caj
+Charges=Caj
+ChargeId=ID Caj
+ChargeAmount=Jumlah Caj
+ChargeStatus=Status Caj
+
+Refund=Bayaran Balik
+Refunds=Bayaran Balik
+RefundId=ID Bayaran Balik
+RefundAmount=Jumlah Bayaran Balik
+RefundStatus=Status Bayaran Balik
+
+Customer=Pelanggan
+Customers=Pelanggan
+CustomerRef=Rujukan Pelanggan
+CustomerName=Nama Pelanggan
+CustomerEmail=E-mel Pelanggan
+
+Invoice=Invois
+Invoices=Invois
+Order=Pesanan
+Orders=Pesanan
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Currency=Mata Wang
+
+PublicKey=Kunci Awam
+SecretKey=Kunci Rahsia
+Webhook=Webhook
+Webhooks=Webhook
+WebhookUrl=URL Webhook
+ApiKey=Kunci API
+ApiSecret=Rahsia API
+
+Succeeded=Berjaya
+Pending=Menunggu
+Failed=Gagal
+Canceled=Dibatalkan
+Refunded=Dikembalikan
+Paid=Telah Dibayar
+Unpaid=Belum Dibayar
+
+NoStripePayment=Tiada Bayaran Stripe
+NoStripePaymentFound=Tiada Bayaran Stripe Dijumpai
+SearchStripePayment=Cari Bayaran Stripe
+SelectStripePayment=Pilih Bayaran Stripe
