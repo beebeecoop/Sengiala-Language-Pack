@@ -1,0 +1,100 @@
+# Dolibarr Bahasa Melayu Malaysia - Reports
+# Encoding: UTF-8
+
+Report=Laporan
+Reports=Laporan
+ReportCard=Kad Laporan
+ReportList=Senarai Laporan
+ReportName=Nama Laporan
+ReportTitle=Tajuk Laporan
+ReportDescription=Keterangan Laporan
+ReportType=Jenis Laporan
+ReportStatus=Status Laporan
+ReportDate=Tarikh Laporan
+
+NewReport=Laporan Baharu
+CreateReport=Cipta Laporan
+AddReport=Tambah Laporan
+EditReport=Sunting Laporan
+ModifyReport=Ubah Laporan
+DeleteReport=Hapus Laporan
+ValidateReport=Sahkan Laporan
+GenerateReport=Jana Laporan
+PrintReport=Cetak Laporan
+DownloadReport=Muat Turun Laporan
+ExportReport=Eksport Laporan
+PreviewReport=Pratonton Laporan
+
+ReportCreated=Laporan Telah Dicipta
+ReportModified=Laporan Telah Diubah
+ReportValidated=Laporan Telah Disahkan
+ReportDeleted=Laporan Telah Dihapuskan
+ReportGenerated=Laporan Telah Dijana
+ReportExported=Laporan Telah Dieksport
+ReportDownloaded=Laporan Telah Dimuat Turun
+
+FinancialReport=Laporan Kewangan
+AccountingReport=Laporan Perakaunan
+SalesReport=Laporan Jualan
+PurchaseReport=Laporan Belian
+StockReport=Laporan Stok
+CustomerReport=Laporan Pelanggan
+SupplierReport=Laporan Pembekal
+ProjectReport=Laporan Projek
+UserReport=Laporan Pengguna
+ActivityReport=Laporan Aktiviti
+
+Summary=Ringkasan
+Details=Butiran
+DetailedReport=Laporan Terperinci
+SummaryReport=Laporan Ringkasan
+Dashboard=Papan Pemuka
+Statistics=Statistik
+Analysis=Analisis
+Chart=Carta
+Graph=Graf
+
+DateRange=Julat Tarikh
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+Period=Tempoh
+Month=Bulan
+Year=Tahun
+Quarter=Suku Tahun
+
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Subtotal=Subjumlah
+Total=Jumlah
+Balance=Baki
+Debit=Debit
+Credit=Kredit
+Revenue=Hasil
+Income=Pendapatan
+Expense=Perbelanjaan
+Profit=Keuntungan
+Loss=Kerugian
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Product=Produk
+Service=Perkhidmatan
+User=Pengguna
+Member=Anggota
+Invoice=Invois
+Order=Pesanan
+Project=Projek
+Contract=Kontrak
+
+PDF=PDF
+CSV=CSV
+Excel=Excel
+ExportToPDF=Eksport ke PDF
+ExportToCSV=Eksport ke CSV
+ExportToExcel=Eksport ke Excel
+
+NoReport=Tiada Laporan
+NoReportFound=Tiada Laporan Dijumpai
+SearchReport=Cari Laporan
+SelectReport=Pilih Laporan
