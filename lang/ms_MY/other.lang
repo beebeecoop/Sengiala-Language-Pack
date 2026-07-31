@@ -1,0 +1,24 @@
+# Dolibarr Bahasa Melayu Malaysia - Tools / Other
+# Sprint 15 - Real Screen Translation Coverage
+# Encoding: UTF-8
+
+Tools=Alat
+Other=Pelbagai
+ToolsArea=Ruang Alat
+AllTools=Semua Alat
+EmailTemplates=Templat E-mel
+EmailTemplate=Templat E-mel
+ImportsExports=Import / Eksport
+Imports=Import
+Exports=Eksport
+NewImport=Import Baru
+NewExport=Eksport Baru
+ExportNew=Eksport Baru
+CustomReports=Laporan Tersuai
+BICustomReports=BI - Laporan Tersuai
+BusinessIntelligence=Risikan Perniagaan
+
+AllToolsNotIncluded=Semua alat yang tidak termasuk dalam entri menu lain dikumpulkan di sini.
+AllToolsCanBeAccessed=Semua alat boleh dicapai melalui menu kiri.
+AllToolsNotIncludedInOtherMenuEntriesAreGroupedHere=Semua alat yang tidak termasuk dalam entri menu lain dikumpulkan di sini.
+AllTheToolsCanBeAccessedViaTheLeftMenu=Semua alat boleh dicapai melalui menu kiri.
