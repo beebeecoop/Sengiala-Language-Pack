@@ -2,7 +2,6 @@
 # Foundation Draft - Sprint 01
 # Encoding: UTF-8
 
-Language=Bahasa Melayu Malaysia
 LanguageCode=ms_MY
 
 Home=Laman Utama
@@ -31,7 +30,6 @@ Cancel=Batal
 Delete=Hapus
 Remove=Buang
 Close=Tutup
-Open=Buka
 Confirm=Sahkan
 Validate=Sahkan
 Submit=Hantar
@@ -170,3 +168,10 @@ CustomerInvoicesPerMonth=Invois Pelanggan mengikut bulan
 NumberOfInvoicesPerMonth=Bil. Invois mengikut bulan
 AmountOfInvoicesByMonthNetOfTax=Jumlah Invois mengikut bulan (bersih cukai)
 NoCustomerInvoicesRecorded=Tiada Invois Pelanggan direkodkan
+
+# Sprint 12 - Real Dolibarr Top Bar Keys
+MenuAccountancy=Perakaunan
+MenuECM=Dokumen
+MenuMembers=Anggota
+Documents2=Dokumen
+SearchIntoMembers=Anggota
