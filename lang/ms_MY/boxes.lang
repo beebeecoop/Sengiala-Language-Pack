@@ -29,3 +29,25 @@ DraftCommercialProposals=Sebut Harga Komersial Draf
 DraftVendorProposals=Sebut Harga Pembekal Draf
 DraftPurchaseOrders=Pesanan Pembekal Draf
 LatestModifiedProposals=%s sebut harga terakhir diubah
+
+# Sprint 14 - Dashboard Widget Variants
+BoxTitleDatabaseStatistics=Statistik Pangkalan Data
+BoxTitleDatabaseStats=Statistik Pangkalan Data
+BoxTitleCustomerInvoices=Invois Pelanggan
+BoxTitleSupplierInvoices=Invois Pembekal
+BoxTitlePurchaseOrders=Pesanan Belian
+BoxTitleVendorProposals=Sebut Harga Pembekal
+BoxTitleLastCustomerInvoices=Invois Pelanggan: %s terakhir diubah
+BoxTitleLastModifiedCustomerBills=Invois Pelanggan: %s terakhir diubah
+BoxTitleOldestUnpaidCustomerInvoices=Invois Pelanggan: %s belum bayar paling lama
+BoxTitleOldestUnpaidBills=Invois Pelanggan: %s belum bayar paling lama
+BoxLastContacts=Kenalan/Alamat Terkini
+BoxLastProspects=Prospek Terkini
+BoxLastCustomerBills=Invois Pelanggan Terkini
+BoxLastSupplierBills=Invois Pembekal Terkini
+BoxLastCustomerOrders=Pesanan Pelanggan Terkini
+BoxLastSuppliers=Pembekal Terkini
+BoxLastCustomers=Pelanggan Terkini
+BoxLastProducts=Produk/Perkhidmatan Terkini
+BoxTitleLastActionsToDo=%s tindakan perlu dibuat terakhir
+NoRecordedCustomerBills=Tiada invois pelanggan direkodkan
