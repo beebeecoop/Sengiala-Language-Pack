@@ -1,0 +1,108 @@
+# Dolibarr Bahasa Melayu Malaysia - HRM / Human Resources
+# Encoding: UTF-8
+
+HRM=Pengurusan Sumber Manusia
+HumanResources=Sumber Manusia
+HumanResourceManagement=Pengurusan Sumber Manusia
+HR=SDM
+Employee=Pekerja
+Employees=Pekerja
+Staff=Kakitangan
+Personnel=Personel
+
+EmployeeCard=Kad Pekerja
+EmployeeList=Senarai Pekerja
+EmployeeRef=Rujukan Pekerja
+EmployeeNumber=Nombor Pekerja
+EmployeeName=Nama Pekerja
+EmployeeStatus=Status Pekerja
+EmployeeType=Jenis Pekerja
+
+NewEmployee=Pekerja Baharu
+CreateEmployee=Cipta Pekerja
+AddEmployee=Tambah Pekerja
+EditEmployee=Sunting Pekerja
+ModifyEmployee=Ubah Pekerja
+DeleteEmployee=Hapus Pekerja
+ValidateEmployee=Sahkan Pekerja
+EnableEmployee=Aktifkan Pekerja
+DisableEmployee=Nyahaktifkan Pekerja
+
+EmployeeCreated=Pekerja Telah Dicipta
+EmployeeModified=Pekerja Telah Diubah
+EmployeeValidated=Pekerja Telah Disahkan
+EmployeeDeleted=Pekerja Telah Dihapuskan
+EmployeeEnabled=Pekerja Telah Diaktifkan
+EmployeeDisabled=Pekerja Telah Dinyahaktifkan
+
+ActiveEmployee=Pekerja Aktif
+InactiveEmployee=Pekerja Tidak Aktif
+FormerEmployee=Bekas Pekerja
+
+FirstName=Nama Pertama
+LastName=Nama Akhir
+FullName=Nama Penuh
+DateOfBirth=Tarikh Lahir
+Gender=Jantina
+Nationality=Kewarganegaraan
+IdentificationNumber=Nombor Pengenalan
+PassportNumber=Nombor Pasport
+
+JobTitle=Jawatan
+Position=Kedudukan
+Department=Jabatan
+Manager=Pengurus
+Supervisor=Penyelia
+Team=Pasukan
+Workplace=Tempat Kerja
+WorkLocation=Lokasi Kerja
+
+Employment=Pekerjaan
+EmploymentDate=Tarikh Mula Kerja
+HireDate=Tarikh Diambil Bekerja
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+ContractType=Jenis Kontrak
+EmploymentType=Jenis Pekerjaan
+Permanent=Tetap
+Temporary=Sementara
+PartTime=Separuh Masa
+FullTime=Sepenuh Masa
+Intern=Pelatih
+Internship=Latihan Industri
+
+Salary=Gaji
+Wage=Upah
+Allowance=Elaun
+Allowances=Elaun
+Deduction=Potongan
+Deductions=Potongan
+Payroll=Gaji
+Payslip=Penyata Gaji
+
+Leave=Cuti
+Leaves=Cuti
+Holiday=Cuti
+Holidays=Cuti
+AnnualLeave=Cuti Tahunan
+SickLeave=Cuti Sakit
+MaternityLeave=Cuti Bersalin
+PaternityLeave=Cuti Paterniti
+UnpaidLeave=Cuti Tanpa Gaji
+LeaveBalance=Baki Cuti
+
+Attendance=Kehadiran
+Absence=Ketidakhadiran
+Overtime=Kerja Lebih Masa
+WorkingHours=Waktu Bekerja
+WorkSchedule=Jadual Kerja
+
+User=Pengguna
+Users=Pengguna
+Group=Kumpulan
+Groups=Kumpulan
+
+NoEmployee=Tiada Pekerja
+NoEmployeeFound=Tiada Pekerja Dijumpai
+SearchEmployee=Cari Pekerja
+SelectEmployee=Pilih Pekerja
