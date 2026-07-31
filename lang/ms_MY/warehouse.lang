@@ -1,0 +1,98 @@
+# Dolibarr Bahasa Melayu Malaysia - Warehouse
+# Encoding: UTF-8
+
+Warehouse=Stor
+Warehouses=Stor
+Store=Stor
+Stores=Stor
+WarehouseManagement=Pengurusan Stor
+StoreManagement=Pengurusan Stor
+WarehouseCard=Kad Stor
+WarehouseList=Senarai Stor
+WarehouseRef=Rujukan Stor
+WarehouseName=Nama Stor
+WarehouseDescription=Keterangan Stor
+WarehouseStatus=Status Stor
+WarehouseType=Jenis Stor
+
+NewWarehouse=Stor Baharu
+CreateWarehouse=Cipta Stor
+AddWarehouse=Tambah Stor
+EditWarehouse=Sunting Stor
+ModifyWarehouse=Ubah Stor
+DeleteWarehouse=Hapus Stor
+ValidateWarehouse=Sahkan Stor
+EnableWarehouse=Aktifkan Stor
+DisableWarehouse=Nyahaktifkan Stor
+CloseWarehouse=Tutup Stor
+ReopenWarehouse=Buka Semula Stor
+
+WarehouseCreated=Stor Telah Dicipta
+WarehouseModified=Stor Telah Diubah
+WarehouseValidated=Stor Telah Disahkan
+WarehouseDeleted=Stor Telah Dihapuskan
+WarehouseEnabled=Stor Telah Diaktifkan
+WarehouseDisabled=Stor Telah Dinyahaktifkan
+WarehouseClosed=Stor Telah Ditutup
+
+ActiveWarehouse=Stor Aktif
+InactiveWarehouse=Stor Tidak Aktif
+DefaultWarehouse=Stor Lalai
+SourceWarehouse=Stor Sumber
+DestinationWarehouse=Stor Destinasi
+
+Location=Lokasi
+Locations=Lokasi
+StockLocation=Lokasi Stok
+StorageLocation=Lokasi Simpanan
+WarehouseLocation=Lokasi Stor
+Address=Alamat
+Town=Bandar
+PostCode=Poskod
+State=Negeri
+Country=Negara
+
+Stock=Stok
+Stocks=Stok
+Inventory=Inventori
+Product=Produk
+Products=Produk
+ProductStock=Stok Produk
+StockQuantity=Kuantiti Stok
+AvailableStock=Stok Tersedia
+ReservedStock=Stok Ditempah
+RealStock=Stok Sebenar
+VirtualStock=Stok Maya
+
+StockMovement=Pergerakan Stok
+StockMovements=Pergerakan Stok
+StockTransfer=Pindahan Stok
+StockTransfers=Pindahan Stok
+TransferToWarehouse=Pindah ke Stor
+TransferFromWarehouse=Pindah dari Stor
+MoveStock=Pindah Stok
+
+Reception=Penerimaan
+Delivery=Serahan
+Shipment=Penghantaran
+Supplier=Pembekal
+Customer=Pelanggan
+ThirdParty=Pihak Ketiga
+
+Quantity=Kuantiti
+Unit=Unit
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Value=Nilai
+TotalValue=Jumlah Nilai
+
+Lot=Lot
+Batch=Kelompok
+SerialNumber=Nombor Siri
+ExpiryDate=Tarikh Luput
+BestBeforeDate=Tarikh Baik Sebelum
+
+NoWarehouse=Tiada Stor
+NoWarehouseFound=Tiada Stor Dijumpai
+SearchWarehouse=Cari Stor
+SelectWarehouse=Pilih Stor
