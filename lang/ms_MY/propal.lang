@@ -37,3 +37,17 @@ ToAcceptRefuse=Perlu Diterima | Ditolak
 ToBill=Perlu Bil
 ToClose=Perlu Tutup
 Open=Terbuka
+
+# Sprint 14 - Commercial Proposal Screen Variants
+CommercialProposalsArea=Ruang Sebut Harga Komersial
+NewCommercialProposal=Sebut Harga Komersial Baru
+OpenPropals=Sebut Harga Terbuka
+OpenProposals=Sebut Harga Terbuka
+DraftPropals=Sebut Harga Draf
+DraftProposals=Sebut Harga Draf
+Latest3ModifiedProposals=3 sebut harga terakhir diubah
+LatestModifiedCommercialProposals=%s sebut harga komersial terakhir diubah
+NoCommercialProposal=Tiada sebut harga komersial
+NoCommercialProposals=Tiada sebut harga komersial
+ProposalStatistics=Statistik - Sebut Harga
+PropalStatistics=Statistik - Sebut Harga
