@@ -42,15 +42,15 @@ Adds fallback labels for cross-module UI text:
 - ListView=Paparan Senarai
 - MonthView=Paparan Bulan
 - AmountIncTax=Jumlah (termasuk cukai)
-- NoOpenInvoice=Tiada invois terbuka
+- NoOpenInvoice=Tiada Invois terbuka
 
 ### Accountancy
 
 Adds real screen labels for the accounting landing page and left menu:
 
 - TransferInAccounting=Pindahan ke perakaunan
-- CustomerInvoiceBinding=Pautan invois pelanggan
-- VendorInvoiceBinding=Pautan invois pembekal
+- CustomerInvoiceBinding=Pautan Invois Pelanggan
+- VendorInvoiceBinding=Pautan Invois Pembekal
 - RecordingInAccounting=Rekod dalam perakaunan
 - ExportSourceDocuments=Eksport dokumen sumber
 - ExportAccountancy=Eksport Perakaunan
@@ -73,9 +73,9 @@ Adds document screen labels:
 Adds calendar screen labels:
 
 - NewEvent=Acara Baru
-- MyIncompleteEvents=Acara belum lengkap saya
-- MyTerminatedEvents=Acara tamat saya
-- AllIncompleteEvents=Semua acara belum lengkap
+- MyIncompleteEvents=Acara saya yang belum siap
+- MyTerminatedEvents=Acara saya yang telah siap
+- AllIncompleteEvents=Semua acara yang belum siap
 - BirthdaysOfContacts=Hari lahir kenalan
 - PerUserView=Paparan Mengikut Pengguna
 
@@ -95,10 +95,10 @@ Adds invoice and payment area labels:
 
 - NewInvoice=Invois Baru
 - ListOfTemplates=Senarai Templat
-- NumberOfOpenInvoices=Bilangan invois terbuka
-- CustomerDraftInvoices=Invois pelanggan draf
-- VendorDraftInvoices=Invois pembekal draf
-- SocialFiscalTaxesToPay=Cukai sosial/fiskal perlu bayar
+- NumberOfOpenInvoices=Bilangan Invois terbuka
+- CustomerDraftInvoices=Draf Invois Pelanggan
+- VendorDraftInvoices=Draf Invois Pembekal
+- SocialFiscalTaxesToPay=Cukai Fiskal perlu bayar
 - AmountIncTax=Jumlah (termasuk cukai)
 - ModifDate=Tarikh ubah
 
