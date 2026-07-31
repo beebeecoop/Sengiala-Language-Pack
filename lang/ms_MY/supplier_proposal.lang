@@ -9,7 +9,7 @@ SupplierProposalRef=Rujukan Sebut Harga Pembekal
 SupplierProposalDate=Tarikh Sebut Harga Pembekal
 SupplierProposalStatus=Status Sebut Harga Pembekal
 
-NewSupplierProposal=Sebut Harga Pembekal Baharu
+NewSupplierProposal=Sebut Harga Pembekal Baru
 CreateSupplierProposal=Cipta Sebut Harga Pembekal
 AddSupplierProposal=Tambah Sebut Harga Pembekal
 EditSupplierProposal=Sunting Sebut Harga Pembekal
@@ -100,3 +100,11 @@ NoSupplierProposal=Tiada Sebut Harga Pembekal
 NoSupplierProposalFound=Tiada Sebut Harga Pembekal Dijumpai
 SearchSupplierProposal=Cari Sebut Harga Pembekal
 SelectSupplierProposal=Pilih Sebut Harga Pembekal
+
+# Sprint 13 - Real Screen Cleanup: Vendor Proposals
+VendorProposal=Sebut Harga Pembekal
+VendorProposals=Sebut Harga Pembekal
+NewPriceRequest=Permintaan Harga Baru
+DraftVendorProposals=Sebut Harga Pembekal Draf
+NoProposal=Tiada sebut harga
+ToClose=Perlu Tutup
