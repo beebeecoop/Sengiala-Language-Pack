@@ -22,3 +22,13 @@ AllToolsNotIncluded=Semua alat yang tidak termasuk dalam entri menu lain dikumpu
 AllToolsCanBeAccessed=Semua alat boleh dicapai melalui menu kiri.
 AllToolsNotIncludedInOtherMenuEntriesAreGroupedHere=Semua alat yang tidak termasuk dalam entri menu lain dikumpulkan di sini.
 AllTheToolsCanBeAccessedViaTheLeftMenu=Semua alat boleh dicapai melalui menu kiri.
+
+# Sprint 16 - Tools Residual Real Screen Labels
+EmailTemplates=Templat E-mel
+ImportsExports=Import / Eksport
+CustomReports=Laporan Tersuai
+BICustomReports=BI - Laporan Tersuai
+AllToolsNotIncluded=Semua Alat yang tidak termasuk dalam entri menu lain dikumpulkan di sini.
+AllToolsCanBeAccessed=Semua Alat boleh dicapai melalui menu kiri.
+AllToolsNotIncludedInOtherMenuEntriesAreGroupedHere=Semua Alat yang tidak termasuk dalam entri menu lain dikumpulkan di sini.
+AllTheToolsCanBeAccessedViaTheLeftMenu=Semua Alat boleh dicapai melalui menu kiri.
