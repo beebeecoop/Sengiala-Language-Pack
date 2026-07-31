@@ -1,0 +1,39 @@
+# Dolibarr Bahasa Melayu Malaysia - Commercial Proposals
+# Sprint 13 - Real Screen Cleanup
+# Encoding: UTF-8
+
+Proposal=Sebut Harga
+Proposals=Sebut Harga
+Propal=Sebut Harga
+Propals=Sebut Harga
+CommercialProposal=Sebut Harga Komersial
+CommercialProposals=Sebut Harga Komersial
+
+NewProposal=Sebut Harga Baru
+NewPropal=Sebut Harga Baru
+CreateProposal=Cipta Sebut Harga
+CreatePropal=Cipta Sebut Harga
+AddProposal=Tambah Sebut Harga
+AddPropal=Tambah Sebut Harga
+ProposalList=Senarai Sebut Harga
+PropalList=Senarai Sebut Harga
+
+DraftProposal=Sebut Harga Draf
+DraftPropal=Sebut Harga Draf
+DraftCommercialProposals=Sebut Harga Komersial Draf
+OpenCommercialProposals=Sebut Harga Komersial Terbuka
+LatestModifiedProposals=%s sebut harga terakhir diubah
+LatestModifiedPropals=%s sebut harga terakhir diubah
+
+NoProposal=Tiada sebut harga
+NoPropal=Tiada sebut harga
+NoProposalFound=Tiada sebut harga dijumpai
+NoPropalFound=Tiada sebut harga dijumpai
+NotEnoughData=Data tidak mencukupi
+StatisticsProposal=Statistik - Sebut Harga
+StatisticsPropal=Statistik - Sebut Harga
+
+ToAcceptRefuse=Perlu Diterima | Ditolak
+ToBill=Perlu Bil
+ToClose=Perlu Tutup
+Open=Terbuka
