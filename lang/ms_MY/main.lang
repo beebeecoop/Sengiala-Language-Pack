@@ -91,7 +91,7 @@ RecordDeleted=Rekod telah dihapuskan
 AccessDenied=Akses ditolak
 PermissionDenied=Kebenaran ditolak
 ThirdParty=Pihak Ketiga
-ThirdParties=Pihak Ketiga
+ThirdParties=Perhubungan
 Customer=Pelanggan
 Customers=Pelanggan
 Supplier=Pembekal
@@ -126,3 +126,47 @@ Phone=Telefon
 Address=Alamat
 PostCode=Poskod
 Town=Bandar
+
+# Sprint 11 - UI Navigation and Dashboard Coverage
+MyDashboard=Papan Pemuka Saya
+GlobalView=PAPARAN GLOBAL
+TopBar=Bar Atas
+SideMenu=Menu Sisi
+Navigation=Navigasi
+NavigationMenu=Menu Navigasi
+MainNavigation=Navigasi Utama
+DashboardWidgets=Widget Papan Pemuka
+Widget=Widget
+Widgets=Widget
+
+Billing=Bil
+BillingPayment=Bil | Bayaran
+BankCash=Bank | Tunai
+Commercial=Urusniaga
+CommercialArea=Ruang Urusniaga
+
+ThirdPartyNavigation=Perhubungan
+ThirdPartiesNavigation=Perhubungan
+Relationship=Perhubungan
+Relationships=Perhubungan
+
+DocumentManagement=Pengurusan Dokumen
+DMS=Dokumen
+EDM=Dokumen
+ECM=Pengurusan Kandungan
+
+ToDo=Perlu Buat
+ToAcceptRefuse=Perlu Diterima | Ditolak
+ToBill=Perlu Bil
+ToPay=Perlu Bayar
+ToValidate=Perlu Sahkan
+Unpaid=Belum Bayar
+Open=Terbuka
+Late=Lewat
+AwaitingReception=Tunggu Terima
+ContributionsToReceive=Caruman Belum Terima
+DatabaseStatistics=Statistik Pangkalan Data
+CustomerInvoicesPerMonth=Invois Pelanggan mengikut bulan
+NumberOfInvoicesPerMonth=Bil. Invois mengikut bulan
+AmountOfInvoicesByMonthNetOfTax=Jumlah Invois mengikut bulan (bersih cukai)
+NoCustomerInvoicesRecorded=Tiada Invois Pelanggan direkodkan
