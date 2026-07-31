@@ -1,11 +1,11 @@
 # Dolibarr Bahasa Melayu Malaysia - Commercial Workflow
 # Encoding: UTF-8
 
-Commercial=Komersial
-CommercialArea=Ruang Komersial
-CommercialManagement=Pengurusan Komersial
-CommercialWorkflow=Aliran Kerja Komersial
-CommercialStatus=Status Komersial
+Commercial=Urusniaga
+CommercialArea=Ruang Urusniaga
+CommercialManagement=Pengurusan Urusniaga
+CommercialWorkflow=Aliran Kerja Urusniaga
+CommercialStatus=Status Urusniaga
 
 Customer=Pelanggan
 Customers=Pelanggan
@@ -14,7 +14,7 @@ Prospects=Prospek
 Supplier=Pembekal
 Suppliers=Pembekal
 ThirdParty=Pihak Ketiga
-ThirdParties=Pihak Ketiga
+ThirdParties=Perhubungan
 Contact=Kenalan
 Contacts=Kenalan
 
@@ -26,7 +26,7 @@ SalesLead=Petunjuk Jualan
 SalesLeads=Petunjuk Jualan
 Pipeline=Saluran Jualan
 SalesPipeline=Saluran Jualan
-CommercialPipeline=Saluran Komersial
+CommercialPipeline=Saluran Urusniaga
 
 NewOpportunity=Peluang Baharu
 CreateOpportunity=Cipta Peluang
@@ -122,6 +122,21 @@ NoOpportunityFound=Tiada Peluang Dijumpai
 SearchOpportunity=Cari Peluang
 SelectOpportunity=Pilih Peluang
 
-NoCommercialRecord=Tiada Rekod Komersial
-NoCommercialRecordFound=Tiada Rekod Komersial Dijumpai
-SearchCommercialRecord=Cari Rekod Komersial
+NoCommercialRecord=Tiada Rekod Urusniaga
+NoCommercialRecordFound=Tiada Rekod Urusniaga Dijumpai
+SearchCommercialRecord=Cari Rekod Urusniaga
+
+# Sprint 11 - Commercial UI Coverage
+BusinessTransaction=Urusniaga
+BusinessTransactions=Urusniaga
+Transaction=Urusniaga
+Transactions=Urusniaga
+CommercialNavigation=Urusniaga
+CommercialModule=Modul Urusniaga
+CommercialDashboard=Papan Pemuka Urusniaga
+CommercialOverview=Gambaran Keseluruhan Urusniaga
+ToAcceptRefuse=Perlu Diterima | Ditolak
+ToBill=Perlu Bil
+ToValidate=Perlu Sahkan
+Open=Terbuka
+Unpaid=Belum Bayar
