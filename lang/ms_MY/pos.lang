@@ -1,0 +1,137 @@
+# Dolibarr Bahasa Melayu Malaysia - POS
+# Encoding: UTF-8
+
+POS=POS
+PointOfSale=POS
+PointOfSales=POS
+POSManagement=Pengurusan POS
+POSModule=Modul POS
+POSCard=Kad POS
+POSList=Senarai POS
+POSRef=Rujukan POS
+POSLabel=Label POS
+POSStatus=Status POS
+
+CashDesk=Kaunter Jualan
+CashDesks=Kaunter Jualan
+CashRegister=Daftar Tunai
+CashRegisters=Daftar Tunai
+Register=Daftar
+Registers=Daftar
+
+NewPOS=POS Baharu
+CreatePOS=Cipta POS
+AddPOS=Tambah POS
+EditPOS=Sunting POS
+ModifyPOS=Ubah POS
+DeletePOS=Hapus POS
+ValidatePOS=Sahkan POS
+OpenPOS=Buka POS
+ClosePOS=Tutup POS
+
+POSCreated=POS Telah Dicipta
+POSModified=POS Telah Diubah
+POSValidated=POS Telah Disahkan
+POSDeleted=POS Telah Dihapuskan
+POSOpened=POS Telah Dibuka
+POSClosed=POS Telah Ditutup
+
+Sale=Jualan
+Sales=Jualan
+NewSale=Jualan Baharu
+CreateSale=Cipta Jualan
+AddSale=Tambah Jualan
+EditSale=Sunting Jualan
+CancelSale=Batal Jualan
+ValidateSale=Sahkan Jualan
+SaleCreated=Jualan Telah Dicipta
+SaleValidated=Jualan Telah Disahkan
+SaleCanceled=Jualan Telah Dibatalkan
+
+Customer=Pelanggan
+Customers=Pelanggan
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+ProductRef=Rujukan Produk
+ProductLabel=Label Produk
+
+Cart=Troli
+ShoppingCart=Troli Beli-belah
+AddToCart=Tambah ke Troli
+RemoveFromCart=Keluarkan dari Troli
+EmptyCart=Kosongkan Troli
+Checkout=Daftar Keluar
+
+Receipt=Resit
+Receipts=Resit
+PrintReceipt=Cetak Resit
+EmailReceipt=E-mel Resit
+Ticket=Tiket
+Tickets=Tiket
+
+Payment=Bayaran
+Payments=Bayaran
+PaymentMode=Kaedah Bayaran
+PaymentTerm=Terma Bayaran
+CashPayment=Bayaran Tunai
+CardPayment=Bayaran Kad
+BankCard=Kad Bank
+CreditCard=Kad Kredit
+DebitCard=Kad Debit
+OnlinePayment=Bayaran Dalam Talian
+PaymentReceived=Bayaran Telah Diterima
+
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Subtotal=Subjumlah
+Discount=Diskaun
+Tax=Cukai
+TotalHT=Jumlah Tidak Termasuk Cukai
+TotalVAT=Jumlah Cukai
+TotalTTC=Jumlah Termasuk Cukai
+PaidAmount=Jumlah Dibayar
+RemainingAmount=Jumlah Berbaki
+ChangeAmount=Baki Pulangan
+
+Quantity=Kuantiti
+Unit=Unit
+UnitPrice=Harga Unit
+Price=Harga
+TotalPrice=Jumlah Harga
+
+Invoice=Invois
+Invoices=Invois
+Order=Pesanan
+Orders=Pesanan
+Warehouse=Stor
+Stock=Stok
+StockOut=Stok Keluar
+
+OpenSession=Buka Sesi
+CloseSession=Tutup Sesi
+POSSession=Sesi POS
+POSSessions=Sesi POS
+OpeningAmount=Jumlah Pembukaan
+ClosingAmount=Jumlah Penutupan
+CashCount=Kiraan Tunai
+
+Date=Tarikh
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+Paid=Telah Dibayar
+Canceled=Dibatalkan
+Closed=Ditutup
+
+NoPOS=Tiada POS
+NoPOSFound=Tiada POS Dijumpai
+NoSale=Tiada Jualan
+NoSaleFound=Tiada Jualan Dijumpai
+SearchPOS=Cari POS
+SelectPOS=Pilih POS
