@@ -1,7 +1,7 @@
 # Dolibarr Bahasa Melayu Malaysia - ECM / Document Management
 # Encoding: UTF-8
 
-ECM=ECM
+ECM=Pengurusan Kandungan
 ElectronicContentManagement=Pengurusan Kandungan Elektronik
 DocumentManagement=Pengurusan Dokumen
 DocumentStorage=Storan Dokumen
@@ -20,12 +20,12 @@ Directories=Direktori
 Attachment=Lampiran
 Attachments=Lampiran
 
-ECMDirectory=Direktori ECM
-ECMDirectories=Direktori ECM
-ECMFile=Fail ECM
-ECMFiles=Fail ECM
-ECMDocument=Dokumen ECM
-ECMDocuments=Dokumen ECM
+ECMDirectory=Direktori Pengurusan Kandungan
+ECMDirectories=Direktori Pengurusan Kandungan
+ECMFile=Fail Pengurusan Kandungan
+ECMFiles=Fail Pengurusan Kandungan
+ECMDocument=Dokumen Pengurusan Kandungan
+ECMDocuments=Dokumen Pengurusan Kandungan
 
 NewDirectory=Direktori Baharu
 CreateDirectory=Cipta Direktori
@@ -103,3 +103,25 @@ SearchFile=Cari Fail
 SearchDocument=Cari Dokumen
 SelectFile=Pilih Fail
 SelectDocument=Pilih Dokumen
+
+# Sprint 11 - ECM, DMS and EDM UI Coverage
+DMS=Dokumen
+EDM=Dokumen
+DocumentsNavigation=Dokumen
+DocumentManagementNavigation=Dokumen
+ECMNavigation=Dokumen
+ContentManagement=Pengurusan Kandungan
+ContentManagementArea=Ruang Pengurusan Kandungan
+ContentManagementDashboard=Papan Pemuka Pengurusan Kandungan
+MyDocuments=Dokumen Saya
+RecentDocuments=Dokumen Terkini
+SharedDocuments=Dokumen Dikongsi
+DocumentLibrary=Perpustakaan Dokumen
+DocumentRepository=Repositori Dokumen
+UploadDocument=Muat Naik Dokumen
+DownloadDocument=Muat Turun Dokumen
+PreviewDocument=Pratonton Dokumen
+ArchiveDocument=Arkibkan Dokumen
+ToUpload=Perlu Muat Naik
+ToDownload=Perlu Muat Turun
+ToArchive=Perlu Arkib
