@@ -1,0 +1,80 @@
+# Dolibarr Bahasa Melayu Malaysia - Notes
+# Encoding: UTF-8
+
+Note=Nota
+Notes=Nota
+NoteCard=Kad Nota
+NoteList=Senarai Nota
+NoteRef=Rujukan Nota
+NoteTitle=Tajuk Nota
+NoteContent=Kandungan Nota
+NoteDescription=Keterangan Nota
+NoteStatus=Status Nota
+NoteType=Jenis Nota
+
+NewNote=Nota Baharu
+CreateNote=Cipta Nota
+AddNote=Tambah Nota
+EditNote=Sunting Nota
+ModifyNote=Ubah Nota
+DeleteNote=Hapus Nota
+ValidateNote=Sahkan Nota
+CloseNote=Tutup Nota
+ReopenNote=Buka Semula Nota
+
+NoteCreated=Nota Telah Dicipta
+NoteModified=Nota Telah Diubah
+NoteValidated=Nota Telah Disahkan
+NoteDeleted=Nota Telah Dihapuskan
+NoteClosed=Nota Telah Ditutup
+
+PrivateNote=Nota Peribadi
+PublicNote=Nota Awam
+InternalNote=Nota Dalaman
+ExternalNote=Nota Luaran
+TechnicalNote=Nota Teknikal
+CommercialNote=Nota Komersial
+AdministrativeNote=Nota Pentadbiran
+
+AddPrivateNote=Tambah Nota Peribadi
+AddPublicNote=Tambah Nota Awam
+EditPrivateNote=Sunting Nota Peribadi
+EditPublicNote=Sunting Nota Awam
+
+Comment=Komen
+Comments=Komen
+AddComment=Tambah Komen
+EditComment=Sunting Komen
+DeleteComment=Hapus Komen
+CommentDeleted=Komen Telah Dihapuskan
+
+Description=Keterangan
+Content=Kandungan
+Subject=Subjek
+Title=Tajuk
+Date=Tarikh
+Author=Pengarang
+CreatedBy=Dicipta Oleh
+ModifiedBy=Diubah Oleh
+
+Document=Dokumen
+Documents=Dokumen
+File=Fail
+Files=Fail
+Attachment=Lampiran
+Attachments=Lampiran
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+User=Pengguna
+Project=Projek
+Proposal=Sebut Harga
+Order=Pesanan
+Invoice=Invois
+Contract=Kontrak
+
+NoNote=Tiada Nota
+NoNoteFound=Tiada Nota Dijumpai
+SearchNote=Cari Nota
+SelectNote=Pilih Nota
