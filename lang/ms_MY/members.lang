@@ -116,3 +116,13 @@ MemberStatusNoSubscription=Anggota Sah (Tiada Caruman Diperlukan)
 MemberStatusNoSubscriptionShort=Anggota Sah
 SubscriptionNotNeeded=Tiada Caruman Diperlukan
 WaitingSubscriptionShort=Menunggu
+
+# Sprint 13 - Real Screen Cleanup: Members
+MemberStatusActiveLate=Caruman Tamat
+MemberStatusActiveLateShort=Tamat
+SubscriptionLate=Lewat
+MembersListExcluded=Senarai Anggota Terkecuali
+MembersListResiliated=Senarai Penamatan Anggota
+MembersListQualified=Senarai Anggota Layak
+MembersWithSubscriptionToReceive=Anggota dengan caruman belum terima
+MembersWithSubscriptionToReceiveShort=Caruman Belum Terima
