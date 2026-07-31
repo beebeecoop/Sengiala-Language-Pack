@@ -126,3 +126,16 @@ MembersListResiliated=Senarai Penamatan Anggota
 MembersListQualified=Senarai Anggota Layak
 MembersWithSubscriptionToReceive=Anggota dengan caruman belum terima
 MembersWithSubscriptionToReceiveShort=Caruman Belum Terima
+
+# Sprint 14 - Member Table and Subscription Variants
+MemberNature=Sifat Anggota
+MemberLogin=Log Masuk Anggota
+MemberSociete=Syarikat
+DateSubscription=Tarikh Keanggotaan
+DateEndSubscription=Tarikh Tamat Keanggotaan
+EndSubscription=Tamat Keanggotaan
+WithoutSubscription=Tanpa Keanggotaan
+PaymentSubscription=Bayaran Caruman Baru
+MembersTypeSetup=Tetapan Kelas Anggota
+MembershipDuration=Tempoh Keanggotaan
+GetMembershipButtonLabel=Sertai
