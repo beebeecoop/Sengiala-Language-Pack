@@ -51,3 +51,21 @@ NoCommercialProposal=Tiada sebut harga komersial
 NoCommercialProposals=Tiada sebut harga komersial
 ProposalStatistics=Statistik - Sebut Harga
 PropalStatistics=Statistik - Sebut Harga
+
+# Sprint 16 - Commercial Proposal Capitalisation and Real Screen Residuals
+Latest3ModifiedProposals=3 Sebut Harga Terakhir Diubah
+LatestModifiedProposals=%s Sebut Harga Terakhir Diubah
+LatestModifiedPropals=%s Sebut Harga Terakhir Diubah
+LatestModifiedCommercialProposals=%s Sebut Harga Komersial Terakhir Diubah
+OpenCommercialProposals=Sebut Harga Komersial Terbuka
+DraftCommercialProposals=Sebut Harga Komersial Draf
+DraftProposal=Sebut Harga Draf
+DraftProposals=Sebut Harga Draf
+DraftPropals=Sebut Harga Draf
+NoProposal=Tiada Sebut Harga
+NoPropal=Tiada Sebut Harga
+NoCommercialProposal=Tiada Sebut Harga Komersial
+NoCommercialProposals=Tiada Sebut Harga Komersial
+NoProposalFound=Tiada Sebut Harga Dijumpai
+NoPropalFound=Tiada Sebut Harga Dijumpai
+NotEnoughData=Data Tidak Mencukupi
