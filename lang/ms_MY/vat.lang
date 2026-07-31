@@ -1,0 +1,127 @@
+# Dolibarr Bahasa Melayu Malaysia - VAT / SST
+# Encoding: UTF-8
+
+VAT=SST
+VATs=SST
+SST=SST
+GST=GST
+
+VATManagement=Pengurusan SST
+VATModule=Modul SST
+VATCard=Kad SST
+VATList=Senarai SST
+VATRef=Rujukan SST
+VATLabel=Label SST
+VATDescription=Keterangan SST
+VATStatus=Status SST
+
+VATRate=Kadar SST
+VATRates=Kadar SST
+SSTRate=Kadar SST
+GSTRate=Kadar GST
+DefaultVATRate=Kadar SST Lalai
+ReducedVATRate=Kadar SST Dikurangkan
+StandardVATRate=Kadar SST Standard
+ZeroVATRate=Kadar SST Sifar
+
+VATAmount=Jumlah SST
+SSTAmount=Jumlah SST
+GSTAmount=Jumlah GST
+TotalVAT=Jumlah SST
+TotalSST=Jumlah SST
+TotalGST=Jumlah GST
+VATBase=Asas SST
+SSTBase=Asas SST
+TaxableAmount=Jumlah Bercukai
+
+SalesTax=Cukai Jualan
+ServiceTax=Cukai Perkhidmatan
+SalesTaxRate=Kadar Cukai Jualan
+ServiceTaxRate=Kadar Cukai Perkhidmatan
+SalesTaxAmount=Jumlah Cukai Jualan
+ServiceTaxAmount=Jumlah Cukai Perkhidmatan
+
+Tax=Cukai
+Taxes=Cukai
+TaxRate=Kadar Cukai
+TaxAmount=Jumlah Cukai
+TotalTax=Jumlah Cukai
+TaxIncluded=Cukai Termasuk
+TaxExcluded=Cukai Tidak Termasuk
+TaxInclusive=Termasuk Cukai
+TaxExclusive=Tidak Termasuk Cukai
+
+VATIncluded=SST Termasuk
+VATExcluded=SST Tidak Termasuk
+VATInclusive=Termasuk SST
+VATExclusive=Tidak Termasuk SST
+
+VATExemption=Pengecualian SST
+VATExempt=Dikecualikan SST
+VATExempted=Dikecualikan SST
+NonTaxable=Tidak Bercukai
+ZeroRated=Kadar Sifar
+StandardRated=Kadar Standard
+
+NewVAT=SST Baharu
+CreateVAT=Cipta SST
+AddVAT=Tambah SST
+EditVAT=Sunting SST
+ModifyVAT=Ubah SST
+DeleteVAT=Hapus SST
+ValidateVAT=Sahkan SST
+EnableVAT=Aktifkan SST
+DisableVAT=Nyahaktifkan SST
+
+VATCreated=SST Telah Dicipta
+VATModified=SST Telah Diubah
+VATValidated=SST Telah Disahkan
+VATDeleted=SST Telah Dihapuskan
+VATEnabled=SST Telah Diaktifkan
+VATDisabled=SST Telah Dinyahaktifkan
+
+Invoice=Invois
+Invoices=Invois
+SupplierInvoice=Invois Pembekal
+SupplierInvoices=Invois Pembekal
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Subtotal=Subjumlah
+Discount=Diskaun
+Currency=Mata Wang
+
+Accounting=Perakaunan
+Account=Akaun
+Accounts=Akaun
+Journal=Jurnal
+Ledger=Lejar
+GeneralLedger=Lejar Am
+
+Declaration=Pengisytiharan
+VATDeclaration=Pengisytiharan SST
+SSTDeclaration=Pengisytiharan SST
+GSTDeclaration=Pengisytiharan GST
+DeclarationDate=Tarikh Pengisytiharan
+SubmissionDate=Tarikh Penyerahan
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+Active=Aktif
+Inactive=Tidak Aktif
+Paid=Telah Dibayar
+Unpaid=Belum Dibayar
+Canceled=Dibatalkan
+
+NoVAT=Tiada SST
+NoVATFound=Tiada SST Dijumpai
+SearchVAT=Cari SST
+SelectVAT=Pilih SST
