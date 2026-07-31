@@ -1,0 +1,111 @@
+# Dolibarr Bahasa Melayu Malaysia - Stock
+# Encoding: UTF-8
+
+Stock=Stok
+Stocks=Stok
+Inventory=Inventori
+StockManagement=Pengurusan Stok
+InventoryManagement=Pengurusan Inventori
+StockCard=Kad Stok
+StockList=Senarai Stok
+StockStatus=Status Stok
+StockValue=Nilai Stok
+StockQuantity=Kuantiti Stok
+
+Warehouse=Stor
+Warehouses=Stor
+Store=Stor
+Stores=Stor
+StockLocation=Lokasi Stok
+StorageLocation=Lokasi Simpanan
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+ProductRef=Rujukan Produk
+ProductLabel=Label Produk
+ProductDescription=Keterangan Produk
+
+StockMovement=Pergerakan Stok
+StockMovements=Pergerakan Stok
+NewStockMovement=Pergerakan Stok Baharu
+CreateStockMovement=Cipta Pergerakan Stok
+AddStockMovement=Tambah Pergerakan Stok
+EditStockMovement=Sunting Pergerakan Stok
+ModifyStockMovement=Ubah Pergerakan Stok
+DeleteStockMovement=Hapus Pergerakan Stok
+ValidateStockMovement=Sahkan Pergerakan Stok
+
+StockMovementCreated=Pergerakan Stok Telah Dicipta
+StockMovementModified=Pergerakan Stok Telah Diubah
+StockMovementValidated=Pergerakan Stok Telah Disahkan
+StockMovementDeleted=Pergerakan Stok Telah Dihapuskan
+
+StockIn=Stok Masuk
+StockOut=Stok Keluar
+StockEntry=Catatan Stok
+StockEntries=Catatan Stok
+StockTransfer=Pindahan Stok
+StockTransfers=Pindahan Stok
+StockAdjustment=Pelarasan Stok
+StockAdjustments=Pelarasan Stok
+
+IncreaseStock=Tambah Stok
+DecreaseStock=Kurangkan Stok
+TransferStock=Pindah Stok
+AdjustStock=Laras Stok
+ValidateStock=Sahkan Stok
+
+PhysicalStock=Stok Fizikal
+TheoreticalStock=Stok Teori
+AvailableStock=Stok Tersedia
+ReservedStock=Stok Ditempah
+RealStock=Stok Sebenar
+VirtualStock=Stok Maya
+
+MinimumStock=Stok Minimum
+MaximumStock=Stok Maksimum
+AlertStock=Amaran Stok
+StockAlert=Amaran Stok
+OutOfStock=Kehabisan Stok
+LowStock=Stok Rendah
+InStock=Ada Stok
+
+Quantity=Kuantiti
+Unit=Unit
+UnitPrice=Harga Unit
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Value=Nilai
+TotalValue=Jumlah Nilai
+
+Lot=Lot
+Batch=Kelompok
+SerialNumber=Nombor Siri
+ExpiryDate=Tarikh Luput
+BestBeforeDate=Tarikh Baik Sebelum
+
+Reception=Penerimaan
+Delivery=Serahan
+Shipment=Penghantaran
+Supplier=Pembekal
+Customer=Pelanggan
+ThirdParty=Pihak Ketiga
+
+InventoryDate=Tarikh Inventori
+StockDate=Tarikh Stok
+MovementDate=Tarikh Pergerakan
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Reason=Sebab
+
+NoStock=Tiada Stok
+NoStockFound=Tiada Stok Dijumpai
+NoStockMovement=Tiada Pergerakan Stok
+NoStockMovementFound=Tiada Pergerakan Stok Dijumpai
+SearchStock=Cari Stok
+SelectStock=Pilih Stok
+SearchStockMovement=Cari Pergerakan Stok
+SelectStockMovement=Pilih Pergerakan Stok
