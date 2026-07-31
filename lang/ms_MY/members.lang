@@ -54,3 +54,25 @@ MemberExcluded=Anggota Dikecualikan
 ValidateMember=Sahkan Anggota
 TerminateMembership=Tamatkan Keanggotaan
 RenewMembership=Perbaharui Keanggotaan
+
+# Sprint 11 - Membership UI Coverage
+MembershipDashboard=Papan Pemuka Keanggotaan
+MembershipOverview=Gambaran Keseluruhan Keanggotaan
+MembershipArea=Ruang Keanggotaan
+MembershipModule=Modul Keanggotaan
+MemberDashboard=Papan Pemuka Anggota
+MemberOverview=Gambaran Keseluruhan Anggota
+MemberManagement=Pengurusan Anggota
+MembershipManagement=Pengurusan Keanggotaan
+ActiveMembers=Anggota Aktif
+InactiveMembers=Anggota Tidak Aktif
+ValidatedMembers=Anggota Disahkan
+MembersToValidate=Anggota Perlu Disahkan
+MembershipToRenew=Keanggotaan Perlu Diperbaharui
+ContributionsToReceive=Caruman Belum Terima
+SubscriptionsToReceive=Caruman Anggota Belum Terima
+MembershipFeesToReceive=Fi Masuk Belum Terima
+ShareCapitalDashboard=Papan Pemuka Modal Syer
+DividendDashboard=Papan Pemuka Dividen
+PatronageBonusDashboard=Papan Pemuka Bonus Langganan
+BonusShareDashboard=Papan Pemuka Syer Bonus
