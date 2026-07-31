@@ -90,3 +90,21 @@ LastModifiedThirdParties=%s perhubungan terakhir diubah
 ProspectsByStatus=Prospek mengikut status
 ThirdPartyProspects=Prospek
 ThirdPartyProspectsStats=Prospek
+
+# Sprint 16 - Third Party Real Screen Residual Labels
+ThirdPartiesContacts=Pihak Ketiga/Kenalan
+ThirdPartiesAndContacts=Pihak Ketiga/Kenalan
+NewThirdParty=Pihak Ketiga Baru
+NewProspect=Prospek Baru
+NewCustomer=Pelanggan Baru
+NewVendor=Pembekal Baru
+NewContactAddress=Kenalan/Alamat Baru
+NewContact=Kenalan Baru
+Other=Lain-lain
+TotalNumberOfThirdParties=Jumlah Bilangan Pihak Ketiga
+ThirdPartyStats=Statistik Pihak Ketiga
+ContactsAddresses=Kenalan/Alamat
+Prospect=Prospek
+Customer=Pelanggan
+Supplier=Pembekal
+Vendor=Pembekal
