@@ -95,3 +95,21 @@ NoUser=Tiada Pengguna
 NoUserFound=Tiada Pengguna Dijumpai
 SearchUser=Cari Pengguna
 SelectUser=Pilih Pengguna
+
+# Sprint 11 - Users UI Coverage
+UserDashboard=Papan Pemuka Pengguna
+UserOverview=Gambaran Keseluruhan Pengguna
+UserArea=Ruang Pengguna
+UserModule=Modul Pengguna
+UserManagement=Pengurusan Pengguna
+UsersManagement=Pengurusan Pengguna
+ActiveUsers=Pengguna Aktif
+InactiveUsers=Pengguna Tidak Aktif
+DisabledUsers=Pengguna Dinyahaktifkan
+UsersToValidate=Pengguna Perlu Disahkan
+UserSecurity=Keselamatan Pengguna
+UserPermissions=Kebenaran Pengguna
+UserRoles=Peranan Pengguna
+LoginDashboard=Papan Pemuka Log Masuk
+PasswordManagement=Pengurusan Kata Laluan
+PasswordPolicy=Polisi Kata Laluan
