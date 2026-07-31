@@ -1,4 +1,5 @@
 # Dolibarr Bahasa Melayu Malaysia - Agenda / Events
+# Enhanced - Sprint 09
 # Encoding: UTF-8
 
 Agenda=Agenda
@@ -44,9 +45,32 @@ Call=Panggilan
 Calls=Panggilan
 Task=Tugasan
 Tasks=Tugasan
+Todo=Tugasan
+TodoList=Senarai Tugasan
+Deadline=Tarikh Akhir
+
 Reminder=Peringatan
 Reminders=Peringatan
-Deadline=Tarikh Akhir
+AddReminder=Tambah Peringatan
+ReminderDate=Tarikh Peringatan
+ReminderTime=Masa Peringatan
+ReminderBeforeEvent=Peringatan Sebelum Acara
+ReminderSent=Peringatan Telah Dihantar
+
+Notification=Pemberitahuan
+Notifications=Pemberitahuan
+Notify=Maklumkan
+NotifyUser=Maklumkan Pengguna
+NotifyUsers=Maklumkan Pengguna
+NotificationSent=Pemberitahuan Telah Dihantar
+NotificationSettings=Tetapan Pemberitahuan
+
+Alert=Amaran
+Alerts=Amaran
+AlertDate=Tarikh Amaran
+AlertTime=Masa Amaran
+SendAlert=Hantar Amaran
+AlertSent=Amaran Telah Dihantar
 
 StartDate=Tarikh Mula
 EndDate=Tarikh Tamat
@@ -73,6 +97,10 @@ Closed=Ditutup
 Late=Lewat
 Overdue=Tertunggak
 
+HighPriority=Keutamaan Tinggi
+MediumPriority=Keutamaan Sederhana
+LowPriority=Keutamaan Rendah
+
 Customer=Pelanggan
 Supplier=Pembekal
 ThirdParty=Pihak Ketiga
@@ -81,23 +109,47 @@ Contacts=Kenalan
 User=Pengguna
 Users=Pengguna
 AssignedTo=Ditugaskan Kepada
+AssignedUsers=Pengguna Ditugaskan
 ResponsibleUser=Pengguna Bertanggungjawab
+Organizer=Penganjur
+Participant=Peserta
+Participants=Peserta
+Attendee=Peserta
+Attendees=Peserta
 
 Project=Projek
 Projects=Projek
+ProjectTask=Tugasan Projek
 Proposal=Sebut Harga
 Order=Pesanan
 Invoice=Invois
 Contract=Kontrak
 
 Calendar=Kalendar
+Calendars=Kalendar
 CalendarView=Paparan Kalendar
 DayView=Paparan Hari
 WeekView=Paparan Minggu
 MonthView=Paparan Bulan
+ListView=Paparan Senarai
 Today=Hari Ini
 Tomorrow=Esok
 Yesterday=Semalam
+
+RecurringEvent=Acara Berulang
+RecurringEvents=Acara Berulang
+Recurrence=Pengulangan
+Repeat=Ulang
+RepeatEvery=Ulang Setiap
+Daily=Harian
+Weekly=Mingguan
+Monthly=Bulanan
+Yearly=Tahunan
+
+PublicEvent=Acara Awam
+PrivateEvent=Acara Peribadi
+InternalEvent=Acara Dalaman
+ExternalEvent=Acara Luaran
 
 NoEvent=Tiada Acara
 NoEventFound=Tiada Acara Dijumpai
