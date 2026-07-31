@@ -182,3 +182,18 @@ NActionsLate=%s lewat
 Late=Lewat
 LateDesc=Item ditakrifkan sebagai lewat berdasarkan konfigurasi sistem dalam menu Laman Utama - Tetapan - Amaran.
 NoItemLate=Tiada item lewat
+
+# Sprint 13 - Real Screen Cleanup: Generic UI
+New=Baru
+Statistics=Statistik
+FirstName=Nama Pertama
+LastName=Nama Akhir
+Societe=Syarikat
+Login=Log Masuk
+NatureOfMember=Sifat Anggota
+EndDate=Tarikh Tamat
+Statut=Status
+ToClose=Perlu Tutup
+NoContactsRecorded=Tiada kenalan direkodkan
+NoProposal=Tiada sebut harga
+NotEnoughData=Data tidak mencukupi
