@@ -11,13 +11,14 @@ This sprint improves the visible Dolibarr interface areas that still show mixed 
 Sprint 11 focuses on:
 
 - Top bar navigation
-- Side menu labels
+- Side menu labels for all major modules
 - Dashboard widgets
 - Widget titles
 - Widget action links
 - Widget empty-state messages
 - Chart labels
 - Status labels
+- DMS / EDM / Documents interface
 - Common UI labels that appear across modules
 
 ## UI-Driven Translation Direction
@@ -32,13 +33,19 @@ The priority is what users actually see after installation.
 
 ### 1. Top Bar
 
-Examples to standardise:
+Approved UI direction:
 
-- Members → Anggota
-- Billing | Payment → Bil | Bayaran
-- Accounting → Perakaunan
-- Tools → Alat
 - Home → Laman Utama
+- Members → Anggota
+- Third Parties → Perhubungan
+- Commercial → Urusniaga
+- Billing | Payment → Bil | Bayaran
+- Bank | Cash → Bank | Tunai
+- Accounting → Perakaunan
+- Agenda → Agenda
+- Documents / DMS / EDM → Dokumen
+- Tools → Alat
+- SengialaSuite → SengialaSuite
 
 ### 2. Side Menu
 
@@ -48,6 +55,10 @@ Examples to standardise:
 - Admin Tools → Alat Pentadbiran
 - Users & Groups → Pengguna & Kumpulan
 - Settings / Setup → Tetapan
+- Documents → Dokumen
+- Files → Fail
+- Attachments → Lampiran
+- Folders → Folder
 
 ### 3. Dashboard Widgets
 
@@ -70,6 +81,26 @@ Examples to standardise:
 - Amount of invoices by month (net of tax) → Jumlah invois mengikut bulan (bersih cukai)
 - No customer invoices recorded → Tiada invois pelanggan direkodkan
 
+## UI Navigation Terminology Decision
+
+Sprint 11 introduces a UI navigation distinction between visible menu labels and technical entity labels.
+
+Approved decisions:
+
+- Third Parties → Perhubungan
+- Third Party → Pihak Ketiga
+- Commercial → Urusniaga
+- Documents / DMS / EDM → Dokumen
+- Document Management → Pengurusan Dokumen
+- ECM → Pengurusan Kandungan
+
+Explanation:
+
+- `Perhubungan` is preferred for top bar and user-facing navigation.
+- `Pihak Ketiga` remains valid for technical entity records and forms.
+- `Urusniaga` is preferred over `Komersial` for business workflow navigation.
+- `Dokumen` is preferred for visible DMS / EDM / Documents module navigation.
+
 ## Candidate Files
 
 Sprint 11 may enhance the following files:
@@ -90,6 +121,9 @@ Sprint 11 may enhance the following files:
 - `lang/ms_MY/agenda.lang`
 - `lang/ms_MY/reports.lang`
 - `lang/ms_MY/projects.lang`
+- `lang/ms_MY/documents.lang`
+- `lang/ms_MY/files.lang`
+- `lang/ms_MY/ecm.lang`
 
 ## Controlled Terminology Reminder
 
