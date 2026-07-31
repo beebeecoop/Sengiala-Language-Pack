@@ -148,3 +148,31 @@ Open=Terbuka
 # Sprint 12 - Real Invoice Dashboard Graph Keys
 NumberOfBillsByMonth=Bil. Invois mengikut bulan
 AmountOfBillsByMonthHT=Jumlah Invois mengikut bulan (bersih cukai)
+
+# Sprint 15 - Billing and Payment Real Screen Labels
+NewInvoice=Invois Baru
+NewBill=Invois Baru
+ListOfTemplates=Senarai Templat
+InvoiceTemplates=Templat Invois
+NumberOfOpenInvoices=Bilangan invois terbuka
+NumberOfOpenCustomerInvoices=Bilangan invois pelanggan terbuka
+NumberOfOpenSupplierInvoices=Bilangan invois pembekal terbuka
+NoOpenInvoice=Tiada invois terbuka
+NoInvoice=Tiada invois
+CustomerDraftInvoices=Invois pelanggan draf
+VendorDraftInvoices=Invois pembekal draf
+SupplierDraftInvoices=Invois pembekal draf
+LatestModifiedCustomerInvoices=Invois pelanggan terakhir diubah
+LatestModifiedSupplierInvoices=Invois pembekal terakhir diubah
+LatestModifiedVendorInvoices=Invois pembekal terakhir diubah
+AmountIncTax=Jumlah (termasuk cukai)
+AmountInclTax=Jumlah (termasuk cukai)
+ModifiedDate=Tarikh ubah
+ModifDate=Tarikh ubah
+DueDate=Tarikh matang
+SocialFiscalTaxesToPay=Cukai sosial/fiskal perlu bayar
+SocialFiscalTaxes=Cukai sosial/fiskal
+TaxesSpecialExpenses=Cukai | Belanja khas
+SalesTax=Cukai Jualan
+SpecialExpenses=Belanja khas
+None=Tiada
