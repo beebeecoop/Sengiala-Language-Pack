@@ -1,0 +1,106 @@
+# Dolibarr Bahasa Melayu Malaysia - Export
+# Encoding: UTF-8
+
+Export=Eksport
+Exports=Eksport
+ExportData=Eksport Data
+ExportFile=Eksport Fail
+ExportFiles=Eksport Fail
+ExportModule=Modul Eksport
+ExportWizard=Wizard Eksport
+ExportProcess=Proses Eksport
+ExportResult=Keputusan Eksport
+ExportStatus=Status Eksport
+
+NewExport=Eksport Baharu
+CreateExport=Cipta Eksport
+StartExport=Mulakan Eksport
+RunExport=Jalankan Eksport
+ValidateExport=Sahkan Eksport
+CancelExport=Batalkan Eksport
+DeleteExport=Hapus Eksport
+RetryExport=Cuba Semula Eksport
+
+ExportCreated=Eksport Telah Dicipta
+ExportStarted=Eksport Telah Dimulakan
+ExportCompleted=Eksport Telah Selesai
+ExportValidated=Eksport Telah Disahkan
+ExportCanceled=Eksport Telah Dibatalkan
+ExportDeleted=Eksport Telah Dihapuskan
+ExportFailed=Eksport Gagal
+
+File=Fail
+Files=Fail
+FileName=Nama Fail
+FileType=Jenis Fail
+FileSize=Saiz Fail
+FilePath=Laluan Fail
+DownloadFile=Muat Turun Fail
+SelectFile=Pilih Fail
+
+CSVFile=Fail CSV
+ExcelFile=Fail Excel
+PDFFile=Fail PDF
+Spreadsheet=Hamparan
+Delimiter=Pemisah
+Separator=Pemisah
+Encoding=Pengekodan
+HeaderLine=Baris Pengepala
+
+Field=Medan
+Fields=Medan
+Column=Lajur
+Columns=Lajur
+Mapping=Pemetaan
+FieldMapping=Pemetaan Medan
+ColumnMapping=Pemetaan Lajur
+SelectedFields=Medan Dipilih
+AvailableFields=Medan Tersedia
+
+Filter=Penapis
+Filters=Penapis
+ExportFilter=Penapis Eksport
+DateRange=Julat Tarikh
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+
+Rows=Baris
+Row=Baris
+Records=Rekod
+Record=Rekod
+ExportedRecords=Rekod Dieksport
+SkippedRecords=Rekod Dilangkau
+TotalRecords=Jumlah Rekod
+NumberOfRecords=Bilangan Rekod
+
+Preview=Pratonton
+PreviewData=Pratonton Data
+CheckData=Semak Data
+ValidateData=Sahkan Data
+ExportPreview=Pratonton Eksport
+ExportValidation=Pengesahan Eksport
+
+Error=Ralat
+Errors=Ralat
+Warning=Amaran
+Warnings=Amaran
+ExportError=Ralat Eksport
+ExportErrors=Ralat Eksport
+InvalidData=Data Tidak Sah
+InvalidFormat=Format Tidak Sah
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Product=Produk
+Service=Perkhidmatan
+User=Pengguna
+Member=Anggota
+Invoice=Invois
+Order=Pesanan
+Project=Projek
+
+NoExport=Tiada Eksport
+NoExportFound=Tiada Eksport Dijumpai
+SearchExport=Cari Eksport
+SelectExport=Pilih Eksport
