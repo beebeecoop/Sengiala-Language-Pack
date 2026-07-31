@@ -125,3 +125,21 @@ ArchiveDocument=Arkibkan Dokumen
 ToUpload=Perlu Muat Naik
 ToDownload=Perlu Muat Turun
 ToArchive=Perlu Arkib
+
+# Sprint 15 - DMS/ECM Real Screen Labels
+DmsEcmArea=Ruang DMS/ECM
+DMSECM=Dokumen
+DMSEcmArea=Ruang DMS/ECM
+ManualDirectories=Direktori Manual
+ObjectDirectories=Direktori Objek
+ManualDirectory=Direktori Manual
+ObjectDirectory=Direktori Objek
+SelectDirectoryInTree=Pilih direktori dalam pokok...
+SelectADirectoryInTheTree=Pilih direktori dalam pokok...
+Shared=Dikongsi
+Size=Saiz
+Date=Tarikh
+DocumentSize=Saiz
+DocumentDate=Tarikh
+DocumentShared=Dikongsi
+Refresh=Segar Semula
