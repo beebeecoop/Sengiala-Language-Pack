@@ -1,0 +1,103 @@
+# Dolibarr Bahasa Melayu Malaysia - PDF
+# Encoding: UTF-8
+
+PDF=PDF
+PDFDocument=Dokumen PDF
+PDFDocuments=Dokumen PDF
+PDFFile=Fail PDF
+PDFFiles=Fail PDF
+PDFTemplate=Templat PDF
+PDFTemplates=Templat PDF
+PDFModel=Model PDF
+PDFModels=Model PDF
+
+GeneratePDF=Jana PDF
+RegeneratePDF=Jana Semula PDF
+DownloadPDF=Muat Turun PDF
+PrintPDF=Cetak PDF
+PreviewPDF=Pratonton PDF
+OpenPDF=Buka PDF
+DeletePDF=Hapus PDF
+AttachPDF=Lampirkan PDF
+SendPDF=Hantar PDF
+EmailPDF=E-mel PDF
+
+PDFGenerated=PDF Telah Dijana
+PDFRegenerated=PDF Telah Dijana Semula
+PDFDownloaded=PDF Telah Dimuat Turun
+PDFDeleted=PDF Telah Dihapuskan
+PDFAttached=PDF Telah Dilampirkan
+PDFSent=PDF Telah Dihantar
+
+Document=Dokumen
+Documents=Dokumen
+File=Fail
+Files=Fail
+Attachment=Lampiran
+Attachments=Lampiran
+
+Header=Pengepala
+Footer=Pengaki
+Page=Halaman
+Pages=Halaman
+PageNumber=Nombor Halaman
+TotalPages=Jumlah Halaman
+PrintDate=Tarikh Cetak
+DocumentDate=Tarikh Dokumen
+
+Title=Tajuk
+Subject=Subjek
+Author=Pengarang
+Creator=Pencipta
+Keywords=Kata Kunci
+Description=Keterangan
+
+Invoice=Invois
+Invoices=Invois
+Order=Pesanan
+Orders=Pesanan
+Proposal=Sebut Harga
+Proposals=Sebut Harga
+Contract=Kontrak
+Contracts=Kontrak
+Project=Projek
+Projects=Projek
+Report=Laporan
+Reports=Laporan
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+User=Pengguna
+Member=Anggota
+
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Subtotal=Subjumlah
+Total=Jumlah
+TotalHT=Jumlah Tidak Termasuk Cukai
+TotalVAT=Jumlah Cukai
+TotalTTC=Jumlah Termasuk Cukai
+Tax=Cukai
+Discount=Diskaun
+
+Reference=Rujukan
+Date=Tarikh
+DueDate=Tarikh Matang
+PaymentTerms=Terma Bayaran
+PaymentMode=Kaedah Bayaran
+Notes=Nota
+PublicNote=Nota Awam
+PrivateNote=Nota Peribadi
+
+Signature=Tandatangan
+Stamp=Cop
+GeneratedBy=Dijana Oleh
+ValidatedBy=Disahkan Oleh
+PrintedBy=Dicetak Oleh
+
+NoPDF=Tiada PDF
+NoPDFFile=Tiada Fail PDF
+NoPDFGenerated=Tiada PDF Dijana
+PDFGenerationFailed=Penjanaan PDF Gagal
+PDFGenerationSuccessful=Penjanaan PDF Berjaya
