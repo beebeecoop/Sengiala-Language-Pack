@@ -153,3 +153,25 @@ Filter=Tapis
 Sort=Susun
 Export=Eksport
 Import=Import
+
+# Sprint 11 - Administration UI Coverage
+AdministrationDashboard=Papan Pemuka Pentadbiran
+AdministrationOverview=Gambaran Keseluruhan Pentadbiran
+AdministrationArea=Ruang Pentadbiran
+AdminDashboard=Papan Pemuka Pentadbir
+AdminOverview=Gambaran Keseluruhan Pentadbir
+SetupDashboard=Papan Pemuka Tetapan
+ConfigurationDashboard=Papan Pemuka Konfigurasi
+SystemDashboard=Papan Pemuka Sistem
+SystemOverview=Gambaran Keseluruhan Sistem
+ModuleDashboard=Papan Pemuka Modul
+ModuleOverview=Gambaran Keseluruhan Modul
+UserAdministration=Pentadbiran Pengguna
+GroupAdministration=Pentadbiran Kumpulan
+PermissionAdministration=Pentadbiran Kebenaran
+SecurityDashboard=Papan Pemuka Keselamatan
+SecurityOverview=Gambaran Keseluruhan Keselamatan
+SystemTools=Alat Sistem
+AdminTools=Alat Pentadbiran
+About=Tentang
+AboutDolibarr=Tentang Dolibarr
