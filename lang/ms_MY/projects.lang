@@ -186,3 +186,26 @@ NoTask=Tiada Tugasan
 NoTaskFound=Tiada Tugasan Dijumpai
 SearchTask=Cari Tugasan
 SelectTask=Pilih Tugasan
+
+# Sprint 11 - Projects UI Coverage
+ProjectArea=Ruang Projek
+ProjectWidget=Widget Projek
+ProjectWidgets=Widget Projek
+ProjectTaskDashboard=Papan Pemuka Tugasan Projek
+ProjectTaskOverview=Gambaran Keseluruhan Tugasan Projek
+ProjectTaskManagement=Pengurusan Tugasan Projek
+TaskDashboard=Papan Pemuka Tugasan
+TaskOverview=Gambaran Keseluruhan Tugasan
+TaskManagement=Pengurusan Tugasan
+MilestoneDashboard=Papan Pemuka Batu Penanda
+MilestoneOverview=Gambaran Keseluruhan Batu Penanda
+MilestoneManagement=Pengurusan Batu Penanda
+OpenProjects=Projek Terbuka
+ClosedProjects=Projek Ditutup
+ProjectsToValidate=Projek Perlu Disahkan
+TasksToDo=Tugasan Perlu Buat
+TasksToValidate=Tugasan Perlu Disahkan
+OpenTasks=Tugasan Terbuka
+ClosedTasks=Tugasan Ditutup
+OverdueTasks=Tugasan Tertunggak
+UpcomingMilestones=Batu Penanda Akan Datang
