@@ -50,11 +50,11 @@ Use the approved terminology from previous sprints:
 
 Initial terminology direction:
 
-- Manufacturing → Pembuatan
+- Manufacturing → Pengilangan
 - Bill of Materials → Bil Bahan
 - BOM → BOM
 - MRP → MRP
-- Manufacturing Order → Arahan Pembuatan
+- Manufacturing Order → Arahan Pengilangan
 - Work Order → Arahan Kerja
 - Workstation → Stesen Kerja
 - Operation → Operasi
