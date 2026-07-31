@@ -1,0 +1,147 @@
+# Dolibarr Bahasa Melayu Malaysia - Module Builder
+# Encoding: UTF-8
+
+ModuleBuilder=Pembina Modul
+ModuleBuilderManagement=Pengurusan Pembina Modul
+ModuleBuilderModule=Modul Pembina Modul
+ModuleBuilderSetup=Tetapan Pembina Modul
+ModuleBuilderConfiguration=Konfigurasi Pembina Modul
+
+Module=Modul
+Modules=Modul
+NewModule=Modul Baharu
+CreateModule=Cipta Modul
+AddModule=Tambah Modul
+EditModule=Sunting Modul
+ModifyModule=Ubah Modul
+DeleteModule=Hapus Modul
+EnableModule=Aktifkan Modul
+DisableModule=Nyahaktifkan Modul
+
+ModuleCreated=Modul Telah Dicipta
+ModuleModified=Modul Telah Diubah
+ModuleDeleted=Modul Telah Dihapuskan
+ModuleEnabled=Modul Telah Diaktifkan
+ModuleDisabled=Modul Telah Dinyahaktifkan
+
+Object=Objek
+Objects=Objek
+NewObject=Objek Baharu
+CreateObject=Cipta Objek
+AddObject=Tambah Objek
+EditObject=Sunting Objek
+ModifyObject=Ubah Objek
+DeleteObject=Hapus Objek
+
+Field=Medan
+Fields=Medan
+NewField=Medan Baharu
+CreateField=Cipta Medan
+AddField=Tambah Medan
+EditField=Sunting Medan
+ModifyField=Ubah Medan
+DeleteField=Hapus Medan
+FieldLabel=Label Medan
+FieldName=Nama Medan
+FieldType=Jenis Medan
+FieldValue=Nilai Medan
+RequiredField=Medan Diperlukan
+OptionalField=Medan Pilihan
+
+Permission=Kebenaran
+Permissions=Kebenaran
+AccessRight=Hak Akses
+AccessRights=Hak Akses
+User=Pengguna
+Users=Pengguna
+Group=Kumpulan
+Groups=Kumpulan
+Role=Peranan
+Roles=Peranan
+
+Menu=Menu
+Menus=Menu
+MainMenu=Menu Utama
+LeftMenu=Menu Kiri
+MenuTitle=Tajuk Menu
+MenuPosition=Kedudukan Menu
+
+Page=Halaman
+Pages=Halaman
+ListPage=Halaman Senarai
+CardPage=Halaman Kad
+CreatePage=Cipta Halaman
+EditPage=Sunting Halaman
+
+Code=Kod
+SourceCode=Kod Sumber
+GeneratedCode=Kod Dijana
+GenerateCode=Jana Kod
+RegenerateCode=Jana Semula Kod
+Build=Bina
+Rebuild=Bina Semula
+
+Class=Kelas
+Method=Kaedah
+Function=Fungsi
+Property=Sifat
+Template=Templat
+Templates=Templat
+File=Fail
+Files=Fail
+Directory=Direktori
+Folder=Folder
+
+Database=Pangkalan Data
+Table=Jadual
+Tables=Jadual
+Column=Lajur
+Columns=Lajur
+Index=Indeks
+Indexes=Indeks
+
+Configuration=Konfigurasi
+Setup=Tetapan
+Parameter=Parameter
+Parameters=Parameter
+AdvancedSettings=Tetapan Lanjutan
+
+Status=Status
+Active=Aktif
+Inactive=Tidak Aktif
+Draft=Draf
+Enabled=Diaktifkan
+Disabled=Dinyahaktifkan
+Validated=Disahkan
+
+Save=Simpan
+Cancel=Batal
+Apply=Guna
+Validate=Sahkan
+Modify=Ubah
+Edit=Sunting
+Delete=Hapus
+Update=Kemas Kini
+Refresh=Segar Semula
+Reset=Tetap Semula
+
+Created=Dicipta
+Modified=Diubah
+Updated=Dikemas Kini
+Deleted=Dihapuskan
+
+Description=Keterangan
+Label=Label
+Reference=Rujukan
+Name=Nama
+Title=Tajuk
+Note=Nota
+
+NoModule=Tiada Modul
+NoModuleFound=Tiada Modul Dijumpai
+SearchModule=Cari Modul
+SelectModule=Pilih Modul
+NoObject=Tiada Objek
+NoObjectFound=Tiada Objek Dijumpai
+NoField=Tiada Medan
+NoFieldFound=Tiada Medan Dijumpai
