@@ -250,3 +250,18 @@ NoInvoice=Tiada invois
 NoOpenInvoice=Tiada invois terbuka
 EmailTemplates=Templat E-mel
 CustomReports=Laporan Tersuai
+
+# Sprint 15 - Bank and Operational Fallback Labels
+DepositSlip=Slip Deposit
+DepositSlips=Slip Deposit
+DepositsSlip=Slip Deposit
+DepositsSlips=Slip Deposit
+Opened=Dibuka
+StatusOpened=Dibuka
+Balance=Baki
+AccountingCode=Kod Perakaunan
+AccountingCodeForJournal=Kod Jurnal Perakaunan
+InternalTransfer=Pindahan Dalaman
+NewFinancialAccount=Akaun Kewangan Baru
+BankTransactionList=Senarai Catatan Bank
+BankCategoryTransactionList=Senarai Catatan/Kategori
