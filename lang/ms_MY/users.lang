@@ -1,0 +1,97 @@
+# Dolibarr Bahasa Melayu Malaysia - Users
+# Encoding: UTF-8
+
+User=Pengguna
+Users=Pengguna
+UserCard=Kad Pengguna
+UserList=Senarai Pengguna
+UserRef=Rujukan Pengguna
+UserName=Nama Pengguna
+Username=Nama Pengguna
+Login=Log Masuk
+Logout=Log Keluar
+LoginName=Nama Log Masuk
+UserLogin=Log Masuk Pengguna
+
+NewUser=Pengguna Baharu
+CreateUser=Cipta Pengguna
+AddUser=Tambah Pengguna
+EditUser=Sunting Pengguna
+ModifyUser=Ubah Pengguna
+DeleteUser=Hapus Pengguna
+ValidateUser=Sahkan Pengguna
+DisableUser=Nyahaktifkan Pengguna
+EnableUser=Aktifkan Pengguna
+CloneUser=Salin Pengguna
+
+UserCreated=Pengguna Telah Dicipta
+UserModified=Pengguna Telah Diubah
+UserValidated=Pengguna Telah Disahkan
+UserDeleted=Pengguna Telah Dihapuskan
+UserEnabled=Pengguna Telah Diaktifkan
+UserDisabled=Pengguna Telah Dinyahaktifkan
+
+ActiveUser=Pengguna Aktif
+InactiveUser=Pengguna Tidak Aktif
+DisabledUser=Pengguna Dinyahaktifkan
+AdminUser=Pengguna Pentadbir
+SuperAdmin=Pentadbir Utama
+Administrator=Pentadbir
+Administrators=Pentadbir
+
+FirstName=Nama Pertama
+LastName=Nama Akhir
+FullName=Nama Penuh
+Email=E-mel
+EmailAddress=Alamat E-mel
+Phone=Telefon
+Mobile=Telefon Bimbit
+JobTitle=Jawatan
+Position=Kedudukan
+Department=Jabatan
+
+Password=Kata Laluan
+NewPassword=Kata Laluan Baharu
+CurrentPassword=Kata Laluan Semasa
+ConfirmPassword=Sahkan Kata Laluan
+ChangePassword=Tukar Kata Laluan
+ResetPassword=Tetap Semula Kata Laluan
+PasswordChanged=Kata Laluan Telah Ditukar
+PasswordReset=Kata Laluan Telah Ditetapkan Semula
+PasswordRequired=Kata Laluan Diperlukan
+InvalidPassword=Kata Laluan Tidak Sah
+
+Group=Kumpulan
+Groups=Kumpulan
+UserGroup=Kumpulan Pengguna
+UserGroups=Kumpulan Pengguna
+AddToGroup=Tambah ke Kumpulan
+RemoveFromGroup=Buang daripada Kumpulan
+
+Permission=Kebenaran
+Permissions=Kebenaran
+AccessRight=Hak Akses
+AccessRights=Hak Akses
+Role=Peranan
+Roles=Peranan
+UserRights=Hak Pengguna
+GrantPermission=Beri Kebenaran
+RevokePermission=Tarik Balik Kebenaran
+
+LastLogin=Log Masuk Terakhir
+LastLogout=Log Keluar Terakhir
+LoginDate=Tarikh Log Masuk
+LogoutDate=Tarikh Log Keluar
+FailedLogin=Log Masuk Gagal
+FailedLogins=Log Masuk Gagal
+
+Theme=Tema
+Language=Bahasa
+Timezone=Zon Masa
+DefaultLanguage=Bahasa Lalai
+DefaultTheme=Tema Lalai
+
+NoUser=Tiada Pengguna
+NoUserFound=Tiada Pengguna Dijumpai
+SearchUser=Cari Pengguna
+SelectUser=Pilih Pengguna
