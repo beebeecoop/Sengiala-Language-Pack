@@ -1,0 +1,114 @@
+# Dolibarr Bahasa Melayu Malaysia - Manufacturing
+# Encoding: UTF-8
+
+Manufacturing=Pengilangan
+ManufacturingManagement=Pengurusan Pengilangan
+ManufacturingModule=Modul Pengilangan
+ManufacturingProcess=Proses Pengilangan
+ManufacturingOperation=Operasi Pengilangan
+ManufacturingOperations=Operasi Pengilangan
+
+ManufacturingOrder=Arahan Pengilangan
+ManufacturingOrders=Arahan Pengilangan
+MO=Arahan Pengilangan
+MOs=Arahan Pengilangan
+NewManufacturingOrder=Arahan Pengilangan Baharu
+CreateManufacturingOrder=Cipta Arahan Pengilangan
+AddManufacturingOrder=Tambah Arahan Pengilangan
+EditManufacturingOrder=Sunting Arahan Pengilangan
+ModifyManufacturingOrder=Ubah Arahan Pengilangan
+DeleteManufacturingOrder=Hapus Arahan Pengilangan
+ValidateManufacturingOrder=Sahkan Arahan Pengilangan
+CloseManufacturingOrder=Tutup Arahan Pengilangan
+
+ManufacturingOrderCreated=Arahan Pengilangan Telah Dicipta
+ManufacturingOrderModified=Arahan Pengilangan Telah Diubah
+ManufacturingOrderValidated=Arahan Pengilangan Telah Disahkan
+ManufacturingOrderDeleted=Arahan Pengilangan Telah Dihapuskan
+ManufacturingOrderClosed=Arahan Pengilangan Telah Ditutup
+
+Production=Pengeluaran
+ProductionManagement=Pengurusan Pengeluaran
+ProductionProcess=Proses Pengeluaran
+ProductionPlan=Pelan Pengeluaran
+ProductionPlanning=Perancangan Pengeluaran
+ProductionOrder=Arahan Pengeluaran
+ProductionOrders=Arahan Pengeluaran
+StartProduction=Mula Pengeluaran
+StopProduction=Henti Pengeluaran
+EndProduction=Tamat Pengeluaran
+
+WorkOrder=Arahan Kerja
+WorkOrders=Arahan Kerja
+Workstation=Stesen Kerja
+Workstations=Stesen Kerja
+Operation=Operasi
+Operations=Operasi
+
+BillOfMaterials=Bil Bahan
+BillsOfMaterials=Bil Bahan
+BOM=BOM
+BOMs=BOM
+MRP=MRP
+
+Product=Produk
+Products=Produk
+FinishedProduct=Produk Siap
+FinishedProducts=Produk Siap
+SemiFinishedProduct=Produk Separuh Siap
+SemiFinishedProducts=Produk Separuh Siap
+Component=Komponen
+Components=Komponen
+RawMaterial=Bahan Mentah
+RawMaterials=Bahan Mentah
+
+Quantity=Kuantiti
+QuantityToProduce=Kuantiti Untuk Dihasilkan
+QuantityProduced=Kuantiti Telah Dihasilkan
+QuantityConsumed=Kuantiti Telah Digunakan
+QuantityRemaining=Kuantiti Berbaki
+QuantityNeeded=Kuantiti Diperlukan
+Unit=Unit
+
+Warehouse=Stor
+Warehouses=Stor
+Stock=Stok
+Stocks=Stok
+Inventory=Inventori
+StockMovement=Pergerakan Stok
+StockConsumption=Penggunaan Stok
+StockProduction=Pengeluaran Stok
+
+Lot=Lot
+Batch=Kelompok
+SerialNumber=Nombor Siri
+
+Cost=Kos
+UnitCost=Kos Unit
+TotalCost=Jumlah Kos
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+PlannedStartDate=Tarikh Mula Dirancang
+PlannedEndDate=Tarikh Tamat Dirancang
+ActualStartDate=Tarikh Mula Sebenar
+ActualEndDate=Tarikh Tamat Sebenar
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+InProgress=Sedang Berjalan
+Closed=Ditutup
+Canceled=Dibatalkan
+
+NoManufacturing=Tiada Pengilangan
+NoManufacturingOrder=Tiada Arahan Pengilangan
+NoManufacturingOrderFound=Tiada Arahan Pengilangan Dijumpai
+SearchManufacturingOrder=Cari Arahan Pengilangan
+SelectManufacturingOrder=Pilih Arahan Pengilangan
