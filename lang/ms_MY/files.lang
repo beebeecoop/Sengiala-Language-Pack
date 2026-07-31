@@ -93,3 +93,26 @@ NoAttachment=Tiada Lampiran
 NoAttachmentFound=Tiada Lampiran Dijumpai
 SearchFile=Cari Fail
 SelectFile=Pilih Fail
+
+# Sprint 11 - Files UI Coverage
+FileManagement=Pengurusan Fail
+FilesManagement=Pengurusan Fail
+FileDashboard=Papan Pemuka Fail
+FileOverview=Gambaran Keseluruhan Fail
+FileArea=Ruang Fail
+FileModule=Modul Fail
+MyFiles=Fail Saya
+RecentFiles=Fail Terkini
+SharedFiles=Fail Dikongsi
+FileLibrary=Perpustakaan Fail
+FileRepository=Repositori Fail
+AttachmentManagement=Pengurusan Lampiran
+AttachmentDashboard=Papan Pemuka Lampiran
+FolderManagement=Pengurusan Folder
+FolderDashboard=Papan Pemuka Folder
+ToUpload=Perlu Muat Naik
+ToDownload=Perlu Muat Turun
+ToArchive=Perlu Arkib
+ToValidate=Perlu Sahkan
+NoFolderFound=Tiada Folder Dijumpai
+NoDocumentFound=Tiada Dokumen Dijumpai
