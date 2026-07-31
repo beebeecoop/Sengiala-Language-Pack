@@ -59,7 +59,7 @@ Sprint 14 targets remaining labels that may still appear in English after the Sp
 - MemberNature=Sifat Anggota
 - MemberLogin=Log Masuk Anggota
 - MemberSociete=Syarikat
-- DateEndSubscription=Tarikh Tamat Keanggotaan
+- DateEndSubscription=Tarikh Tamat Caruman
 - PaymentSubscription=Bayaran Caruman Baru
 - MembersTypeSetup=Tetapan Kelas Anggota
 
