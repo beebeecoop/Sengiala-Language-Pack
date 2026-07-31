@@ -21,7 +21,7 @@ Next=Seterusnya
 Previous=Sebelumnya
 Add=Tambah
 Create=Cipta
-New=Baharu
+New=Baru
 Edit=Sunting
 Modify=Ubah
 Update=Kemas Kini
@@ -194,8 +194,8 @@ NatureOfMember=Sifat Anggota
 EndDate=Tarikh Tamat
 Statut=Status
 ToClose=Perlu Tutup
-NoContactsRecorded=Tiada kenalan direkodkan
-NoProposal=Tiada sebut harga
+NoContactsRecorded=Tiada Kenalan direkodkan
+NoProposal=Tiada Sebut Harga
 NotEnoughData=Data tidak mencukupi
 
 # Sprint 14 - Remaining Generic Real Screen Labels
@@ -246,8 +246,8 @@ ModifDate=Tarikh Ubah
 DueDate=Tarikh Matang
 Paid=Telah Dibayar
 None=Tiada
-NoInvoice=Tiada invois
-NoOpenInvoice=Tiada invois terbuka
+NoInvoice=Tiada Invois
+NoOpenInvoice=Tiada Invois terbuka
 EmailTemplates=Templat E-mel
 CustomReports=Laporan Tersuai
 
