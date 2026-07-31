@@ -30,9 +30,9 @@ BOMValidated=BOM Telah Disahkan
 BOMDeleted=BOM Telah Dihapuskan
 BOMClosed=BOM Telah Ditutup
 
-Manufacturing=Pembuatan
-ManufacturingOrder=Arahan Pembuatan
-ManufacturingOrders=Arahan Pembuatan
+Manufacturing=Pengilangan
+ManufacturingOrder=Arahan Pengilangan
+ManufacturingOrders=Arahan Pengilangan
 WorkOrder=Arahan Kerja
 WorkOrders=Arahan Kerja
 Production=Pengeluaran
