@@ -134,3 +134,17 @@ LatestSupplierOrders=Pesanan Pembekal Terkini
 DraftSupplierOrders=Pesanan Pembekal Draf
 NoPurchaseOrder=Tiada pesanan belian
 NoSupplierOrder=Tiada pesanan pembekal
+
+# Sprint 16 - Purchase Order Capitalisation and Residual Labels
+DraftPurchaseOrders=Pesanan Pembekal Draf
+DraftSupplierOrders=Pesanan Pembekal Draf
+NoPurchaseOrder=Tiada Pesanan Belian
+NoPurchaseOrders=Tiada Pesanan Belian
+NoSupplierOrder=Tiada Pesanan Pembekal
+NoSupplierOrders=Tiada Pesanan Pembekal
+LatestPurchaseOrders=Pesanan Belian Terkini
+LatestSupplierOrders=Pesanan Pembekal Terkini
+PurchaseOrdersArea=Ruang Pesanan Belian
+SuppliersOrdersArea=Ruang Pesanan Pembekal
+Open=Terbuka
+AwaitingReception=Tunggu Terima
