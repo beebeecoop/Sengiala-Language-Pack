@@ -1,0 +1,71 @@
+# Dolibarr Bahasa Melayu Malaysia - Groups
+# Encoding: UTF-8
+
+Group=Kumpulan
+Groups=Kumpulan
+UserGroup=Kumpulan Pengguna
+UserGroups=Kumpulan Pengguna
+GroupCard=Kad Kumpulan
+GroupList=Senarai Kumpulan
+GroupRef=Rujukan Kumpulan
+GroupName=Nama Kumpulan
+GroupLabel=Label Kumpulan
+GroupDescription=Keterangan Kumpulan
+GroupStatus=Status Kumpulan
+
+NewGroup=Kumpulan Baharu
+CreateGroup=Cipta Kumpulan
+AddGroup=Tambah Kumpulan
+EditGroup=Sunting Kumpulan
+ModifyGroup=Ubah Kumpulan
+DeleteGroup=Hapus Kumpulan
+ValidateGroup=Sahkan Kumpulan
+EnableGroup=Aktifkan Kumpulan
+DisableGroup=Nyahaktifkan Kumpulan
+CloneGroup=Salin Kumpulan
+
+GroupCreated=Kumpulan Telah Dicipta
+GroupModified=Kumpulan Telah Diubah
+GroupValidated=Kumpulan Telah Disahkan
+GroupDeleted=Kumpulan Telah Dihapuskan
+GroupEnabled=Kumpulan Telah Diaktifkan
+GroupDisabled=Kumpulan Telah Dinyahaktifkan
+
+ActiveGroup=Kumpulan Aktif
+InactiveGroup=Kumpulan Tidak Aktif
+DisabledGroup=Kumpulan Dinyahaktifkan
+
+User=Pengguna
+Users=Pengguna
+AddUserToGroup=Tambah Pengguna ke Kumpulan
+RemoveUserFromGroup=Buang Pengguna daripada Kumpulan
+GroupUsers=Pengguna Kumpulan
+UsersInGroup=Pengguna dalam Kumpulan
+NoUserInGroup=Tiada Pengguna dalam Kumpulan
+
+Permission=Kebenaran
+Permissions=Kebenaran
+GroupPermission=Kebenaran Kumpulan
+GroupPermissions=Kebenaran Kumpulan
+AccessRight=Hak Akses
+AccessRights=Hak Akses
+GroupRights=Hak Kumpulan
+GrantPermission=Beri Kebenaran
+RevokePermission=Tarik Balik Kebenaran
+
+Role=Peranan
+Roles=Peranan
+GroupRole=Peranan Kumpulan
+GroupRoles=Peranan Kumpulan
+
+Administrator=Pentadbir
+Administrators=Pentadbir
+AdminGroup=Kumpulan Pentadbir
+DefaultGroup=Kumpulan Lalai
+PublicGroup=Kumpulan Awam
+PrivateGroup=Kumpulan Persendirian
+
+NoGroup=Tiada Kumpulan
+NoGroupFound=Tiada Kumpulan Dijumpai
+SearchGroup=Cari Kumpulan
+SelectGroup=Pilih Kumpulan
