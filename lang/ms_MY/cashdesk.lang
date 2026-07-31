@@ -1,0 +1,125 @@
+# Dolibarr Bahasa Melayu Malaysia - Cash Desk
+# Encoding: UTF-8
+
+CashDesk=Kaunter Jualan
+CashDesks=Kaunter Jualan
+CashDeskManagement=Pengurusan Kaunter Jualan
+CashDeskCard=Kad Kaunter Jualan
+CashDeskList=Senarai Kaunter Jualan
+CashDeskRef=Rujukan Kaunter Jualan
+CashDeskLabel=Label Kaunter Jualan
+CashDeskStatus=Status Kaunter Jualan
+
+POS=POS
+PointOfSale=POS
+PointOfSales=POS
+CashRegister=Daftar Tunai
+CashRegisters=Daftar Tunai
+Register=Daftar
+Registers=Daftar
+
+NewCashDesk=Kaunter Jualan Baharu
+CreateCashDesk=Cipta Kaunter Jualan
+AddCashDesk=Tambah Kaunter Jualan
+EditCashDesk=Sunting Kaunter Jualan
+ModifyCashDesk=Ubah Kaunter Jualan
+DeleteCashDesk=Hapus Kaunter Jualan
+ValidateCashDesk=Sahkan Kaunter Jualan
+CloseCashDesk=Tutup Kaunter Jualan
+OpenCashDesk=Buka Kaunter Jualan
+
+CashDeskCreated=Kaunter Jualan Telah Dicipta
+CashDeskModified=Kaunter Jualan Telah Diubah
+CashDeskValidated=Kaunter Jualan Telah Disahkan
+CashDeskDeleted=Kaunter Jualan Telah Dihapuskan
+CashDeskOpened=Kaunter Jualan Telah Dibuka
+CashDeskClosed=Kaunter Jualan Telah Ditutup
+
+Sale=Jualan
+Sales=Jualan
+NewSale=Jualan Baharu
+CreateSale=Cipta Jualan
+AddSale=Tambah Jualan
+CancelSale=Batal Jualan
+ValidateSale=Sahkan Jualan
+
+Customer=Pelanggan
+Customers=Pelanggan
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+ProductRef=Rujukan Produk
+ProductLabel=Label Produk
+
+Cart=Troli
+ShoppingCart=Troli Beli-belah
+Checkout=Daftar Keluar
+Receipt=Resit
+Receipts=Resit
+Ticket=Tiket
+Tickets=Tiket
+
+Payment=Bayaran
+Payments=Bayaran
+PaymentMode=Kaedah Bayaran
+PaymentTerm=Terma Bayaran
+CashPayment=Bayaran Tunai
+CardPayment=Bayaran Kad
+BankCard=Kad Bank
+CreditCard=Kad Kredit
+DebitCard=Kad Debit
+OnlinePayment=Bayaran Dalam Talian
+
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Subtotal=Subjumlah
+Discount=Diskaun
+Tax=Cukai
+TotalHT=Jumlah Tidak Termasuk Cukai
+TotalVAT=Jumlah Cukai
+TotalTTC=Jumlah Termasuk Cukai
+PaidAmount=Jumlah Dibayar
+RemainingAmount=Jumlah Berbaki
+ChangeAmount=Baki Pulangan
+
+Quantity=Kuantiti
+Unit=Unit
+UnitPrice=Harga Unit
+Price=Harga
+TotalPrice=Jumlah Harga
+
+Invoice=Invois
+Invoices=Invois
+Order=Pesanan
+Orders=Pesanan
+Warehouse=Stor
+Stock=Stok
+StockOut=Stok Keluar
+
+OpenSession=Buka Sesi
+CloseSession=Tutup Sesi
+CashDeskSession=Sesi Kaunter Jualan
+CashDeskSessions=Sesi Kaunter Jualan
+OpeningAmount=Jumlah Pembukaan
+ClosingAmount=Jumlah Penutupan
+CashCount=Kiraan Tunai
+
+Date=Tarikh
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+Paid=Telah Dibayar
+Canceled=Dibatalkan
+Closed=Ditutup
+
+NoCashDesk=Tiada Kaunter Jualan
+NoCashDeskFound=Tiada Kaunter Jualan Dijumpai
+NoSale=Tiada Jualan
+NoSaleFound=Tiada Jualan Dijumpai
+SearchCashDesk=Cari Kaunter Jualan
+SelectCashDesk=Pilih Kaunter Jualan
