@@ -1,0 +1,102 @@
+# Dolibarr Bahasa Melayu Malaysia - Shipment
+# Encoding: UTF-8
+
+Shipment=Penghantaran
+Shipments=Penghantaran
+Shipping=Penghantaran
+ShipmentManagement=Pengurusan Penghantaran
+ShipmentCard=Kad Penghantaran
+ShipmentList=Senarai Penghantaran
+ShipmentRef=Rujukan Penghantaran
+ShipmentDate=Tarikh Penghantaran
+ShipmentStatus=Status Penghantaran
+ShipmentMethod=Kaedah Penghantaran
+
+NewShipment=Penghantaran Baharu
+CreateShipment=Cipta Penghantaran
+AddShipment=Tambah Penghantaran
+EditShipment=Sunting Penghantaran
+ModifyShipment=Ubah Penghantaran
+DeleteShipment=Hapus Penghantaran
+ValidateShipment=Sahkan Penghantaran
+CloseShipment=Tutup Penghantaran
+ReopenShipment=Buka Semula Penghantaran
+
+ShipmentCreated=Penghantaran Telah Dicipta
+ShipmentModified=Penghantaran Telah Diubah
+ShipmentValidated=Penghantaran Telah Disahkan
+ShipmentDeleted=Penghantaran Telah Dihapuskan
+ShipmentClosed=Penghantaran Telah Ditutup
+
+Delivery=Serahan
+Deliveries=Serahan
+DeliveryDate=Tarikh Serahan
+DeliveryAddress=Alamat Serahan
+DeliveryContact=Kontak Serahan
+DeliveryNote=Nota Serahan
+DeliveryStatus=Status Serahan
+
+Order=Pesanan
+Orders=Pesanan
+CustomerOrder=Pesanan Pelanggan
+OrderRef=Rujukan Pesanan
+OrderDate=Tarikh Pesanan
+
+Customer=Pelanggan
+Customers=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Contact=Kontak
+Contacts=Kontak
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+ProductRef=Rujukan Produk
+ProductLabel=Label Produk
+ProductDescription=Keterangan Produk
+
+Warehouse=Stor
+Warehouses=Stor
+SourceWarehouse=Stor Sumber
+DestinationWarehouse=Stor Destinasi
+Stock=Stok
+Stocks=Stok
+StockMovement=Pergerakan Stok
+StockOut=Stok Keluar
+
+Quantity=Kuantiti
+QuantityToShip=Kuantiti Untuk Dihantar
+QuantityShipped=Kuantiti Telah Dihantar
+QuantityRemaining=Kuantiti Berbaki
+Unit=Unit
+Weight=Berat
+Volume=Isipadu
+Package=Pakej
+Packages=Pakej
+
+TrackingNumber=Nombor Penjejakan
+TrackingUrl=URL Penjejakan
+Carrier=Pengangkut
+Carriers=Pengangkut
+ShippingMethod=Kaedah Penghantaran
+ShippingCost=Kos Penghantaran
+ShippingFees=Fi Penghantaran
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+PublicNote=Nota Awam
+PrivateNote=Nota Peribadi
+
+Draft=Draf
+Validated=Disahkan
+Closed=Ditutup
+Canceled=Dibatalkan
+
+NoShipment=Tiada Penghantaran
+NoShipmentFound=Tiada Penghantaran Dijumpai
+SearchShipment=Cari Penghantaran
+SelectShipment=Pilih Penghantaran
