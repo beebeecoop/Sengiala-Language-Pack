@@ -1,8 +1,11 @@
 # Dolibarr Bahasa Melayu Malaysia - Projects
+# Enhanced - Sprint 09
 # Encoding: UTF-8
 
 Project=Projek
 Projects=Projek
+ProjectManagement=Pengurusan Projek
+ProjectModule=Modul Projek
 ProjectCard=Kad Projek
 ProjectList=Senarai Projek
 ProjectRef=Rujukan Projek
@@ -13,6 +16,7 @@ ProjectTitle=Tajuk Projek
 ProjectDescription=Keterangan Projek
 ProjectStatus=Status Projek
 ProjectType=Jenis Projek
+ProjectCategory=Kategori Projek
 
 NewProject=Projek Baharu
 CreateProject=Cipta Projek
@@ -24,11 +28,13 @@ ValidateProject=Sahkan Projek
 CloseProject=Tutup Projek
 ReopenProject=Buka Semula Projek
 CloneProject=Salin Projek
+ArchiveProject=Arkibkan Projek
 
 DraftProject=Projek Draf
 OpenedProject=Projek Dibuka
 ClosedProject=Projek Ditutup
 CanceledProject=Projek Dibatalkan
+ArchivedProject=Projek Diarkibkan
 ProjectOpened=Projek Dibuka
 ProjectClosed=Projek Ditutup
 
@@ -37,6 +43,7 @@ ProjectModified=Projek Telah Diubah
 ProjectValidated=Projek Telah Disahkan
 ProjectDeleted=Projek Telah Dihapuskan
 ProjectClosed=Projek Telah Ditutup
+ProjectArchived=Projek Telah Diarkibkan
 
 Task=Tugasan
 Tasks=Tugasan
@@ -48,6 +55,7 @@ TaskRef=Rujukan Tugasan
 TaskLabel=Label Tugasan
 TaskDescription=Keterangan Tugasan
 TaskStatus=Status Tugasan
+TaskType=Jenis Tugasan
 
 NewTask=Tugasan Baharu
 CreateTask=Cipta Tugasan
@@ -59,11 +67,26 @@ ValidateTask=Sahkan Tugasan
 CloseTask=Tutup Tugasan
 ReopenTask=Buka Semula Tugasan
 
+TaskCreated=Tugasan Telah Dicipta
+TaskModified=Tugasan Telah Diubah
+TaskValidated=Tugasan Telah Disahkan
+TaskDeleted=Tugasan Telah Dihapuskan
 TaskStarted=Tugasan Dimulakan
 TaskInProgress=Tugasan Dalam Proses
 TaskCompleted=Tugasan Selesai
 TaskClosed=Tugasan Ditutup
 TaskCanceled=Tugasan Dibatalkan
+
+Milestone=Batu Penanda
+Milestones=Batu Penanda
+ProjectMilestone=Batu Penanda Projek
+NewMilestone=Batu Penanda Baharu
+CreateMilestone=Cipta Batu Penanda
+AddMilestone=Tambah Batu Penanda
+EditMilestone=Sunting Batu Penanda
+DeleteMilestone=Hapus Batu Penanda
+MilestoneDate=Tarikh Batu Penanda
+MilestoneReached=Batu Penanda Telah Dicapai
 
 StartDate=Tarikh Mula
 EndDate=Tarikh Tamat
@@ -75,6 +98,8 @@ Deadline=Tarikh Akhir
 Duration=Tempoh
 Progress=Kemajuan
 ProgressPercent=Peratus Kemajuan
+CompletionRate=Kadar Siap
+RemainingWork=Baki Kerja
 
 Budget=Bajet
 ProjectBudget=Bajet Projek
@@ -83,6 +108,8 @@ Cost=Kos
 Costs=Kos
 ProjectCost=Kos Projek
 TaskCost=Kos Tugasan
+PlannedCost=Kos Dirancang
+ActualCost=Kos Sebenar
 Amount=Jumlah
 TotalAmount=Jumlah Keseluruhan
 
@@ -95,13 +122,61 @@ User=Pengguna
 Users=Pengguna
 
 AssignedTo=Ditugaskan Kepada
+AssignedUsers=Pengguna Ditugaskan
 ResponsibleUser=Pengguna Bertanggungjawab
 ProjectManager=Pengurus Projek
 ProjectOwner=Pemilik Projek
+ProjectTeam=Pasukan Projek
+TeamMember=Anggota Pasukan
+TeamMembers=Anggota Pasukan
+
+Agenda=Agenda
+Event=Acara
+Events=Acara
+ProjectEvent=Acara Projek
+ProjectAgenda=Agenda Projek
+Meeting=Mesyuarat
+ProjectMeeting=Mesyuarat Projek
+
+Notification=Pemberitahuan
+Notifications=Pemberitahuan
+Reminder=Peringatan
+Reminders=Peringatan
+Alert=Amaran
+Alerts=Amaran
+NotifyProjectManager=Maklumkan Pengurus Projek
+NotifyAssignedUsers=Maklumkan Pengguna Ditugaskan
+
+Priority=Keutamaan
+HighPriority=Keutamaan Tinggi
+MediumPriority=Keutamaan Sederhana
+LowPriority=Keutamaan Rendah
+
+Planned=Dirancang
+InProgress=Dalam Proses
+Done=Selesai
+Canceled=Dibatalkan
+Closed=Ditutup
+Late=Lewat
+Overdue=Tertunggak
 
 CreateOrderFromProject=Cipta Pesanan Daripada Projek
 CreateInvoiceFromProject=Cipta Invois Daripada Projek
 CreateProposalFromProject=Cipta Sebut Harga Daripada Projek
+CreateTaskFromProject=Cipta Tugasan Daripada Projek
+CreateEventFromProject=Cipta Acara Daripada Projek
+
+ProjectReport=Laporan Projek
+ProjectReports=Laporan Projek
+TaskReport=Laporan Tugasan
+ProjectDashboard=Papan Pemuka Projek
+ProjectOverview=Gambaran Keseluruhan Projek
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+Status=Status
 
 NoProject=Tiada Projek
 NoProjectFound=Tiada Projek Dijumpai
