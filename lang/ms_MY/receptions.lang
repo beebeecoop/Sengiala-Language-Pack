@@ -1,0 +1,98 @@
+# Dolibarr Bahasa Melayu Malaysia - Receptions
+# Encoding: UTF-8
+
+Reception=Penerimaan
+Receptions=Penerimaan
+GoodsReception=Penerimaan Barang
+GoodsReceptions=Penerimaan Barang
+ReceptionManagement=Pengurusan Penerimaan
+ReceptionCard=Kad Penerimaan
+ReceptionList=Senarai Penerimaan
+ReceptionRef=Rujukan Penerimaan
+ReceptionDate=Tarikh Penerimaan
+ReceptionStatus=Status Penerimaan
+ReceptionNote=Nota Penerimaan
+
+NewReception=Penerimaan Baharu
+CreateReception=Cipta Penerimaan
+AddReception=Tambah Penerimaan
+EditReception=Sunting Penerimaan
+ModifyReception=Ubah Penerimaan
+DeleteReception=Hapus Penerimaan
+ValidateReception=Sahkan Penerimaan
+CloseReception=Tutup Penerimaan
+ReopenReception=Buka Semula Penerimaan
+
+ReceptionCreated=Penerimaan Telah Dicipta
+ReceptionModified=Penerimaan Telah Diubah
+ReceptionValidated=Penerimaan Telah Disahkan
+ReceptionDeleted=Penerimaan Telah Dihapuskan
+ReceptionClosed=Penerimaan Telah Ditutup
+
+Supplier=Pembekal
+Suppliers=Pembekal
+SupplierOrder=Pesanan Pembekal
+SupplierOrders=Pesanan Pembekal
+SupplierOrderRef=Rujukan Pesanan Pembekal
+SupplierOrderDate=Tarikh Pesanan Pembekal
+SupplierProposal=Sebut Harga Pembekal
+SupplierProposals=Sebut Harga Pembekal
+
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+ProductRef=Rujukan Produk
+ProductLabel=Label Produk
+ProductDescription=Keterangan Produk
+
+Warehouse=Stor
+Warehouses=Stor
+DestinationWarehouse=Stor Destinasi
+Stock=Stok
+Stocks=Stok
+StockIn=Stok Masuk
+StockMovement=Pergerakan Stok
+Inventory=Inventori
+
+Quantity=Kuantiti
+QuantityOrdered=Kuantiti Dipesan
+QuantityReceived=Kuantiti Diterima
+QuantityRemaining=Kuantiti Berbaki
+QuantityToReceive=Kuantiti Untuk Diterima
+Unit=Unit
+UnitPrice=Harga Unit
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+
+Lot=Lot
+Batch=Kelompok
+SerialNumber=Nombor Siri
+ExpiryDate=Tarikh Luput
+BestBeforeDate=Tarikh Baik Sebelum
+
+Delivery=Serahan
+Shipment=Penghantaran
+Customer=Pelanggan
+ThirdParty=Pihak Ketiga
+Contact=Kontak
+Contacts=Kontak
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+PublicNote=Nota Awam
+PrivateNote=Nota Peribadi
+
+Draft=Draf
+Validated=Disahkan
+Closed=Ditutup
+Canceled=Dibatalkan
+
+NoReception=Tiada Penerimaan
+NoReceptionFound=Tiada Penerimaan Dijumpai
+NoGoodsReception=Tiada Penerimaan Barang
+NoGoodsReceptionFound=Tiada Penerimaan Barang Dijumpai
+SearchReception=Cari Penerimaan
+SelectReception=Pilih Penerimaan
