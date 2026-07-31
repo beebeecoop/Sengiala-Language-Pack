@@ -1,0 +1,107 @@
+# Dolibarr Bahasa Melayu Malaysia - Stocks
+# Encoding: UTF-8
+
+Stock=Stok
+Stocks=Stok
+Inventory=Inventori
+Inventories=Inventori
+StockManagement=Pengurusan Stok
+InventoryManagement=Pengurusan Inventori
+
+Warehouse=Stor
+Warehouses=Stor
+Store=Stor
+Stores=Stor
+StockLocation=Lokasi Stok
+StorageLocation=Lokasi Simpanan
+DefaultWarehouse=Stor Lalai
+SourceWarehouse=Stor Sumber
+DestinationWarehouse=Stor Destinasi
+
+Product=Produk
+Products=Produk
+ProductStock=Stok Produk
+ProductStocks=Stok Produk
+ProductRef=Rujukan Produk
+ProductLabel=Label Produk
+
+StockMovement=Pergerakan Stok
+StockMovements=Pergerakan Stok
+StockTransfer=Pindahan Stok
+StockTransfers=Pindahan Stok
+StockAdjustment=Pelarasan Stok
+StockAdjustments=Pelarasan Stok
+StockEntry=Catatan Stok
+StockEntries=Catatan Stok
+
+NewStockMovement=Pergerakan Stok Baharu
+CreateStockMovement=Cipta Pergerakan Stok
+AddStockMovement=Tambah Pergerakan Stok
+EditStockMovement=Sunting Pergerakan Stok
+ModifyStockMovement=Ubah Pergerakan Stok
+DeleteStockMovement=Hapus Pergerakan Stok
+ValidateStockMovement=Sahkan Pergerakan Stok
+
+StockMovementCreated=Pergerakan Stok Telah Dicipta
+StockMovementModified=Pergerakan Stok Telah Diubah
+StockMovementValidated=Pergerakan Stok Telah Disahkan
+StockMovementDeleted=Pergerakan Stok Telah Dihapuskan
+
+StockIn=Stok Masuk
+StockOut=Stok Keluar
+StockIncrease=Pertambahan Stok
+StockDecrease=Pengurangan Stok
+StockCorrection=Pembetulan Stok
+StockCount=Kiraan Stok
+StockTaking=Pengiraan Stok
+InventoryCount=Kiraan Inventori
+
+IncreaseStock=Tambah Stok
+DecreaseStock=Kurangkan Stok
+TransferStock=Pindah Stok
+AdjustStock=Laras Stok
+CountStock=Kira Stok
+
+PhysicalStock=Stok Fizikal
+TheoreticalStock=Stok Teori
+AvailableStock=Stok Tersedia
+ReservedStock=Stok Ditempah
+RealStock=Stok Sebenar
+VirtualStock=Stok Maya
+
+MinimumStock=Stok Minimum
+MaximumStock=Stok Maksimum
+AlertStock=Amaran Stok
+StockAlert=Amaran Stok
+OutOfStock=Kehabisan Stok
+LowStock=Stok Rendah
+InStock=Ada Stok
+
+Quantity=Kuantiti
+QuantityInStock=Kuantiti Dalam Stok
+QuantityToAdd=Kuantiti Untuk Ditambah
+QuantityToRemove=Kuantiti Untuk Dikeluarkan
+Unit=Unit
+UnitPrice=Harga Unit
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+
+Lot=Lot
+Batch=Kelompok
+SerialNumber=Nombor Siri
+ExpiryDate=Tarikh Luput
+BestBeforeDate=Tarikh Baik Sebelum
+
+Reception=Penerimaan
+Delivery=Serahan
+Shipment=Penghantaran
+Supplier=Pembekal
+Customer=Pelanggan
+ThirdParty=Pihak Ketiga
+
+NoStock=Tiada Stok
+NoStockFound=Tiada Stok Dijumpai
+NoStockMovement=Tiada Pergerakan Stok
+NoStockMovementFound=Tiada Pergerakan Stok Dijumpai
+SearchStock=Cari Stok
+SelectStock=Pilih Stok
