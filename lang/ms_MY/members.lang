@@ -66,7 +66,6 @@ MemberManagement=Pengurusan Anggota
 MembershipManagement=Pengurusan Keanggotaan
 ActiveMembers=Anggota Aktif
 InactiveMembers=Anggota Tidak Aktif
-ValidatedMembers=Anggota Disahkan
 MembersToValidate=Anggota Perlu Disahkan
 MembershipToRenew=Keanggotaan Perlu Diperbaharui
 ContributionsToReceive=Caruman Belum Terima
@@ -90,3 +89,15 @@ TerminatedMembers=Penamatan Anggota
 ExcludedMembers=Anggota Terkecuali
 GenerationOfCardsForMembers=Jana Kad Anggota
 NewMembership=Keanggotaan Baru
+
+# Sprint 12 - Real Dolibarr Members Menu Keys
+MembersCards=Jana Kad Anggota
+MenuMembersToValidate=Bakal Anggota
+MenuMembersValidated=Anggota Sah
+MenuMembersExcluded=Anggota Terkecuali
+MenuMembersResiliated=Penamatan Anggota
+WaitingSubscription=Tunggu Keanggotaan
+MembersStatusToValid=Bakal Anggota
+MembersStatusExcluded=Anggota Terkecuali
+MembersStatusResiliated=Penamatan Anggota
+NoTypeDefinedGoToSetup=Tiada kelas anggota ditakrifkan. Pergi ke menu "Kelas Anggota"
