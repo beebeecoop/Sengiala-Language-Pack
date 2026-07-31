@@ -197,3 +197,23 @@ ToClose=Perlu Tutup
 NoContactsRecorded=Tiada kenalan direkodkan
 NoProposal=Tiada sebut harga
 NotEnoughData=Data tidak mencukupi
+
+# Sprint 14 - Remaining Generic Real Screen Labels
+Stats=Statistik
+CustomerInvoice=Invois Pelanggan
+CustomerInvoices=Invois Pelanggan
+SupplierInvoice=Invois Pembekal
+SupplierInvoices=Invois Pembekal
+VendorInvoice=Invois Pembekal
+VendorInvoices=Invois Pembekal
+PurchaseOrder=Pesanan Belian
+PurchaseOrders=Pesanan Belian
+SupplierOrder=Pesanan Pembekal
+SupplierOrders=Pesanan Pembekal
+VendorProposal=Sebut Harga Pembekal
+VendorProposals=Sebut Harga Pembekal
+NoData=Tiada data
+NoContact=Tiada kenalan
+NoContacts=Tiada kenalan
+ToProcess=Perlu Diproses
+ToReceive=Perlu Terima
