@@ -1,0 +1,120 @@
+# Dolibarr Bahasa Melayu Malaysia - Tax
+# Encoding: UTF-8
+
+Tax=Cukai
+Taxes=Cukai
+TaxManagement=Pengurusan Cukai
+TaxModule=Modul Cukai
+TaxCard=Kad Cukai
+TaxList=Senarai Cukai
+TaxRef=Rujukan Cukai
+TaxLabel=Label Cukai
+TaxDescription=Keterangan Cukai
+TaxStatus=Status Cukai
+
+VAT=SST
+VATs=SST
+SST=SST
+GST=GST
+SalesTax=Cukai Jualan
+ServiceTax=Cukai Perkhidmatan
+
+TaxRate=Kadar Cukai
+TaxRates=Kadar Cukai
+VATRate=Kadar SST
+SSTRate=Kadar SST
+GSTRate=Kadar GST
+SalesTaxRate=Kadar Cukai Jualan
+ServiceTaxRate=Kadar Cukai Perkhidmatan
+
+TaxAmount=Jumlah Cukai
+VATAmount=Jumlah SST
+SSTAmount=Jumlah SST
+GSTAmount=Jumlah GST
+TotalTax=Jumlah Cukai
+TotalVAT=Jumlah SST
+TotalSST=Jumlah SST
+TotalGST=Jumlah GST
+
+TaxableAmount=Jumlah Bercukai
+TaxableBase=Asas Bercukai
+TaxBase=Asas Cukai
+TaxIncluded=Cukai Termasuk
+TaxExcluded=Cukai Tidak Termasuk
+TaxInclusive=Termasuk Cukai
+TaxExclusive=Tidak Termasuk Cukai
+
+TaxExemption=Pengecualian Cukai
+TaxExempt=Dikecualikan Cukai
+TaxExempted=Dikecualikan Cukai
+NonTaxable=Tidak Bercukai
+ZeroRated=Kadar Sifar
+StandardRated=Kadar Standard
+
+NewTax=Cukai Baharu
+CreateTax=Cipta Cukai
+AddTax=Tambah Cukai
+EditTax=Sunting Cukai
+ModifyTax=Ubah Cukai
+DeleteTax=Hapus Cukai
+ValidateTax=Sahkan Cukai
+DisableTax=Nyahaktifkan Cukai
+EnableTax=Aktifkan Cukai
+
+TaxCreated=Cukai Telah Dicipta
+TaxModified=Cukai Telah Diubah
+TaxValidated=Cukai Telah Disahkan
+TaxDeleted=Cukai Telah Dihapuskan
+TaxEnabled=Cukai Telah Diaktifkan
+TaxDisabled=Cukai Telah Dinyahaktifkan
+
+Invoice=Invois
+Invoices=Invois
+SupplierInvoice=Invois Pembekal
+SupplierInvoices=Invois Pembekal
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Subtotal=Subjumlah
+Discount=Diskaun
+Currency=Mata Wang
+
+Payment=Bayaran
+Payments=Bayaran
+PaymentDate=Tarikh Bayaran
+DueDate=Tarikh Matang
+
+Accounting=Perakaunan
+Account=Akaun
+Accounts=Akaun
+Journal=Jurnal
+Ledger=Lejar
+GeneralLedger=Lejar Am
+
+Declaration=Pengisytiharan
+TaxDeclaration=Pengisytiharan Cukai
+SSTDeclaration=Pengisytiharan SST
+GSTDeclaration=Pengisytiharan GST
+DeclarationDate=Tarikh Pengisytiharan
+SubmissionDate=Tarikh Penyerahan
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+Active=Aktif
+Inactive=Tidak Aktif
+Paid=Telah Dibayar
+Unpaid=Belum Dibayar
+Canceled=Dibatalkan
+
+NoTax=Tiada Cukai
+NoTaxFound=Tiada Cukai Dijumpai
+SearchTax=Cari Cukai
+SelectTax=Pilih Cukai
