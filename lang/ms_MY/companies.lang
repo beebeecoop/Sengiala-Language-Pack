@@ -79,3 +79,14 @@ CustomerRelationship=Perhubungan Pelanggan
 SupplierRelationship=Perhubungan Pembekal
 ProspectRelationship=Perhubungan Prospek
 ContactRelationship=Perhubungan Kenalan
+
+# Sprint 14 - Contacts and Prospects Real Screen Labels
+ContactsAddresses=Kenalan/Alamat
+ContactsAddressesExt=Kenalan/Alamat Dikongsi
+ListProspectsShort=Senarai Prospek
+ProspectsOrCustomers=Prospek atau Pelanggan
+LastModifiedContacts=%s kenalan terakhir diubah
+LastModifiedThirdParties=%s perhubungan terakhir diubah
+ProspectsByStatus=Prospek mengikut status
+ThirdPartyProspects=Prospek
+ThirdPartyProspectsStats=Prospek
