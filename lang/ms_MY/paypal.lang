@@ -1,0 +1,88 @@
+# Dolibarr Bahasa Melayu Malaysia - PayPal
+# Encoding: UTF-8
+
+PayPal=PayPal
+Paypal=PayPal
+PayPalPayment=Bayaran PayPal
+PayPalPayments=Bayaran PayPal
+PayPalModule=Modul PayPal
+PayPalAccount=Akaun PayPal
+PayPalCustomer=Pelanggan PayPal
+PayPalTransaction=Transaksi PayPal
+PayPalTransactions=Transaksi PayPal
+
+OnlinePayment=Bayaran Dalam Talian
+Payment=Bayaran
+Payments=Bayaran
+PaymentMode=Kaedah Bayaran
+PaymentMethod=Kaedah Bayaran
+PaymentStatus=Status Bayaran
+PaymentDate=Tarikh Bayaran
+PaymentRef=Rujukan Bayaran
+PaymentReference=Rujukan Bayaran
+
+NewPayment=Bayaran Baharu
+CreatePayment=Cipta Bayaran
+AddPayment=Tambah Bayaran
+ValidatePayment=Sahkan Bayaran
+CancelPayment=Batal Bayaran
+RefundPayment=Bayaran Balik
+
+PaymentCreated=Bayaran Telah Dicipta
+PaymentValidated=Bayaran Telah Disahkan
+PaymentCanceled=Bayaran Telah Dibatalkan
+PaymentRefunded=Bayaran Telah Dikembalikan
+PaymentReceived=Bayaran Telah Diterima
+PaymentFailed=Bayaran Gagal
+
+Transaction=Transaksi
+Transactions=Transaksi
+TransactionId=ID Transaksi
+TransactionRef=Rujukan Transaksi
+TransactionDate=Tarikh Transaksi
+TransactionStatus=Status Transaksi
+TransactionAmount=Jumlah Transaksi
+
+Refund=Bayaran Balik
+Refunds=Bayaran Balik
+RefundId=ID Bayaran Balik
+RefundAmount=Jumlah Bayaran Balik
+RefundStatus=Status Bayaran Balik
+
+Customer=Pelanggan
+Customers=Pelanggan
+CustomerRef=Rujukan Pelanggan
+CustomerName=Nama Pelanggan
+CustomerEmail=E-mel Pelanggan
+
+Invoice=Invois
+Invoices=Invois
+Order=Pesanan
+Orders=Pesanan
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Currency=Mata Wang
+
+BusinessAccount=Akaun Perniagaan
+SandboxMode=Mod Sandbox
+LiveMode=Mod Langsung
+ClientId=ID Klien
+ClientSecret=Rahsia Klien
+ApiKey=Kunci API
+ApiSecret=Rahsia API
+Webhook=Webhook
+Webhooks=Webhook
+WebhookUrl=URL Webhook
+
+Succeeded=Berjaya
+Pending=Menunggu
+Failed=Gagal
+Canceled=Dibatalkan
+Refunded=Dikembalikan
+Paid=Telah Dibayar
+Unpaid=Belum Dibayar
+
+NoPayPalPayment=Tiada Bayaran PayPal
+NoPayPalPaymentFound=Tiada Bayaran PayPal Dijumpai
+SearchPayPalPayment=Cari Bayaran PayPal
+SelectPayPalPayment=Pilih Bayaran PayPal
