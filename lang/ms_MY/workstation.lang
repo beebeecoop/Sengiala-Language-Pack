@@ -1,0 +1,123 @@
+# Dolibarr Bahasa Melayu Malaysia - Workstation
+# Encoding: UTF-8
+
+Workstation=Stesen Kerja
+Workstations=Stesen Kerja
+WorkstationManagement=Pengurusan Stesen Kerja
+WorkstationCard=Kad Stesen Kerja
+WorkstationList=Senarai Stesen Kerja
+WorkstationRef=Rujukan Stesen Kerja
+WorkstationLabel=Label Stesen Kerja
+WorkstationDescription=Keterangan Stesen Kerja
+WorkstationStatus=Status Stesen Kerja
+WorkstationType=Jenis Stesen Kerja
+
+NewWorkstation=Stesen Kerja Baharu
+CreateWorkstation=Cipta Stesen Kerja
+AddWorkstation=Tambah Stesen Kerja
+EditWorkstation=Sunting Stesen Kerja
+ModifyWorkstation=Ubah Stesen Kerja
+DeleteWorkstation=Hapus Stesen Kerja
+ValidateWorkstation=Sahkan Stesen Kerja
+CloseWorkstation=Tutup Stesen Kerja
+ReopenWorkstation=Buka Semula Stesen Kerja
+
+WorkstationCreated=Stesen Kerja Telah Dicipta
+WorkstationModified=Stesen Kerja Telah Diubah
+WorkstationValidated=Stesen Kerja Telah Disahkan
+WorkstationDeleted=Stesen Kerja Telah Dihapuskan
+WorkstationClosed=Stesen Kerja Telah Ditutup
+
+Manufacturing=Pengilangan
+ManufacturingOrder=Arahan Pengilangan
+ManufacturingOrders=Arahan Pengilangan
+MO=Arahan Pengilangan
+MOs=Arahan Pengilangan
+
+Production=Pengeluaran
+ProductionOrder=Arahan Pengeluaran
+ProductionOrders=Arahan Pengeluaran
+WorkOrder=Arahan Kerja
+WorkOrders=Arahan Kerja
+
+Operation=Operasi
+Operations=Operasi
+OperationList=Senarai Operasi
+OperationRef=Rujukan Operasi
+OperationLabel=Label Operasi
+OperationDescription=Keterangan Operasi
+OperationStatus=Status Operasi
+OperationDate=Tarikh Operasi
+
+StartOperation=Mula Operasi
+EndOperation=Tamat Operasi
+PauseOperation=Jeda Operasi
+ResumeOperation=Sambung Operasi
+CancelOperation=Batal Operasi
+
+Machine=Mesin
+Machines=Mesin
+Tool=Alat
+Tools=Alat
+Resource=Sumber
+Resources=Sumber
+Capacity=Kapasiti
+Efficiency=Kecekapan
+
+PlannedDuration=Tempoh Dirancang
+ActualDuration=Tempoh Sebenar
+SetupTime=Masa Persediaan
+RunTime=Masa Operasi
+WaitingTime=Masa Menunggu
+Downtime=Masa Henti
+
+Product=Produk
+Products=Produk
+Component=Komponen
+Components=Komponen
+RawMaterial=Bahan Mentah
+RawMaterials=Bahan Mentah
+FinishedProduct=Produk Siap
+FinishedProducts=Produk Siap
+
+Quantity=Kuantiti
+QuantityToProduce=Kuantiti Untuk Dihasilkan
+QuantityProduced=Kuantiti Telah Dihasilkan
+QuantityConsumed=Kuantiti Telah Digunakan
+Unit=Unit
+
+Warehouse=Stor
+Stock=Stok
+Inventory=Inventori
+
+Cost=Kos
+UnitCost=Kos Unit
+HourlyCost=Kos Sejam
+TotalCost=Jumlah Kos
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+PlannedStartDate=Tarikh Mula Dirancang
+PlannedEndDate=Tarikh Tamat Dirancang
+ActualStartDate=Tarikh Mula Sebenar
+ActualEndDate=Tarikh Tamat Sebenar
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+Active=Aktif
+Inactive=Tidak Aktif
+InProgress=Sedang Berjalan
+Closed=Ditutup
+Canceled=Dibatalkan
+
+NoWorkstation=Tiada Stesen Kerja
+NoWorkstationFound=Tiada Stesen Kerja Dijumpai
+SearchWorkstation=Cari Stesen Kerja
+SelectWorkstation=Pilih Stesen Kerja
