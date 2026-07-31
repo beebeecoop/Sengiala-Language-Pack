@@ -1,0 +1,95 @@
+# Dolibarr Bahasa Melayu Malaysia - Files
+# Encoding: UTF-8
+
+File=Fail
+Files=Fail
+FileCard=Kad Fail
+FileList=Senarai Fail
+FileName=Nama Fail
+FileTitle=Tajuk Fail
+FileDescription=Keterangan Fail
+FileType=Jenis Fail
+FileSize=Saiz Fail
+FilePath=Laluan Fail
+FileExtension=Sambungan Fail
+FileDate=Tarikh Fail
+FileOwner=Pemilik Fail
+FileStatus=Status Fail
+
+NewFile=Fail Baharu
+CreateFile=Cipta Fail
+AddFile=Tambah Fail
+EditFile=Sunting Fail
+ModifyFile=Ubah Fail
+DeleteFile=Hapus Fail
+ValidateFile=Sahkan Fail
+UploadFile=Muat Naik Fail
+DownloadFile=Muat Turun Fail
+OpenFile=Buka Fail
+PreviewFile=Pratonton Fail
+PrintFile=Cetak Fail
+CopyFile=Salin Fail
+MoveFile=Pindah Fail
+RenameFile=Namakan Semula Fail
+
+FileCreated=Fail Telah Dicipta
+FileModified=Fail Telah Diubah
+FileValidated=Fail Telah Disahkan
+FileDeleted=Fail Telah Dihapuskan
+FileUploaded=Fail Telah Dimuat Naik
+FileDownloaded=Fail Telah Dimuat Turun
+FileCopied=Fail Telah Disalin
+FileMoved=Fail Telah Dipindahkan
+FileRenamed=Fail Telah Dinamakan Semula
+
+Attachment=Lampiran
+Attachments=Lampiran
+AttachFile=Lampirkan Fail
+AttachedFile=Fail Dilampirkan
+AttachedFiles=Fail Dilampirkan
+AddAttachment=Tambah Lampiran
+RemoveAttachment=Buang Lampiran
+DeleteAttachment=Hapus Lampiran
+AttachmentDeleted=Lampiran Telah Dihapuskan
+
+Folder=Folder
+Folders=Folder
+Directory=Direktori
+Directories=Direktori
+FolderName=Nama Folder
+FolderPath=Laluan Folder
+CreateFolder=Cipta Folder
+AddFolder=Tambah Folder
+EditFolder=Sunting Folder
+DeleteFolder=Hapus Folder
+OpenFolder=Buka Folder
+FolderDeleted=Folder Telah Dihapuskan
+
+Upload=Muat Naik
+Download=Muat Turun
+Preview=Pratonton
+Print=Cetak
+Open=Buka
+Close=Tutup
+Save=Simpan
+Cancel=Batalkan
+Copy=Salin
+Move=Pindah
+Rename=Namakan Semula
+
+Image=Imej
+Images=Imej
+Picture=Gambar
+Pictures=Gambar
+PDF=PDF
+Document=Dokumen
+Documents=Dokumen
+Archive=Arkib
+Archives=Arkib
+
+NoFile=Tiada Fail
+NoFileFound=Tiada Fail Dijumpai
+NoAttachment=Tiada Lampiran
+NoAttachmentFound=Tiada Lampiran Dijumpai
+SearchFile=Cari Fail
+SelectFile=Pilih Fail
