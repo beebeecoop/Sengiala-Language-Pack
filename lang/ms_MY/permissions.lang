@@ -1,0 +1,92 @@
+# Dolibarr Bahasa Melayu Malaysia - Permissions / Access Rights
+# Encoding: UTF-8
+
+Permission=Kebenaran
+Permissions=Kebenaran
+AccessRight=Hak Akses
+AccessRights=Hak Akses
+UserRight=Hak Pengguna
+UserRights=Hak Pengguna
+GroupRight=Hak Kumpulan
+GroupRights=Hak Kumpulan
+Role=Peranan
+Roles=Peranan
+
+PermissionCard=Kad Kebenaran
+PermissionList=Senarai Kebenaran
+AccessRightList=Senarai Hak Akses
+RoleList=Senarai Peranan
+
+GrantPermission=Beri Kebenaran
+RevokePermission=Tarik Balik Kebenaran
+AddPermission=Tambah Kebenaran
+EditPermission=Sunting Kebenaran
+ModifyPermission=Ubah Kebenaran
+DeletePermission=Hapus Kebenaran
+ValidatePermission=Sahkan Kebenaran
+
+PermissionCreated=Kebenaran Telah Dicipta
+PermissionModified=Kebenaran Telah Diubah
+PermissionValidated=Kebenaran Telah Disahkan
+PermissionDeleted=Kebenaran Telah Dihapuskan
+PermissionGranted=Kebenaran Telah Diberikan
+PermissionRevoked=Kebenaran Telah Ditarik Balik
+
+Read=Baca
+Write=Tulis
+Create=Cipta
+Modify=Ubah
+Delete=Hapus
+View=Papar
+Export=Eksport
+Import=Import
+Validate=Sahkan
+Approve=Luluskan
+Cancel=Batalkan
+Close=Tutup
+
+CanRead=Boleh Baca
+CanWrite=Boleh Tulis
+CanCreate=Boleh Cipta
+CanModify=Boleh Ubah
+CanDelete=Boleh Hapus
+CanView=Boleh Papar
+CanExport=Boleh Eksport
+CanImport=Boleh Import
+CanValidate=Boleh Sahkan
+CanApprove=Boleh Luluskan
+CanCancel=Boleh Batalkan
+CanClose=Boleh Tutup
+
+NoAccess=Tiada Akses
+AccessDenied=Akses Ditolak
+PermissionDenied=Kebenaran Ditolak
+NotAllowed=Tidak Dibenarkan
+Unauthorized=Tidak Dibenarkan
+Forbidden=Dilarang
+
+User=Pengguna
+Users=Pengguna
+Group=Kumpulan
+Groups=Kumpulan
+Administrator=Pentadbir
+SuperAdmin=Pentadbir Utama
+
+Module=Modul
+Modules=Modul
+ModulePermission=Kebenaran Modul
+ModulePermissions=Kebenaran Modul
+
+ReadPermission=Kebenaran Baca
+WritePermission=Kebenaran Tulis
+CreatePermission=Kebenaran Cipta
+ModifyPermission=Kebenaran Ubah
+DeletePermissionLabel=Kebenaran Hapus
+ExportPermission=Kebenaran Eksport
+ImportPermission=Kebenaran Import
+ValidatePermissionLabel=Kebenaran Sahkan
+
+NoPermission=Tiada Kebenaran
+NoPermissionFound=Tiada Kebenaran Dijumpai
+SearchPermission=Cari Kebenaran
+SelectPermission=Pilih Kebenaran
