@@ -186,3 +186,41 @@ Before opening the pull request, run:
 ## Status
 
 Draft for Dolibarr Malay Translation Sprint 11.
+
+## Completion Note
+
+Sprint 11 completed UI-driven Bahasa Melayu Malaysia coverage for Dolibarr 23.0.3.
+
+Coverage completed:
+- Top bar navigation
+- Side menu terminology
+- Dashboard widgets
+- Relationship / Perhubungan navigation
+- Commercial / Urusniaga navigation
+- Billing and payment widgets
+- Bank and cash widgets
+- Accounting UI coverage
+- Documents, DMS, EDM and ECM coverage
+- Files and attachment UI coverage
+- Membership / Keanggotaan UI coverage
+- Administration, users, groups and permissions coverage
+- Reports and dashboard widgets
+- Agenda, tasks and project UI coverage
+
+Controlled terminology retained:
+- ThirdParties=Perhubungan for UI navigation
+- ThirdParty=Pihak Ketiga for entity context
+- Commercial=Urusniaga
+- Member=Anggota
+- Membership=Keanggotaan
+- Subscription=Caruman Anggota
+- ShareCapital=Modal Syer
+- DMS=Dokumen
+- EDM=Dokumen
+- ECM=Pengurusan Kandungan
+- BalanceSheet=Kunci Kira-Kira
+
+QA checks:
+- Language file spacing format checked
+- Controlled terminology scan checked
+- Working tree clean before pull request preparation
