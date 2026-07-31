@@ -1,0 +1,124 @@
+# Dolibarr Bahasa Melayu Malaysia - Product Batch
+# Encoding: UTF-8
+
+ProductBatch=Kelompok Produk
+ProductBatches=Kelompok Produk
+Batch=Kelompok
+Batches=Kelompok
+Lot=Lot
+Lots=Lot
+BatchManagement=Pengurusan Kelompok
+LotManagement=Pengurusan Lot
+BatchTracking=Penjejakan Kelompok
+LotTracking=Penjejakan Lot
+
+Product=Produk
+Products=Produk
+ProductRef=Rujukan Produk
+ProductLabel=Label Produk
+ProductDescription=Keterangan Produk
+
+BatchNumber=Nombor Kelompok
+LotNumber=Nombor Lot
+SerialNumber=Nombor Siri
+SerialNumbers=Nombor Siri
+BatchRef=Rujukan Kelompok
+LotRef=Rujukan Lot
+
+NewBatch=Kelompok Baharu
+CreateBatch=Cipta Kelompok
+AddBatch=Tambah Kelompok
+EditBatch=Sunting Kelompok
+ModifyBatch=Ubah Kelompok
+DeleteBatch=Hapus Kelompok
+ValidateBatch=Sahkan Kelompok
+CloseBatch=Tutup Kelompok
+
+BatchCreated=Kelompok Telah Dicipta
+BatchModified=Kelompok Telah Diubah
+BatchValidated=Kelompok Telah Disahkan
+BatchDeleted=Kelompok Telah Dihapuskan
+BatchClosed=Kelompok Telah Ditutup
+
+NewLot=Lot Baharu
+CreateLot=Cipta Lot
+AddLot=Tambah Lot
+EditLot=Sunting Lot
+ModifyLot=Ubah Lot
+DeleteLot=Hapus Lot
+ValidateLot=Sahkan Lot
+CloseLot=Tutup Lot
+
+LotCreated=Lot Telah Dicipta
+LotModified=Lot Telah Diubah
+LotValidated=Lot Telah Disahkan
+LotDeleted=Lot Telah Dihapuskan
+LotClosed=Lot Telah Ditutup
+
+Manufacturing=Pengilangan
+ManufacturingOrder=Arahan Pengilangan
+ManufacturingOrders=Arahan Pengilangan
+MO=Arahan Pengilangan
+MOs=Arahan Pengilangan
+Production=Pengeluaran
+ProductionOrder=Arahan Pengeluaran
+ProductionOrders=Arahan Pengeluaran
+
+Warehouse=Stor
+Warehouses=Stor
+Stock=Stok
+Stocks=Stok
+Inventory=Inventori
+StockMovement=Pergerakan Stok
+StockIn=Stok Masuk
+StockOut=Stok Keluar
+
+Quantity=Kuantiti
+QuantityInStock=Kuantiti Dalam Stok
+QuantityProduced=Kuantiti Telah Dihasilkan
+QuantityConsumed=Kuantiti Telah Digunakan
+QuantityAvailable=Kuantiti Tersedia
+QuantityReserved=Kuantiti Ditempah
+QuantityRemaining=Kuantiti Berbaki
+Unit=Unit
+
+ExpiryDate=Tarikh Luput
+BestBeforeDate=Tarikh Baik Sebelum
+ManufacturingDate=Tarikh Pengilangan
+ProductionDate=Tarikh Pengeluaran
+ReceptionDate=Tarikh Penerimaan
+DeliveryDate=Tarikh Serahan
+
+Supplier=Pembekal
+Customer=Pelanggan
+ThirdParty=Pihak Ketiga
+Reception=Penerimaan
+Delivery=Serahan
+Shipment=Penghantaran
+
+Traceability=Kebolehjejakan
+TraceabilityReport=Laporan Kebolehjejakan
+Origin=Asal
+Destination=Destinasi
+Source=Sumber
+Movement=Pergerakan
+Movements=Pergerakan
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+Closed=Ditutup
+Canceled=Dibatalkan
+
+NoBatch=Tiada Kelompok
+NoBatchFound=Tiada Kelompok Dijumpai
+NoLot=Tiada Lot
+NoLotFound=Tiada Lot Dijumpai
+SearchBatch=Cari Kelompok
+SelectBatch=Pilih Kelompok
+SearchLot=Cari Lot
+SelectLot=Pilih Lot
