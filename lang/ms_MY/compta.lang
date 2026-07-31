@@ -150,3 +150,11 @@ NoAccountingEntry=Tiada Catatan Perakaunan
 NoAccountingEntryFound=Tiada Catatan Perakaunan Dijumpai
 SearchAccountingEntry=Cari Catatan Perakaunan
 SelectAccountingEntry=Pilih Catatan Perakaunan
+
+# Sprint 12 - Real Dolibarr Billing Top Bar Keys
+MenuFinancial=Bil | Bayaran
+InvoicesArea=Ruang Bil dan Bayaran
+NewPayment=Bayaran Baru
+ListPayment=Senarai Bayaran
+ListOfCustomerPayments=Senarai Bayaran Pelanggan
+ListOfSupplierPayments=Senarai Bayaran Pembekal
