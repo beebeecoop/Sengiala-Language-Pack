@@ -1,0 +1,108 @@
+# Dolibarr Bahasa Melayu Malaysia - BOM
+# Encoding: UTF-8
+
+BOM=BOM
+Boms=BOM
+BillOfMaterials=Bil Bahan
+BillsOfMaterials=Bil Bahan
+BOMManagement=Pengurusan BOM
+BOMCard=Kad BOM
+BOMList=Senarai BOM
+BOMRef=Rujukan BOM
+BOMLabel=Label BOM
+BOMDescription=Keterangan BOM
+BOMStatus=Status BOM
+BOMType=Jenis BOM
+
+NewBOM=BOM Baharu
+CreateBOM=Cipta BOM
+AddBOM=Tambah BOM
+EditBOM=Sunting BOM
+ModifyBOM=Ubah BOM
+DeleteBOM=Hapus BOM
+ValidateBOM=Sahkan BOM
+CloseBOM=Tutup BOM
+ReopenBOM=Buka Semula BOM
+
+BOMCreated=BOM Telah Dicipta
+BOMModified=BOM Telah Diubah
+BOMValidated=BOM Telah Disahkan
+BOMDeleted=BOM Telah Dihapuskan
+BOMClosed=BOM Telah Ditutup
+
+Manufacturing=Pembuatan
+ManufacturingOrder=Arahan Pembuatan
+ManufacturingOrders=Arahan Pembuatan
+WorkOrder=Arahan Kerja
+WorkOrders=Arahan Kerja
+Production=Pengeluaran
+ProductionOrder=Arahan Pengeluaran
+ProductionOrders=Arahan Pengeluaran
+
+Product=Produk
+Products=Produk
+FinishedProduct=Produk Siap
+FinishedProducts=Produk Siap
+Component=Komponen
+Components=Komponen
+RawMaterial=Bahan Mentah
+RawMaterials=Bahan Mentah
+SemiFinishedProduct=Produk Separuh Siap
+SemiFinishedProducts=Produk Separuh Siap
+
+Quantity=Kuantiti
+QuantityNeeded=Kuantiti Diperlukan
+QuantityUsed=Kuantiti Digunakan
+QuantityProduced=Kuantiti Dihasilkan
+Unit=Unit
+UnitCost=Kos Unit
+Cost=Kos
+TotalCost=Jumlah Kos
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+
+Warehouse=Stor
+Warehouses=Stor
+Stock=Stok
+Stocks=Stok
+Inventory=Inventori
+StockMovement=Pergerakan Stok
+StockConsumption=Penggunaan Stok
+
+Line=Baris
+Lines=Baris
+BOMLine=Baris BOM
+BOMLines=Baris BOM
+AddLine=Tambah Baris
+EditLine=Sunting Baris
+DeleteLine=Hapus Baris
+
+Version=Versi
+Revision=Semakan
+ActiveVersion=Versi Aktif
+DefaultBOM=BOM Lalai
+ParentProduct=Produk Induk
+ChildProduct=Produk Anak
+
+Efficiency=Kecekapan
+Loss=Susut Nilai
+Waste=Sisa
+Scrap=Lebihan Buangan
+
+Date=Tarikh
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+Closed=Ditutup
+Canceled=Dibatalkan
+
+NoBOM=Tiada BOM
+NoBOMFound=Tiada BOM Dijumpai
+SearchBOM=Cari BOM
+SelectBOM=Pilih BOM
