@@ -111,3 +111,14 @@ NoOrder=Tiada Pesanan
 NoOrderFound=Tiada Pesanan Dijumpai
 SearchOrder=Cari Pesanan
 SelectOrder=Pilih Pesanan
+
+# Sprint 13 - Real Screen Cleanup: Purchase Orders
+SuppliersOrdersArea=Ruang Pesanan Pembekal
+SuppliersOrders=Pesanan Pembekal
+SuppliersOrdersToProcess=Pesanan Pembekal Perlu Diproses
+SuppliersOrdersAwaitingReception=Pesanan Pembekal Menunggu Penerimaan
+NewSupplierOrder=Pesanan Pembekal Baru
+NewOrder=Pesanan Baru
+DraftPurchaseOrders=Pesanan Pembekal Draf
+Open=Terbuka
+AwaitingReception=Tunggu Terima
