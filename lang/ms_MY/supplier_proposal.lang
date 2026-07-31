@@ -108,3 +108,15 @@ NewPriceRequest=Permintaan Harga Baru
 DraftVendorProposals=Sebut Harga Pembekal Draf
 NoProposal=Tiada sebut harga
 ToClose=Perlu Tutup
+
+# Sprint 14 - Supplier Proposal Screen Variants
+PriceRequest=Permintaan Harga
+PriceRequests=Permintaan Harga
+NewPriceRequest=Permintaan Harga Baru
+VendorProposalList=Senarai Sebut Harga Pembekal
+VendorProposalsList=Senarai Sebut Harga Pembekal
+OpenVendorProposals=Sebut Harga Pembekal Terbuka
+DraftSupplierProposals=Sebut Harga Pembekal Draf
+LatestVendorProposals=Sebut Harga Pembekal Terkini
+NoVendorProposal=Tiada sebut harga pembekal
+NoVendorProposals=Tiada sebut harga pembekal
