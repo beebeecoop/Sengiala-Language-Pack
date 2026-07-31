@@ -10,7 +10,7 @@ Quotations=Sebut Harga
 Quote=Sebut Harga
 Quotes=Sebut Harga
 
-NewProposal=Sebut Harga Baharu
+NewProposal=Sebut Harga Baru
 CreateProposal=Cipta Sebut Harga
 AddProposal=Tambah Sebut Harga
 EditProposal=Sunting Sebut Harga
@@ -94,3 +94,15 @@ NoProposal=Tiada Sebut Harga
 NoProposalFound=Tiada Sebut Harga Dijumpai
 SearchProposal=Cari Sebut Harga
 SelectProposal=Pilih Sebut Harga
+
+# Sprint 14 - Proposal UI Normalisation
+NewCommercialProposal=Sebut Harga Komersial Baru
+OpenCommercialProposals=Sebut Harga Komersial Terbuka
+DraftCommercialProposals=Sebut Harga Komersial Draf
+LatestModifiedProposals=%s sebut harga terakhir diubah
+NoCommercialProposal=Tiada sebut harga komersial
+NoCommercialProposals=Tiada sebut harga komersial
+NotEnoughData=Data tidak mencukupi
+ToAcceptRefuse=Perlu Diterima | Ditolak
+ToBill=Perlu Bil
+ToClose=Perlu Tutup
