@@ -27,9 +27,9 @@ MRPValidated=MRP Telah Disahkan
 MRPDeleted=MRP Telah Dihapuskan
 MRPClosed=MRP Telah Ditutup
 
-Manufacturing=Pembuatan
-ManufacturingOrder=Arahan Pembuatan
-ManufacturingOrders=Arahan Pembuatan
+Manufacturing=Pengilangan
+ManufacturingOrder=Arahan Pengilangan
+ManufacturingOrders=Arahan Pengilangan
 WorkOrder=Arahan Kerja
 WorkOrders=Arahan Kerja
 Production=Pengeluaran
