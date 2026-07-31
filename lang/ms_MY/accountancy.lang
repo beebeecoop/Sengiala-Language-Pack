@@ -100,3 +100,24 @@ MenuAccountancy=Perakaunan
 MenuAccountancyBinding=Pautan Perakaunan
 MenuAccountancyTransfer=Pindahan ke Perakaunan
 MenuAccountancyRecord=Rekod Perakaunan
+
+# Sprint 16 - Accountancy Residual Real Screen Keys
+AccountingArea=Ruang Perakaunan
+AccountancyArea=Ruang Perakaunan
+TransferInAccounting=Pindahan ke Perakaunan
+TransferInAccountancy=Pindahan ke Perakaunan
+CustomerInvoiceBinding=Pautan Invois Pelanggan
+VendorInvoiceBinding=Pautan Invois Pembekal
+SupplierInvoiceBinding=Pautan Invois Pembekal
+RecordingInAccounting=Rekod dalam Perakaunan
+RecordingInAccountancy=Rekod dalam Perakaunan
+MiscellaneousOperations=Operasi Pelbagai
+Sales=Jualan
+Purchases=Belian
+Bank=Bank
+ExportSourceDocuments=Eksport Dokumen Sumber
+ExportAccountancy=Eksport Perakaunan
+Closure=Penutupan
+Reporting=Pelaporan
+ShowTutorial=Tunjuk Tutorial
+WelcomeToAccountancyArea=Selamat datang ke bahagian untuk menjana Perakaunan anda. Klik pautan "Tunjuk Tutorial" untuk mendapatkan panduan cara menggunakannya.
