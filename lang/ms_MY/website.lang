@@ -1,0 +1,128 @@
+# Dolibarr Bahasa Melayu Malaysia - Website
+# Encoding: UTF-8
+
+Website=Laman Web
+Websites=Laman Web
+WebsiteManagement=Pengurusan Laman Web
+WebsiteModule=Modul Laman Web
+WebsiteCard=Kad Laman Web
+WebsiteList=Senarai Laman Web
+WebsiteRef=Rujukan Laman Web
+WebsiteLabel=Label Laman Web
+WebsiteDescription=Keterangan Laman Web
+WebsiteStatus=Status Laman Web
+
+NewWebsite=Laman Web Baharu
+CreateWebsite=Cipta Laman Web
+AddWebsite=Tambah Laman Web
+EditWebsite=Sunting Laman Web
+ModifyWebsite=Ubah Laman Web
+DeleteWebsite=Hapus Laman Web
+ValidateWebsite=Sahkan Laman Web
+PublishWebsite=Terbitkan Laman Web
+UnpublishWebsite=Nyahterbitkan Laman Web
+
+WebsiteCreated=Laman Web Telah Dicipta
+WebsiteModified=Laman Web Telah Diubah
+WebsiteValidated=Laman Web Telah Disahkan
+WebsiteDeleted=Laman Web Telah Dihapuskan
+WebsitePublished=Laman Web Telah Diterbitkan
+WebsiteUnpublished=Laman Web Telah Dinyahterbitkan
+
+WebPage=Halaman Web
+WebPages=Halaman Web
+Page=Halaman
+Pages=Halaman
+NewPage=Halaman Baharu
+CreatePage=Cipta Halaman
+AddPage=Tambah Halaman
+EditPage=Sunting Halaman
+ModifyPage=Ubah Halaman
+DeletePage=Hapus Halaman
+PublishPage=Terbitkan Halaman
+UnpublishPage=Nyahterbitkan Halaman
+
+PageCreated=Halaman Telah Dicipta
+PageModified=Halaman Telah Diubah
+PageDeleted=Halaman Telah Dihapuskan
+PagePublished=Halaman Telah Diterbitkan
+PageUnpublished=Halaman Telah Dinyahterbitkan
+
+HomePage=Halaman Utama
+LandingPage=Halaman Pendaratan
+ContactPage=Halaman Hubungan
+AboutPage=Halaman Mengenai Kami
+TermsPage=Halaman Terma
+PrivacyPage=Halaman Privasi
+
+Menu=Menu
+Menus=Menu
+Navigation=Navigasi
+Header=Pengepala
+Footer=Pengaki
+Sidebar=Bar Sisi
+Content=Kandungan
+Block=Blok
+Blocks=Blok
+Section=Seksyen
+Sections=Seksyen
+
+Title=Tajuk
+Subtitle=Sari Tajuk
+Slug=Slug
+Url=URL
+Link=Pautan
+Links=Pautan
+Image=Imej
+Images=Imej
+File=Fail
+Files=Fail
+Document=Dokumen
+Documents=Dokumen
+
+Template=Templat
+Templates=Templat
+Theme=Tema
+Themes=Tema
+Css=CSS
+Javascript=JavaScript
+Html=HTML
+
+Public=Awam
+Private=Peribadi
+Visible=Kelihatan
+Hidden=Tersembunyi
+Published=Diterbitkan
+Unpublished=Belum Diterbitkan
+Draft=Draf
+Validated=Disahkan
+Active=Aktif
+Inactive=Tidak Aktif
+
+Customer=Pelanggan
+Customers=Pelanggan
+Product=Produk
+Products=Produk
+Service=Perkhidmatan
+Services=Perkhidmatan
+Order=Pesanan
+Orders=Pesanan
+Payment=Bayaran
+OnlinePayment=Bayaran Dalam Talian
+
+Cart=Troli
+ShoppingCart=Troli Beli-belah
+Checkout=Daftar Keluar
+Account=Akaun
+Login=Log Masuk
+Logout=Log Keluar
+Register=Daftar
+
+SearchWebsite=Cari Laman Web
+SelectWebsite=Pilih Laman Web
+NoWebsite=Tiada Laman Web
+NoWebsiteFound=Tiada Laman Web Dijumpai
+SearchPage=Cari Halaman
+SelectPage=Pilih Halaman
+NoPage=Tiada Halaman
+NoPageFound=Tiada Halaman Dijumpai
