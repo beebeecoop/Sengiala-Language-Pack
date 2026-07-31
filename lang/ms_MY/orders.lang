@@ -49,7 +49,7 @@ OrderCreated=Pesanan Telah Dicipta
 OrderModified=Pesanan Telah Diubah
 OrderValidated=Pesanan Telah Disahkan
 OrderCanceled=Pesanan Telah Dibatalkan
-OrderDeleted=Pesanan Telah DiHapus
+OrderDeleted=Pesanan Telah Dihapuskan
 OrderClosed=Pesanan Telah Ditutup
 
 Customer=Pelanggan
@@ -122,3 +122,15 @@ NewOrder=Pesanan Baru
 DraftPurchaseOrders=Pesanan Pembekal Draf
 Open=Terbuka
 AwaitingReception=Tunggu Terima
+
+# Sprint 14 - Purchase Order Screen Variants
+NewPurchaseOrder=Pesanan Belian Baru
+NewSupplierOrder=Pesanan Pembekal Baru
+PurchaseOrdersArea=Ruang Pesanan Belian
+PurchaseOrdersToProcess=Pesanan Belian Perlu Diproses
+PurchaseOrdersAwaitingReception=Pesanan Belian Menunggu Penerimaan
+LatestPurchaseOrders=Pesanan Belian Terkini
+LatestSupplierOrders=Pesanan Pembekal Terkini
+DraftSupplierOrders=Pesanan Pembekal Draf
+NoPurchaseOrder=Tiada pesanan belian
+NoSupplierOrder=Tiada pesanan pembekal
