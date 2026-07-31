@@ -90,3 +90,21 @@ NoPermission=Tiada Kebenaran
 NoPermissionFound=Tiada Kebenaran Dijumpai
 SearchPermission=Cari Kebenaran
 SelectPermission=Pilih Kebenaran
+
+# Sprint 11 - Permissions UI Coverage
+PermissionDashboard=Papan Pemuka Kebenaran
+PermissionOverview=Gambaran Keseluruhan Kebenaran
+PermissionArea=Ruang Kebenaran
+PermissionModule=Modul Kebenaran
+PermissionManagement=Pengurusan Kebenaran
+PermissionsManagement=Pengurusan Kebenaran
+AccessRightsDashboard=Papan Pemuka Hak Akses
+AccessRightsManagement=Pengurusan Hak Akses
+UserPermissions=Kebenaran Pengguna
+GroupPermissions=Kebenaran Kumpulan
+RolePermissions=Kebenaran Peranan
+ModulePermissions=Kebenaran Modul
+SecurityPermissions=Kebenaran Keselamatan
+PermissionsToValidate=Kebenaran Perlu Disahkan
+AccessDenied=Akses Ditolak
+NoAccess=Tiada Akses
