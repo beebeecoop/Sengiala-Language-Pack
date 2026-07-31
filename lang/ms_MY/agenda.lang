@@ -207,3 +207,23 @@ SuperAdmin=SuperAdmin
 NoEvent=Tiada acara
 CreateEvent=Cipta acara
 AddEvent=Tambah acara
+
+# Sprint 16 - Agenda Real Key Discovery and Capitalisation Polish
+MyIncompleteEvents=Acara Saya yang Belum Siap
+MyTerminatedEvents=Acara Saya yang Telah Siap
+AllIncompleteEvents=Semua Acara yang Belum Siap
+AllTerminatedEvents=Semua Acara yang Telah Siap
+BirthdaysOfContacts=Hari Lahir Kenalan
+DefaultCalendar=Kalendar Lalai
+Calendar=Kalendar
+Reporting=Pelaporan
+ListView=Paparan Senarai
+MonthView=Paparan Bulan
+WeekView=Paparan Minggu
+DayView=Paparan Hari
+PerUserView=Paparan Mengikut Pengguna
+Today=Hari Ini
+NewEvent=Acara Baru
+CreateEvent=Cipta Acara
+AddEvent=Tambah Acara
+NoEvent=Tiada Acara
