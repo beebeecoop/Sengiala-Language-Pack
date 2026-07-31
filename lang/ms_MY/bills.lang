@@ -144,3 +144,7 @@ PartiallyPaid=Dibayar Sebahagian
 Late=Lewat
 Overdue=Tertunggak
 Open=Terbuka
+
+# Sprint 12 - Real Invoice Dashboard Graph Keys
+NumberOfBillsByMonth=Bil. Invois mengikut bulan
+AmountOfBillsByMonthHT=Jumlah Invois mengikut bulan (bersih cukai)

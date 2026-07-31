@@ -1,0 +1,11 @@
+
+# Sprint 12 - Real Dashboard Widget Keys
+BoxTitleCurrentAccounts=Akaun Terbuka: baki
+BoxTitleLastModifiedContacts=Kenalan/Alamat: %s terakhir diubah
+BoxTitleLastModifiedProspects=Prospek: %s terakhir diubah
+BoxCustomersInvoicesPerMonth=Invois Pelanggan mengikut bulan
+NoRecordedInvoices=Tiada invois pelanggan direkodkan
+NoUnpaidCustomerBills=Tiada invois pelanggan belum bayar
+BoxLatestSupplierOrders=Pesanan Pembekal Terkini
+BoxLatestSupplierOrdersAwaitingReception=Pesanan Pembekal Terkini (menunggu penerimaan)
+BoxTitleLatestModifiedSupplierOrders=Pesanan Pembekal: %s terakhir diubah
