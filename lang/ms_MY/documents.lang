@@ -92,3 +92,27 @@ NoDocument=Tiada Dokumen
 NoDocumentFound=Tiada Dokumen Dijumpai
 SearchDocument=Cari Dokumen
 SelectDocument=Pilih Dokumen
+
+# Sprint 11 - Documents, DMS and EDM UI Coverage
+DocumentManagement=Pengurusan Dokumen
+DocumentsManagement=Pengurusan Dokumen
+DMS=Dokumen
+EDM=Dokumen
+ECM=Pengurusan Kandungan
+ElectronicDocumentManagement=Pengurusan Dokumen Elektronik
+DocumentDashboard=Papan Pemuka Dokumen
+DocumentOverview=Gambaran Keseluruhan Dokumen
+DocumentArea=Ruang Dokumen
+DocumentModule=Modul Dokumen
+DocumentRepository=Repositori Dokumen
+DocumentLibrary=Perpustakaan Dokumen
+RecentDocuments=Dokumen Terkini
+MyDocuments=Dokumen Saya
+SharedDocuments=Dokumen Dikongsi
+ToUpload=Perlu Muat Naik
+ToDownload=Perlu Muat Turun
+ToArchive=Perlu Arkib
+ToValidate=Perlu Sahkan
+NoFileFound=Tiada Fail Dijumpai
+NoFolderFound=Tiada Folder Dijumpai
+NoAttachmentFound=Tiada Lampiran Dijumpai
