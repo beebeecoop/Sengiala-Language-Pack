@@ -1,0 +1,130 @@
+# Dolibarr Bahasa Melayu Malaysia - Notification
+# Encoding: UTF-8
+
+Notification=Pemberitahuan
+Notifications=Pemberitahuan
+NotificationManagement=Pengurusan Pemberitahuan
+NotificationModule=Modul Pemberitahuan
+NotificationSetup=Tetapan Pemberitahuan
+NotificationSettings=Tetapan Pemberitahuan
+NotificationConfiguration=Konfigurasi Pemberitahuan
+
+NewNotification=Pemberitahuan Baharu
+CreateNotification=Cipta Pemberitahuan
+AddNotification=Tambah Pemberitahuan
+EditNotification=Sunting Pemberitahuan
+ModifyNotification=Ubah Pemberitahuan
+DeleteNotification=Hapus Pemberitahuan
+EnableNotification=Aktifkan Pemberitahuan
+DisableNotification=Nyahaktifkan Pemberitahuan
+
+NotificationCreated=Pemberitahuan Telah Dicipta
+NotificationModified=Pemberitahuan Telah Diubah
+NotificationDeleted=Pemberitahuan Telah Dihapuskan
+NotificationEnabled=Pemberitahuan Telah Diaktifkan
+NotificationDisabled=Pemberitahuan Telah Dinyahaktifkan
+NotificationSent=Pemberitahuan Telah Dihantar
+NotificationFailed=Pemberitahuan Gagal Dihantar
+
+Alert=Amaran
+Alerts=Amaran
+NewAlert=Amaran Baharu
+CreateAlert=Cipta Amaran
+AddAlert=Tambah Amaran
+EditAlert=Sunting Amaran
+DeleteAlert=Hapus Amaran
+AlertCreated=Amaran Telah Dicipta
+AlertSent=Amaran Telah Dihantar
+
+Reminder=Peringatan
+Reminders=Peringatan
+NewReminder=Peringatan Baharu
+CreateReminder=Cipta Peringatan
+AddReminder=Tambah Peringatan
+EditReminder=Sunting Peringatan
+DeleteReminder=Hapus Peringatan
+ReminderCreated=Peringatan Telah Dicipta
+ReminderSent=Peringatan Telah Dihantar
+
+Message=Mesej
+Messages=Mesej
+Subject=Subjek
+Content=Kandungan
+Body=Kandungan
+Title=Tajuk
+Description=Keterangan
+Note=Nota
+
+Sender=Pengirim
+Recipient=Penerima
+Recipients=Penerima
+User=Pengguna
+Users=Pengguna
+Group=Kumpulan
+Groups=Kumpulan
+Contact=Kenalan
+Contacts=Kenalan
+ThirdParty=Pihak Ketiga
+
+Email=E-mel
+EmailNotification=Pemberitahuan E-mel
+SMSNotification=Pemberitahuan SMS
+SystemNotification=Pemberitahuan Sistem
+InternalNotification=Pemberitahuan Dalaman
+
+SendNotification=Hantar Pemberitahuan
+SendEmail=Hantar E-mel
+SendMessage=Hantar Mesej
+SendAlert=Hantar Amaran
+SendReminder=Hantar Peringatan
+
+NotificationDate=Tarikh Pemberitahuan
+NotificationTime=Masa Pemberitahuan
+SendingDate=Tarikh Penghantaran
+SendingTime=Masa Penghantaran
+ReminderDate=Tarikh Peringatan
+ReminderTime=Masa Peringatan
+AlertDate=Tarikh Amaran
+AlertTime=Masa Amaran
+
+Status=Status
+Priority=Keutamaan
+HighPriority=Keutamaan Tinggi
+MediumPriority=Keutamaan Sederhana
+LowPriority=Keutamaan Rendah
+
+Draft=Draf
+Pending=Belum Selesai
+Sent=Telah Dihantar
+Failed=Gagal
+Canceled=Dibatalkan
+Active=Aktif
+Inactive=Tidak Aktif
+Enabled=Diaktifkan
+Disabled=Dinyahaktifkan
+
+Project=Projek
+Task=Tugasan
+Agenda=Agenda
+Event=Acara
+Invoice=Invois
+Order=Pesanan
+Proposal=Sebut Harga
+Contract=Kontrak
+
+Configuration=Konfigurasi
+Setup=Tetapan
+Parameter=Parameter
+Parameters=Parameter
+Template=Templat
+Templates=Templat
+DefaultTemplate=Templat Lalai
+
+NoNotification=Tiada Pemberitahuan
+NoNotificationFound=Tiada Pemberitahuan Dijumpai
+SearchNotification=Cari Pemberitahuan
+SelectNotification=Pilih Pemberitahuan
+NoAlert=Tiada Amaran
+NoAlertFound=Tiada Amaran Dijumpai
+NoReminder=Tiada Peringatan
+NoReminderFound=Tiada Peringatan Dijumpai
