@@ -1,0 +1,98 @@
+# Dolibarr Bahasa Melayu Malaysia - OAuth2
+# Encoding: UTF-8
+
+OAuth2=OAuth2
+OAuth2Client=Klien OAuth2
+OAuth2Clients=Klien OAuth2
+OAuth2Provider=Penyedia OAuth2
+OAuth2Providers=Penyedia OAuth2
+OAuth2Application=Aplikasi OAuth2
+OAuth2Applications=Aplikasi OAuth2
+OAuth2Service=Perkhidmatan OAuth2
+OAuth2Services=Perkhidmatan OAuth2
+
+NewOAuth2Client=Klien OAuth2 Baharu
+CreateOAuth2Client=Cipta Klien OAuth2
+AddOAuth2Client=Tambah Klien OAuth2
+EditOAuth2Client=Sunting Klien OAuth2
+ModifyOAuth2Client=Ubah Klien OAuth2
+DeleteOAuth2Client=Hapus Klien OAuth2
+ValidateOAuth2Client=Sahkan Klien OAuth2
+EnableOAuth2Client=Aktifkan Klien OAuth2
+DisableOAuth2Client=Nyahaktifkan Klien OAuth2
+
+OAuth2ClientCreated=Klien OAuth2 Telah Dicipta
+OAuth2ClientModified=Klien OAuth2 Telah Diubah
+OAuth2ClientValidated=Klien OAuth2 Telah Disahkan
+OAuth2ClientDeleted=Klien OAuth2 Telah Dihapuskan
+OAuth2ClientEnabled=Klien OAuth2 Telah Diaktifkan
+OAuth2ClientDisabled=Klien OAuth2 Telah Dinyahaktifkan
+
+ClientID=ID Klien
+ClientSecret=Rahsia Klien
+ClientName=Nama Klien
+ClientDescription=Keterangan Klien
+RedirectURI=URI Ubah Hala
+RedirectURIs=URI Ubah Hala
+CallbackURL=URL Panggil Balik
+AuthorizationEndpoint=Titik Akhir Keizinan
+TokenEndpoint=Titik Akhir Token
+UserInfoEndpoint=Titik Akhir Maklumat Pengguna
+
+AccessToken=Token Akses
+RefreshToken=Token Segar Semula
+IDToken=Token ID
+BearerToken=Token Pembawa
+TokenType=Jenis Token
+TokenExpiry=Luput Token
+TokenExpired=Token Telah Luput
+GenerateToken=Jana Token
+RefreshAccessToken=Segar Semula Token Akses
+RevokeToken=Batalkan Token
+TokenRevoked=Token Telah Dibatalkan
+
+Authorization=Keizinan
+Authorize=Izinkan
+Authorized=Telah Diizinkan
+AuthorizationCode=Kod Keizinan
+AuthorizationGrant=Geran Keizinan
+GrantType=Jenis Geran
+AuthorizationCodeGrant=Geran Kod Keizinan
+ClientCredentialsGrant=Geran Kelayakan Klien
+PasswordGrant=Geran Kata Laluan
+RefreshTokenGrant=Geran Token Segar Semula
+
+Scope=Skop
+Scopes=Skop
+DefaultScope=Skop Lalai
+AllowedScope=Skop Dibenarkan
+AllowedScopes=Skop Dibenarkan
+
+Login=Log Masuk
+Logout=Log Keluar
+Authentication=Pengesahan
+TwoFactorAuthentication=Pengesahan Dua Faktor
+Permission=Kebenaran
+Permissions=Kebenaran
+AccessRight=Hak Akses
+AccessRights=Hak Akses
+
+User=Pengguna
+Users=Pengguna
+Application=Aplikasi
+Applications=Aplikasi
+Service=Perkhidmatan
+Services=Perkhidmatan
+
+Active=Aktif
+Inactive=Tidak Aktif
+Enabled=Diaktifkan
+Disabled=Dinyahaktifkan
+Validated=Disahkan
+Revoked=Dibatalkan
+Expired=Telah Luput
+
+NoOAuth2Client=Tiada Klien OAuth2
+NoOAuth2ClientFound=Tiada Klien OAuth2 Dijumpai
+SearchOAuth2Client=Cari Klien OAuth2
+SelectOAuth2Client=Pilih Klien OAuth2
