@@ -1,0 +1,106 @@
+# Dolibarr Bahasa Melayu Malaysia - Import
+# Encoding: UTF-8
+
+Import=Import
+Imports=Import
+ImportData=Import Data
+ImportFile=Import Fail
+ImportFiles=Import Fail
+ImportModule=Modul Import
+ImportWizard=Wizard Import
+ImportProcess=Proses Import
+ImportResult=Keputusan Import
+ImportStatus=Status Import
+
+NewImport=Import Baharu
+CreateImport=Cipta Import
+StartImport=Mulakan Import
+RunImport=Jalankan Import
+ValidateImport=Sahkan Import
+CancelImport=Batalkan Import
+DeleteImport=Hapus Import
+RetryImport=Cuba Semula Import
+
+ImportCreated=Import Telah Dicipta
+ImportStarted=Import Telah Dimulakan
+ImportCompleted=Import Telah Selesai
+ImportValidated=Import Telah Disahkan
+ImportCanceled=Import Telah Dibatalkan
+ImportDeleted=Import Telah Dihapuskan
+ImportFailed=Import Gagal
+
+File=Fail
+Files=Fail
+FileName=Nama Fail
+FileType=Jenis Fail
+FileSize=Saiz Fail
+FilePath=Laluan Fail
+UploadFile=Muat Naik Fail
+SelectFile=Pilih Fail
+DownloadTemplate=Muat Turun Templat
+ImportTemplate=Templat Import
+
+CSVFile=Fail CSV
+ExcelFile=Fail Excel
+Spreadsheet=Hamparan
+Delimiter=Pemisah
+Separator=Pemisah
+Encoding=Pengekodan
+HeaderLine=Baris Pengepala
+FirstLine=Baris Pertama
+LastLine=Baris Terakhir
+
+Field=Medan
+Fields=Medan
+Column=Lajur
+Columns=Lajur
+Mapping=Pemetaan
+FieldMapping=Pemetaan Medan
+ColumnMapping=Pemetaan Lajur
+RequiredField=Medan Diperlukan
+OptionalField=Medan Pilihan
+IgnoredField=Medan Diabaikan
+
+Preview=Pratonton
+PreviewData=Pratonton Data
+CheckData=Semak Data
+ValidateData=Sahkan Data
+ImportPreview=Pratonton Import
+ImportValidation=Pengesahan Import
+
+Rows=Baris
+Row=Baris
+Records=Rekod
+Record=Rekod
+ImportedRecords=Rekod Diimport
+RejectedRecords=Rekod Ditolak
+SkippedRecords=Rekod Dilangkau
+TotalRecords=Jumlah Rekod
+NumberOfRecords=Bilangan Rekod
+
+Error=Ralat
+Errors=Ralat
+Warning=Amaran
+Warnings=Amaran
+ImportError=Ralat Import
+ImportErrors=Ralat Import
+InvalidData=Data Tidak Sah
+InvalidFormat=Format Tidak Sah
+MissingField=Medan Tiada
+DuplicateRecord=Rekod Pendua
+
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+Product=Produk
+Service=Perkhidmatan
+User=Pengguna
+Member=Anggota
+Invoice=Invois
+Order=Pesanan
+Project=Projek
+
+NoImport=Tiada Import
+NoImportFound=Tiada Import Dijumpai
+SearchImport=Cari Import
+SelectImport=Pilih Import
