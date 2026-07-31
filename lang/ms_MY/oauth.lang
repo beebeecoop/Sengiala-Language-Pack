@@ -1,0 +1,84 @@
+# Dolibarr Bahasa Melayu Malaysia - OAuth
+# Encoding: UTF-8
+
+OAuth=OAuth
+OAuthClient=Klien OAuth
+OAuthClients=Klien OAuth
+OAuthProvider=Penyedia OAuth
+OAuthProviders=Penyedia OAuth
+OAuthApplication=Aplikasi OAuth
+OAuthApplications=Aplikasi OAuth
+OAuthService=Perkhidmatan OAuth
+OAuthServices=Perkhidmatan OAuth
+
+NewOAuthClient=Klien OAuth Baharu
+CreateOAuthClient=Cipta Klien OAuth
+AddOAuthClient=Tambah Klien OAuth
+EditOAuthClient=Sunting Klien OAuth
+ModifyOAuthClient=Ubah Klien OAuth
+DeleteOAuthClient=Hapus Klien OAuth
+ValidateOAuthClient=Sahkan Klien OAuth
+EnableOAuthClient=Aktifkan Klien OAuth
+DisableOAuthClient=Nyahaktifkan Klien OAuth
+
+OAuthClientCreated=Klien OAuth Telah Dicipta
+OAuthClientModified=Klien OAuth Telah Diubah
+OAuthClientValidated=Klien OAuth Telah Disahkan
+OAuthClientDeleted=Klien OAuth Telah Dihapuskan
+OAuthClientEnabled=Klien OAuth Telah Diaktifkan
+OAuthClientDisabled=Klien OAuth Telah Dinyahaktifkan
+
+ClientID=ID Klien
+ClientSecret=Rahsia Klien
+ClientName=Nama Klien
+ClientDescription=Keterangan Klien
+RedirectURI=URI Ubah Hala
+RedirectURIs=URI Ubah Hala
+CallbackURL=URL Panggil Balik
+AuthorizationURL=URL Keizinan
+TokenURL=URL Token
+
+AccessToken=Token Akses
+RefreshToken=Token Segar Semula
+TokenType=Jenis Token
+TokenExpiry=Luput Token
+TokenExpired=Token Telah Luput
+GenerateToken=Jana Token
+RevokeToken=Batalkan Token
+TokenRevoked=Token Telah Dibatalkan
+
+Authorization=Keizinan
+Authorize=Izinkan
+Authorized=Telah Diizinkan
+AuthorizationCode=Kod Keizinan
+AuthorizationGrant=Geran Keizinan
+GrantType=Jenis Geran
+Scope=Skop
+Scopes=Skop
+
+Login=Log Masuk
+Logout=Log Keluar
+Authentication=Pengesahan
+Permission=Kebenaran
+Permissions=Kebenaran
+AccessRight=Hak Akses
+AccessRights=Hak Akses
+
+User=Pengguna
+Users=Pengguna
+Application=Aplikasi
+Applications=Aplikasi
+Service=Perkhidmatan
+Services=Perkhidmatan
+
+Active=Aktif
+Inactive=Tidak Aktif
+Enabled=Diaktifkan
+Disabled=Dinyahaktifkan
+Validated=Disahkan
+Revoked=Dibatalkan
+
+NoOAuthClient=Tiada Klien OAuth
+NoOAuthClientFound=Tiada Klien OAuth Dijumpai
+SearchOAuthClient=Cari Klien OAuth
+SelectOAuthClient=Pilih Klien OAuth
