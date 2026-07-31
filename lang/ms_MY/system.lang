@@ -1,0 +1,155 @@
+# Dolibarr Bahasa Melayu Malaysia - System
+# Encoding: UTF-8
+
+System=Sistem
+Systems=Sistem
+SystemManagement=Pengurusan Sistem
+SystemAdministration=Pentadbiran Sistem
+SystemSettings=Tetapan Sistem
+SystemConfiguration=Konfigurasi Sistem
+SystemSetup=Tetapan Sistem
+SystemTools=Alat Sistem
+SystemInfo=Maklumat Sistem
+SystemStatus=Status Sistem
+SystemHealth=Kesihatan Sistem
+
+Environment=Persekitaran
+EnvironmentInfo=Maklumat Persekitaran
+Server=Pelayan
+ServerInfo=Maklumat Pelayan
+Database=Pangkalan Data
+DatabaseInfo=Maklumat Pangkalan Data
+Application=Aplikasi
+ApplicationInfo=Maklumat Aplikasi
+Version=Versi
+CurrentVersion=Versi Semasa
+
+Module=Modul
+Modules=Modul
+ModuleStatus=Status Modul
+ModuleSetup=Tetapan Modul
+ModuleConfiguration=Konfigurasi Modul
+EnableModule=Aktifkan Modul
+DisableModule=Nyahaktifkan Modul
+ModuleEnabled=Modul Telah Diaktifkan
+ModuleDisabled=Modul Telah Dinyahaktifkan
+
+Configuration=Konfigurasi
+Configure=Konfigurasi
+Setup=Tetapan
+Settings=Tetapan
+Parameter=Parameter
+Parameters=Parameter
+GlobalParameters=Parameter Global
+SystemParameters=Parameter Sistem
+AdvancedSettings=Tetapan Lanjutan
+DefaultSettings=Tetapan Lalai
+
+Log=Log
+Logs=Log
+SystemLog=Log Sistem
+SystemLogs=Log Sistem
+ErrorLog=Log Ralat
+WarningLog=Log Amaran
+EventLog=Log Acara
+AuditLog=Log Audit
+ViewLog=Lihat Log
+ClearLog=Kosongkan Log
+
+Notification=Pemberitahuan
+Notifications=Pemberitahuan
+Alert=Amaran
+Alerts=Amaran
+Warning=Amaran
+Warnings=Amaran
+Reminder=Peringatan
+Reminders=Peringatan
+Message=Mesej
+Messages=Mesej
+
+Cache=Cache
+ClearCache=Kosongkan Cache
+Session=Sesi
+Sessions=Sesi
+Timeout=Tamat Masa
+Maintenance=Penyelenggaraan
+MaintenanceMode=Mod Penyelenggaraan
+Backup=Sandaran
+Restore=Pulihkan
+Upgrade=Naik Taraf
+Update=Kemas Kini
+
+Security=Keselamatan
+Access=Akses
+AccessControl=Kawalan Akses
+Permission=Kebenaran
+Permissions=Kebenaran
+User=Pengguna
+Users=Pengguna
+Group=Kumpulan
+Groups=Kumpulan
+Role=Peranan
+Roles=Peranan
+
+Email=E-mel
+Mail=Mel
+EmailSetup=Tetapan E-mel
+MailSetup=Tetapan Mel
+SMTPServer=Pelayan SMTP
+SMTPPort=Port SMTP
+Sender=Pengirim
+Recipient=Penerima
+
+Language=Bahasa
+Languages=Bahasa
+Translation=Terjemahan
+Translations=Terjemahan
+Locale=Lokal
+Timezone=Zon Masa
+DateFormat=Format Tarikh
+TimeFormat=Format Masa
+
+File=Fail
+Files=Fail
+Directory=Direktori
+Directories=Direktori
+Folder=Folder
+Folders=Folder
+Upload=Muat Naik
+Download=Muat Turun
+Import=Import
+Export=Eksport
+
+Save=Simpan
+Cancel=Batal
+Apply=Guna
+Validate=Sahkan
+Modify=Ubah
+Edit=Sunting
+Delete=Hapus
+Refresh=Segar Semula
+Reset=Tetap Semula
+Restart=Mula Semula
+
+Created=Dicipta
+Modified=Diubah
+Updated=Dikemas Kini
+Deleted=Dihapuskan
+Enabled=Diaktifkan
+Disabled=Dinyahaktifkan
+Validated=Disahkan
+
+Active=Aktif
+Inactive=Tidak Aktif
+Online=Dalam Talian
+Offline=Luar Talian
+Available=Tersedia
+Unavailable=Tidak Tersedia
+Success=Berjaya
+Failed=Gagal
+Error=Ralat
+
+NoRecordFound=Tiada Rekod Dijumpai
+Search=Cari
+Filter=Tapis
+Sort=Susun
