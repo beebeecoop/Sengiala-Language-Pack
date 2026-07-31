@@ -1,0 +1,94 @@
+# Dolibarr Bahasa Melayu Malaysia - Documents
+# Encoding: UTF-8
+
+Document=Dokumen
+Documents=Dokumen
+DocumentCard=Kad Dokumen
+DocumentList=Senarai Dokumen
+DocumentRef=Rujukan Dokumen
+DocumentReference=Rujukan Dokumen
+DocumentName=Nama Dokumen
+DocumentTitle=Tajuk Dokumen
+DocumentDescription=Keterangan Dokumen
+DocumentStatus=Status Dokumen
+DocumentType=Jenis Dokumen
+
+NewDocument=Dokumen Baharu
+CreateDocument=Cipta Dokumen
+AddDocument=Tambah Dokumen
+EditDocument=Sunting Dokumen
+ModifyDocument=Ubah Dokumen
+DeleteDocument=Hapus Dokumen
+ValidateDocument=Sahkan Dokumen
+ArchiveDocument=Arkibkan Dokumen
+DownloadDocument=Muat Turun Dokumen
+UploadDocument=Muat Naik Dokumen
+PrintDocument=Cetak Dokumen
+PreviewDocument=Pratonton Dokumen
+
+DocumentCreated=Dokumen Telah Dicipta
+DocumentModified=Dokumen Telah Diubah
+DocumentValidated=Dokumen Telah Disahkan
+DocumentDeleted=Dokumen Telah Dihapuskan
+DocumentArchived=Dokumen Telah Diarkibkan
+DocumentDownloaded=Dokumen Telah Dimuat Turun
+DocumentUploaded=Dokumen Telah Dimuat Naik
+
+File=Fail
+Files=Fail
+FileName=Nama Fail
+FileSize=Saiz Fail
+FileType=Jenis Fail
+FilePath=Laluan Fail
+FileExtension=Sambungan Fail
+FileDate=Tarikh Fail
+FileOwner=Pemilik Fail
+
+Attachment=Lampiran
+Attachments=Lampiran
+AttachFile=Lampirkan Fail
+AttachedFile=Fail Dilampirkan
+AttachedFiles=Fail Dilampirkan
+RemoveAttachment=Buang Lampiran
+NoAttachment=Tiada Lampiran
+
+Folder=Folder
+Folders=Folder
+Directory=Direktori
+Directories=Direktori
+CreateFolder=Cipta Folder
+AddFolder=Tambah Folder
+EditFolder=Sunting Folder
+DeleteFolder=Hapus Folder
+FolderDeleted=Folder Telah Dihapuskan
+
+Upload=Muat Naik
+Download=Muat Turun
+Preview=Pratonton
+Print=Cetak
+Open=Buka
+Close=Tutup
+Save=Simpan
+Cancel=Batalkan
+
+PDF=PDF
+PDFDocument=Dokumen PDF
+GeneratePDF=Jana PDF
+DownloadPDF=Muat Turun PDF
+PrintPDF=Cetak PDF
+PreviewPDF=Pratonton PDF
+
+Invoice=Invois
+Order=Pesanan
+Proposal=Sebut Harga
+Contract=Kontrak
+Project=Projek
+Customer=Pelanggan
+Supplier=Pembekal
+ThirdParty=Pihak Ketiga
+User=Pengguna
+
+NoDocument=Tiada Dokumen
+NoDocumentFound=Tiada Dokumen Dijumpai
+SearchDocument=Cari Dokumen
+SelectDocument=Pilih Dokumen
