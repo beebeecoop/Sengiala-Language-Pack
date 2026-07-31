@@ -71,4 +71,4 @@ Before opening the pull request, run terminology and format checks against all `
 
 ## Status
 
-Draft for Dolibarr Malay Translation Sprint 03.
+Completed for Dolibarr Malay Translation Sprint 03.
