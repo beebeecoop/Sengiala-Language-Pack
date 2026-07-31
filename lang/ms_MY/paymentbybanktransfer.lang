@@ -1,0 +1,99 @@
+# Dolibarr Bahasa Melayu Malaysia - Payment by Bank Transfer
+# Encoding: UTF-8
+
+PaymentByBankTransfer=Bayaran Melalui Pindahan Bank
+PaymentByBankTransfers=Bayaran Melalui Pindahan Bank
+BankTransfer=Pindahan Bank
+BankTransfers=Pindahan Bank
+BankTransferPayment=Bayaran Pindahan Bank
+BankTransferPayments=Bayaran Pindahan Bank
+BankTransferModule=Modul Pindahan Bank
+
+OnlinePayment=Bayaran Dalam Talian
+Payment=Bayaran
+Payments=Bayaran
+PaymentMode=Kaedah Bayaran
+PaymentMethod=Kaedah Bayaran
+PaymentStatus=Status Bayaran
+PaymentDate=Tarikh Bayaran
+PaymentRef=Rujukan Bayaran
+PaymentReference=Rujukan Bayaran
+
+NewPayment=Bayaran Baharu
+CreatePayment=Cipta Bayaran
+AddPayment=Tambah Bayaran
+ValidatePayment=Sahkan Bayaran
+CancelPayment=Batal Bayaran
+
+PaymentCreated=Bayaran Telah Dicipta
+PaymentValidated=Bayaran Telah Disahkan
+PaymentCanceled=Bayaran Telah Dibatalkan
+PaymentReceived=Bayaran Telah Diterima
+PaymentFailed=Bayaran Gagal
+
+Bank=Bank
+Banks=Bank
+BankAccount=Akaun Bank
+BankAccounts=Akaun Bank
+BankAccountNumber=Nombor Akaun Bank
+BankAccountName=Nama Akaun Bank
+BankName=Nama Bank
+BankCode=Kod Bank
+BranchName=Nama Cawangan
+SwiftCode=Kod SWIFT
+Iban=IBAN
+Bic=BIC
+
+Transfer=Pemindahan
+Transfers=Pemindahan
+TransferDate=Tarikh Pemindahan
+TransferReference=Rujukan Pemindahan
+TransferAmount=Jumlah Pemindahan
+TransferStatus=Status Pemindahan
+
+Sender=Penghantar
+Receiver=Penerima
+Beneficiary=Benefisiari
+BeneficiaryName=Nama Benefisiari
+BeneficiaryAccount=Akaun Benefisiari
+
+Customer=Pelanggan
+Customers=Pelanggan
+Supplier=Pembekal
+Suppliers=Pembekal
+ThirdParty=Pihak Ketiga
+
+Invoice=Invois
+Invoices=Invois
+Order=Pesanan
+Orders=Pesanan
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Currency=Mata Wang
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+PublicNote=Nota Awam
+PrivateNote=Nota Peribadi
+
+Pending=Menunggu
+Confirmed=Disahkan
+Validated=Disahkan
+Rejected=Ditolak
+Canceled=Dibatalkan
+Paid=Telah Dibayar
+Unpaid=Belum Dibayar
+
+PaymentInstructions=Arahan Bayaran
+BankTransferInstructions=Arahan Pindahan Bank
+PleaseUseReference=Sila Gunakan Rujukan
+ProofOfPayment=Bukti Bayaran
+UploadProofOfPayment=Muat Naik Bukti Bayaran
+DownloadProofOfPayment=Muat Turun Bukti Bayaran
+
+NoBankTransferPayment=Tiada Bayaran Pindahan Bank
+NoBankTransferPaymentFound=Tiada Bayaran Pindahan Bank Dijumpai
+SearchBankTransferPayment=Cari Bayaran Pindahan Bank
+SelectBankTransferPayment=Pilih Bayaran Pindahan Bank
