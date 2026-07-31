@@ -1,0 +1,115 @@
+# Dolibarr Bahasa Melayu Malaysia - MRP
+# Encoding: UTF-8
+
+MRP=MRP
+MaterialRequirementsPlanning=Perancangan Keperluan Bahan
+MRPManagement=Pengurusan MRP
+MRPCard=Kad MRP
+MRPList=Senarai MRP
+MRPRef=Rujukan MRP
+MRPLabel=Label MRP
+MRPDescription=Keterangan MRP
+MRPStatus=Status MRP
+
+NewMRP=MRP Baharu
+CreateMRP=Cipta MRP
+AddMRP=Tambah MRP
+EditMRP=Sunting MRP
+ModifyMRP=Ubah MRP
+DeleteMRP=Hapus MRP
+ValidateMRP=Sahkan MRP
+CloseMRP=Tutup MRP
+ReopenMRP=Buka Semula MRP
+
+MRPCreated=MRP Telah Dicipta
+MRPModified=MRP Telah Diubah
+MRPValidated=MRP Telah Disahkan
+MRPDeleted=MRP Telah Dihapuskan
+MRPClosed=MRP Telah Ditutup
+
+Manufacturing=Pembuatan
+ManufacturingOrder=Arahan Pembuatan
+ManufacturingOrders=Arahan Pembuatan
+WorkOrder=Arahan Kerja
+WorkOrders=Arahan Kerja
+Production=Pengeluaran
+ProductionPlan=Pelan Pengeluaran
+ProductionPlanning=Perancangan Pengeluaran
+
+BillOfMaterials=Bil Bahan
+BillsOfMaterials=Bil Bahan
+BOM=BOM
+BOMLine=Baris BOM
+Component=Komponen
+Components=Komponen
+RawMaterial=Bahan Mentah
+RawMaterials=Bahan Mentah
+FinishedProduct=Produk Siap
+FinishedProducts=Produk Siap
+
+Product=Produk
+Products=Produk
+ProductRef=Rujukan Produk
+ProductLabel=Label Produk
+ProductDescription=Keterangan Produk
+
+Need=Keperluan
+Needs=Keperluan
+Requirement=Keperluan
+Requirements=Keperluan
+MaterialNeed=Keperluan Bahan
+MaterialNeeds=Keperluan Bahan
+PlannedNeed=Keperluan Dirancang
+NetNeed=Keperluan Bersih
+GrossNeed=Keperluan Kasar
+
+Quantity=Kuantiti
+QuantityNeeded=Kuantiti Diperlukan
+QuantityAvailable=Kuantiti Tersedia
+QuantityToProduce=Kuantiti Untuk Dihasilkan
+QuantityToPurchase=Kuantiti Untuk Dibeli
+QuantityReserved=Kuantiti Ditempah
+QuantityRemaining=Kuantiti Berbaki
+
+Stock=Stok
+Stocks=Stok
+Inventory=Inventori
+AvailableStock=Stok Tersedia
+ReservedStock=Stok Ditempah
+RealStock=Stok Sebenar
+VirtualStock=Stok Maya
+MinimumStock=Stok Minimum
+Shortage=Kekurangan
+StockShortage=Kekurangan Stok
+
+Warehouse=Stor
+Warehouses=Stor
+Supplier=Pembekal
+Suppliers=Pembekal
+SupplierOrder=Pesanan Pembekal
+SupplierOrders=Pesanan Pembekal
+PurchaseOrder=Pesanan Belian
+PurchaseOrders=Pesanan Belian
+
+Date=Tarikh
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+PlannedDate=Tarikh Dirancang
+DueDate=Tarikh Matang
+
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+Planned=Dirancang
+InProgress=Sedang Berjalan
+Closed=Ditutup
+Canceled=Dibatalkan
+
+NoMRP=Tiada MRP
+NoMRPFound=Tiada MRP Dijumpai
+SearchMRP=Cari MRP
+SelectMRP=Pilih MRP
