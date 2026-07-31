@@ -69,3 +69,19 @@ NoGroup=Tiada Kumpulan
 NoGroupFound=Tiada Kumpulan Dijumpai
 SearchGroup=Cari Kumpulan
 SelectGroup=Pilih Kumpulan
+
+# Sprint 11 - Groups UI Coverage
+GroupDashboard=Papan Pemuka Kumpulan
+GroupOverview=Gambaran Keseluruhan Kumpulan
+GroupArea=Ruang Kumpulan
+GroupModule=Modul Kumpulan
+GroupManagement=Pengurusan Kumpulan
+GroupsManagement=Pengurusan Kumpulan
+ActiveGroups=Kumpulan Aktif
+InactiveGroups=Kumpulan Tidak Aktif
+DisabledGroups=Kumpulan Dinyahaktifkan
+GroupsToValidate=Kumpulan Perlu Disahkan
+GroupSecurity=Keselamatan Kumpulan
+GroupAdministration=Pentadbiran Kumpulan
+PermissionManagement=Pengurusan Kebenaran
+RoleManagement=Pengurusan Peranan
