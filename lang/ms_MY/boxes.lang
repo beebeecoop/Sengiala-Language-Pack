@@ -9,3 +9,23 @@ NoUnpaidCustomerBills=Tiada invois pelanggan belum bayar
 BoxLatestSupplierOrders=Pesanan Pembekal Terkini
 BoxLatestSupplierOrdersAwaitingReception=Pesanan Pembekal Terkini (menunggu penerimaan)
 BoxTitleLatestModifiedSupplierOrders=Pesanan Pembekal: %s terakhir diubah
+
+# Sprint 13 - Real Screen Cleanup: Dashboard Boxes
+BoxTitleLastCustomerBills=Invois Pelanggan: %s terakhir diubah
+BoxTitleOldestUnpaidCustomerBills=Invois Pelanggan: %s tertunggak paling lama
+BoxTitleCurrentCustomerBills=Invois Pelanggan Semasa
+BoxTitleCustomerBillsByMonth=Invois Pelanggan mengikut bulan
+BoxTitleLastModifiedCustomers=Pelanggan: %s terakhir diubah
+BoxTitleLastModifiedSuppliers=Pembekal: %s terakhir diubah
+NoRecordedContacts=Tiada kenalan direkodkan
+NoRecordedProspects=Tiada prospek direkodkan
+NoRecordedCustomers=Tiada pelanggan direkodkan
+NoRecordedSupplierProposals=Tiada sebut harga pembekal direkodkan
+NoRecordedSupplierOrders=Tiada pesanan pembekal direkodkan
+NoRecordedSupplierInvoices=Tiada invois pembekal direkodkan
+NoProposal=Tiada sebut harga
+OpenCommercialProposals=Sebut Harga Komersial Terbuka
+DraftCommercialProposals=Sebut Harga Komersial Draf
+DraftVendorProposals=Sebut Harga Pembekal Draf
+DraftPurchaseOrders=Pesanan Pembekal Draf
+LatestModifiedProposals=%s sebut harga terakhir diubah
