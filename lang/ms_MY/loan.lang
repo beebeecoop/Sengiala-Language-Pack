@@ -1,0 +1,109 @@
+# Dolibarr Bahasa Melayu Malaysia - Loan
+# Encoding: UTF-8
+
+Loan=Pinjaman
+Loans=Pinjaman
+LoanManagement=Pengurusan Pinjaman
+LoanModule=Modul Pinjaman
+LoanCard=Kad Pinjaman
+LoanList=Senarai Pinjaman
+LoanRef=Rujukan Pinjaman
+LoanLabel=Label Pinjaman
+LoanDescription=Keterangan Pinjaman
+LoanStatus=Status Pinjaman
+
+NewLoan=Pinjaman Baharu
+CreateLoan=Cipta Pinjaman
+AddLoan=Tambah Pinjaman
+EditLoan=Sunting Pinjaman
+ModifyLoan=Ubah Pinjaman
+DeleteLoan=Hapus Pinjaman
+ValidateLoan=Sahkan Pinjaman
+CloseLoan=Tutup Pinjaman
+CancelLoan=Batalkan Pinjaman
+
+LoanCreated=Pinjaman Telah Dicipta
+LoanModified=Pinjaman Telah Diubah
+LoanValidated=Pinjaman Telah Disahkan
+LoanDeleted=Pinjaman Telah Dihapuskan
+LoanClosed=Pinjaman Telah Ditutup
+LoanCanceled=Pinjaman Telah Dibatalkan
+
+LoanAmount=Jumlah Pinjaman
+BorrowedAmount=Jumlah Dipinjam
+RemainingAmount=Jumlah Baki
+RepaidAmount=Jumlah Telah Dibayar Balik
+OutstandingAmount=Jumlah Tertunggak
+Principal=Pokok
+PrincipalAmount=Jumlah Pokok
+Interest=Faedah
+InterestRate=Kadar Faedah
+InterestAmount=Jumlah Faedah
+TotalInterest=Jumlah Faedah
+TotalRepayment=Jumlah Bayaran Balik
+
+Repayment=Bayaran Balik
+Repayments=Bayaran Balik
+RepaymentSchedule=Jadual Bayaran Balik
+RepaymentDate=Tarikh Bayaran Balik
+RepaymentAmount=Jumlah Bayaran Balik
+NextRepayment=Bayaran Balik Seterusnya
+LastRepayment=Bayaran Balik Terakhir
+
+Installment=Ansuran
+Installments=Ansuran
+InstallmentAmount=Jumlah Ansuran
+InstallmentDate=Tarikh Ansuran
+NumberOfInstallments=Bilangan Ansuran
+
+Lender=Pemberi Pinjaman
+Borrower=Peminjam
+Bank=Bank
+BankAccount=Akaun Bank
+Account=Akaun
+Accounts=Akaun
+
+Payment=Bayaran
+Payments=Bayaran
+PaymentDate=Tarikh Bayaran
+PaymentMode=Kaedah Bayaran
+PaymentRef=Rujukan Bayaran
+BankTransfer=Pindahan Bank
+
+StartDate=Tarikh Mula
+EndDate=Tarikh Tamat
+DueDate=Tarikh Matang
+MaturityDate=Tarikh Matang
+ValueDate=Tarikh Nilai
+
+Accounting=Perakaunan
+Journal=Jurnal
+Ledger=Lejar
+GeneralLedger=Lejar Am
+AccountingAccount=Akaun Perakaunan
+ExpenseAccount=Akaun Belanja
+InterestExpenseAccount=Akaun Belanja Faedah
+LiabilityAccount=Akaun Liabiliti
+
+Amount=Jumlah
+TotalAmount=Jumlah Keseluruhan
+Currency=Mata Wang
+Reference=Rujukan
+Label=Label
+Description=Keterangan
+Note=Nota
+
+Draft=Draf
+Validated=Disahkan
+Active=Aktif
+Inactive=Tidak Aktif
+Paid=Telah Dibayar
+Unpaid=Belum Dibayar
+PartiallyPaid=Dibayar Sebahagian
+Closed=Ditutup
+Canceled=Dibatalkan
+
+NoLoan=Tiada Pinjaman
+NoLoanFound=Tiada Pinjaman Dijumpai
+SearchLoan=Cari Pinjaman
+SelectLoan=Pilih Pinjaman
