@@ -1,0 +1,106 @@
+# Dolibarr Bahasa Melayu Malaysia - Security
+# Encoding: UTF-8
+
+Security=Keselamatan
+SecuritySettings=Tetapan Keselamatan
+SecurityPolicy=Polisi Keselamatan
+SecurityLevel=Tahap Keselamatan
+SecurityCheck=Semakan Keselamatan
+SecurityAlert=Amaran Keselamatan
+SecurityWarning=Amaran Keselamatan
+
+Authentication=Pengesahan
+Authorization=Keizinan
+Login=Log Masuk
+Logout=Log Keluar
+UserLogin=Log Masuk Pengguna
+LoginRequired=Log Masuk Diperlukan
+LoginFailed=Log Masuk Gagal
+LoginSuccessful=Log Masuk Berjaya
+LogoutSuccessful=Log Keluar Berjaya
+
+Password=Kata Laluan
+Passwords=Kata Laluan
+CurrentPassword=Kata Laluan Semasa
+NewPassword=Kata Laluan Baharu
+ConfirmPassword=Sahkan Kata Laluan
+ChangePassword=Tukar Kata Laluan
+ResetPassword=Tetap Semula Kata Laluan
+ForgotPassword=Lupa Kata Laluan
+PasswordChanged=Kata Laluan Telah Ditukar
+PasswordReset=Kata Laluan Telah Ditetapkan Semula
+PasswordRequired=Kata Laluan Diperlukan
+InvalidPassword=Kata Laluan Tidak Sah
+PasswordTooShort=Kata Laluan Terlalu Pendek
+PasswordExpired=Kata Laluan Telah Luput
+
+TwoFactorAuthentication=Pengesahan Dua Faktor
+TwoFactorCode=Kod Dua Faktor
+VerificationCode=Kod Pengesahan
+SecurityCode=Kod Keselamatan
+BackupCode=Kod Sandaran
+
+Session=Sesi
+Sessions=Sesi
+ActiveSession=Sesi Aktif
+ExpiredSession=Sesi Telah Luput
+SessionExpired=Sesi Telah Luput
+SessionTimeout=Tamat Masa Sesi
+RememberMe=Ingat Saya
+
+Access=Akses
+AccessRight=Hak Akses
+AccessRights=Hak Akses
+AccessDenied=Akses Ditolak
+Permission=Kebenaran
+Permissions=Kebenaran
+PermissionDenied=Kebenaran Ditolak
+Unauthorized=Tidak Dibenarkan
+Forbidden=Dilarang
+
+User=Pengguna
+Users=Pengguna
+Group=Kumpulan
+Groups=Kumpulan
+Role=Peranan
+Roles=Peranan
+Administrator=Pentadbir
+SuperAdmin=Pentadbir Utama
+
+Account=Akaun
+AccountLocked=Akaun Dikunci
+AccountDisabled=Akaun Dinyahaktifkan
+AccountEnabled=Akaun Diaktifkan
+LockAccount=Kunci Akaun
+UnlockAccount=Buka Kunci Akaun
+DisableAccount=Nyahaktifkan Akaun
+EnableAccount=Aktifkan Akaun
+
+Token=Token
+Tokens=Token
+ApiKey=Kunci API
+ApiKeys=Kunci API
+SecretKey=Kunci Rahsia
+PublicKey=Kunci Awam
+PrivateKey=Kunci Peribadi
+
+Encryption=Penyulitan
+Encrypted=Disulitkan
+Decryption=Nyahsulit
+Certificate=Sijil
+Certificates=Sijil
+Firewall=Tembok Api
+IpAddress=Alamat IP
+AllowedIp=IP Dibenarkan
+BlockedIp=IP Disekat
+
+Audit=Audit
+AuditLog=Log Audit
+SecurityLog=Log Keselamatan
+LoginHistory=Sejarah Log Masuk
+FailedLoginAttempt=Percubaan Log Masuk Gagal
+FailedLoginAttempts=Percubaan Log Masuk Gagal
+
+NoSecurityAlert=Tiada Amaran Keselamatan
+NoSecurityIssueFound=Tiada Isu Keselamatan Dijumpai
+SearchSecurityLog=Cari Log Keselamatan
