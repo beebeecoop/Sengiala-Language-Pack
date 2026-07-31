@@ -160,7 +160,6 @@ ToPay=Perlu Bayar
 ToValidate=Perlu Sahkan
 Unpaid=Belum Bayar
 Open=Terbuka
-Late=Lewat
 AwaitingReception=Tunggu Terima
 ContributionsToReceive=Caruman Belum Terima
 DatabaseStatistics=Statistik Pangkalan Data
@@ -175,3 +174,11 @@ MenuECM=Dokumen
 MenuMembers=Anggota
 Documents2=Dokumen
 SearchIntoMembers=Anggota
+
+# Sprint 12 - Real Dashboard Keys
+GlobalOpenedElemView=Paparan Global
+ActionsToDoShort=Perlu Buat
+NActionsLate=%s lewat
+Late=Lewat
+LateDesc=Item ditakrifkan sebagai lewat berdasarkan konfigurasi sistem dalam menu Laman Utama - Tetapan - Amaran.
+NoItemLate=Tiada item lewat
