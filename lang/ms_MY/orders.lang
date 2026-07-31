@@ -35,7 +35,7 @@ OrderStatus=Status Pesanan
 OrderAmount=Jumlah Pesanan
 OrderTotal=Jumlah Keseluruhan Pesanan
 
-DraftOrder=Pesanan Draf
+DraftOrder=Draf Pesanan
 ValidatedOrder=Pesanan Disahkan
 AcceptedOrder=Pesanan Diterima
 RefusedOrder=Pesanan Ditolak
@@ -119,7 +119,7 @@ SuppliersOrdersToProcess=Pesanan Pembekal Perlu Diproses
 SuppliersOrdersAwaitingReception=Pesanan Pembekal Menunggu Penerimaan
 NewSupplierOrder=Pesanan Pembekal Baru
 NewOrder=Pesanan Baru
-DraftPurchaseOrders=Pesanan Pembekal Draf
+DraftPurchaseOrders=Draf Pesanan Pembekal
 Open=Terbuka
 AwaitingReception=Tunggu Terima
 
@@ -136,8 +136,8 @@ NoPurchaseOrder=Tiada pesanan belian
 NoSupplierOrder=Tiada pesanan pembekal
 
 # Sprint 16 - Purchase Order Capitalisation and Residual Labels
-DraftPurchaseOrders=Pesanan Pembekal Draf
-DraftSupplierOrders=Pesanan Pembekal Draf
+DraftPurchaseOrders=Draf Pesanan Pembekal
+DraftSupplierOrders=Draf Pesanan Pembekal
 NoPurchaseOrder=Tiada Pesanan Belian
 NoPurchaseOrders=Tiada Pesanan Belian
 NoSupplierOrder=Tiada Pesanan Pembekal
