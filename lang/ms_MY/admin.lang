@@ -1,46 +1,155 @@
-# Dolibarr Bahasa Melayu Malaysia - Admin
-# Foundation Draft - Sprint 01
+# Dolibarr Bahasa Melayu Malaysia - Administration
+# Enhanced - Sprint 09
 # Encoding: UTF-8
 
-Admin=Pentadbiran
-Setup=Persediaan
+Administration=Pentadbiran
+Admin=Pentadbir
+Administrator=Pentadbir
+Administrators=Pentadbir
+AdminTools=Alat Pentadbiran
+AdminArea=Kawasan Pentadbiran
+AdminPanel=Panel Pentadbiran
+AdminHome=Utama Pentadbiran
+
+Setup=Tetapan
+Settings=Tetapan
 Configuration=Konfigurasi
+Configure=Konfigurasi
+ConfigurationArea=Kawasan Konfigurasi
+ConfigurationSaved=Konfigurasi Telah Disimpan
+ConfigurationUpdated=Konfigurasi Telah Dikemas Kini
+
 System=Sistem
+SystemAdministration=Pentadbiran Sistem
+SystemSettings=Tetapan Sistem
 SystemTools=Alat Sistem
-Users=Pengguna
-User=Pengguna
-Groups=Kumpulan
-Group=Kumpulan
-Permissions=Kebenaran
-Permission=Kebenaran
+SystemInfo=Maklumat Sistem
+SystemStatus=Status Sistem
+SystemLog=Log Sistem
+SystemLogs=Log Sistem
+
+Parameter=Parameter
+Parameters=Parameter
+GlobalParameters=Parameter Global
+SystemParameters=Parameter Sistem
+ModuleParameters=Parameter Modul
+AdvancedParameters=Parameter Lanjutan
+
 Module=Modul
 Modules=Modul
-ModuleSetup=Persediaan Modul
-Company=Syarikat
-Organization=Organisasi
+ModuleSetup=Tetapan Modul
+ModuleConfiguration=Konfigurasi Modul
+EnabledModules=Modul Diaktifkan
+DisabledModules=Modul Dinyahaktifkan
+EnableModule=Aktifkan Modul
+DisableModule=Nyahaktifkan Modul
+ModuleEnabled=Modul Telah Diaktifkan
+ModuleDisabled=Modul Telah Dinyahaktifkan
+Activate=Aktifkan
+Deactivate=Nyahaktifkan
+
+User=Pengguna
+Users=Pengguna
+Group=Kumpulan
+Groups=Kumpulan
+Permission=Kebenaran
+Permissions=Kebenaran
+AccessRight=Hak Akses
+AccessRights=Hak Akses
+Role=Peranan
+Roles=Peranan
+
 Security=Keselamatan
 Password=Kata Laluan
 ChangePassword=Tukar Kata Laluan
 Login=Log Masuk
 Logout=Log Keluar
 Session=Sesi
-Audit=Audit
-Logs=Log
-Backup=Sandaran
-Restore=Pulihkan
-EmailSetup=Persediaan E-mel
+Authentication=Pengesahan
+Authorization=Kebenaran
+AccessControl=Kawalan Akses
+
+Company=Syarikat
+CompanySetup=Tetapan Syarikat
+CompanyInformation=Maklumat Syarikat
+MainCompany=Syarikat Utama
+Organization=Organisasi
+Entity=Entiti
+Entities=Entiti
+
+Menu=Menu
+Menus=Menu
+MenuManager=Pengurus Menu
+MenuManagement=Pengurusan Menu
+MainMenu=Menu Utama
+LeftMenu=Menu Kiri
+
+Email=E-mel
+EmailSetup=Tetapan E-mel
+MailSetup=Tetapan Mel
+Notification=Pemberitahuan
+Notifications=Pemberitahuan
+Alert=Amaran
+Alerts=Amaran
+Reminder=Peringatan
+Reminders=Peringatan
+
 Dictionary=Kamus
 Dictionaries=Kamus
+DictionarySetup=Tetapan Kamus
 Translation=Terjemahan
 Translations=Terjemahan
 Language=Bahasa
 Languages=Bahasa
+LanguageFile=Fail Bahasa
+LanguageFiles=Fail Bahasa
 DefaultLanguage=Bahasa Lalai
+
 Theme=Tema
-MenuManager=Pengurus Menu
 Feature=Fungsi
 Features=Fungsi
-EnabledModules=Modul Diaktifkan
-DisabledModules=Modul Dinyahaktifkan
-Activate=Aktifkan
-Deactivate=Nyahaktifkan
+Audit=Audit
+Backup=Sandaran
+Restore=Pulihkan
+
+Log=Log
+Logs=Log
+AuditLog=Log Audit
+ErrorLog=Log Ralat
+EventLog=Log Acara
+ViewLog=Lihat Log
+ClearLog=Kosongkan Log
+
+Save=Simpan
+Cancel=Batal
+Apply=Guna
+Validate=Sahkan
+Modify=Ubah
+Edit=Sunting
+Delete=Hapus
+Update=Kemas Kini
+Refresh=Segar Semula
+Reset=Tetap Semula
+
+Created=Dicipta
+Modified=Diubah
+Updated=Dikemas Kini
+Deleted=Dihapuskan
+Validated=Disahkan
+Enabled=Diaktifkan
+Disabled=Dinyahaktifkan
+
+Active=Aktif
+Inactive=Tidak Aktif
+Yes=Ya
+No=Tidak
+Default=Lalai
+Required=Diperlukan
+Optional=Pilihan
+
+NoRecordFound=Tiada Rekod Dijumpai
+Search=Cari
+Filter=Tapis
+Sort=Susun
+Export=Eksport
+Import=Import
