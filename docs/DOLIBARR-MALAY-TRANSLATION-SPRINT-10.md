@@ -111,4 +111,4 @@ Before opening the pull request, run:
 
 ## Status
 
-Draft for Dolibarr Malay Translation Sprint 10.
+Completed for Dolibarr Malay Translation Sprint 10.
