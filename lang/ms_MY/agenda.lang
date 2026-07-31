@@ -184,3 +184,26 @@ OverdueTasks=Tugasan Tertunggak
 ReminderDashboard=Papan Pemuka Peringatan
 NotificationDashboard=Papan Pemuka Pemberitahuan
 CalendarDashboard=Papan Pemuka Kalendar
+
+# Sprint 15 - Agenda Real Screen Labels
+NewEvent=Acara Baru
+MyIncompleteEvents=Acara belum lengkap saya
+MyTerminatedEvents=Acara tamat saya
+AllIncompleteEvents=Semua acara belum lengkap
+AllTerminatedEvents=Semua acara tamat
+BirthdaysOfContacts=Hari lahir kenalan
+DefaultCalendar=Kalendar lalai
+ListView=Paparan Senarai
+MonthView=Paparan Bulan
+WeekView=Paparan Minggu
+DayView=Paparan Hari
+PerUserView=Paparan Mengikut Pengguna
+Today=Hari Ini
+Month=Bulanan
+Week=Mingguan
+Day=Harian
+User=Pengguna
+SuperAdmin=SuperAdmin
+NoEvent=Tiada acara
+CreateEvent=Cipta acara
+AddEvent=Tambah acara
