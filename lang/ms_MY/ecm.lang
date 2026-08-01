@@ -117,7 +117,6 @@ MyDocuments=Dokumen Saya
 RecentDocuments=Dokumen Terkini
 SharedDocuments=Dokumen Dikongsi
 DocumentLibrary=Perpustakaan Dokumen
-DocumentRepository=Repositori Dokumen
 UploadDocument=Muat Naik Dokumen
 DownloadDocument=Muat Turun Dokumen
 PreviewDocument=Pratonton Dokumen
@@ -145,18 +144,4 @@ DocumentShared=Dikongsi
 Refresh=Segar Semula
 
 # Sprint 16 - Document Management Residual Real Keys
-DmsEcmArea=Ruang DMS/ECM
-DMSEcmArea=Ruang DMS/ECM
-DMSECM=Dokumen
-ManualDirectories=Direktori Manual
-ObjectDirectories=Direktori Objek
-ManualDirectory=Direktori Manual
-ObjectDirectory=Direktori Objek
-Directories=Direktori
-SelectDirectoryInTree=Pilih Direktori dalam Pokok...
-SelectADirectoryInTheTree=Pilih Direktori dalam Pokok...
 SelectADirectoryInTheTreeDotDotDot=Pilih Direktori dalam Pokok...
-Shared=Dikongsi
-Size=Saiz
-Date=Tarikh
-Document=Dokumen

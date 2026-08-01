@@ -101,8 +101,6 @@ SelectEmail=Pilih E-mel
 # Sprint 15 - Email Template Real Screen Labels
 EmailTemplate=Templat E-mel
 EmailTemplates=Templat E-mel
-MailTemplate=Templat E-mel
-MailTemplates=Templat E-mel
 NewMailTemplate=Templat E-mel Baru
 NewEmailTemplate=Templat E-mel Baru
 ListOfEmailTemplates=Senarai Templat E-mel
