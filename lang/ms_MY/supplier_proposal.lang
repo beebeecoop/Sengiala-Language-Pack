@@ -112,7 +112,6 @@ ToClose=Perlu Tutup
 # Sprint 14 - Supplier Proposal Screen Variants
 PriceRequest=Permintaan Harga
 PriceRequests=Permintaan Harga
-NewPriceRequest=Permintaan Harga Baru
 VendorProposalList=Senarai Sebut Harga Pembekal
 VendorProposalsList=Senarai Sebut Harga Pembekal
 OpenVendorProposals=Sebut Harga Pembekal Terbuka
@@ -122,17 +121,3 @@ NoVendorProposal=Tiada sebut harga pembekal
 NoVendorProposals=Tiada sebut harga pembekal
 
 # Sprint 16 - Supplier Proposal Capitalisation and Real Screen Residuals
-VendorProposal=Sebut Harga Pembekal
-VendorProposals=Sebut Harga Pembekal
-NewPriceRequest=Permintaan Harga Baru
-PriceRequest=Permintaan Harga
-PriceRequests=Permintaan Harga
-OpenVendorProposals=Sebut Harga Pembekal Terbuka
-DraftVendorProposals=Sebut Harga Pembekal Draf
-DraftSupplierProposals=Sebut Harga Pembekal Draf
-LatestVendorProposals=Sebut Harga Pembekal Terkini
-NoProposal=Tiada Sebut Harga
-NoVendorProposal=Tiada Sebut Harga Pembekal
-NoVendorProposals=Tiada Sebut Harga Pembekal
-NoSupplierProposal=Tiada Sebut Harga Pembekal
-ToClose=Perlu Tutup

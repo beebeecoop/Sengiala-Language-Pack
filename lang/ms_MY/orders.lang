@@ -118,14 +118,12 @@ SuppliersOrders=Pesanan Pembekal
 SuppliersOrdersToProcess=Pesanan Pembekal Perlu Diproses
 SuppliersOrdersAwaitingReception=Pesanan Pembekal Menunggu Penerimaan
 NewSupplierOrder=Pesanan Pembekal Baru
-NewOrder=Pesanan Baru
 DraftPurchaseOrders=Draf Pesanan Pembekal
 Open=Terbuka
 AwaitingReception=Tunggu Terima
 
 # Sprint 14 - Purchase Order Screen Variants
 NewPurchaseOrder=Pesanan Belian Baru
-NewSupplierOrder=Pesanan Pembekal Baru
 PurchaseOrdersArea=Ruang Pesanan Belian
 PurchaseOrdersToProcess=Pesanan Belian Perlu Diproses
 PurchaseOrdersAwaitingReception=Pesanan Belian Menunggu Penerimaan
@@ -136,15 +134,5 @@ NoPurchaseOrder=Tiada pesanan belian
 NoSupplierOrder=Tiada pesanan pembekal
 
 # Sprint 16 - Purchase Order Capitalisation and Residual Labels
-DraftPurchaseOrders=Draf Pesanan Pembekal
-DraftSupplierOrders=Draf Pesanan Pembekal
-NoPurchaseOrder=Tiada Pesanan Belian
 NoPurchaseOrders=Tiada Pesanan Belian
-NoSupplierOrder=Tiada Pesanan Pembekal
 NoSupplierOrders=Tiada Pesanan Pembekal
-LatestPurchaseOrders=Pesanan Belian Terkini
-LatestSupplierOrders=Pesanan Pembekal Terkini
-PurchaseOrdersArea=Ruang Pesanan Belian
-SuppliersOrdersArea=Ruang Pesanan Pembekal
-Open=Terbuka
-AwaitingReception=Tunggu Terima
