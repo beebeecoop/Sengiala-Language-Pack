@@ -2472,7 +2472,6 @@ LimitsAndMitigation=Had akses dan mitigasi
 RecommendMitigationOnURL=Disyorkan untuk mengaktifkan mitigasi pada URL kritikal. Ini ialah senarai peraturan fail2ban yang boleh anda gunakan untuk URL utama yang penting.
 DesktopsOnly=Desktop sahaja
 DesktopsAndSmartphones=Desktop dan telefon pintar
-AllowOnlineSign=Benarkan tandatangan dalam talian
 AllowExternalDownload=Benarkan muat turun luaran (tanpa Log Masuk, menggunakan pautan kongsi)
 DeadlineDayVATSubmission=Hari tarikh akhir untuk penyerahan SST pada bulan berikutnya
 MaxNumberOfAttachementOnForms=Bilangan maksimum fail dilampirkan dalam borang
