@@ -358,7 +358,6 @@ AllowedInvoiceForRetainedWarranty=Jaminan Tertahan boleh digunakan pada jenis In
 RetainedWarrantyDefaultPercent=Peratus lalai Jaminan Tertahan
 RetainedWarrantyOnlyForSituation=Jadikan "Jaminan Tertahan" tersedia hanya untuk Invois Situasi
 RetainedWarrantyOnlyForSituationFinal=Pada Invois Situasi, potongan "Jaminan Tertahan" global hanya digunakan pada situasi akhir
-ToPayOn=Perlu bayar pada %s
 toPayOn=perlu bayar pada %s
 PaymentConditionsShortRetainedWarranty=Terma Bayaran Jaminan Tertahan
 DefaultPaymentConditionsRetainedWarranty=Terma Bayaran Jaminan Tertahan lalai

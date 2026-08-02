@@ -126,7 +126,6 @@ ToDownload=Perlu Muat Turun
 ToArchive=Perlu Arkib
 
 # Sprint 15 - DMS/ECM Real Screen Labels
-DmsEcmArea=Ruang DMS/ECM
 DMSECM=Dokumen
 DMSEcmArea=Ruang DMS/ECM
 ManualDirectories=Direktori Manual
