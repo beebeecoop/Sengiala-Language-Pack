@@ -205,3 +205,6 @@ PDFStandardHrmEvaluation=Templat standard untuk menjana Dokumen PDF bagi Penilai
 SkillNotRequired=Kemahiran tidak diperlukan
 LinkToUserCreated=Pautkan kepada Pekerja jika pemohon telah diambil bekerja dan ditukar menjadi Pengguna.
 NbOfExpectedSkills=Bilangan Kemahiran dijangka
+
+# Sprint 21B - commercial hrm main expansion - 2026-08-02
+ReasonForModification=Alasan pengubahsuaian
