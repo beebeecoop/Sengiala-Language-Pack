@@ -1447,3 +1447,7 @@ except=kecuali
 DUPLICATA=DUPLIKAT
 ErrorFailedTriggerCall=Gagal memanggil pencetus
 History=Sejarah
+
+# Sprint 21B - commercial hrm main expansion - 2026-08-02
+Categories=Kategori
+Days=Hari
