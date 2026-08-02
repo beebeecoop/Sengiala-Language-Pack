@@ -1,0 +1,538 @@
+﻿TargetFile,Key,SourceEnglish,ProposedMalay,Status,Note
+lang\ms_MY\members.lang,AddSubscription,Create contribution,Cipta caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ADHERENT_PRODUCT_ID_FOR_SUBSCRIPTIONS,Product used for membership line into invoice: %s,Produk yang digunakan untuk baris keanggotaan dalam invois: %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,AmountIsLowerToMinimumNotice,The amount is lower than the minimum %s,Jumlah lebih rendah daripada minimum %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,AmountOfSubscriptions,Amount collected from membership payments,Jumlah dikutip daripada bayaran caruman anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,AnyAmountWithAdvisedAmount,"Any amount of your choice, recommended %s","Sebarang jumlah pilihan anda, disyorkan %s",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,AnyAmountWithoutAdvisedAmount,Any amount of your choice,Sebarang jumlah pilihan anda,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,AreYouAPreferredPartner,Are you (or plan to be) a %s,Adakah anda (atau bercadang untuk menjadi) %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,BlankSubscriptionForm,Public self-registration form,Borang pendaftaran kendiri awam,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,BlankSubscriptionFormDesc,"Dolibarr can provide you a public URL/website to allow external visitors to ask to subscribe to the foundation. If an online payment module is enabled, a payment form may also be automatically provided.","Dolibarr boleh menyediakan URL/laman web awam untuk membolehkan pelawat luar memohon untuk melanggan yayasan. Jika modul bayaran dalam talian diaktifkan, borang bayaran juga boleh disediakan secara automatik.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ByProperties,By nature,Mengikut sifat,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,CanEditAmount,Membership amount can be defined by the member,Jumlah keanggotaan boleh ditentukan oleh anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,CanEditAmountDetail,Visitor can choose/edit amount of its contribution regardless of the member type,Pelawat boleh memilih/mengubah jumlah sumbangannya tanpa mengira jenis anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,CanEditAmountShort,Any amount,Sebarang jumlah,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,CanEditAmountShortForValues,"recommended, any amount","disyorkan, sebarang jumlah",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,CardContent,Content of your member card,Kandungan kad anggota anda,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ConfirmCreateMember,Confirm create member,Sahkan cipta anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ConfirmDeleteMember,Are you sure you want to delete this member (Deleting a member will delete all his contributions)?,Adakah anda pasti mahu menghapuskan anggota ini (Menghapuskan anggota akan menghapuskan semua carumannya)?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ConfirmDeleteMemberType,Are you sure you want to delete this member type?,Adakah anda pasti mahu menghapuskan jenis anggota ini?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ConfirmDeleteSubscription,Are you sure you want to delete this contribution?,Adakah anda pasti mahu menghapuskan caruman ini?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ConfirmExcludeMember,Are you sure you want to exclude this member ?,Adakah anda pasti mahu mengecualikan anggota ini?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ConfirmMassSubsriptionCreation,Confirm subscription creation,Sahkan penciptaan caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ConfirmMassSubsriptionCreationQuestion,Are you sure you want to create the %s selected subscription(s)?,Adakah anda pasti mahu mencipta %s caruman yang dipilih?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ConfirmMergeMembers,Are you sure you want to merge the chosen member with the current one ?,Adakah anda pasti mahu menggabungkan anggota yang dipilih dengan anggota semasa?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ConfirmResiliateMember,Are you sure you want to terminate this member?,Adakah anda pasti mahu menamatkan anggota ini?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ConfirmValidateMember,Are you sure you want to validate this member?,Adakah anda pasti mahu mengesahkan anggota ini?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,CorrespondingMemberFound,Corresponding member found,Anggota sepadan ditemui,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,CorrespondingMemberFoundQuestion,A member has been found with the given information.<br>Do you want to renew your membership? (if not nothing will be recorded),"Seorang anggota telah ditemui dengan maklumat yang diberikan.<br>Adakah anda mahu memperbaharui keanggotaan anda? (jika tidak, tiada apa-apa akan direkodkan)",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,CreateDolibarrLoginDesc,"The creation of a user login for members allows them to connect to the application. Depending on the authorizations granted, they will be able, for example, to consult or modify their file themselves.","Penciptaan log masuk pengguna untuk anggota membolehkan mereka menyambung ke aplikasi. Bergantung pada kebenaran yang diberikan, mereka boleh, contohnya, menyemak atau mengubah fail mereka sendiri.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,CreateDolibarrThirdPartyDesc,A third party is the legal entity that will be used on the invoice if you decide to generate invoice for each contribution. You will be able to create it later during the process of recording the contribution.,Pihak Ketiga ialah entiti sah yang akan digunakan pada invois jika anda memutuskan untuk menjana invois bagi setiap caruman. Anda boleh menciptanya kemudian semasa proses merekodkan caruman.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,CreateSubscription,Create subscription,Cipta caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DefaultAmount,Default amount of membership payment (used only if no amount is defined at member type level),Jumlah lalai bayaran caruman anggota (digunakan hanya jika tiada jumlah ditakrifkan pada peringkat jenis anggota),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DeleteAMemberType,Delete a member type,Hapus jenis anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DeleteSubscription,Delete a subscription,Hapus caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DeleteType,Delete,Hapus,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_AUTOREGISTER_NOTIF_MAIL,Content of the notification email received in case of auto-inscription of a guest,Kandungan e-mel pemberitahuan yang diterima sekiranya pendaftaran automatik tetamu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_AUTOREGISTER_NOTIF_MAIL_SUBJECT,Subject of the notification email received in case of auto-inscription of a guest,Subjek e-mel pemberitahuan yang diterima sekiranya pendaftaran automatik tetamu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_CARD_FOOTER_TEXT,Text printed on bottom of member cards,Teks yang dicetak di bahagian bawah kad anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_CARD_HEADER_TEXT,Text printed on top of member cards,Teks yang dicetak di bahagian atas kad anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_CARD_TEXT,Text printed on member cards (align on left),Teks yang dicetak pada kad anggota (jajar kiri),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_CARD_TEXT_RIGHT,Text printed on member cards (align on right),Teks yang dicetak pada kad anggota (jajar kanan),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_CARD_TYPE,Format of cards page,Format halaman kad,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_CC_MAIL_FROM,Send automatic email copy to,Hantar salinan e-mel automatik kepada,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_EMAIL_TEMPLATE_AUTOREGISTER,Email template to use to send email to a member on member auto-registration,Templat e-mel untuk menghantar e-mel kepada anggota semasa pendaftaran automatik anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_EMAIL_TEMPLATE_CANCELATION,Email template to use to send email to a member on member cancellation,Templat e-mel untuk menghantar e-mel kepada anggota semasa pembatalan anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_EMAIL_TEMPLATE_EXCLUSION,Email template to use to send email to a member on member exclusion,Templat e-mel untuk menghantar e-mel kepada anggota semasa pengecualian anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_EMAIL_TEMPLATE_MEMBER_VALIDATION,Email template to use to send email to a member on member validation,Templat e-mel untuk menghantar e-mel kepada anggota semasa pengesahan anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_EMAIL_TEMPLATE_REMIND_EXPIRATION,Email template to use to send email reminder when contribution is about to expire,Templat e-mel untuk menghantar peringatan e-mel apabila caruman hampir tamat tempoh,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_EMAIL_TEMPLATE_SUBSCRIPTION,Email template to use to send email to a member on new contribution recording,Templat e-mel untuk menghantar e-mel kepada anggota semasa rekod caruman baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_ETIQUETTE_TEXT,Text printed on member address sheets,Teks yang dicetak pada helaian alamat anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_ETIQUETTE_TYPE,Format of labels page,Format halaman label,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DescADHERENT_MAIL_FROM,Sender Email for automatic emails,E-mel pengirim untuk e-mel automatik,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DocForAllMembersCards,Generate business cards for all members,Jana kad nama untuk semua anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DocForLabels,Generate address sheets,Jana helaian alamat,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,DocForOneMemberCards,Generate business cards for a particular member,Jana kad nama untuk anggota tertentu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,EmailSentToMember,Email sent to member at %s,E-mel dihantar kepada anggota pada %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,EnablePublicSubscriptionForm,Enable the public website with self-subscription form,Aktifkan laman web awam dengan borang caruman kendiri,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ErrorBadValueForDate,Bad value for date,Nilai tarikh tidak sah,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ErrorMemberIsAlreadyLinkedToThisThirdParty,"Another member (name: <b>%s</b>, login: <b>%s</b>) is already linked to a third party <b>%s</b>. Remove this link first because a third party can't be linked to only a member (and vice versa).","Anggota lain (nama: <b>%s</b>, log masuk: <b>%s</b>) sudah dipautkan kepada Pihak Ketiga <b>%s</b>. Buang pautan ini dahulu kerana satu Pihak Ketiga hanya boleh dipautkan kepada seorang anggota (dan sebaliknya).",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ErrorMembersMerge,There was an error when merging the members. Please check the log. Changes have been reverted.,Ralat berlaku semasa menggabungkan anggota. Sila semak log. Perubahan telah dibalikkan.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ErrorThisMemberIsNotPublic,This member is not public,Anggota ini bukan awam,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ErrorUserPermissionAllowsToLinksToItselfOnly,"For security reasons, you must be granted permissions to edit all users to be able to link a member to a user that is not yours.","Atas sebab keselamatan, anda mesti diberikan kebenaran untuk mengubah semua pengguna supaya dapat memautkan anggota kepada pengguna yang bukan milik anda.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,Exclude,Exclude,Kecualikan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ExcludeMember,Exclude a member,Kecualikan anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ExportDataset_member_1,Members and contributions,Anggota dan caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,Filehtpasswd,htpasswd file,Fail htpasswd,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,FollowingLinksArePublic,"The following links are open pages not protected by any Dolibarr permission. They are not formatted pages, provided as example to show how to list members database.","Pautan berikut ialah halaman terbuka yang tidak dilindungi oleh sebarang kebenaran Dolibarr. Halaman ini tidak diformatkan, disediakan sebagai contoh untuk menunjukkan cara menyenaraikan pangkalan data anggota.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ForceMemberNature,Force member nature (Individual or Legal Entity),Paksa sifat anggota (Individu atau Entiti Sah),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ForceMemberType,Force the member type,Paksa jenis anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,FundationMembers,Foundation members,Anggota yayasan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,HTPasswordExport,htpassword file generation,Penjanaan fail htpassword,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ImportDataset_member_1,Members,Anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,LastMemberDate,Latest membership date,Tarikh keanggotaan terkini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,LastMembersModified,Latest %s modified members,%s anggota terkini yang telah diubah,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,LastMemberType,Last Member type,Jenis Anggota terkini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,LastSubscriptionAmount,Amount of latest membership fee,Jumlah fi keanggotaan terkini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,LastSubscriptionDate,Date of latest membership payment,Tarikh bayaran caruman anggota terkini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,LastSubscriptionsModified,Latest %s modified contributions,%s caruman terkini yang telah diubah,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,LatestSubscriptionDate,Latest membership date,Tarikh keanggotaan terkini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,LinkToGeneratedPages,Generation of business cards or address sheets,Penjanaan kad nama atau helaian alamat,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,LinkToGeneratedPagesDesc,This screen allows you to generate PDF files with business cards for all your members or a particular member.,Skrin ini membolehkan anda menjana fail PDF dengan kad nama untuk semua anggota anda atau anggota tertentu.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ListOfSubscriptions,List of contributions,Senarai caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ListOfValidatedPublicMembers,List of validated public members,Senarai anggota awam yang disahkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MEMBER_NEWFORM_PAYONLINE,"After the online registration, switch automatically to the online payment page","Selepas pendaftaran dalam talian, beralih secara automatik ke halaman bayaran dalam talian",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MEMBER_SEARCH_MEMBER_PUBLIC_FORM_CREATE,Suggest to just record the subscription (without creating a new member) if an existing member is found,Cadangkan untuk hanya merekodkan caruman (tanpa mencipta anggota baharu) jika anggota sedia ada ditemui,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MEMBER_SEARCH_MEMBER_PUBLIC_FORM_CREATEDesc,"A search is done on login, company name + email (for legal entity), or full name + email (for individual). If a member is already found, the form suggest to record a renewal of subscription.","Carian dibuat berdasarkan log masuk, nama syarikat + e-mel (untuk entiti sah), atau nama penuh + e-mel (untuk individu). Jika anggota sudah ditemui, borang mencadangkan untuk merekodkan pembaharuan caruman.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberCodeDesc,"Member Code, unique for all members","Kod Anggota, unik untuk semua anggota",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberCountersArePublic,Counters of valid members are public,Kaunter anggota sah adalah awam,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberFirstname,Member firstname,Nama pertama anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberId,Member Id,ID Anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberLastname,Member lastname,Nama keluarga anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberMergeSuccess,Members have been merged,Anggota telah digabungkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersAndSubscriptions,Members and Contributions,Anggota dan Caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersByCountryDesc,This screen shows you the statistics of members by country.,Skrin ini menunjukkan statistik anggota mengikut negara.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersByCountryDesc2,Graphs and charts depend on the availability of the Google online graph service as well as on the availability of a working internet connection.,Graf dan carta bergantung pada ketersediaan perkhidmatan graf dalam talian Google serta ketersediaan sambungan internet yang berfungsi.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersByNature,This screen show you statistics of members by nature.,Skrin ini menunjukkan statistik anggota mengikut sifat.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersByRegion,This screen show you statistics of members by region.,Skrin ini menunjukkan statistik anggota mengikut wilayah.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersByStateDesc,This screen show you statistics of members by state/provinces/canton.,Skrin ini menunjukkan statistik anggota mengikut negeri/wilayah/kanton.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersByTownDesc,This screen show you statistics of members by town.,Skrin ini menunjukkan statistik anggota mengikut bandar.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembershipPaid,Membership paid for current period (until %s),Keanggotaan dibayar untuk tempoh semasa (hingga %s),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembershipPublic,Public membership,Keanggotaan awam,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembershipStatistics,Membership statistics,Statistik keanggotaan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersList,List of members,Senarai anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersNature,Nature of members,Sifat anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersShowMembershipTypesTable,"Show a table to select its membership types before the registration form (if no, show directly the registration form)","Papar jadual untuk memilih jenis keanggotaan sebelum borang pendaftaran (jika tidak, terus papar borang pendaftaran)",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersShowVotesAllowed,"Show whether votes are allowed, in the table of membership types",Papar sama ada undian dibenarkan dalam jadual jenis keanggotaan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersStatisticsDesc,Choose statistics you want to read...,Pilih statistik yang mahu anda baca...,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberStatusDraftShort,Draft,Draf,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberStatusExcluded,Excluded member,Anggota dikecualikan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberStatusExcludedShort,Excluded,Dikecualikan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberStatusResiliated,Terminated member,Anggota ditamatkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberStatusResiliatedShort,Terminated,Ditamatkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MembersTickets,Membership address sheet,Helaian alamat keanggotaan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberSubscriptionStartAfter,Minimum period before the entry into force of the start date of a first membership subscription (excluding renewals),Tempoh minimum sebelum tarikh mula caruman keanggotaan pertama berkuat kuasa (tidak termasuk pembaharuan),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberSubscriptionStartAfterDesc,"Example: +3m = +3 months, -5d = -5 days, +1Y = +1 year","Contoh: +3m = +3 bulan, -5d = -5 hari, +1Y = +1 tahun",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberSubscriptionStartAfterDesc2,"This is the suggested date when creating a first membership subscription compared to the current date. For renewal, the date suggested by default will remain the end of the previous membership.","Ini ialah tarikh cadangan semasa mencipta caruman keanggotaan pertama berbanding tarikh semasa. Untuk pembaharuan, tarikh yang dicadangkan secara lalai akan kekal sebagai tarikh tamat keanggotaan sebelumnya.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberSubscriptionStartFirstDayOf,Force the suggested date of a membership to corresponds to the first day of a,Paksa tarikh cadangan keanggotaan supaya bersamaan dengan hari pertama bagi,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberTypeCanNotBeDeleted,Member type can not be deleted,Jenis anggota tidak boleh dihapuskan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberTypeDeleted,Member type deleted,Jenis anggota dihapuskan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberTypeId,Member type id,ID jenis anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberTypeLabel,Member type label,Label jenis anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MemberTypeModified,Member type modified,Jenis anggota diubah,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MenuMembersStats,Statistics,Statistik,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MergeMembers,Merge members,Gabung anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MergeOriginMember,Duplicated member (the member you want to delete),Anggota pendua (anggota yang anda mahu hapuskan),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MergeOriginMemberIsMAndatory, Origin member is mandatory for merging,Anggota asal wajib untuk penggabungan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MinimumAmount,Minimum amount of membership payment (has priority on any default amounts that is lower),Jumlah minimum bayaran caruman anggota (mengatasi sebarang jumlah lalai yang lebih rendah),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,Moral,Legal entity,Entiti Sah,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MorAndPhy,Legal entity and Individual,Entiti Sah dan Individu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MoreActionBankDirect,Create a direct entry on bank account,Cipta catatan terus pada akaun bank,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MoreActionBankViaInvoice,"Create an invoice, and a payment on bank account",Cipta invois dan bayaran pada akaun bank,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MoreActionInvoiceOnly,Create an invoice with no payment,Cipta invois tanpa bayaran,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MoreActions,Complementary action on recording,Tindakan pelengkap semasa merekod,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,MoreActionsOnSubscription,"Complementary action suggested by default when recording a contribution, also done automatically on online payment of a contribution","Tindakan pelengkap yang dicadangkan secara lalai semasa merekodkan caruman, juga dilakukan secara automatik semasa bayaran caruman dalam talian",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,Morphy,Moral or physical,Sah atau fizikal,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NameOrCompany,Name or company,Nama atau syarikat,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NbOfActiveMembers,Total number of current active members,Jumlah anggota aktif semasa,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NbOfMembers,Total number of members,Jumlah anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NbOfSubscriptions,Number of memberships,Bilangan keanggotaan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NewCotisation,New contribution,Caruman baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NewMemberbyWeb,New member added. Awaiting approval,Anggota baharu ditambah. Menunggu kelulusan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NewMemberForm,New member form,Borang anggota baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NewMemberType,New member type,Jenis anggota baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NewSubscription,New contribution,Caruman baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NewSubscriptionDesc,"This form allows you to record your subscription as a new member of the foundation. If you want to renew your subscription (if already a member), please contact foundation board instead by email %s.","Borang ini membolehkan anda merekodkan caruman anda sebagai anggota baharu yayasan. Jika anda mahu memperbaharui caruman anda (jika sudah menjadi anggota), sila hubungi lembaga yayasan melalui e-mel %s.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NoCorrection,No correction,Tiada pembetulan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NoEmailSentToMember,No email sent to member,Tiada e-mel dihantar kepada anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NoRecordedMembers,No recorded members,Tiada anggota direkodkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NoRecordedMembersByType,No recorded members,Tiada anggota direkodkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NoThirdPartyAssociatedToMember,No third party associated with this member,Tiada Pihak Ketiga dikaitkan dengan anggota ini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NoValidatedMemberYet,No validated members found,Tiada anggota sah ditemui,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,NoVatOnSubscription,No VAT for membership payment,Tiada SST untuk bayaran caruman anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,Physical,Individual,Individu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,Public,"%s can publish my membership in <a target=""_blank"" href=""%s"">the public register</a>","%s boleh menerbitkan keanggotaan saya dalam <a target=""_blank"" href=""%s"">daftar awam</a>",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,PublicMemberCard,Public member card,Kad anggota awam,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,PublicMemberList,Public member list,Senarai anggota awam,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,Reenable,Re-enable,Aktifkan semula,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ResiliateMember,Terminate a member,Tamatkan anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SelectMember,Select a member,Pilih anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SendCardByMail,Send card by email,Hantar kad melalui e-mel,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SendingAnEMailToMember,Sending information email to member,Menghantar e-mel maklumat kepada anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SendingEmailOnAutoSubscription,Sending email on auto registration,Menghantar e-mel semasa pendaftaran automatik,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SendingEmailOnCancelation,Sending email on cancellation,Menghantar e-mel semasa pembatalan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SendingEmailOnMemberValidation,Sending email on new member validation,Menghantar e-mel semasa pengesahan anggota baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SendingEmailOnNewSubscription,Sending email on new contribution,Menghantar e-mel semasa caruman baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SendingReminderActionComm,Sending reminder for agenda event,Menghantar peringatan untuk acara agenda,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SendingReminderForExpiredSubscription,Sending reminder for expired contributions,Menghantar peringatan untuk caruman tamat tempoh,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SendReminderForExpiredSubscription,"Send reminder by email to members when membership is about to expire (parameter is number of days before end of membership to send the reminder. It can be a list of days separated by a semicolon, for example '10;5;0;-5'). The template of email to send is defined in setup of membership module.","Hantar peringatan melalui e-mel kepada anggota apabila keanggotaan hampir tamat tempoh (parameter ialah bilangan hari sebelum tamat keanggotaan untuk menghantar peringatan. Ia boleh berupa senarai hari yang dipisahkan dengan koma bertitik, contohnya '10;5;0;-5'). Templat e-mel yang dihantar ditakrifkan dalam tetapan modul keanggotaan.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SendReminderForExpiredSubscriptionTitle,Send reminder by email for expired membership,Hantar peringatan melalui e-mel untuk keanggotaan tamat tempoh,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SetLinkToThirdParty,Link to a Dolibarr third party,Pautkan kepada Pihak Ketiga Dolibarr,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SetLinkToUser,Link to a Dolibarr user,Pautkan kepada pengguna Dolibarr,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ShowMember,Show member card,Papar kad anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ShowSubscription,Show contribution,Papar caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ShowTypeCard,Show type '%s',Papar jenis '%s',ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SubscriptionCard,Subscription card,Kad caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SubscriptionEndDate,Subscription's end date,Tarikh tamat caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SubscriptionId,Contribution ID,ID Caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SubscriptionLinkedToConciliatedTransaction,Membership is linked to a conciliated transaction so this modification is not allowed.,"Keanggotaan dipautkan kepada transaksi yang telah dipadankan, jadi pengubahsuaian ini tidak dibenarkan.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SubscriptionNotReceived,Contribution never received,Caruman belum pernah diterima,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SubscriptionNotRecorded,Contribution not recorded,Caruman tidak direkodkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SubscriptionRecorded,Contribution recorded,Caruman direkodkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SubscriptionReminderEmail,contribution reminder,peringatan caruman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SubscriptionRequired,Contribution required,Caruman diperlukan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,SubscriptionRequiredDesc,"If subscription is required, a subscription with a start or end date must be recorded to have the member up to date (whatever is subscription amount, even if subscription is free).","Jika caruman diperlukan, caruman dengan tarikh mula atau tarikh tamat mesti direkodkan supaya anggota dikemas kini (tanpa mengira jumlah caruman, walaupun caruman percuma).",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ThirdpartyNotLinkedToMember,Third party not linked to a member,Pihak Ketiga tidak dipautkan kepada anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ThisIsContentOfSubscriptionReminderEmail,We want to let you know that your subscription is about to expire or has already expired (__MEMBER_LAST_SUBSCRIPTION_DATE_END__). We hope you will renew it.<br><br>,Kami ingin memaklumkan bahawa caruman anda hampir tamat tempoh atau telah tamat tempoh (__MEMBER_LAST_SUBSCRIPTION_DATE_END__). Kami berharap anda akan memperbaharuinya.<br><br>,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ThisIsContentOfYourCard,This is a summary of the information we have about you. Please contact us if anything is incorrect.<br><br>,Ini ialah ringkasan maklumat yang kami ada tentang anda. Sila hubungi kami jika ada yang tidak betul.<br><br>,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ThisIsContentOfYourMembershipRequestWasReceived,We want to let you know that your membership request was received.<br><br>,Kami ingin memaklumkan bahawa permohonan keanggotaan anda telah diterima.<br><br>,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ThisIsContentOfYourMembershipWasValidated,We want to let you know that your membership was validated with the following information:<br><br>,Kami ingin memaklumkan bahawa keanggotaan anda telah disahkan dengan maklumat berikut:<br><br>,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,ThisIsContentOfYourSubscriptionWasRecorded,We want to let you know that your new subscription was recorded. Please find your invoice here enclosed.<br><br>,Kami ingin memaklumkan bahawa caruman baharu anda telah direkodkan. Sila temui invois anda yang dilampirkan di sini.<br><br>,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,TurnoverOrBudget,Dolibarr-related revenue (for a company) or Budget (for a foundation),Hasil berkaitan Dolibarr (untuk syarikat) atau Bajet (untuk yayasan),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,UserNotLinkedToMember,User not linked to a member,Pengguna tidak dipautkan kepada anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,VATToUseForSubscriptions,VAT rate to use for membership payment,Kadar SST untuk digunakan bagi bayaran caruman anggota,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,VoteAllowed,Vote allowed,Undian dibenarkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,WarningNoComplementaryActionDone,No Complementary action on recording will be executed with this massaction,Tiada tindakan pelengkap semasa merekod akan dilaksanakan dengan tindakan pukal ini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,WelcomeEMail,Welcome email,E-mel alu-aluan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,XExternalUserCreated,%s external user(s) created,%s pengguna luar dicipta,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,XMembersClosed,%s member(s) closed,%s anggota ditutup,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,XSubsriptionCreated,%s subscription(s) created,%s caruman dicipta,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,XSubsriptionErrors,%s subscription(s) where in error,%s caruman mengalami ralat,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,YouMayFindYourInvoiceInThisEmail,You may find your invoice attached to this email,Anda boleh menemui invois anda dilampirkan dalam e-mel ini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,YourMembershipRequestWasReceived,Your membership was received.,Keanggotaan anda telah diterima.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,YourMembershipWasCanceled,Your membership was canceled,Keanggotaan anda telah dibatalkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,YourMembershipWasValidated,Your membership was validated,Keanggotaan anda telah disahkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\members.lang,YourSubscriptionWasRecorded,Your new contribution was recorded,Caruman baharu anda telah direkodkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AddInventoryProduct,Add product to inventory,Tambah produk ke inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AddNewProductStockWarehouse,Set new limit for alert and desired optimal stock,Tetapkan had amaran baharu dan stok optimum yang dikehendaki,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AddOne,Add one,Tambah satu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AddProduct,Add,Tambah,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AddStockAllProduct,Increase of stocks,Peningkatan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AddStockAllProductCancel,Cancel increase of stocks,Batalkan peningkatan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AddStockLocationLine,Decrease quantity then click to split the line,Kurangkan kuantiti kemudian klik untuk memecahkan baris,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AddWarehouse,Create warehouse,Cipta stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AlertOnly, Alerts only,Amaran sahaja,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AllowAddLimitStockByWarehouse,Manage also value for minimum and desired stock per pairing (product-warehouse) in addition to the value for minimum and desired stock per product,Urus juga nilai stok minimum dan stok dikehendaki mengikut pasangan (produk-stor) selain nilai stok minimum dan stok dikehendaki bagi setiap produk,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AllWarehouses,All warehouses,Semua stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AlwaysShowFullArbo,Display the full path of a warehouse (parent warehouses) on the popup of warehouse links (Warning: This may decrease dramatically performances),Papar laluan penuh stor (stor induk) pada tetingkap timbul pautan stor (Amaran: Ini mungkin mengurangkan prestasi dengan ketara),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ApplyPMP,Apply PMP,Gunakan PMP,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AutofillWithExpected,Fill real quantity with expected quantity,Isi kuantiti sebenar dengan kuantiti dijangka,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AverageUnitPricePMPDesc,The input average unit price paid to get 1 unit of product into the stock,Harga unit purata input yang dibayar untuk mendapatkan 1 unit produk ke dalam stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,AverageUnitPricePMPShort,Weighted average price,Harga purata berwajaran,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,BatchNotFound,Lot / serial not found for this product,Lot / siri tidak ditemui untuk produk ini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,BatchStockMouvementAddInGlobal,Batch stock move into global stock (product doesn't use batch anymore),Pergerakan stok kelompok ke stok global (produk tidak lagi menggunakan kelompok),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,CancelSending,Cancel shipment,Batalkan penghantaran,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ChooseFileToImport,Upload file then click on the %s icon to select file as source import file...,Muat naik fail kemudian klik ikon %s untuk memilih fail sebagai sumber import...,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ClearQtys,Clear all quantities,Kosongkan semua kuantiti,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,CollapseBatchDetailHelp,You can set batch detail default display in stocks module configuration,Anda boleh menetapkan paparan lalai butiran kelompok dalam konfigurasi modul stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ColumnNewPMP,New unit PMP,PMP unit baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ConfirmAddStock,Increase stocks with transfer %s,Tingkatkan stok dengan pindahan %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ConfirmAddStockCancel,Cancel increase of stocks with transfer %s,Batalkan peningkatan stok dengan pindahan %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ConfirmDeleteBatch,Are you sure you want to delete lot/serial ?,Adakah anda pasti mahu menghapuskan lot/siri?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ConfirmDeleteWarehouse,Are you sure you want to delete the warehouse <b>%s</b>?,Adakah anda pasti mahu menghapuskan stor <b>%s</b>?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ConfirmDestock,Decrease of stocks with transfer %s,Pengurangan stok dengan pindahan %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ConfirmDestockCancel,Cancel decrease of stocks with transfer %s,Batalkan pengurangan stok dengan pindahan %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ConfirmFinish,Do you confirm the closing of the inventory ? This will generate all stock movements to update your stock to the real qty you entered into the inventory.,Adakah anda mengesahkan penutupan inventori? Ini akan menjana semua pergerakan stok untuk mengemas kini stok anda kepada kuantiti sebenar yang anda masukkan dalam inventori.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ConfirmFlushInventory,Do you confirm this action?,Adakah anda mengesahkan tindakan ini?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ConfirmValidateStockTransfer,Are you sure you want to validate this stocks transfer with the reference <b>%s</b> ?,Adakah anda pasti mahu mengesahkan pindahan stok ini dengan rujukan <b>%s</b>?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,CorrectStock,Correct stock,Betulkan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,CurentlyUsingPhysicalStock,Physical stock,Stok fizikal,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,CurentlyUsingVirtualStock,Virtual stock,Stok maya,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,CurentSelectionMode,Current selection mode,Mod pilihan semasa,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,CurrentPA,Current BP,HB semasa,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,CurrentStock,Current stock,Stok semasa,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DateInventory,Inventory date,Tarikh inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DateMovement,Date of movement,Tarikh pergerakan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DatePrevueArrivee,Intended date of arrival,Tarikh ketibaan dijangka,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DatePrevueDepart,Intended date of departure,Tarikh pelepasan dijangka,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DateReelleArrivee,Real date of arrival,Tarikh ketibaan sebenar,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DateReelleDepart,Real date of departure,Tarikh pelepasan sebenar,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DeleteAWarehouse,Delete a warehouse,Hapus stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DeleteBatch,Delete lot/serial,Hapus lot/siri,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DeleteSending,Delete shipment,Hapus penghantaran,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DescWareHouse,Description warehouse,Penerangan stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DesiredStock,Desired Stock,Stok Dikehendaki,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DesiredStockDesc,This stock amount will be the value used to fill the stock by replenishment feature.,Jumlah stok ini akan menjadi nilai yang digunakan untuk mengisi stok melalui ciri penambahan semula.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DestockAllProduct,Decrease of stocks,Pengurangan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DestockAllProductCancel,Cancel decrease of stocks,Batalkan pengurangan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DeStockOnBill,Decrease real stocks on validation of customer invoice/credit note,Kurangkan stok sebenar semasa pengesahan invois pelanggan/nota kredit,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DeStockOnShipment,Decrease real stocks on shipping validation,Kurangkan stok sebenar semasa pengesahan penghantaran,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DeStockOnShipmentOnClosing,Decrease real stocks when shipping is set to closed,Kurangkan stok sebenar apabila penghantaran ditetapkan sebagai ditutup,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DeStockOnValidateOrder,Decrease real stocks on validation of sales order,Kurangkan stok sebenar semasa pengesahan pesanan jualan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DisableStockChangeOfSubProduct,Deactivate the stock change for all the subproducts of this Kit during this movement.,Nyahaktifkan perubahan stok untuk semua subproduk Kit ini semasa pergerakan ini.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,DispatchVerb,Dispatch,Agihkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,EnhancedValue,Value,Nilai,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,EnhancedValueOfWarehouses,Warehouses value,Nilai stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ErrorBarcodeNotFoundForProductWarehouse,Error: barcode not found for product warehouse,Ralat: kod bar tidak ditemui untuk stor produk,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ErrorCantFindCodeInInventory,Can't find the following code in inventory,Tidak dapat mencari kod berikut dalam inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ErrorCodeScannedIsBothProductAndSerial,Error: code scanned is both product and serial,Ralat: kod yang diimbas ialah produk dan siri,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ErrorOnElementsInventory,Operation canceled for the following reason:,Operasi dibatalkan atas sebab berikut:,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ErrorSameBatchNumber,Several records for the batch number were found in the inventory sheet. No way to know which one to increase.,Beberapa rekod untuk nombor kelompok ditemui dalam helaian inventori. Tiada cara untuk mengetahui yang mana satu perlu ditingkatkan.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ErrorWarehouseRefRequired,Warehouse reference name is required,Nama rujukan stor diperlukan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ErrorWrongBarcodemode,Unknown Barcode mode,Mod kod bar tidak diketahui,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,EstimatedStockValue,Input stock value,Nilai stok input,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,EstimatedStockValueSell,Value for sell,Nilai untuk jualan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,EstimatedStockValueSellShort,Value for sell,Nilai untuk jualan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,EstimatedStockValueShort,Input stock value,Nilai stok input,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ExitEditMode,Exit edit mode,Keluar mod edit,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ExternalWarehouse,External warehouse,Stor luar,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,FlushInventory,Flush inventory,Kosongkan inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ForceTo,Force to,Paksa kepada,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ForThisWarehouse,For this warehouse,Untuk stor ini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,HelpWarehouseStockTransferDestination,"If this warehouse is set, only itself and its children will be available as destination warehouse","Jika stor ini ditetapkan, hanya stor ini dan anak-anaknya akan tersedia sebagai stor destinasi",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,HelpWarehouseStockTransferSource,"If this warehouse is set, only itself and its children will be available as source warehouse","Jika stor ini ditetapkan, hanya stor ini dan anak-anaknya akan tersedia sebagai stor sumber",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,IdWarehouse,Id warehouse,ID stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ImportFromCSV,Import CSV list of movement,Import senarai CSV pergerakan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,IncludeAlsoDraftOrders,Include also draft orders,Termasuk juga pesanan draf,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,IncludeEmptyDesiredStock,Include also negative stock with undefined desired stock,Termasuk juga stok negatif dengan stok dikehendaki yang belum ditakrifkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,IncludeProductWithUndefinedAlerts," Include also negative stock for products with no desired quantity defined, to restore them to 0","Termasuk juga stok negatif bagi produk tanpa kuantiti dikehendaki ditakrifkan, untuk memulihkannya kepada 0",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,IncludeSubWarehouse,Include sub-warehouse ?,Termasuk sub-stor?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,IncludeSubWarehouseExplanation,Check this box if you want to include all sub-warehouses of the associated warehouse in the inventory,Tanda kotak ini jika anda mahu memasukkan semua sub-stor bagi stor berkaitan dalam inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,IndependantSubProductStock,Product stock and subproduct stock are independent,Stok produk dan stok subproduk adalah bebas,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InfoTemplateImport,"Uploaded file needs to have this format (* are mandatory fields):<br>Source Warehouse* | Target Warehouse* | Product* | Quantity* | Lot/serial number<br>CSV character separator must be ""<b>%s</b>""","Fail yang dimuat naik perlu mempunyai format ini (* ialah medan wajib):<br>Stor Sumber* | Stor Sasaran* | Produk* | Kuantiti* | Nombor lot/siri<br>Pemisah aksara CSV mestilah ""<b>%s</b>""",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InternalWarehouse,Internal warehouse,Stor dalaman,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,INVENTORY_USE_INVENTORY_DATE_FOR_DATE_OF_MVT,Stock movements will have the date of inventory (instead of the date of inventory validation),Pergerakan stok akan mempunyai tarikh inventori (bukannya tarikh pengesahan inventori),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryChangePMPPermission,Allow to change PMP value for a product,Benarkan perubahan nilai PMP untuk produk,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryCode,Movement or inventory code,Kod pergerakan atau inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryCodeShort,Inv./Mov. code,Kod inv./perg.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryConfirmCreate,Create,Cipta,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryCreate,Create new,Cipta baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryCreateDelete,Create/Delete inventory,Cipta/Hapus inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryCreatePermission,Create new inventory,Cipta inventori baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryDate,Inventory date,Tarikh inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryDeleteLine,Delete line,Hapus baris,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryDeletePermission,Delete inventory,Hapus inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryDraft,Running,Sedang berjalan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryEdit,Edit,Edit,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryEntrepot,Warehouse identity,Identiti stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryErrorQtyAdd,Error: one quantity is less than zero,Ralat: satu kuantiti kurang daripada sifar,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryFlushed,Inventory flushed,Inventori dikosongkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryForASpecificProduct,Inventory for a specific product,Inventori untuk produk tertentu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryForASpecificWarehouse,Inventory for a specific warehouse,Inventori untuk stor tertentu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryId,Inventory id,ID inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryLine,Inventory line,Baris inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryLineId,Inventory line ID,ID baris inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryListEmpty,No inventory in progress,Tiada inventori sedang berjalan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryListTitle,Inventories,Inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryMvtStock,By inventory,Mengikut inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryOfWarehouse,Inventory for warehouse: %s,Inventori untuk stor: %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryOnDate,Inventory,Inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryReadPermission,View inventories,Lihat inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryRealQtyHelp,"The quantity you found in stock when making the inventory. Set value to 0 to reset qty<br>Keep field empty, or remove line, to keep unchanged","Kuantiti yang anda temui dalam stok semasa membuat inventori. Tetapkan nilai kepada 0 untuk menetapkan semula kuantiti<br>Biarkan medan kosong, atau buang baris, untuk mengekalkan tanpa perubahan",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryRef,Inventory ref,Ruj. inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventorySelectWarehouse,Warehouse choice,Pilihan stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventorySetup, Inventory Setup,Tetapan Inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryStartedShort,Started,Dimulakan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,InventoryStatus,Inventory status,Status inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryTitle,Inventory,Inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryValidate,Validated,Disahkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryValidatePermission,Validate inventory,Sahkan inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryWarningProductAlreadyExists,This product is already into list,Produk ini sudah ada dalam senarai,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,inventoryWritePermission,Update inventories,Kemas kini inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,IsInPackage,Contained into package,Terkandung dalam pakej,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LabelMovement,Label movement,Label pergerakan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LabelOfInventoryMovemement,Inventory %s,Inventori %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LastMovement,Latest movement,Pergerakan terkini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LastMovements,Latest movements,Pergerakan terkini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LastPA,Last BP,HB terakhir,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LatestModifiedWarehouses,Latest %s modified warehouses,%s stor terkini yang telah diubah,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LatestStockMovements,Latest %s stock movements,%s pergerakan stok terkini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LeadTimeForWarning,Lead time before alert (in days),Masa tunggu sebelum amaran (dalam hari),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LieuWareHouse,Localisation warehouse,Lokasi stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ListInventory,List,Senarai,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ListMouvementStockProject,List of stock movements associated to project,Senarai pergerakan stok yang berkaitan dengan projek,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,Location,Location,Lokasi,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LocationSummary,Short name of location,Nama ringkas lokasi,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LotSerial,Lots/Serials,Lot/Siri,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,LotSerialList,List of lot/serials,Senarai lot/siri,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MainDefaultWarehouse,Default warehouse,Stor lalai,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MainDefaultWarehouseUser,Use a default warehouse for each user,Gunakan stor lalai untuk setiap pengguna,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MainDefaultWarehouseUserDesc,"By activating this option, during creation of a product, the warehouse assigned to the product will be defined on this one. If no warehouse is defined on the user, the default warehouse is defined.","Dengan mengaktifkan pilihan ini, semasa penciptaan produk, stor yang diberikan kepada produk akan ditakrifkan pada produk ini. Jika tiada stor ditakrifkan pada pengguna, stor lalai akan ditakrifkan.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MakeMovementsAndClose,Generate movements and close,Jana pergerakan dan tutup,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MassMovement,Mass movement,Pergerakan pukal,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MassStockTransferShort,Bulk stock change,Perubahan stok pukal,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MenuNewWarehouse,New warehouse,Stor baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MissingStocks,Missing stocks,Stok tidak mencukupi,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ModuleStockTransferDesc,"Advanced management of Stock Transfer, with generation of transfer sheet","Pengurusan lanjutan Pindahan Stok, dengan penjanaan helaian pindahan",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ModuleStockTransferName,Advanced Stock Transfer,Pindahan Stok Lanjutan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MovementCorrectStock,Stock correction for product %s,Pembetulan stok untuk produk %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MovementId,Movement ID,ID Pergerakan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MovementLabel,Label of movement,Label pergerakan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,Movements,Movements,Pergerakan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MovementsSinceDate,Movements since the date,Pergerakan sejak tarikh,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,MovementTransferStock,Stock transfer of product %s into another warehouse,Pindahan stok produk %s ke stor lain,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NbOfProductAfterPeriod,Quantity of product %s in stock after selected period (> %s),Kuantiti produk %s dalam stok selepas tempoh dipilih (> %s),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NbOfProductBeforePeriod,Quantity of product %s in stock before selected period (< %s),Kuantiti produk %s dalam stok sebelum tempoh dipilih (< %s),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NewInventory,New inventory,Inventori baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NewWarehouse,New warehouse / Stock Location,Stor baharu / Lokasi Stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NoPendingReceptionOnSupplierOrder,No pending reception due to open purchase order,Tiada penerimaan belum selesai disebabkan pesanan belian terbuka,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NoPredefinedProductToDispatch,No predefined products for this object. So no dispatching in stock is required.,Tiada produk pratetap untuk objek ini. Maka tiada pengagihan stok diperlukan.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NoStockAction,No stock action,Tiada tindakan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NoWarehouseDefinedForTerminal,No warehouse defined for terminal,Tiada stor ditakrifkan untuk terminal,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NumberOfDifferentProducts,Number of unique products,Bilangan produk unik,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NumberOfProducts,Total number of products,Jumlah bilangan produk,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,NumberOfUnit,Number of units,Bilangan unit,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ObjectNotFound,%s not found,%s tidak ditemui,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,OnlyProdsInStock,Do not add product without stock,Jangan tambah produk tanpa stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,OpenAnyMovement,Open (all movement),Buka (semua pergerakan),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,OpenInternal,Open (only internal movement),Buka (pergerakan dalaman sahaja),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,OptionMULTIPRICESIsOn,"Option ""several prices per segment"" is on. It means a product has several selling price so value for sell can't be calculated","Pilihan ""beberapa harga bagi setiap segmen"" dihidupkan. Ini bermaksud produk mempunyai beberapa harga jualan, jadi nilai untuk jualan tidak dapat dikira",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,OrderDispatch,Item receipts,Penerimaan item,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,OrderStatusNotReadyToDispatch,Order has not yet or no more a status that allows dispatching of products in stock warehouses.,Pesanan belum atau tidak lagi mempunyai status yang membenarkan pengagihan produk dalam stor stok.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ParentWarehouse,Parent warehouse,Stor induk,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,PersonalStock,Personal stock %s,Stok peribadi %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ProductBarcodeDoesNotExist,Product with barcode does not exist,Produk dengan kod bar tidak wujud,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ProductBatchDoesNotExist,Product with batch/serial does not exist,Produk dengan kelompok/siri tidak wujud,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ProductDoesNotExist,Product does not exist,Produk tidak wujud,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ProductStockWarehouse,Stock limit for alert and desired optimal stock by product and warehouse,Had stok untuk amaran dan stok optimum dikehendaki mengikut produk dan stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ProductStockWarehouseCreated,Stock limit for alert and desired optimal stock correctly created,Had stok untuk amaran dan stok optimum dikehendaki berjaya dicipta,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ProductStockWarehouseDeleted,Stock limit for alert and desired optimal stock correctly deleted,Had stok untuk amaran dan stok optimum dikehendaki berjaya dihapuskan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ProductStockWarehouseUpdated,Stock limit for alert and desired optimal stock correctly updated,Had stok untuk amaran dan stok optimum dikehendaki berjaya dikemas kini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ProductValuesUsedBecauseNoValuesForThisWarehouse,No value has been defined for this warehouse so we assume it is zero (no need for this product into the warehouse),"Tiada nilai ditakrifkan untuk stor ini, jadi kami menganggap nilainya sifar (produk ini tidak diperlukan dalam stor)",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,QtyAtDate,Quantity in stock at date,Kuantiti dalam stok pada tarikh,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,QtyCurrentlyKnownInStock,"System estimated quantity you have in stock. As long as the inventory is not closed, this is a realtime value and it may change if you continue to make stock movement during the inventory (not recommended).","Kuantiti anggaran sistem yang anda ada dalam stok. Selagi inventori belum ditutup, ini ialah nilai masa nyata dan mungkin berubah jika anda terus membuat pergerakan stok semasa inventori (tidak disyorkan).",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,QtyDispatched,Quantity dispatched,Kuantiti diagihkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,QtyDispatchedShort,Qty dispatched,Kuantiti diagihkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,QtyInStockWhenInventoryWasValidated,System estimated quantity you had in stock when the inventory was validated (before the stock correction),Kuantiti anggaran sistem yang anda ada dalam stok semasa inventori disahkan (sebelum pembetulan stok),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,QtyRegulated,Quantity on stock correction,Kuantiti pada pembetulan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,QtyStock,Quantity on stock,Kuantiti dalam stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,QtyToDispatchShort,Qty to dispatch,Kuantiti untuk diagihkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,qtyToTranferIsNotEnough,You don't have enough stock from your source warehouse and your setup does not allow negative stocks.,Stok daripada stor sumber anda tidak mencukupi dan tetapan anda tidak membenarkan stok negatif.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,qtyToTranferLotIsNotEnough,"You don't have enough stock, for this lot number, from your source warehouse and your setup does not allow negative stocks (Qty for product '%s' with lot '%s' is %s in warehouse '%s').",Stok tidak mencukupi untuk nombor lot ini daripada stor sumber anda dan tetapan anda tidak membenarkan stok negatif (Kuantiti untuk produk '%s' dengan lot '%s' ialah %s dalam stor '%s').,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,QtyViewed,Quantity viewed,Kuantiti dilihat,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,QtyWasAddedToTheScannedBarcode,Success !! The quantity was added to all the requested barcode. You can close the Scanner tool.,Berjaya!! Kuantiti telah ditambah kepada semua kod bar yang diminta. Anda boleh menutup alat Pengimbas.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RealQty,Real Qty,Kuantiti Sebenar,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RealStockDesc,Physical/real stock is the stock currently in the warehouses.,Stok fizikal/sebenar ialah stok yang sedang berada di stor.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RealStockWillAutomaticallyWhen,The real stock will be modified according to this rule (as defined in the Stock module):,Stok sebenar akan diubah mengikut peraturan ini (seperti ditakrifkan dalam modul Stok):,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RealValue,Real Value,Nilai Sebenar,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReceiveProducts,Receive items,Terima item,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReceivingForSameOrder,Receipts for this order,Penerimaan untuk pesanan ini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RecordedQty,Recorded Qty,Kuantiti Direkodkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RecordMovement,Record transfer,Rekod pindahan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RecordMovements,Record stock movements,Rekod pergerakan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RegulatedQty,Regulated Qty,Kuantiti Dilaraskan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RegulateStock,Regulate Stock,Laras Stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,Replenishment,Replenishment,Penambahan semula,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReplenishmentCalculation,Amount to order will be (desired quantity - real stock) instead of (desired quantity - virtual stock),Jumlah untuk dipesan ialah (kuantiti dikehendaki - stok sebenar) dan bukannya (kuantiti dikehendaki - stok maya),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReplenishmentOrders,Replenishment orders,Pesanan penambahan semula,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReplenishmentOrdersDesc,"This is a list of all open purchase orders including predefined products. Only open orders with predefined products, so orders that may affect stocks, are visible here.","Ini ialah senarai semua pesanan belian terbuka yang mengandungi produk pratetap. Hanya pesanan terbuka dengan produk pratetetap, iaitu pesanan yang boleh mempengaruhi stok, dipaparkan di sini.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,Replenishments,Replenishments,Penambahan semula,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReplenishmentStatusDesc,"This is a list of all products with a stock lower than desired stock (or lower than alert value if checkbox ""alert only"" is checked). Using the checkbox, you can create purchase orders to fill the difference.","Ini ialah senarai semua produk dengan stok yang lebih rendah daripada stok dikehendaki (atau lebih rendah daripada nilai amaran jika kotak semak ""amaran sahaja"" ditanda). Menggunakan kotak semak, anda boleh mencipta pesanan belian untuk mengisi perbezaan.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReplenishmentStatusDescPerWarehouse,"If you want a replenishment based on desired quantity defined per warehouse, you must add a filter on the warehouse.","Jika anda mahu penambahan semula berdasarkan kuantiti dikehendaki yang ditakrifkan mengikut stor, anda mesti menambah penapis pada stor.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReStockOnBill,Increase real stocks on validation of vendor invoice/credit note,Tingkatkan stok sebenar semasa pengesahan invois pembekal/nota kredit,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReStockOnDispatchOrder,"Increase real stocks on manual dispatching into warehouse, after purchase order receipt of goods","Tingkatkan stok sebenar semasa pengagihan manual ke stor, selepas penerimaan barang pesanan belian",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReStockOnValidateOrder,Increase real stocks on purchase order approval,Tingkatkan stok sebenar semasa kelulusan pesanan belian,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ReverseConfirmed,Stock movement has been reversed successfully,Pergerakan stok berjaya dibalikkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RevertProductsToStock,Revert products to stock ?,Kembalikan produk ke stok?,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RuleForStockAvailability,Rules on stock requirements,Peraturan bagi keperluan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RuleForStockManagementDecrease,"Choose Rule for automatic stock decrease (manual decrease is always possible, even if an automatic decrease rule is activated)","Pilih peraturan untuk pengurangan stok automatik (pengurangan manual sentiasa boleh dilakukan, walaupun peraturan pengurangan automatik diaktifkan)",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RuleForStockManagementIncrease,"Choose Rule for automatic stock increase (manual increase is always possible, even if an automatic increase rule is activated)","Pilih peraturan untuk peningkatan stok automatik (peningkatan manual sentiasa boleh dilakukan, walaupun peraturan peningkatan automatik diaktifkan)",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RuleForStockReplenishment,Rule for stocks replenishment,Peraturan untuk penambahan semula stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,RuleForWarehouse,Rule for warehouses,Peraturan untuk stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SaveQtyFirst,"Save the real inventoried quantities first, before asking creation of the stock movement.","Simpan kuantiti sebenar yang diinventorikan dahulu, sebelum meminta penciptaan pergerakan stok.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SelectAStockMovementFileToImport,select a stock movement file to import,pilih fail pergerakan stok untuk diimport,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SelectCategory,Category filter,Penapis kategori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SelectedWarehouse,Select a warehouse,Pilih stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SelectFournisseur,Vendor filter,Penapis pembekal,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SelectProductInAndOutWareHouse,"Select a source warehouse (optional), a target warehouse, a product and a quantity then click ""%s"". Once this is done for all required movements, click on ""%s"".","Pilih stor sumber (pilihan), stor sasaran, produk dan kuantiti kemudian klik ""%s"". Setelah selesai untuk semua pergerakan yang diperlukan, klik ""%s"".",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SelectProductWithNotNullQty,Select at least one product with a qty not null and a vendor,Pilih sekurang-kurangnya satu produk dengan kuantiti bukan sifar dan pembekal,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SelectWarehouseForStockDecrease,Choose warehouse to use for stock decrease,Pilih stor untuk digunakan bagi pengurangan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SelectWarehouseForStockIncrease,Choose warehouse to use for stock increase,Pilih stor untuk digunakan bagi peningkatan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SellPriceMin,Selling Unit Price,Harga Unit Jualan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ShowAllBatchByDefault,"By default, show batch details on product ""stock"" tab","Secara lalai, papar butiran kelompok pada tab ""stok"" produk",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ShowWarehouse,Show warehouse,Papar stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockAtDate,Stocks at date,Stok pada tarikh,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockAtDateFutureDesc,You can view here the stock (virtual stock) at a given date in the future,Anda boleh melihat stok (stok maya) pada tarikh tertentu pada masa hadapan di sini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockAtDateInFuture,Date in the future,Tarikh pada masa hadapan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockAtDateInPast,Date in the past,Tarikh pada masa lalu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockAtDatePastDesc,You can view here the stock (real stock) at a given date in the past,Anda boleh melihat stok (stok sebenar) pada tarikh tertentu pada masa lalu di sini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockChangeDisabled,Stock change disabled,Perubahan stok dinyahaktifkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockDecreaseAfterCorrectTransfer,Decrease by correction/transfer,Kurangkan melalui pembetulan/pindahan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockDiffPhysicTeoric,Explanation for difference between physical and virtual stock,Penjelasan perbezaan antara stok fizikal dan stok maya,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockEntryDate,Date of <br>entry in stock,Tarikh <br>masuk stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockIncreaseAfterCorrectTransfer,Increase by correction/transfer,Tingkatkan melalui pembetulan/pindahan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockIsRequiredToChooseWhichLotToUse,An existing stock is required to be able to choose which lot to use,Stok sedia ada diperlukan untuk membolehkan pemilihan lot yang hendak digunakan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockLimit,Stock limit for alert,Had stok untuk amaran,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockLimitDesc,(empty) means no warning.<br>0 can be used to trigger a warning as soon as the stock is empty.,(kosong) bermaksud tiada amaran.<br>0 boleh digunakan untuk mencetuskan amaran sebaik sahaja stok kosong.,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockLimitShort,Limit for alert,Had untuk amaran,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockLowerThanLimit,Stock lower than alert limit (%s),Stok lebih rendah daripada had amaran (%s),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockMovementForId,Movement ID %d,ID Pergerakan %d,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockMovementNotYetRecorded,Stock movement will not be affected by this step,Pergerakan stok tidak akan dipengaruhi oleh langkah ini,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockMovementRecorded,Stock movements recorded,Pergerakan stok direkodkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockMovementWillBeRecorded,Stock movement will be recorded,Pergerakan stok akan direkodkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockMustBeEnoughForInvoice,Stock level must be enough to add product/service to invoice (check is done on current real stock when adding a line into invoice whatever the rule for automatic stock change),Paras stok mesti mencukupi untuk menambah produk/perkhidmatan ke invois (semakan dibuat pada stok sebenar semasa ketika menambah baris ke invois tanpa mengira peraturan perubahan stok automatik),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockMustBeEnoughForOrder,Stock level must be enough to add product/service to order (check is done on current real stock when adding a line into order whatever the rule for automatic stock change),Paras stok mesti mencukupi untuk menambah produk/perkhidmatan ke pesanan (semakan dibuat pada stok sebenar semasa ketika menambah baris ke pesanan tanpa mengira peraturan perubahan stok automatik),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockMustBeEnoughForShipment, Stock level must be enough to add product/service to shipment (check is done on current real stock when adding a line into shipment whatever the rule for automatic stock change),Paras stok mesti mencukupi untuk menambah produk/perkhidmatan ke penghantaran (semakan dibuat pada stok sebenar semasa ketika menambah baris ke penghantaran tanpa mengira peraturan perubahan stok automatik),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockOnReception,Increase real stocks on validation of reception,Tingkatkan stok sebenar semasa pengesahan penerimaan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockOnReceptionOnClosing,Increase real stocks when reception is set to closed,Tingkatkan stok sebenar apabila penerimaan ditetapkan sebagai ditutup,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StocksArea,Warehouses area,Ruang Stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StocksByLotSerial,Stocks by lot/serial,Stok mengikut lot/siri,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockStransferDecremented,Source warehouses decreased,Stor sumber dikurangkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockStransferDecrementedCancel,Decrease of source warehouses canceled,Pengurangan stor sumber dibatalkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockStransferIncremented,Closed - Stocks transferred,Ditutup - Stok dipindahkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockStransferIncrementedShort,Stocks transferred,Stok dipindahkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockStransferIncrementedShortCancel,Increase of destination warehouses canceled,Peningkatan stor destinasi dibatalkan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockSupportServices,Stock management supports Services,Pengurusan stok menyokong Perkhidmatan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockSupportServicesDesc,"By default, you can stock only products of type ""product"". You may also stock a product of type ""service"" if both module Services and this option are enabled.","Secara lalai, anda hanya boleh menyimpan stok produk jenis ""produk"". Anda juga boleh menyimpan stok produk jenis ""perkhidmatan"" jika modul Perkhidmatan dan pilihan ini diaktifkan.",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockToBuy,To order,Untuk dipesan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTooLow,Stock too low,Stok terlalu rendah,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferDecrementation,Decrease source warehouses,Kurangkan stor sumber,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferDecrementationCancel,Cancel decrease of source warehouses,Batalkan pengurangan stor sumber,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferIncrementation,Increase destination warehouses,Tingkatkan stor destinasi,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferIncrementationCancel,Cancel increase of destination warehouses,Batalkan peningkatan stor destinasi,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferList,Stock transfers list,Senarai pindahan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferNew,New stock transfer,Pindahan stok baharu,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferNoBatchForProduct,"Product %s doesn't use batch, clear batch on line and retry","Produk %s tidak menggunakan kelompok, kosongkan kelompok pada baris dan cuba semula",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferRightCreateUpdate,Create/Update stocks transfers,Cipta/Kemas kini pindahan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferRightDelete,Delete stocks transfers,Hapus pindahan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferRightRead,Read stocks transfers,Baca pindahan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferSetup, Stocks Transfer module configuration,Konfigurasi modul Pindahan Stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferSetupPage, Configuration page for stocks transfer module,Halaman konfigurasi modul pindahan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferSheet,Stocks transfer sheet,Helaian pindahan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,StockTransferSheetProforma,Proforma stocks transfer sheet,Helaian pindahan stok proforma,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,SubjectToLotSerialOnly,Products subject to lot/serial only,Produk tertakluk kepada lot/siri sahaja,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,TheoricalQty,Theoretical qty,Kuantiti teori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,TheoricalValue,Theoretical qty,Nilai teori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ThisSerialAlreadyExistWithDifferentDate,This lot/serial number (<strong>%s</strong>) already exists but with different eatby or sellby date (found <strong>%s</strong> but you enter <strong>%s</strong>).,Nombor lot/siri ini (<strong>%s</strong>) sudah wujud tetapi dengan tarikh luput atau tarikh jual sebelum yang berbeza (ditemui <strong>%s</strong> tetapi anda masukkan <strong>%s</strong>).,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ThisWarehouseIsPersonalStock,This warehouse represents personal stock of %s %s,Stor ini mewakili stok peribadi %s %s,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ToStart,Start,Mula,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,TotalStock,Total stock,Jumlah stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,TypeContact_stocktransfer_internal_STDEST,Recipient of stocks transfer,Penerima pindahan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,TypeContact_stocktransfer_internal_STFROM,Sender of stocks transfer,Pengirim pindahan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,TypeContact_stocktransfer_internal_STRESP,Responsible of stocks transfer,Penanggungjawab pindahan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,TypeMovement,Direction of movement,Arah pergerakan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,UnitPurchaseValue,Unit purchase price,Harga belian unit,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,Units,Units,Unit,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,UpdateByScaning,Complete real qty by scanning,Lengkapkan kuantiti sebenar melalui imbasan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,UpdateByScaningLot,Update by scan (lot|serial barcode),Kemas kini melalui imbasan (kod bar lot|siri),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,UpdateByScaningProductBarcode,Update by scan (product barcode),Kemas kini melalui imbasan (kod bar produk),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,UseDispatchStatus,Use a dispatch status (approve/refuse) for product lines on purchase order reception,Gunakan status pengagihan (lulus/tolak) untuk baris produk pada penerimaan pesanan belian,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,UsePhysicalStock,Use physical stock,Gunakan stok fizikal,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,UserDefaultWarehouse,Set a warehouse on Users,Tetapkan stor pada Pengguna,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,UseRealStockByDefault,"Use real stock, instead of virtual stock, for replenishment feature","Gunakan stok sebenar, bukannya stok maya, untuk ciri penambahan semula",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,UserWarehouseAutoCreate,Create a user warehouse automatically when creating a user,Cipta stor pengguna secara automatik apabila mencipta pengguna,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,UseVirtualStock,Use virtual stock,Gunakan stok maya,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ValidateInventory,Inventory validation,Pengesahan inventori,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,ValidateSending,Confirm shipment,Sahkan penghantaran,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,VirtualDiffersFromPhysical,"According to increase/decrease stock options, physical stock and virtual stock (physical stock + open orders) may differ","Mengikut pilihan peningkatan/pengurangan stok, stok fizikal dan stok maya (stok fizikal + pesanan terbuka) mungkin berbeza",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,VirtualStockAtDate,Virtual stock at a future date,Stok maya pada tarikh masa hadapan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,VirtualStockAtDateDesc,Virtual stock once all the pending orders that are planned to be processed before the chosen date will be finished,Stok maya selepas semua pesanan tertunggak yang dirancang untuk diproses sebelum tarikh yang dipilih selesai,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,VirtualStockDesc,"Virtual stock is the stock that will remain after all open/pending actions (that affect stocks) have been performed (purchase orders received, sales orders shipped, manufacturing orders produced, etc)","Stok maya ialah stok yang akan berbaki selepas semua tindakan terbuka/tertunggak (yang mempengaruhi stok) telah dilaksanakan (pesanan belian diterima, pesanan jualan dihantar, arahan pengilangan dihasilkan, dan sebagainya)",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseAllowNegativeTransfer,Stock can be negative,Stok boleh menjadi negatif,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseAskWarehouseDuringOrder,Set a warehouse on Sales Orders,Tetapkan stor pada Pesanan Jualan,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseAskWarehouseDuringProject,Set a warehouse on Projects,Tetapkan stor pada Projek,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseAskWarehouseDuringPropal,Set a warehouse on Commercial proposals,Tetapkan stor pada Sebut Harga Komersial,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseAskWarehouseOnThirparty,Set a warehouse on Third-parties,Tetapkan stor pada Pihak Ketiga,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseCard,Warehouse card,Kad stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseEdit,Modify warehouse,Ubah stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseForStockDecrease,The warehouse <b>%s</b> will be used for stock decrease,Stor <b>%s</b> akan digunakan untuk pengurangan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseForStockIncrease,The warehouse <b>%s</b> will be used for stock increase,Stor <b>%s</b> akan digunakan untuk peningkatan stok,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseId,Warehouse ID,ID Stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseRef,Warehouse Ref,Ruj. Stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehousesAndProducts,Warehouses and products,Stor dan produk,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehousesAndProductsBatchDetail,Warehouses and products (with detail per lot/serial),Stor dan produk (dengan butiran mengikut lot/siri),ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseSource,Source warehouse,Stor sumber,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseSourceNotDefined,"No warehouse defined,","Tiada stor ditakrifkan,",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseTarget,Target warehouse,Stor sasaran,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarehouseUsage,Warehouse usage,Penggunaan stor,ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
+lang\ms_MY\stocks.lang,WarningThisWIllAlsoDeleteStock,"Warning, this will also destroy all quantities in stock in the warehouse","Amaran, ini juga akan memusnahkan semua kuantiti dalam stok di stor",ready,Sprint 22B-2 stocks.lang + members.lang bulk batch 5B
