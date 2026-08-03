@@ -1,0 +1,33 @@
+# Dolibarr language file - ms_MY
+# Sprint 22M manual review 16A
+
+IntraCommReport=Laporan Intrakomuniti
+IntraCommReports=Laporan Intrakomuniti
+Module68000Name=Laporan Intrakomuniti
+Module68000Desc=Pengurusan Laporan Intrakomuniti (menyokong format DEB/DES Perancis)
+IntracommReportSetup=Tetapan Modul Laporan Intrakomuniti
+IntracommReportAbout=Perihal Laporan Intrakomuniti
+INTRACOMMREPORT_NUM_AGREMENT=Nombor Kelulusan (dikeluarkan oleh CISD berkaitan)
+INTRACOMMREPORT_TYPE_ACTEUR=Jenis Pelaku
+INTRACOMMREPORT_ROLE_ACTEUR=Peranan yang Dilaksanakan oleh Pelaku
+INTRACOMMREPORT_NIV_OBLIGATION_INTRODUCTION=Tahap Kewajipan bagi Kemasukan
+INTRACOMMREPORT_NIV_OBLIGATION_EXPEDITION=Tahap Kewajipan bagi Penghantaran
+INTRACOMMREPORT_CATEG_FRAISDEPORT=Kategori Perkhidmatan Jenis "Kos Penghantaran"
+INTRACOMMREPORT_NUM_DECLARATION=Nombor Pengisytihar
+MenuIntracommReport=Laporan Intrakomuniti
+MenuIntracommReportNew=Pengisytiharan Baru
+MenuIntracommReportList=Senarai
+NewDeclaration=Pengisytiharan Baru
+Declaration=Pengisytiharan
+AnalysisPeriod=Tempoh Analisis
+TypeOfDeclaration=Jenis Pengisytiharan
+DEB=Pengisytiharan Pertukaran Barangan (DEB)
+DES=Pengisytiharan Pertukaran Perkhidmatan (DES)
+IntracommReportTitle=Penyediaan Fail XML dalam Format ProDouane
+IntracommReportList=Senarai Pengisytiharan yang Dijana
+IntracommReportNumber=Nombor Pengisytiharan
+IntracommReportPeriod=Tempoh Analisis
+IntracommReportTypeDeclaration=Jenis Pengisytiharan
+IntracommReportDownload=Muat Turun Fail XML
+IntracommReportTransportMode=Kaedah Pengangkutan
+DeleteIntraCommReport=Hapus Laporan Intrakomuniti
