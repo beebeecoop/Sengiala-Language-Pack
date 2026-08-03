@@ -1,0 +1,33 @@
+# Dolibarr language file - ms_MY
+# Sprint 22N manual review 17A
+
+WorkflowSetup=Tetapan Modul Aliran Kerja
+WorkflowDesc=Modul ini menyediakan beberapa tindakan automatik. Secara lalai, aliran kerja terbuka dan anda boleh melaksanakan tindakan mengikut susunan yang dikehendaki, tetapi di sini anda boleh mengaktifkan tindakan automatik tertentu.
+ThereIsNoWorkflowToModify=Tiada pengubahsuaian aliran kerja tersedia dengan modul yang telah diaktifkan.
+descWORKFLOW_PROPAL_AUTOCREATE_ORDER=Cipta Pesanan Jualan secara automatik selepas Sebut Harga Pelanggan ditandatangani (pesanan baru akan mempunyai jumlah yang sama seperti sebut harga).
+descWORKFLOW_PROPAL_AUTOCREATE_INVOICE=Cipta Invois Pelanggan secara automatik selepas Sebut Harga Pelanggan ditandatangani (invois baru akan mempunyai jumlah yang sama seperti sebut harga).
+descWORKFLOW_CONTRACT_AUTOCREATE_INVOICE=Cipta Invois Pelanggan secara automatik selepas kontrak disahkan.
+descWORKFLOW_ORDER_AUTOCREATE_INVOICE=Cipta Invois Pelanggan secara automatik selepas Pesanan Jualan ditutup (invois baru akan mempunyai jumlah yang sama seperti pesanan).
+descWORKFLOW_TICKET_CREATE_INTERVENTION=Cipta intervensi secara automatik apabila tiket dicipta.
+descWORKFLOW_ORDER_CLASSIFY_BILLED_PROPAL=Apabila Pesanan Jualan ditandakan sebagai telah diinvoiskan, klasifikasikan Sebut Harga Pelanggan sumber yang dipautkan sebagai telah diinvoiskan jika jumlah pesanan sama dengan jumlah keseluruhan sebut harga dipautkan yang telah ditandatangani.
+descWORKFLOW_INVOICE_CLASSIFY_BILLED_PROPAL=Apabila Invois Pelanggan disahkan, klasifikasikan Sebut Harga Pelanggan sumber yang dipautkan sebagai telah diinvoiskan jika jumlah invois sama dengan jumlah keseluruhan sebut harga dipautkan yang telah ditandatangani.
+descWORKFLOW_INVOICE_CLASSIFY_BILLED_ORDER=Apabila Invois Pelanggan ditandakan sebagai dibayar, klasifikasikan Pesanan Jualan sumber yang dipautkan sebagai telah diinvoiskan jika jumlah invois sama dengan jumlah keseluruhan pesanan dipautkan. Jika satu invois dijana untuk beberapa pesanan, semua pesanan tersebut juga mungkin ditandakan sebagai telah diinvoiskan.
+descWORKFLOW_INVOICE_AMOUNT_CLASSIFY_BILLED_ORDER=Apabila Invois Pelanggan disahkan, klasifikasikan semua Pesanan Jualan sumber yang dipautkan sebagai telah diinvoiskan jika jumlah invois sama dengan jumlah keseluruhan pesanan sumber dipautkan. Jika satu invois bersama dijana untuk beberapa pesanan, semua pesanan sumber tersebut mungkin ditandakan sebagai telah diinvoiskan.
+descWORKFLOW_SUM_INVOICES_AMOUNT_CLASSIFY_BILLED_ORDER=Apabila Invois Pelanggan disahkan, klasifikasikan Pesanan Jualan yang dipautkan sebagai telah diinvoiskan jika hanya satu pesanan dipautkan dan jumlah pesanan tersebut sama dengan jumlah keseluruhan semua invois yang diterbitkan daripadanya. Jika beberapa invois dijana untuk satu pesanan, pesanan boleh ditandakan sebagai telah diinvoiskan sebaik sahaja semua invois disahkan.
+descWORKFLOW_ORDER_CLASSIFY_SHIPPED_SHIPPING=Apabila penghantaran disahkan, klasifikasikan Pesanan Jualan sumber yang dipautkan sebagai telah dihantar jika jumlah kuantiti yang dihantar melalui semua penghantaran sama dengan kuantiti dalam pesanan yang hendak dikemas kini.
+descWORKFLOW_ORDER_CLASSIFY_SHIPPED_SHIPPING_CLOSED=Apabila penghantaran ditutup, klasifikasikan Pesanan Jualan sumber yang dipautkan sebagai telah dihantar jika jumlah kuantiti yang dihantar melalui semua penghantaran sama dengan kuantiti dalam pesanan yang hendak dikemas kini.
+descWORKFLOW_ORDER_CLASSIFY_BILLED_SUPPLIER_PROPOSAL=Apabila Invois Pembekal disahkan, klasifikasikan Sebut Harga Pembekal sumber yang dipautkan sebagai telah diinvoiskan jika jumlah invois sama dengan jumlah keseluruhan sebut harga dipautkan.
+descWORKFLOW_INVOICE_AMOUNT_CLASSIFY_BILLED_SUPPLIER_ORDER=Apabila Invois Pembekal disahkan, klasifikasikan Pesanan Belian sumber yang dipautkan sebagai telah diinvoiskan jika jumlah invois sama dengan jumlah keseluruhan pesanan dipautkan.
+descWORKFLOW_ORDER_CLASSIFY_RECEIVED_RECEPTION=Apabila penerimaan disahkan, klasifikasikan Pesanan Belian sumber yang dipautkan sebagai telah diterima jika jumlah kuantiti yang diterima melalui semua penerimaan sama dengan kuantiti dalam Pesanan Belian yang hendak dikemas kini.
+descWORKFLOW_ORDER_CLASSIFY_RECEIVED_RECEPTION_CLOSED=Apabila penerimaan ditutup, klasifikasikan Pesanan Belian sumber yang dipautkan sebagai telah diterima jika jumlah kuantiti yang diterima melalui semua penerimaan yang terhasil daripada Pesanan Belian sama dengan kuantiti dalam pesanan yang hendak dikemas kini.
+descWORKFLOW_SHIPPING_CLASSIFY_CLOSED_INVOICE=Apabila Invois Pelanggan disahkan, klasifikasikan penghantaran sumber yang dipautkan sebagai ditutup jika jumlah invois sama dengan jumlah keseluruhan penghantaran dipautkan.
+descWORKFLOW_SHIPPING_CLASSIFY_BILLED_INVOICE=Apabila Invois Pelanggan disahkan, klasifikasikan penghantaran sumber yang dipautkan sebagai telah diinvoiskan jika jumlah invois sama dengan jumlah keseluruhan penghantaran dipautkan.
+descWORKFLOW_RECEPTION_CLASSIFY_CLOSED_INVOICE=Apabila Invois Pembekal disahkan, klasifikasikan penerimaan sumber yang dipautkan sebagai ditutup jika jumlah invois sama dengan jumlah keseluruhan penerimaan dipautkan.
+descWORKFLOW_RECEPTION_CLASSIFY_BILLED_INVOICE=Apabila Invois Pembekal disahkan, klasifikasikan penerimaan sumber yang dipautkan sebagai telah diinvoiskan jika jumlah invois sama dengan jumlah keseluruhan penerimaan dipautkan.
+descWORKFLOW_TICKET_LINK_CONTRACT=Apabila tiket dicipta, pautkannya dengan kontrak tersedia yang mempunyai pihak ketiga yang sama seperti tiket.
+descWORKFLOW_TICKET_USE_PARENT_COMPANY_CONTRACTS=Apabila tiket dipautkan secara automatik dengan kontrak, cari juga kontrak milik syarikat induk.
+descWORKFLOW_TICKET_CLOSE_INTERVENTION=Tutup semua intervensi yang dipautkan kepada tiket apabila tiket ditutup.
+AutomaticCreation=Penciptaan Automatik
+AutomaticClassification=Pengelasan Automatik
+AutomaticClosing=Penutupan Automatik
+AutomaticLinking=Pemautan Automatik
