@@ -1,0 +1,30 @@
+# Dolibarr language file - ms_MY
+# Sprint 22N manual review 17A
+
+ModuleKnowledgeManagementName=Sistem Pengurusan Pengetahuan
+ModuleKnowledgeManagementDesc=Urus pangkalan Pengurusan Pengetahuan (KM) atau Meja Bantuan.
+KnowledgeManagementSetup=Tetapan Sistem Pengurusan Pengetahuan
+KnowledgeManagementSetupPage=Halaman Tetapan Sistem Pengurusan Pengetahuan
+KnowledgeManagementAbout=Perihal Pengurusan Pengetahuan
+KnowledgeManagementAboutPage=Halaman Perihal Pengurusan Pengetahuan
+KnowledgeManagementArea=Ruang Pengurusan Pengetahuan
+MenuKnowledgeRecord=Pangkalan Pengetahuan
+MenuKnowledgeRecordShort=Pangkalan Pengetahuan
+ListKnowledgeRecord=Senarai Artikel
+NewKnowledgeRecord=Artikel Baru
+ValidateReply=Sahkan Penyelesaian
+KnowledgeRecords=Artikel
+KnowledgeRecord=Artikel
+KnowledgeRecordExtraFields=Medan Tambahan untuk Artikel
+GroupOfTicket=Kumpulan Tiket
+YouCanLinkArticleToATicketCategory=Anda boleh memautkan artikel kepada kumpulan tiket supaya artikel tersebut ditonjolkan pada semua tiket dalam kumpulan ini.
+SuggestedForTicketsInGroup=Dicadangkan semasa Penciptaan Tiket
+SetObsolete=Tetapkan sebagai Lapuk
+ConfirmCloseKM=Adakah anda mengesahkan penutupan artikel ini sebagai lapuk?
+ConfirmReopenKM=Adakah anda mahu memulihkan artikel ini kepada status "Disahkan"?
+BoxLastKnowledgerecordDescription=%s Artikel Terkini
+BoxLastKnowledgerecord=Artikel Terkini
+BoxLastKnowledgerecordContent=Artikel Terkini
+BoxLastKnowledgerecordModifiedContent=Artikel Terakhir Diubah
+BoxLastModifiedKnowledgerecordDescription=%s Artikel Terakhir Diubah
+BoxLastModifiedKnowledgerecord=Artikel Terakhir Diubah

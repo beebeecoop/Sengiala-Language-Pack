@@ -1,0 +1,29 @@
+# Dolibarr language file - ms_MY
+# Sprint 22N manual review 17A
+
+MailmanSpipSetup=Tetapan Modul Mailman dan SPIP
+MailmanTitle=Sistem Senarai Mel Mailman
+TestSubscribe=Uji Langganan kepada Senarai Mailman
+TestUnSubscribe=Uji Nyahlanggan daripada Senarai Mailman
+MailmanCreationSuccess=Ujian langganan berjaya dilaksanakan
+MailmanDeletionSuccess=Ujian nyahlanggan berjaya dilaksanakan
+SynchroMailManEnabled=Kemas kini Mailman akan dilaksanakan
+SynchroSpipEnabled=Kemas kini SPIP akan dilaksanakan
+DescADHERENT_MAILMAN_ADMIN_PASSWORD=Kata Laluan Pentadbir Mailman
+DescADHERENT_MAILMAN_URL=URL untuk Langganan Mailman
+DescADHERENT_MAILMAN_UNSUB_URL=URL untuk Nyahlanggan Mailman
+DescADHERENT_MAILMAN_LISTS=Senarai untuk pendaftaran automatik Anggota baru (dipisahkan dengan koma)
+SPIPTitle=Sistem Pengurusan Kandungan SPIP
+DescADHERENT_SPIP_SERVEUR=Pelayan SPIP
+DescADHERENT_SPIP_DB=Nama Pangkalan Data SPIP
+DescADHERENT_SPIP_USER=Log Masuk Pangkalan Data SPIP
+DescADHERENT_SPIP_PASS=Kata Laluan Pangkalan Data SPIP
+AddIntoSpip=Tambah ke dalam SPIP
+AddIntoSpipConfirmation=Adakah anda pasti mahu menambah Anggota ini ke dalam SPIP?
+AddIntoSpipError=Gagal menambah pengguna ke dalam SPIP
+DeleteIntoSpip=Alih Keluar daripada SPIP
+DeleteIntoSpipConfirmation=Adakah anda pasti mahu mengalih keluar Anggota ini daripada SPIP?
+DeleteIntoSpipError=Gagal mengalih keluar pengguna daripada SPIP
+SPIPConnectionFailed=Gagal menyambung ke SPIP
+SuccessToAddToMailmanList=%s berjaya ditambah kepada senarai Mailman %s atau Pangkalan Data SPIP
+SuccessToRemoveToMailmanList=%s berjaya dialih keluar daripada senarai Mailman %s
