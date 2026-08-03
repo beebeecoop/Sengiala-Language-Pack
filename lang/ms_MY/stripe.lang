@@ -98,3 +98,116 @@ NoStripePayment=Tiada Bayaran Stripe
 NoStripePaymentFound=Tiada Bayaran Stripe Dijumpai
 SearchStripePayment=Cari Bayaran Stripe
 SelectStripePayment=Pilih Bayaran Stripe
+
+# Sprint 22J manual review 13A — keys 1-50
+StripeSetup=Tetapan Modul Stripe
+StripeDesc=Tawarkan halaman pembayaran dalam talian kepada pelanggan anda untuk pembayaran menggunakan kad kredit/debit melalui <a href="https://www.stripe.com" target="_blank" rel="noopener noreferrer external">Stripe</a>. Kemudahan ini boleh digunakan untuk membolehkan pelanggan membuat pembayaran sekali sahaja atau pembayaran yang berkaitan dengan objek Dolibarr tertentu seperti invois atau pesanan.
+StripeOrCBDoPayment=Bayar dengan Kad Kredit atau Stripe
+FollowingUrlAreAvailableToMakePayments=URL berikut tersedia untuk menawarkan halaman kepada pelanggan bagi membuat pembayaran untuk objek Dolibarr
+PaymentForm=Borang Pembayaran
+WelcomeOnPaymentPage=Selamat Datang ke Perkhidmatan Pembayaran Dalam Talian Kami
+ThisScreenAllowsYouToPay=Skrin ini membolehkan anda membuat pembayaran dalam talian kepada %s.
+ThisIsInformationOnPayment=Berikut ialah maklumat pembayaran yang perlu dibuat
+ToComplete=Untuk Dilengkapkan
+YourEMail=E-mel untuk Menerima Pengesahan Pembayaran
+STRIPE_PAYONLINE_SENDEMAIL=Pemberitahuan E-mel Selepas Percubaan Pembayaran (berjaya atau gagal)
+Creditor=Pemiutang
+PaymentCode=Kod Pembayaran
+StripeAutoRecordPayout=Aktifkan Perekodan Automatik Bayaran Keluar Stripe
+StripeAutoRecordPayout2=Apabila Stripe membuat bayaran keluar untuk memindahkan pendapatan anda ke bank dan memanggil webhook IPN %s
+StripeDoPayment=Bayar dengan Stripe
+YouWillBeRedirectedOnStripe=Anda akan dialihkan ke halaman Stripe yang selamat untuk memasukkan maklumat kad kredit anda
+Continue=Seterusnya
+ToOfferALinkForOnlinePayment=URL untuk Pembayaran %s
+ToOfferALinkForOnlinePaymentOnOrder=URL untuk menawarkan halaman pembayaran dalam talian %s bagi Pesanan Jualan
+ToOfferALinkForOnlinePaymentOnInvoice=URL untuk menawarkan halaman pembayaran dalam talian %s bagi Invois Pelanggan
+ToOfferALinkForOnlinePaymentOnContractLine=URL untuk menawarkan halaman pembayaran dalam talian %s bagi Baris Kontrak
+ToOfferALinkForOnlinePaymentOnFreeAmount=URL untuk menawarkan halaman pembayaran dalam talian %s bagi sebarang jumlah tanpa objek sedia ada
+ToOfferALinkForOnlinePaymentOnMemberSubscription=URL untuk menawarkan halaman pembayaran dalam talian %s bagi Caruman Anggota
+ToOfferALinkForOnlinePaymentOnDonation=URL untuk menawarkan halaman pembayaran dalam talian %s bagi pembayaran sumbangan
+YouCanAddTagOnUrl=Anda juga boleh menambah parameter URL <b>&tag=value</b> pada mana-mana URL tersebut untuk menambah tag ulasan pembayaran anda sendiri. Parameter ini hanya diwajibkan bagi pembayaran yang tidak dipautkan kepada objek.<br>Bagi URL pembayaran tanpa objek sedia ada, anda juga boleh menambah parameter <strong>&noidempotency=1</strong> supaya pautan yang sama dengan tag yang sama boleh digunakan beberapa kali. Sesetengah kaedah pembayaran mungkin mengehadkan pembayaran kepada satu bagi setiap pautan yang berbeza tanpa parameter ini.
+YouCanEmbedOnWebsite=Untuk menyepadukan halaman pembayaran ke dalam laman web Dolibarr, anda boleh memasukkan parameter <b>&ws=website_ref</b>.<br>Selain itu, dua halaman bernama <b>paymentok</b> dan <b>paymentko</b> mesti dicipta dalam laman web untuk menerima pengalihan selepas pembayaran dalam talian berjaya atau gagal.
+SetupStripeToHavePaymentCreatedAutomatically=Tetapkan Stripe anda menggunakan URL <b>%s</b> supaya pembayaran dicipta secara automatik setelah disahkan oleh Stripe.
+AccountParameter=Parameter Akaun
+UsageParameter=Parameter Penggunaan
+InformationToFindParameters=Bantuan untuk Mendapatkan Maklumat Akaun %s Anda
+STRIPE_CGI_URL_V2=URL Modul CGI Stripe untuk Pembayaran
+CSSUrlForPaymentForm=URL Helaian Gaya CSS untuk Borang Pembayaran
+NewStripePaymentReceived=Pembayaran Stripe Baru Diterima
+NewStripePaymentFailed=Percubaan Pembayaran Stripe Baru Gagal
+FailedToChargeCard=Gagal Mengenakan Caj pada Kad
+FailedToChargeSEPA=Gagal Mengenakan Caj SEPA
+STRIPE_TEST_SECRET_KEY=Kekunci Rahsia Ujian
+STRIPE_TEST_PUBLISHABLE_KEY=Kekunci Ujian Boleh Terbit
+STRIPE_TEST_WEBHOOK_KEY=Kekunci Webhook Ujian
+STRIPE_LIVE_SECRET_KEY=Kekunci Rahsia Langsung
+STRIPE_LIVE_PUBLISHABLE_KEY=Kekunci Langsung Boleh Terbit
+STRIPE_LIVE_WEBHOOK_KEY=Kekunci Webhook Langsung
+ONLINE_PAYMENT_WAREHOUSE=Stor yang digunakan untuk pengurangan stok apabila pembayaran dalam talian dibuat<br>(TODO Apabila pilihan pengurangan stok dilaksanakan melalui tindakan pada invois dan pembayaran dalam talian menjana invois tersebut?)
+StripeLiveEnabled=Mod Langsung Stripe Diaktifkan (jika tidak, mod ujian/sandbox digunakan)
+StripeImportPayment=Import Pembayaran Stripe
+ExampleOfTestCreditCard=Contoh kad kredit untuk pembayaran ujian: %s => sah, %s => ralat CVC, %s => tamat tempoh, %s => caj gagal
+ExampleOfTestBankAcountForSEPA=Contoh akaun bank IBAN untuk ujian debit langsung: %s
+StripeGateways=Gerbang Stripe
+OAUTH_STRIPE_TEST_ID=ID Klien Stripe Connect (ca_...)
+
+# Sprint 22J manual review 13B — keys 51-100
+OAUTH_STRIPE_LIVE_ID=ID Klien Stripe Connect (ca_...)
+BankAccountForBankTransfer=Akaun Bank untuk Bayaran Keluar Dana
+StripeChargeList=Senarai Caj Stripe
+StripeTransactionList=Senarai Transaksi Stripe
+StripeCustomerId=ID Pelanggan Stripe
+StripePaymentId=ID Pembayaran Stripe
+StripePaymentModes=Kaedah Pembayaran Stripe
+LocalID=ID Tempatan
+StripeID=ID Stripe
+NameOnCard=Nama pada Kad
+ExpiryDate=Tarikh Luput
+CVN=CVN
+DeleteACard=Hapus Kad
+ConfirmDeleteCard=Adakah anda pasti mahu menghapuskan kad kredit atau debit ini?
+CreateCustomerOnStripe=Cipta Pelanggan pada Stripe
+CreateCardOnStripe=Cipta Kad pada Stripe
+CreateBANOnStripe=Cipta Akaun Bank pada Stripe
+ShowInStripe=Paparkan dalam Stripe
+StripeUserAccountForActions=Akaun pengguna untuk pemberitahuan e-mel bagi peristiwa Stripe tertentu seperti bayaran keluar Stripe
+StripePayoutList=Senarai Bayaran Keluar Stripe
+ToOfferALinkForTestWebhook=Pautan untuk menetapkan Webhook Stripe supaya memanggil IPN dalam mod ujian
+ToOfferALinkForLiveWebhook=Pautan untuk menetapkan Webhook Stripe supaya memanggil IPN dalam mod langsung
+PaymentWillBeRecordedForNextPeriod=Pembayaran akan direkodkan untuk tempoh seterusnya.
+ClickHereToTryAgain=<a href="%s">Klik di sini untuk mencuba semula...</a>
+CreationOfPaymentModeMustBeDoneFromStripeInterface=Disebabkan peraturan Pengesahan Pelanggan Kukuh, penciptaan kad mesti dilakukan melalui antara muka pentadbiran Stripe. Anda boleh klik di sini untuk membuka rekod pelanggan Stripe: %s
+STRIPE_CARD_PRESENT=Kad Fizikal untuk Terminal Stripe
+TERMINAL_LOCATION=Lokasi (alamat) bagi Terminal Stripe
+RequestDirectDebitWithStripe=Mohon Debit Langsung SEPA melalui Stripe
+RequesCreditTransferWithStripe=Buat Pindahan Kredit SEPA melalui Stripe
+STRIPE_SEPA_DIRECT_DEBIT=Aktifkan Pembayaran Debit Langsung SEPA melalui Stripe
+STRIPE_SEPA_CREDIT_TRANSFER=Aktifkan Pembayaran Pindahan Kredit SEPA melalui Stripe
+STRIPE_KLARNA=Aktifkan Pembayaran menggunakan Klarna
+STRIPE_BANCONTACT=Aktifkan Pembayaran menggunakan BANCONTACT
+STRIPE_IDEAL=Aktifkan Pembayaran menggunakan IDEAL
+STRIPE_GIROPAY=Aktifkan Pembayaran menggunakan GIROPAY
+STRIPE_SOFORT=Aktifkan Pembayaran menggunakan SOFORT
+StripeConnect_Mode=Mod Stripe Connect
+ExampleOnlyForBECustomers=Hanya untuk Pelanggan Belgium
+ExampleOnlyForDECustomers=Hanya untuk Pelanggan Jerman
+ExampleOnlyForNLCustomers=Hanya untuk Pelanggan Belanda
+ExampleOnlyForATBEDEITNLESCustomers=Hanya untuk pelanggan dari Austria, Belgium, Jerman, Itali, Belanda dan Sepanyol
+ListOfSupportedHooksToActivate=Senarai Hook Disokong untuk Diaktifkan
+PayBoxSetup=Tetapan Modul PayBox
+PayBoxDesc=Modul ini menyediakan halaman untuk membolehkan pelanggan membuat pembayaran melalui <a href="https://www.paybox.com" target="_blank" rel="noopener noreferrer external">Paybox</a>. Kemudahan ini boleh digunakan untuk pembayaran bebas atau pembayaran bagi objek Dolibarr tertentu seperti invois atau pesanan.
+PayBoxDoPayment=Bayar dengan Paybox
+YouWillBeRedirectedOnPayBox=Anda akan dialihkan ke halaman Paybox yang selamat untuk memasukkan maklumat kad kredit anda
+SetupPayBoxToHavePaymentCreatedAutomatically=Tetapkan Paybox anda menggunakan URL <b>%s</b> supaya pembayaran dicipta secara automatik setelah disahkan oleh Paybox.
+YourPaymentHasBeenRecorded=Halaman ini mengesahkan bahawa pembayaran anda telah direkodkan. Terima kasih.
+YourPaymentHasNotBeenRecorded=Pembayaran anda TIDAK direkodkan dan transaksi telah dibatalkan. Terima kasih.
+PAYBOX_CGI_URL_V2=URL Modul CGI Paybox untuk Pembayaran
+
+# Sprint 22J manual review 13C — keys 101-107
+NewPayboxPaymentReceived=Pembayaran Paybox Baru Diterima
+NewPayboxPaymentFailed=Percubaan Pembayaran Paybox Baru Gagal
+PAYBOX_PAYONLINE_SENDEMAIL=Pemberitahuan E-mel Selepas Percubaan Pembayaran (berjaya atau gagal)
+PAYBOX_PBX_SITE=Nilai bagi PBX SITE
+PAYBOX_PBX_RANG=Nilai bagi PBX Rang
+PAYBOX_PBX_IDENTIFIANT=Nilai bagi ID PBX
+PAYBOX_HMAC_KEY=Kekunci HMAC
