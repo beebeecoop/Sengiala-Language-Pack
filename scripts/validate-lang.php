@@ -55,7 +55,7 @@ foreach (array_slice($argv, 1) as $path) {
             continue;
         }
 
-        if (!preg_match('/^[A-Za-z0-9_.-]+$/', $key)) {
+        if (!preg_match('/^[A-Za-z0-9_.\/-]+$/', $key)) {
             $fileErrors[] = "line {$lineNumber}: invalid key '{$key}'";
         }
 
