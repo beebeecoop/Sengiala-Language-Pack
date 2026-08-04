@@ -1,0 +1,44 @@
+# Dolibarr language file - ms_MY
+# Sprint 22U manual review 24A
+
+DATAPOLICY_date=Tarikh Persetujuan/Penolakan GDPR
+DATAPOLICY_TIERS_FOURNISSEUR=Pembekal
+DATAPOLICY_TIERS_NIPROSPECT_NICLIENT=Bukan Prospek/Bukan Pelanggan
+SendAgreementText=Anda boleh menghantar e-mel GDPR kepada semua kenalan berkaitan yang belum menerima e-mel dan yang belum mempunyai rekod persetujuan GDPR. Untuk berbuat demikian, gunakan butang berikut.
+NUMBER_MONTH_BEFORE_DELETION=Bilangan Bulan Sebelum Penghapusan
+DATAPOLICY_BLOCKCHECKBOX=GDPR: Pemprosesan Data Peribadi
+DATAPOLICY_CONTACT_FOURNISSEUR=Pembekal
+DATAPOLICY_Tooltip_SETUP=Penyahnamaan dilakukan oleh tugasan berjadual "%s" yang dijalankan oleh modul "%s". Oleh itu, modul tersebut mesti didayakan dan berfungsi dengan betul.
+DelayForDeletion=Tempoh Sebelum Penghapusan
+DATAPOLICY_send=Tarikh E-mel Persetujuan Dihantar
+DATAPOLICY_opposition_traitement=Membantah pemprosesan data peribadinya
+QualifiedNumber=Bilangan Rekod Layak
+DATAPOLICY_RECRUITMENT_CANDIDATURE=Permohonan
+AllAgreementSend=Semua e-mel telah dihantar
+DATAPOLICY_TIERS_CLIENT=Pelanggan
+NB_MONTHS=%s bulan
+DATAPOLICY_TIERS_PROSPECT_CLIENT=Prospek/Pelanggan
+datapolicySetup=Tetapan Modul Dasar Privasi Data
+DataDeletion=Penghapusan Data
+MailSent=E-mel telah dihantar
+DATAPOLICY_CONTACT_NIPROSPECT_NICLIENT=Bukan Prospek/Bukan Pelanggan
+SendAgreement=Hantar E-mel
+DATAPOLICY_ADHERENT=Anggota
+TheFollowingFieldsAreReplaceWith=Beberapa medan akan digantikan dengan nilai unik:
+DataAnonymizationOrDeletion=Penyahnamaan atau Penghapusan Data
+DATAPOLICY_CONTACT_CLIENT=Pelanggan
+ONE_YEAR=1 tahun
+Module4100Desc=Modul untuk mengurus Privasi Data dan pematuhan GDPR
+DATAPOLICY_CONTACT_PROSPECT=Prospek
+OtherFieldsAreReplaceWithStaticValues=Beberapa medan lain digantikan dengan nilai tetap:
+TXTLINKDATAPOLICYACCEPT=Teks untuk pautan "persetujuan"
+DATAPOLICY_consentement=Persetujuan diperoleh untuk pemprosesan data peribadi
+TXTLINKDATAPOLICYREFUSE=Teks untuk pautan "penolakan"
+Module4100Name=Dasar Privasi Data
+datapolicySetupPage=Bergantung pada undang-undang negara anda, contohnya <a href="http://www.privacy-regulation.eu/en/5.htm" target="_blank" rel="noopener noreferrer external">Perkara 5</a> GDPR, data peribadi mesti disimpan tidak melebihi tempoh yang diperlukan bagi tujuan data tersebut dikumpulkan, kecuali untuk tujuan arkib.<br>Modul ini akan melakukan penyahnamaan secara automatik selepas tempoh tertentu tanpa sebarang aktiviti, berdasarkan tempoh yang anda tetapkan di bawah, dan jika objek tersebut tidak mempunyai objek perniagaan turunan yang masih wujud.
+DATAPOLICY_CONTACT_PROSPECT_CLIENT=Prospek/Pelanggan
+DATAPOLICY_opposition_prospection=Membantah pemprosesan data peribadinya bagi tujuan pencarian prospek
+DataAnonymization=Penyahnamaan Data
+DelayForAnonymization=Tempoh Sebelum Penyahnamaan
+DATAPOLICY_TIERS_PROSPECT=Prospek
+NB_YEARS=%s tahun
