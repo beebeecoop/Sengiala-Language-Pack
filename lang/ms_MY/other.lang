@@ -148,7 +148,7 @@ PredefinedMailContentSendReception=__(Hello)__\n\nSila lihat penerimaan __REF__ 
 PredefinedMailContentSendFichInter=__(Hello)__\n\nSila lihat intervensi __REF__ yang dilampirkan.\n\n\n__(Sincerely)__\n\n__SENDEREMAIL_SIGNATURE__
 PredefinedMailContentLink=Anda boleh mengklik pautan di bawah untuk membuat pembayaran sekiranya belum dilakukan.\n\n%s\n\n
 PredefinedMailContentGeneric=__(Hello)__\n\n\n__(Sincerely)__\n\n__SENDEREMAIL_SIGNATURE__
-PredefinedMailContentSendActionComm=Peringatan acara "__EVENT_LABEL__" pada __EVENT_DATE__ pukul __EVENT_TIME__<br><br>Ini ialah mesej automatik. Sila jangan balas.
+PredefinedMailContentSendActionComm=Peringatan perkara "__EVENT_LABEL__" pada __EVENT_DATE__ pukul __EVENT_TIME__<br><br>Ini ialah mesej automatik. Sila jangan balas.
 DemoDesc=Dolibarr ialah ERP/CRM padat yang menyokong pelbagai modul perniagaan. Demonstrasi yang memaparkan semua modul tidak praktikal kerana senario tersebut tidak pernah berlaku dan terdapat beberapa ratus modul tersedia. Oleh itu, beberapa profil demonstrasi disediakan.
 DemoDesc2=Ini ialah demonstrasi kongsi yang terhad. Anda mungkin lebih sesuai menguji pada pemasangan khusus anda sendiri dengan capaian pentadbir penuh. Untuk berbuat demikian, <a href="%s" target="_blank">pergi ke sini <span class="fas fa-external-link-alt"></span></a>.
 ChooseYourDemoProfil=Pilih profil demonstrasi yang paling sesuai dengan keperluan anda...
