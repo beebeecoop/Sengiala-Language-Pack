@@ -1,0 +1,46 @@
+# Dolibarr language file - ms_MY
+# Sprint 22S manual review 22A
+
+MultiCurrency=Pelbagai Mata Wang
+ErrorAddRateFail=Ralat semasa menambah kadar
+ErrorAddCurrencyFail=Ralat semasa menambah mata wang
+ErrorDeleteCurrencyFail=Ralat semasa menghapuskan mata wang
+multicurrency_syncronize_error=Ralat penyegerakan: %s
+MULTICURRENCY_USE_RATE_ON_DOCUMENT_DATE=Gunakan tarikh dokumen untuk mendapatkan kadar mata wang, bukan kadar terkini yang diketahui
+multicurrency_useOriginTx=Apabila objek dicipta daripada objek lain, kekalkan kadar asal daripada objek sumber; jika tidak, gunakan kadar terkini yang diketahui
+multicurrency_useOriginTxHelp=Pilihan ini tidak terpakai bagi penciptaan invois daripada invois berulang
+CurrencyLayerAccount=API CurrencyLayer
+CurrencyLayerAccount_help_to_synchronize=Anda mesti mencipta akaun di laman web %s untuk menggunakan fungsi ini.<br>Dapatkan <b>kunci API</b> anda.<br>Jika anda menggunakan akaun percuma, anda tidak boleh menukar <b>mata wang sumber</b> (USD secara lalai).<br>Jika mata wang utama anda bukan USD, aplikasi akan mengiranya semula secara automatik.<br><br>Anda dihadkan kepada 1000 penyegerakan sebulan.
+multicurrency_appId=Kunci API
+multicurrency_appCurrencySource=Mata Wang Sumber
+multicurrency_alternateCurrencySource=Mata Wang Sumber Alternatif
+CurrenciesUsed=Mata Wang yang Digunakan
+CurrenciesUsed_help_to_add=Tambah mata wang dan kadar berbeza yang perlu digunakan pada <b>sebut harga</b>, <b>pesanan</b> dan dokumen lain.
+rate=kadar
+MulticurrencyReceived=Diterima, Mata Wang Asal
+MulticurrencyRemainderToTake=Baki Jumlah, Mata Wang Asal
+AmountToOthercurrency=Jumlah Masuk (dalam Mata Wang Akaun Penerima)
+CurrencyRateSyncSucceed=Penyegerakan kadar mata wang berjaya diselesaikan
+MULTICURRENCY_USE_CURRENCY_ON_DOCUMENT=Gunakan mata wang dokumen untuk pembayaran dalam talian
+TabTitleMulticurrencyRate=Senarai Kadar
+ListCurrencyRate=Senarai Kadar Pertukaran Mata Wang
+CreateRate=Cipta Kadar
+FormCreateRate=Penciptaan Kadar
+FormUpdateRate=Pengubahsuaian Kadar
+successRateCreate=Kadar bagi mata wang %s telah ditambah ke dalam Pangkalan Data
+ConfirmDeleteLineRate=Adakah anda pasti mahu mengalih keluar kadar %s bagi mata wang %s pada tarikh %s?
+DeleteLineRate=Kosongkan Kadar
+successRateDelete=Kadar telah dihapuskan
+errorRateDelete=Ralat semasa menghapuskan kadar
+successUpdateRate=Pengubahsuaian berjaya dibuat
+ErrorUpdateRate=Ralat semasa menukar kadar
+Codemulticurrency=Kod Mata Wang
+UpdateRate=Tukar Kadar
+CancelUpdate=Batal
+NoEmptyRate=Medan kadar tidak boleh kosong
+CurrencyCodeId=ID Mata Wang
+CurrencyCode=Kod Mata Wang
+CurrencyUnitPrice=Harga Unit dalam Mata Wang Asing
+CurrencyPrice=Harga dalam Mata Wang Asing
+MutltiCurrencyAutoUpdateCurrencies=Kemas Kini Semua Kadar Mata Wang
+MulticurrencyOriginalCurrency=Mata Wang Asal
