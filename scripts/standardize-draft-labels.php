@@ -44,7 +44,7 @@ $replacements = [
 
 $files = glob($root . DIRECTORY_SEPARATOR . '*.lang') ?: [];
 $total = 0;
-$changedFiles = 0;
+$matchedFiles = [];
 $errors = [];
 
 foreach ($files as $file) {
@@ -85,6 +85,7 @@ foreach ($files as $file) {
         }
 
         $total++;
+        $matchedFiles[$file] = true;
         $relative = str_replace(dirname(__DIR__) . DIRECTORY_SEPARATOR, '', $file);
         echo sprintf("%s:%d %s: %s -> %s\n", $relative, $index + 1, $key, $expectedOld, $expectedNew);
 
@@ -98,8 +99,6 @@ foreach ($files as $file) {
         $content = implode(PHP_EOL, $lines) . PHP_EOL;
         if (file_put_contents($file, $content) === false) {
             $errors[] = "Unable to write {$file}";
-        } else {
-            $changedFiles++;
         }
     }
 }
@@ -112,9 +111,11 @@ if ($errors !== []) {
 }
 
 $verb = $mode === '--apply' ? 'APPLIED' : 'FOUND';
-echo sprintf("\n%s: %d draft label correction(s) across %d file(s).\n", $verb, $total, $mode === '--apply' ? $changedFiles : count(array_unique(array_map(
-    static fn(string $line): string => strtok($line, ':'),
-    []
-))));
+echo sprintf(
+    "\n%s: %d draft label correction(s) across %d file(s).\n",
+    $verb,
+    $total,
+    count($matchedFiles)
+);
 
 exit(0);
