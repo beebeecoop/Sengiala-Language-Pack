@@ -1,0 +1,40 @@
+# Dolibarr language file - ms_MY
+# Sprint 22AJ manual review 39A
+
+NoResourceInDatabase=Tiada sumber dalam pangkalan data.
+AddResource=Cipta sumber
+ShowResource=Papar sumber
+ResourceFormLabel_description=Penerangan sumber
+NoResourceLinked=Tiada sumber dipautkan
+RessourceLineSuccessfullyDeleted=Baris sumber berjaya dihapuskan
+ResourcesLinkedToElement=Sumber dipautkan kepada elemen
+DictionaryResourceType=Jenis sumber
+MenuResourceAdd=Sumber baru
+IdResource=ID sumber
+ResourceCreatedWithSuccess=Sumber berjaya dicipta
+ResourcePageIndex=Senarai sumber
+ConfirmDeleteResourceElement=Sahkan penghapusan sumber bagi elemen ini
+ErrorResourceUseInEvent=%s digunakan dalam perkara %s
+AssetNumber=Nombor siri
+ConfirmDeleteResource=Sahkan untuk menghapuskan sumber ini
+RessourceLineSuccessfullyUpdated=Baris sumber berjaya dikemas kini
+ResourceElementPage=Sumber elemen
+ResourceTypeLabel=Label jenis sumber
+NewResource=Sumber baru
+RessourceSuccessfullyDeleted=Sumber berjaya dihapuskan
+MaxUsers=Bilangan maksimum pengguna
+ImportDataset_resource_1=Sumber
+MaxUsersResourceDesc=Jika sumber boleh digunakan oleh beberapa orang pada masa yang sama seperti kereta atau bilik, masukkan bilangan maksimum pengguna yang dibenarkan menggunakannya serentak, seperti bilangan tempat duduk atau ruang.
+ResourceFormLabel_ref=Nama sumber
+ActionsOnResource=Perkara berkaitan sumber ini
+ResourceTypeID=ID jenis sumber
+MaxUsersLabel=Pengguna maksimum
+ResourceCard=Kad sumber
+DeleteResource=Hapus sumber
+SelectResource=Pilih sumber
+MenuResourceIndex=Sumber
+ResourceType=Jenis sumber
+ErrorResourcesAlreadyInUse=Sesetengah sumber sedang digunakan
+ResourceSingular=Sumber
+ResourceLinkedWithSuccess=Sumber berjaya dipautkan
+ResourceTypeCode=Kod jenis sumber
