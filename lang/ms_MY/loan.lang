@@ -12,7 +12,7 @@ LoanLabel=Label Pinjaman
 LoanDescription=Keterangan Pinjaman
 LoanStatus=Status Pinjaman
 
-NewLoan=Pinjaman Baharu
+NewLoan=Pinjaman Baru
 CreateLoan=Cipta Pinjaman
 AddLoan=Tambah Pinjaman
 EditLoan=Sunting Pinjaman

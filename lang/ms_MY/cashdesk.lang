@@ -18,7 +18,7 @@ CashRegisters=Daftar Tunai
 Register=Daftar
 Registers=Daftar
 
-NewCashDesk=Kaunter Jualan Baharu
+NewCashDesk=Kaunter Jualan Baru
 CreateCashDesk=Cipta Kaunter Jualan
 AddCashDesk=Tambah Kaunter Jualan
 EditCashDesk=Sunting Kaunter Jualan
@@ -37,7 +37,7 @@ CashDeskClosed=Kaunter Jualan Telah Ditutup
 
 Sale=Jualan
 Sales=Jualan
-NewSale=Jualan Baharu
+NewSale=Jualan Baru
 CreateSale=Cipta Jualan
 AddSale=Tambah Jualan
 CancelSale=Batal Jualan

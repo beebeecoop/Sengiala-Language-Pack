@@ -9,7 +9,7 @@ NotificationSetup=Tetapan Pemberitahuan
 NotificationSettings=Tetapan Pemberitahuan
 NotificationConfiguration=Konfigurasi Pemberitahuan
 
-NewNotification=Pemberitahuan Baharu
+NewNotification=Pemberitahuan Baru
 CreateNotification=Cipta Pemberitahuan
 AddNotification=Tambah Pemberitahuan
 EditNotification=Sunting Pemberitahuan
@@ -28,7 +28,7 @@ NotificationFailed=Pemberitahuan Gagal Dihantar
 
 Alert=Amaran
 Alerts=Amaran
-NewAlert=Amaran Baharu
+NewAlert=Amaran Baru
 CreateAlert=Cipta Amaran
 AddAlert=Tambah Amaran
 EditAlert=Sunting Amaran
@@ -38,7 +38,7 @@ AlertSent=Amaran Telah Dihantar
 
 Reminder=Peringatan
 Reminders=Peringatan
-NewReminder=Peringatan Baharu
+NewReminder=Peringatan Baru
 CreateReminder=Cipta Peringatan
 AddReminder=Tambah Peringatan
 EditReminder=Sunting Peringatan

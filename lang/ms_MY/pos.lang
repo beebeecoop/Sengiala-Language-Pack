@@ -19,7 +19,7 @@ CashRegisters=Daftar Tunai
 Register=Daftar
 Registers=Daftar
 
-NewPOS=POS Baharu
+NewPOS=POS Baru
 CreatePOS=Cipta POS
 AddPOS=Tambah POS
 EditPOS=Sunting POS
@@ -38,7 +38,7 @@ POSClosed=POS Telah Ditutup
 
 Sale=Jualan
 Sales=Jualan
-NewSale=Jualan Baharu
+NewSale=Jualan Baru
 CreateSale=Cipta Jualan
 AddSale=Tambah Jualan
 EditSale=Sunting Jualan

@@ -12,7 +12,7 @@ ImportProcess=Proses Import
 ImportResult=Keputusan Import
 ImportStatus=Status Import
 
-NewImport=Import Baharu
+NewImport=Import Baru
 CreateImport=Cipta Import
 StartImport=Mulakan Import
 RunImport=Jalankan Import
