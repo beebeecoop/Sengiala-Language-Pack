@@ -5,6 +5,7 @@ COOP-003,Share Capital,Modal Syer,Cooperative Finance,Capital contributed throug
 COOP-004,Bonus Share,Syer Bonus,Cooperative Finance,Additional cooperative share credited as bonus,approved,Saham Bonus; Bonus Share,None without approved exception,QLC-002
 COOP-005,Patronage Rebate,Potongan Langganan,Cooperative Finance,Member benefit distributed according to patronage transactions,approved,Rebat Patronaj; Rebat Langganan,None without approved exception,QLC-002
 COOP-006,Patronage Bonus,Bonus Langganan,Cooperative Finance,Bonus linked to member patronage activity,approved,Bonus Patronaj,None without approved exception,QLC-002
+COOP-007,Excluded members,Anggota Ditolak,Cooperative Membership,Members excluded or rejected by the applicable membership administration process,conditional,Ahli Ditolak; Anggota Dikecualikan,Use another term only when source means temporary filter omission rather than a membership decision,QLC-002-AMD-001
 FIN-001,Balance Sheet,Kunci Kira-Kira,Accounting,Statement of financial position in Malaysian accounting usage,approved,Lembaran Imbangan; Balance Sheet,None without approved accounting decision,QLC-002
 FIN-002,Appropriation,Pembahagian Keuntungan,Cooperative Accounting,Allocation of cooperative surplus or profit after determination,conditional,Peruntukan; Apropriasi,Use Peruntukan only when source means budget allocation rather than profit appropriation,QLC-002
 FIN-003,Account,Akaun,Accounting,Financial ledger or account concept,conditional,Kiraan,Use another term only where source means user account or customer relationship account,QLC-002
@@ -24,6 +25,7 @@ HR-002,Staff,Pekerja,Human Resources,Employees or workforce in organisational co
 DOC-001,Draft,Draf,Workflow,Document or transaction state before validation,approved,Draft,None without approved exception,QLC-002
 DOC-002,Validated,Disahkan,Workflow,State indicating formal validation,approved,Divolidasi; Valid,None without approved exception,QLC-002
 DOC-003,Cancelled,Dibatalkan,Workflow,State indicating cancellation,approved,Dibatal,None without approved exception,QLC-002
+DOC-004,Draft compound label,Draf + Kata Nama,Document Label,Compound label naming a draft document or transaction object,approved,Kata Nama + Draf,Use another order only where draf has a different grammatical role in a complete sentence,QLC-002-AMD-001
 UI-001,Save,Simpan,Interface Action,Action that persists entered data,approved,Simpan Data,None without approved exception,QLC-002
 UI-002,Delete,Hapus,Interface Action,Action that removes a record or file,conditional,Padam,Use Padam only where established UI context requires it and consistency is maintained,QLC-002
 UI-003,Search,Cari,Interface Action,Action that initiates a search,approved,Carian,Use Carian only as a noun label,QLC-002
@@ -31,6 +33,7 @@ UI-004,Print,Cetak,Interface Action,Action that prints or generates printable ou
 UI-005,Share,Kongsi,Interface Action,Action that shares content with others,conditional,Syer,Use Syer only for cooperative or equity ownership concepts,QLC-002
 UI-006,Order,Pesanan,Commercial,Customer or supplier commercial order,conditional,Arahan; Susunan,Use Arahan for command and Susunan for sort order,QLC-002
 UI-007,Return,Kembali,Navigation,Navigation action to go back,conditional,Pulangan; Pemulangan; Penyata,Select the term matching finance logistics or statutory context,QLC-002
+UI-008,New,Baru,Interface and General,General interface adjective or label indicating a newly created item or action,approved,Baharu,Preserve Baharu only in proper names quoted sources legal titles or externally controlled wording,QLC-002-AMD-001
 PROC-001,Consolidation,Penyatuan,Process and Reporting,Noun describing the process or result of combining records data statements or entities,approved,Konsolidasi,None without approved exception,QLC-002-AMD-001
 PROC-002,Consolidate,Satukan,Interface Action,Imperative action instructing the system or user to combine items into one,approved,Konsolidasikan; Gabungkan,Use Gabungkan only where the runtime concept is ordinary joining rather than formal consolidation,QLC-002-AMD-001
 PROC-003,Consolidated,Disatukan,Process State,Completed state showing that items have already been consolidated,approved,Terkonsolidasi; Digabungkan,Use a different term only where source context represents an ordinary merge rather than consolidation,QLC-002-AMD-001
