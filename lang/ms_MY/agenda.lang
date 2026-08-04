@@ -404,3 +404,5 @@ EventPartOfARecurringSerie=Acara ini adalah sebahagian daripada siri berulang de
 BookCalSystem=Tempahan Dalam Talian
 BookCalInitHelp=Untuk bermula, pergi ke menu untuk mencipta Kalendar Baru dengan ketersediaan...
 PublicLinkForBooking=Pautan Awam untuk Tempahan
+OrderDeleted=Pesanan telah dihapuskan
+InvoiceDeleted=Invois telah dihapuskan
