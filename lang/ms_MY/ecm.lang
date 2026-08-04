@@ -148,10 +148,10 @@ SelectADirectoryInTheTreeDotDotDot=Pilih Direktori dalam Pokok...
 # Sprint 19F - support modules - 2026-08-02
 ECMNbOfDocs=Bil. Dokumen dalam Direktori
 ECMSection=Direktori
-ECMSectionManual=Direktori manual
-ECMSectionAuto=Direktori objek
-ECMSectionsManual=Direktori manual
-ECMSectionsAuto=Direktori objek
+ECMSectionManual=Direktori Manual
+ECMSectionAuto=Direktori Objek
+ECMSectionsManual=Direktori Manual
+ECMSectionsAuto=Direktori Objek
 ECMSectionsMedias=Direktori media awam
 ECMSections=Direktori
 ECMRoot=Akar ECM
