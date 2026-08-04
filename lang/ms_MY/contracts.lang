@@ -25,7 +25,7 @@ CloseContract=Tutup Kontrak
 ReopenContract=Buka Semula Kontrak
 CloneContract=Salin Kontrak
 
-DraftContract=Kontrak Draf
+DraftContract=Draf Kontrak
 ValidatedContract=Kontrak Disahkan
 ActiveContract=Kontrak Aktif
 InactiveContract=Kontrak Tidak Aktif

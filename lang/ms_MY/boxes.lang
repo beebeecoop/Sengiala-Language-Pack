@@ -25,9 +25,9 @@ NoRecordedSupplierOrders=Tiada pesanan pembekal direkodkan
 NoRecordedSupplierInvoices=Tiada invois pembekal direkodkan
 NoProposal=Tiada sebut harga
 OpenCommercialProposals=Sebut Harga Komersial Terbuka
-DraftCommercialProposals=Sebut Harga Komersial Draf
-DraftVendorProposals=Sebut Harga Pembekal Draf
-DraftPurchaseOrders=Pesanan Pembekal Draf
+DraftCommercialProposals=Draf Sebut Harga Komersial
+DraftVendorProposals=Draf Sebut Harga Pembekal
+DraftPurchaseOrders=Draf Pesanan Pembekal
 LatestModifiedProposals=%s sebut harga terakhir diubah
 
 # Sprint 14 - Dashboard Widget Variants
