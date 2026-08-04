@@ -1,0 +1,35 @@
+# Dolibarr language file - ms_MY
+# Sprint 22AK manual review 40A
+
+LDAPFieldLastSubscriptionDate=Tarikh caruman terkini
+SupportedForLDAPExportScriptOnly=Hanya disokong oleh skrip eksport LDAP
+LDAPInformationsForThisMemberType=Maklumat dalam pangkalan data LDAP bagi jenis anggota ini
+LDAPFieldSkypeExample=Contoh: skypeName
+LDAPInformationsForThisContact=Maklumat dalam pangkalan data LDAP bagi kenalan ini
+LDAPFieldStatus=Status
+LDAPPasswordHashTypeExample=Jenis hash kata laluan yang digunakan pada pelayan
+LDAPCard=Kad LDAP
+PasswordOfUserInLDAP=Kata laluan pengguna dalam LDAP
+LDAPRecordNotFound=Rekod tidak ditemukan dalam pangkalan data LDAP
+LDAPAttributes=Atribut LDAP
+MemberSynchronized=Anggota telah disegerakkan
+LDAPUsers=Pengguna dalam pangkalan data LDAP
+LDAPPasswordHashType=Jenis hash kata laluan
+LDAPFieldLastSubscriptionAmount=Jumlah caruman terkini
+ForceSynchronize=Paksa penyegerakan Dolibarr -> LDAP
+LDAPInformationsForThisUser=Maklumat dalam pangkalan data LDAP bagi pengguna ini
+SupportedForLDAPImportScriptOnly=Hanya disokong oleh skrip import LDAP
+ErrorFailedToReadLDAP=Gagal membaca pangkalan data LDAP. Semak tetapan modul LDAP dan kebolehcapaian pangkalan data.
+YouMustChangePassNextLogon=Kata laluan bagi pengguna <b>%s</b> pada domain <b>%s</b> mesti ditukar.
+GroupSynchronized=Kumpulan telah disegerakkan
+MemberTypeSynchronized=Jenis anggota telah disegerakkan
+UserSynchronized=Pengguna telah disegerakkan
+LDAPInformationsForThisGroup=Maklumat dalam pangkalan data LDAP bagi kumpulan ini
+LDAPFieldFirstSubscriptionDate=Tarikh caruman pertama
+LDAPFieldFirstSubscriptionAmount=Jumlah caruman pertama
+LDAPUserAccountControlExample=512 Akaun Biasa / 546 Akaun Biasa + Tiada Kata Laluan + Dinyahdayakan (lihat: https://fr.wikipedia.org/wiki/Active_Directory)
+ContactSynchronized=Kenalan telah disegerakkan
+LDAPFieldSkype=ID Skype
+LDAPUserAccountControl=userAccountControl semasa penciptaan (Active Directory)
+UserMustChangePassNextLogon=Pengguna mesti menukar kata laluan pada domain %s
+LDAPInformationsForThisMember=Maklumat dalam pangkalan data LDAP bagi anggota ini
