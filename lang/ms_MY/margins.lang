@@ -1,0 +1,46 @@
+# Dolibarr language file - ms_MY
+# Sprint 22S manual review 22A
+
+Margin=Margin
+Margins=Margin
+TotalMargin=Jumlah Margin
+MarginOnProducts=Margin / Produk
+MarginOnServices=Margin / Perkhidmatan
+MarginRate=Kadar Margin
+ModifyMarginRates=Ubah Suai Kadar Margin
+MarkRate=Kadar Tokokan
+DisplayMarginRates=Papar Kadar Margin
+DisplayMarkRates=Papar Kadar Tokokan
+InputPrice=Harga Input
+margesSetup=Tetapan Pengurusan Margin Keuntungan
+MarginDetails=Butiran Margin
+ProductMargins=Margin Produk
+CustomerMargins=Margin Pelanggan
+SalesRepresentativeMargins=Margin Wakil Jualan
+ContactOfInvoice=Hubungan Invois
+UserMargins=Margin Pengguna
+ProductService=Produk atau Perkhidmatan
+AllProducts=Semua Produk dan Perkhidmatan
+ChooseProduct/Service=Pilih Produk atau Perkhidmatan
+ForceBuyingPriceIfNull=Tetapkan Harga Belian/Kos kepada Harga Jualan jika tidak ditakrifkan
+ForceBuyingPriceIfNullDetails=Jika Harga Belian/Kos tidak diberikan semasa baris baru ditambah dan pilihan ini "ON", margin bagi baris baru ialah 0%% kerana Harga Belian/Kos sama dengan Harga Jualan. Jika pilihan ini "OFF" seperti yang disyorkan, margin akan menggunakan nilai lalai yang dicadangkan dan mungkin menjadi 100%% jika tiada nilai lalai ditemui.
+MARGIN_METHODE_FOR_DISCOUNT=Kaedah Margin bagi Diskaun Keseluruhan
+UseDiscountAsProduct=Sebagai Produk
+UseDiscountAsService=Sebagai Perkhidmatan
+UseDiscountOnTotal=Pada Subjumlah
+MARGIN_METHODE_FOR_DISCOUNT_DETAILS=Menentukan sama ada Diskaun Keseluruhan dianggap sebagai produk, perkhidmatan atau hanya dikenakan pada subjumlah bagi pengiraan margin.
+MARGIN_TYPE=Harga Belian/Kos Lalai yang Dicadangkan bagi Pengiraan Margin
+MargeType1=Margin berdasarkan Harga Pembekal Terbaik
+MargeType2=Margin berdasarkan Harga Purata Berwajaran (WAP)
+MargeType3=Margin berdasarkan Harga Kos
+MarginTypeDesc=* Margin berdasarkan Harga Belian Terbaik = Harga Jualan - Harga Pembekal Terbaik yang ditakrifkan pada Kad Produk<br>* Margin berdasarkan Harga Purata Berwajaran (WAP) = Harga Jualan - Harga Purata Berwajaran Produk (WAP), atau Harga Pembekal Terbaik jika WAP belum ditakrifkan<br>* Margin berdasarkan Harga Kos = Harga Jualan - Harga Kos yang ditakrifkan pada Kad Produk, atau WAP jika Harga Kos tidak ditakrifkan, atau Harga Pembekal Terbaik jika WAP belum ditakrifkan
+CostPrice=Harga Kos
+UnitCharges=Caj Unit
+Charges=Caj
+AgentContactType=Jenis Hubungan Ejen Komersial
+AgentContactTypeDetails=Tentukan jenis hubungan yang dipautkan pada invois untuk digunakan dalam laporan margin mengikut hubungan/alamat. Statistik berdasarkan hubungan mungkin tidak tepat kerana dalam kebanyakan keadaan hubungan tidak ditakrifkan secara nyata pada invois.
+rateMustBeNumeric=Kadar mestilah nilai angka
+markRateShouldBeLesserThan100=Kadar tokokan mestilah kurang daripada 100
+ShowMarginInfos=Papar Maklumat Margin
+CheckMargins=Butiran Margin
+MarginPerSaleRepresentativeWarning=Laporan margin mengikut pengguna menggunakan pautan antara pihak ketiga dan Wakil Jualan untuk mengira margin setiap Wakil Jualan. Oleh sebab sesetengah pihak ketiga mungkin tidak mempunyai Wakil Jualan khusus dan sesetengah pihak ketiga mungkin dipautkan kepada beberapa Wakil Jualan, sebahagian jumlah mungkin tidak dimasukkan dalam laporan ini jika tiada Wakil Jualan, manakala sebahagian jumlah mungkin dipaparkan pada beberapa baris bagi setiap Wakil Jualan.
