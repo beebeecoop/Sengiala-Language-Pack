@@ -44,7 +44,7 @@ NewCommercialProposal=Sebut Harga Komersial Baru
 OpenPropals=Sebut Harga Terbuka
 OpenProposals=Sebut Harga Terbuka
 DraftPropals=Sebut Harga Draf
-DraftProposals=Sebut Harga Draf
+DraftProposals=Draf Sebut Harga
 Latest3ModifiedProposals=3 Sebut Harga terakhir diubah
 LatestModifiedCommercialProposals=%s Sebut Harga Komersial terakhir diubah
 NoCommercialProposal=Tiada Sebut Harga Komersial
@@ -56,7 +56,7 @@ PropalStatistics=Statistik - Sebut Harga
 
 # Sprint 22E manual review 8C — keys 101-150
 ProposalShort=Sebut Harga Pelanggan
-ProposalsDraft=Sebut Harga Pelanggan Draf
+ProposalsDraft=Draf Sebut Harga Pelanggan
 ProposalsOpened=Sebut Harga Pelanggan Terbuka
 PdfCommercialProposalTitle=Sebut Harga Pelanggan
 ProposalCard=Kad Sebut Harga Pelanggan

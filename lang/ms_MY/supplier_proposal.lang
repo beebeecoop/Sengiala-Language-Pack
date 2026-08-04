@@ -105,7 +105,7 @@ SelectSupplierProposal=Pilih Sebut Harga Pembekal
 VendorProposal=Sebut Harga Pembekal
 VendorProposals=Sebut Harga Pembekal
 NewPriceRequest=Permintaan Harga Baru
-DraftVendorProposals=Sebut Harga Pembekal Draf
+DraftVendorProposals=Draf Sebut Harga Pembekal
 NoProposal=Tiada sebut harga
 ToClose=Perlu Tutup
 
@@ -115,7 +115,7 @@ PriceRequests=Permintaan Harga
 VendorProposalList=Senarai Sebut Harga Pembekal
 VendorProposalsList=Senarai Sebut Harga Pembekal
 OpenVendorProposals=Sebut Harga Pembekal Terbuka
-DraftSupplierProposals=Sebut Harga Pembekal Draf
+DraftSupplierProposals=Draf Sebut Harga Pembekal
 LatestVendorProposals=Sebut Harga Pembekal Terkini
 NoVendorProposal=Tiada sebut harga pembekal
 NoVendorProposals=Tiada sebut harga pembekal

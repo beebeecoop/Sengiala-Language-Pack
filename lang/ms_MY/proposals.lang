@@ -98,7 +98,7 @@ SelectProposal=Pilih Sebut Harga
 # Sprint 14 - Proposal UI Normalisation
 NewCommercialProposal=Sebut Harga Komersial Baru
 OpenCommercialProposals=Sebut Harga Komersial Terbuka
-DraftCommercialProposals=Sebut Harga Komersial Draf
+DraftCommercialProposals=Draf Sebut Harga Komersial
 LatestModifiedProposals=%s sebut harga terakhir diubah
 NoCommercialProposal=Tiada sebut harga komersial
 NoCommercialProposals=Tiada sebut harga komersial
