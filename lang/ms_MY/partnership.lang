@@ -3,7 +3,7 @@
 
 PartnershipCheckBacklink=Perkongsian: Semak pautan balik rujukan
 YourPartnershipCanceledContent=Kami ingin memaklumkan bahawa perkongsian kita telah dibatalkan. Sila hubungi kami jika anda memerlukan maklumat lanjut.
-PARTNERSHIP_BACKLINKS_TO_CHECK=Pautan Balik untuk Disemak
+PARTNERSHIP_BACKLINKS_TO_CHECK=Pautan Balik Perlu Disemak
 YourPartnershipAcceptedTopic=Perkongsian diterima
 partnershipforthirdpartyormember=Status rakan kongsi mesti ditetapkan pada 'pihak ketiga' atau 'anggota'
 DatePartnershipStart=Tarikh Mula
@@ -31,7 +31,7 @@ ReferingWebsiteCheck=Semakan laman web rujukan
 CountLastUrlCheckError=Bilangan ralat bagi semakan URL terakhir
 NewPartnershipbyWeb=Permintaan perkongsian anda berjaya ditambah. Kami mungkin akan menghubungi anda tidak lama lagi...
 YourPartnershipWillSoonBeCanceledContent=Kami ingin memaklumkan bahawa perkongsian kita akan dibatalkan tidak lama lagi kerana pembaharuan belum diterima atau prasyarat perkongsian belum dipenuhi. Sila hubungi kami jika anda menerima makluman ini kerana kesilapan.
-PartnershipToReopen=Untuk Dibuka Semula
+PartnershipToReopen=Perlu Dibuka Semula
 PartnershipSetup=Tetapan Perkongsian
 Partnership=Perkongsian
 YourPartnershipRefusedTopic=Perkongsian ditolak
