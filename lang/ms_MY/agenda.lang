@@ -3,32 +3,32 @@
 # Encoding: UTF-8
 
 Agenda=Agenda
-Event=Acara
-Events=Acara
+Event=Perkara
+Events=Perkara
 Action=Tindakan
 Actions=Tindakan
 ActionCard=Kad Tindakan
 ActionList=Senarai Tindakan
-EventCard=Kad Acara
-EventList=Senarai Acara
+EventCard=Kad Perkara
+EventList=Senarai Perkara
 
-NewEvent=Acara Baharu
-CreateEvent=Cipta Acara
-AddEvent=Tambah Acara
-EditEvent=Sunting Acara
-ModifyEvent=Ubah Acara
-DeleteEvent=Hapus Acara
-ValidateEvent=Sahkan Acara
-CloseEvent=Tutup Acara
-ReopenEvent=Buka Semula Acara
-CancelEvent=Batalkan Acara
+NewEvent=Perkara Baru
+CreateEvent=Cipta Perkara
+AddEvent=Tambah Perkara
+EditEvent=Sunting Perkara
+ModifyEvent=Ubah Perkara
+DeleteEvent=Hapus Perkara
+ValidateEvent=Sahkan Perkara
+CloseEvent=Tutup Perkara
+ReopenEvent=Buka Semula Perkara
+CancelEvent=Batalkan Perkara
 
-EventCreated=Acara Telah Dicipta
-EventModified=Acara Telah Diubah
-EventValidated=Acara Telah Disahkan
-EventDeleted=Acara Telah Dihapuskan
-EventClosed=Acara Telah Ditutup
-EventCanceled=Acara Telah Dibatalkan
+EventCreated=Perkara Telah Dicipta
+EventModified=Perkara Telah Diubah
+EventValidated=Perkara Telah Disahkan
+EventDeleted=Perkara Telah Dihapuskan
+EventClosed=Perkara Telah Ditutup
+EventCanceled=Perkara Telah Dibatalkan
 
 ActionCreated=Tindakan Telah Dicipta
 ActionModified=Tindakan Telah Diubah
@@ -53,7 +53,7 @@ Reminders=Peringatan
 AddReminder=Tambah Peringatan
 ReminderDate=Tarikh Peringatan
 ReminderTime=Masa Peringatan
-ReminderBeforeEvent=Peringatan Sebelum Acara
+ReminderBeforeEvent=Peringatan Sebelum Perkara
 ReminderSent=Peringatan Telah Dihantar
 
 Notification=Pemberitahuan
@@ -135,8 +135,8 @@ Today=Hari Ini
 Tomorrow=Esok
 Yesterday=Semalam
 
-RecurringEvent=Acara Berulang
-RecurringEvents=Acara Berulang
+RecurringEvent=Perkara Berulang
+RecurringEvents=Perkara Berulang
 Recurrence=Pengulangan
 Repeat=Ulang
 RepeatEvery=Ulang Setiap
@@ -145,15 +145,15 @@ Weekly=Mingguan
 Monthly=Bulanan
 Yearly=Tahunan
 
-PublicEvent=Acara Awam
-PrivateEvent=Acara Peribadi
-InternalEvent=Acara Dalaman
-ExternalEvent=Acara Luaran
+PublicEvent=Perkara Awam
+PrivateEvent=Perkara Peribadi
+InternalEvent=Perkara Dalaman
+ExternalEvent=Perkara Luaran
 
-NoEvent=Tiada Acara
-NoEventFound=Tiada Acara Dijumpai
-SearchEvent=Cari Acara
-SelectEvent=Pilih Acara
+NoEvent=Tiada Perkara
+NoEventFound=Tiada Perkara Dijumpai
+SearchEvent=Cari Perkara
+SelectEvent=Pilih Perkara
 NoAction=Tiada Tindakan
 NoActionFound=Tiada Tindakan Dijumpai
 SearchAction=Cari Tindakan
@@ -165,19 +165,19 @@ AgendaOverview=Gambaran Keseluruhan Agenda
 AgendaArea=Ruang Agenda
 AgendaModule=Modul Agenda
 AgendaManagement=Pengurusan Agenda
-EventDashboard=Papan Pemuka Acara
-EventOverview=Gambaran Keseluruhan Acara
-EventManagement=Pengurusan Acara
+EventDashboard=Papan Pemuka Perkara
+EventOverview=Gambaran Keseluruhan Perkara
+EventManagement=Pengurusan Perkara
 TaskDashboard=Papan Pemuka Tugasan
 TaskOverview=Gambaran Keseluruhan Tugasan
 TaskManagement=Pengurusan Tugasan
 ToDo=Perlu Buat
 TasksToDo=Tugasan Perlu Buat
 ActionsToDo=Tindakan Perlu Buat
-UpcomingEvents=Acara Akan Datang
+UpcomingEvents=Perkara Akan Datang
 UpcomingMeetings=Mesyuarat Akan Datang
 UpcomingAppointments=Janji Temu Akan Datang
-TodayEvents=Acara Hari Ini
+TodayEvents=Perkara Hari Ini
 TodayTasks=Tugasan Hari Ini
 OverdueTasks=Tugasan Tertunggak
 ReminderDashboard=Papan Pemuka Peringatan
@@ -185,10 +185,10 @@ NotificationDashboard=Papan Pemuka Pemberitahuan
 CalendarDashboard=Papan Pemuka Kalendar
 
 # Sprint 15 - Agenda Real Screen Labels
-MyIncompleteEvents=Acara belum lengkap saya
-MyTerminatedEvents=Acara tamat saya
-AllIncompleteEvents=Semua acara belum lengkap
-AllTerminatedEvents=Semua acara tamat
+MyIncompleteEvents=Perkara belum lengkap saya
+MyTerminatedEvents=Perkara tamat saya
+AllIncompleteEvents=Semua perkara belum lengkap
+AllTerminatedEvents=Semua perkara tamat
 BirthdaysOfContacts=Hari lahir kenalan
 DefaultCalendar=Kalendar lalai
 PerUserView=Paparan Mengikut Pengguna
@@ -201,27 +201,27 @@ SuperAdmin=SuperAdmin
 Reporting=Pelaporan
 
 # Reviewed Excel Translation Import - 2026-08-02
-IdAgenda=ID Acara
-AgendaEvents=Acara Agenda
+IdAgenda=ID Perkara
+AgendaEvents=Perkara Agenda
 TMenuAgenda=Agenda
 Agendas=Agenda
 LocalAgenda=Kalendar Lalai
-ActionsOwnedBy=Acara Dimiliki Oleh
+ActionsOwnedBy=Perkara Dimiliki Oleh
 ActionsOwnedByShort=Pemilik
 AffectedTo=Ditugaskan Kepada
-EventsNb=Bilangan Acara
-ListOfActions=Senarai Acara
-EventReports=Laporan Acara
-ToUserOfGroup=Acara Ditugaskan kepada Mana-mana Pengguna dalam Kumpulan
-EventOnFullDay=Acara Sepanjang Hari
-MenuToDoActions=Semua Acara yang Belum Siap
-MenuDoneActions=Semua Acara yang Telah Siap
-MenuToDoMyActions=Acara Saya yang Belum Siap
-MenuDoneMyActions=Acara Saya yang Telah Siap
-ListOfEvents=Senarai Acara (Kalendar Lalai)
-ActionsAskedBy=Acara Dilaporkan Oleh
-ActionsToDoBy=Acara Ditugaskan Kepada
-ActionAssignedTo=Acara Ditugaskan Kepada
+EventsNb=Bilangan Perkara
+ListOfActions=Senarai Perkara
+EventReports=Laporan Perkara
+ToUserOfGroup=Perkara Ditugaskan kepada Mana-mana Pengguna dalam Kumpulan
+EventOnFullDay=Perkara Sepanjang Hari
+MenuToDoActions=Semua Perkara yang Belum Siap
+MenuDoneActions=Semua Perkara yang Telah Siap
+MenuToDoMyActions=Perkara Saya yang Belum Siap
+MenuDoneMyActions=Perkara Saya yang Telah Siap
+ListOfEvents=Senarai Perkara (Kalendar Lalai)
+ActionsAskedBy=Perkara Dilaporkan Oleh
+ActionsToDoBy=Perkara Ditugaskan Kepada
+ActionAssignedTo=Perkara Ditugaskan Kepada
 ViewCal=Paparan Bulan
 ViewDay=Paparan Hari
 ViewWeek=Paparan Minggu
@@ -229,12 +229,12 @@ ViewPerUser=Paparan Mengikut Pengguna
 ViewPerType=Paparan Mengikut Jenis
 AutoActions=Pengisian Automatik
 ManualActions=Dicipta Secara Manual oleh Pengguna
-AgendaAutoActionDesc=Di sini anda boleh takrifkan acara yang anda mahu Dolibarr cipta secara automatik dalam Agenda. Jika tiada yang ditandakan, hanya tindakan manual akan dimasukkan ke dalam log dan dipaparkan dalam Agenda. Penjejakan automatik tindakan urusniaga yang dibuat pada objek (pengesahan, perubahan status) tidak akan disimpan.
-AgendaSetupOtherDesc=Halaman ini menyediakan pilihan untuk membenarkan eksport acara Dolibarr anda ke kalendar luaran (Thunderbird, Google Calendar dll.).
+AgendaAutoActionDesc=Di sini anda boleh takrifkan perkara yang anda mahu Dolibarr cipta secara automatik dalam Agenda. Jika tiada yang ditandakan, hanya tindakan manual akan dimasukkan ke dalam log dan dipaparkan dalam Agenda. Penjejakan automatik tindakan urusniaga yang dibuat pada objek (pengesahan, perubahan status) tidak akan disimpan.
+AgendaSetupOtherDesc=Halaman ini menyediakan pilihan untuk membenarkan eksport perkara Dolibarr anda ke kalendar luaran (Thunderbird, Google Calendar dll.).
 AgendaExtSitesDesc=Halaman ini membolehkan anda menetapkan sumber kalendar luaran untuk melihat acaranya dalam Agenda Dolibarr.
-ActionsEvents=Acara yang akan membuatkan Dolibarr mencipta tindakan dalam Agenda secara automatik
-EventRemindersByEmailNotEnabled=Peringatan acara melalui e-mel tidak didayakan dalam tetapan modul %s.
-EventRemindersBySmsNotEnabled=Peringatan acara melalui SMS tidak didayakan dalam tetapan modul %s.
+ActionsEvents=Perkara yang akan membuatkan Dolibarr mencipta tindakan dalam Agenda secara automatik
+EventRemindersByEmailNotEnabled=Peringatan perkara melalui e-mel tidak didayakan dalam tetapan modul %s.
+EventRemindersBySmsNotEnabled=Peringatan perkara melalui SMS tidak didayakan dalam tetapan modul %s.
 NewCompanyToDolibarr=Pihak Ketiga %s Dicipta
 COMPANY_MODIFYInDolibarr=Pihak Ketiga %s Diubah
 COMPANY_DELETEInDolibarr=Pihak Ketiga %s Dihapuskan
@@ -329,22 +329,22 @@ MRP_MO_CANCELInDolibarr=Arahan Pengilangan Dibatalkan
 PAIDInDolibarr=%s Dibayar
 ENABLEDISABLEInDolibarr=Pengguna Didayakan atau Dinyahdayakan
 CANCELInDolibarr=Dibatalkan
-AgendaModelModule=Templat Dokumen untuk Acara
+AgendaModelModule=Templat Dokumen untuk Perkara
 DateActionStart=Tarikh Mula
 DateActionEnd=Tarikh Tamat
 AgendaUrlOptions1=Anda juga boleh tambah parameter berikut untuk menapis output:
-AgendaUrlOptions3=logina=%s untuk mengehadkan output kepada tindakan yang dimiliki oleh pengguna %s (gunakan logina=!%s untuk acara yang tidak dimiliki oleh pengguna tersebut).
+AgendaUrlOptions3=logina=%s untuk mengehadkan output kepada tindakan yang dimiliki oleh pengguna %s (gunakan logina=!%s untuk perkara yang tidak dimiliki oleh pengguna tersebut).
 AgendaUrlOptions4=logint=%s untuk mengehadkan output kepada tindakan yang ditugaskan kepada pengguna %s (pemilik dan yang lain).
 AgendaUrlOptionsProject=project=__PROJECT_ID__ untuk mengehadkan output kepada tindakan yang dipautkan kepada projek __PROJECT_ID__.
-AgendaUrlOptionsType=actiontype=%s untuk mendapatkan acara automatik atau manual
-AgendaUrlOptionsCode=actioncode=%s untuk mendapatkan hanya acara dengan kod tertentu
-AgendaUrlOptionsIncludeHolidays=includeholidays=1 untuk memasukkan acara Cuti.
-AgendaUrlOptionsLimitDays=notolderthan=%s untuk mengehadkan acara kepada %s hari terakhir (lalai ialah %s).
-AgendaUrlOptionsLimit=limit=50 untuk mengehadkan kepada 50 acara terkini (lalai dan maksimum ialah %s).
+AgendaUrlOptionsType=actiontype=%s untuk mendapatkan perkara automatik atau manual
+AgendaUrlOptionsCode=actioncode=%s untuk mendapatkan hanya perkara dengan kod tertentu
+AgendaUrlOptionsIncludeHolidays=includeholidays=1 untuk memasukkan perkara Cuti.
+AgendaUrlOptionsLimitDays=notolderthan=%s untuk mengehadkan perkara kepada %s hari terakhir (lalai ialah %s).
+AgendaUrlOptionsLimit=limit=50 untuk mengehadkan kepada 50 perkara terkini (lalai dan maksimum ialah %s).
 AgendaShowBirthdayEvents=Hari Lahir Kenalan
 AgendaHideBirthdayEvents=Sembunyikan Hari Lahir Kenalan
 Busy=Sibuk
-ExportDataset_event1=Senarai Acara Agenda
+ExportDataset_event1=Senarai Perkara Agenda
 DefaultWorkingDays=Julat Hari Bekerja Lalai dalam Minggu (Contoh: 1-5, 1-6)
 DefaultWorkingHours=Waktu Bekerja Lalai dalam Hari (Contoh: 9-18)
 ExportCal=Eksport Kalendar
@@ -357,10 +357,10 @@ ExtSiteNoLabel=Tiada Keterangan
 VisibleTimeRange=Julat Masa Kelihatan
 VisibleDaysRange=Julat Hari Kelihatan
 MyAvailability=Ketersediaan Saya
-ActionType=Jenis Acara
-DateActionBegin=Tarikh Mula Acara
-ConfirmCloneEvent=Adakah anda pasti mahu mengklon acara %s?
-RepeatEvent=Ulang Acara
+ActionType=Jenis Perkara
+DateActionBegin=Tarikh Mula Perkara
+ConfirmCloneEvent=Adakah anda pasti mahu mengklon perkara %s?
+RepeatEvent=Ulang Perkara
 OnceOnly=Sekali Sahaja
 EveryDay=Setiap Hari
 EveryWeek=Setiap Minggu
@@ -370,12 +370,12 @@ DayOfMonth=Hari Bulan
 DayOfWeek=Hari Minggu
 DayOfYear=Hari Tahun
 DateStartPlusOne=Tarikh Mula + 1 Jam
-SetAllEventsToTodo=Tetapkan Semua Acara kepada Perlu Buat
-SetAllEventsToInProgress=Tetapkan Semua Acara kepada Sedang Berjalan
-SetAllEventsToFinished=Tetapkan Semua Acara kepada Selesai
+SetAllEventsToTodo=Tetapkan Semua Perkara kepada Perlu Buat
+SetAllEventsToInProgress=Tetapkan Semua Perkara kepada Sedang Berjalan
+SetAllEventsToFinished=Tetapkan Semua Perkara kepada Selesai
 TimeType=Jenis Tempoh
 ReminderType=Jenis Panggilan Balik
-ErrorReminderActionCommCreation=Ralat mencipta pemberitahuan peringatan untuk acara ini
+ErrorReminderActionCommCreation=Ralat mencipta pemberitahuan peringatan untuk perkara ini
 BrowserPush=Pemberitahuan Pop Timbul Pelayar
 ActiveByDefault=Didayakan secara lalai
 Until=sehingga
@@ -392,7 +392,7 @@ BookCalAboutPage=Halaman Perihal BookCal
 Availabilities=Ketersediaan
 NewAvailabilities=Ketersediaan Baru
 NewCalendar=Kalendar Baru
-ThirdPartyBookCalHelp=Acara yang ditempah dalam Kalendar ini akan dipautkan secara automatik kepada Pihak Ketiga ini.
+ThirdPartyBookCalHelp=Perkara yang ditempah dalam Kalendar ini akan dipautkan secara automatik kepada Pihak Ketiga ini.
 AppointmentDuration=Tempoh Janji Temu: %s
 BookingSuccessfullyBooked=Tempahan anda telah disimpan
 BookingReservationHourAfter=Kami mengesahkan tempahan mesyuarat kita pada tarikh %s
@@ -400,7 +400,7 @@ BookcalBookingTitle=Janji Temu Dalam Talian
 Transparency=Ketelusan
 ReadMore=Baca Lagi
 ReadLess=Baca Kurang
-EventPartOfARecurringSerie=Acara ini adalah sebahagian daripada siri berulang dengan ID %s
+EventPartOfARecurringSerie=Perkara ini adalah sebahagian daripada siri berulang dengan ID %s
 BookCalSystem=Tempahan Dalam Talian
 BookCalInitHelp=Untuk bermula, pergi ke menu untuk mencipta Kalendar Baru dengan ketersediaan...
 PublicLinkForBooking=Pautan Awam untuk Tempahan
