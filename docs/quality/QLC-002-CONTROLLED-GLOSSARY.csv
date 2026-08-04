@@ -1,0 +1,33 @@
+term_id,source_term,approved_ms_MY,domain,context_note,status,avoid_terms,exception_rule,authority
+COOP-001,Member,Anggota,Cooperative,Individual formally admitted to a cooperative,approved,Ahli; Member,Use Ahli only when source context is not cooperative membership,QLC-002
+COOP-002,Membership,Keanggotaan,Cooperative,Status process and administration of cooperative membership,approved,Keahlian; Membership,None without approved exception,QLC-002
+COOP-003,Share Capital,Modal Syer,Cooperative Finance,Capital contributed through cooperative shares,approved,Modal Saham; Share Capital,None without approved exception,QLC-002
+COOP-004,Bonus Share,Syer Bonus,Cooperative Finance,Additional cooperative share credited as bonus,approved,Saham Bonus; Bonus Share,None without approved exception,QLC-002
+COOP-005,Patronage Rebate,Potongan Langganan,Cooperative Finance,Member benefit distributed according to patronage transactions,approved,Rebat Patronaj; Rebat Langganan,None without approved exception,QLC-002
+COOP-006,Patronage Bonus,Bonus Langganan,Cooperative Finance,Bonus linked to member patronage activity,approved,Bonus Patronaj,None without approved exception,QLC-002
+FIN-001,Balance Sheet,Kunci Kira-Kira,Accounting,Statement of financial position in Malaysian accounting usage,approved,Lembaran Imbangan; Balance Sheet,None without approved accounting decision,QLC-002
+FIN-002,Appropriation,Pembahagian Keuntungan,Cooperative Accounting,Allocation of cooperative surplus or profit after determination,conditional,Peruntukan; Apropriasi,Use Peruntukan only when source means budget allocation rather than profit appropriation,QLC-002
+FIN-003,Account,Akaun,Accounting,Financial ledger or account concept,conditional,Kiraan,Use another term only where source means user account or customer relationship account,QLC-002
+FIN-004,General Ledger,Lejar Am,Accounting,Primary accounting ledger,approved,Ledger Am,None without approved exception,QLC-002
+FIN-005,Credit Note,Nota Kredit,Accounting,Document reducing a previously invoiced amount,approved,Nota Pulangan,None without approved exception,QLC-002
+FIN-006,Invoice,Invois,Accounting and Commercial,Sales or supplier billing document,approved,Bil,Use Bil only where source explicitly represents a non-invoice bill,QLC-002
+FIN-007,Journal,Jurnal,Accounting,Accounting journal or journal code,conditional,Diari,Use another term only outside accounting context,QLC-002
+FIN-008,Fiscal Year,Tahun Kewangan,Accounting,Defined accounting reporting period,approved,Tahun Fiskal,None without approved exception,QLC-002
+TAX-001,VAT,SST,Tax,Malaysian runtime label where generic VAT concept is adapted to local SST usage,conditional,VAT; Cukai Nilai Tambah,Retain VAT where referring specifically to foreign VAT or source technical identity,QLC-002
+CRM-001,Third Party,Pihak Ketiga,CRM,External organisation or person represented in Dolibarr third-party records,approved,Pihak Ke-3,None without approved exception,QLC-002
+CRM-002,Customer,Pelanggan,CRM and Commercial,Buyer or customer role,approved,Klien,Use Klien only in a genuinely professional-client context,QLC-002
+CRM-003,Supplier,Pembekal,Procurement,Vendor or supplier role,approved,Vendor; Pembekal Barang,None without approved exception,QLC-002
+CRM-004,Commercial Proposal,Sebut Harga,Commercial,Customer-facing proposal or quotation,approved,Cadangan Komersial; Proposal,Use Cadangan only when source is not a quotation document,QLC-002
+CRM-005,Contact,Kenalan,CRM,Named contact person or contact record,approved,Kontak,None without approved exception,QLC-002
+HR-001,Human Resources Management,Pengurusan Sumber Manusia,Human Resources,HR management domain or module,approved,Manajemen Sumber Manusia,None without approved exception,QLC-002
+HR-002,Staff,Pekerja,Human Resources,Employees or workforce in organisational context,conditional,Staf,Use Kakitangan where collective institutional usage is clearer,QLC-002
+DOC-001,Draft,Draf,Workflow,Document or transaction state before validation,approved,Draft,None without approved exception,QLC-002
+DOC-002,Validated,Disahkan,Workflow,State indicating formal validation,approved,Divolidasi; Valid,None without approved exception,QLC-002
+DOC-003,Cancelled,Dibatalkan,Workflow,State indicating cancellation,approved,Dibatal,None without approved exception,QLC-002
+UI-001,Save,Simpan,Interface Action,Action that persists entered data,approved,Simpan Data,None without approved exception,QLC-002
+UI-002,Delete,Hapus,Interface Action,Action that removes a record or file,conditional,Padam,Use Padam only where established UI context requires it and consistency is maintained,QLC-002
+UI-003,Search,Cari,Interface Action,Action that initiates a search,approved,Carian,Use Carian only as a noun label,QLC-002
+UI-004,Print,Cetak,Interface Action,Action that prints or generates printable output,approved,Print,None without approved exception,QLC-002
+UI-005,Share,Kongsi,Interface Action,Action that shares content with others,conditional,Syer,Use Syer only for cooperative or equity ownership concepts,QLC-002
+UI-006,Order,Pesanan,Commercial,Customer or supplier commercial order,conditional,Arahan; Susunan,Use Arahan for command and Susunan for sort order,QLC-002
+UI-007,Return,Kembali,Navigation,Navigation action to go back,conditional,Pulangan; Pemulangan; Penyata,Select the term matching finance logistics or statutory context,QLC-002
