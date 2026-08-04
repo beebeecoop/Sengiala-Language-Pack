@@ -259,3 +259,6 @@ AllTargetMandatoryFieldsAreMapped=Semua medan sasaran yang memerlukan nilai waji
 ResultOfSimulationNoError=Keputusan simulasi: Tiada ralat
 NumberOfLinesLimited=Bilangan baris dihadkan
 ErrorFileLinesReachEOF=Fail mempunyai %s baris. Walau bagaimanapun kita mencapai akhir fail atau baris kosong pada rekod %s. Ini mungkin berlaku apabila beberapa rekod dipecahkan kepada beberapa baris dan tidak dibataskan dengan betul oleh "Pembatas aksara", atau jika terdapat baris tanpa data pada semua medan.
+ImportArea=Import
+LineId=ID baris
+NewImport=Import Baru

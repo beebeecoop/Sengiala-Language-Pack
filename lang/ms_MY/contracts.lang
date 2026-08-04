@@ -210,3 +210,4 @@ ShowClosedServices=Papar Perkhidmatan Ditutup
 HideClosedServices=Sembunyikan Perkhidmatan Ditutup
 UserStartingService=Pengguna memulakan Perkhidmatan
 UserClosingService=Pengguna menutup Perkhidmatan
+ServiceStatus=Status perkhidmatan
