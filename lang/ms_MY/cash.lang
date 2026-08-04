@@ -36,11 +36,11 @@ OpeningBalance=Baki Awal
 PettyCash=Wang Tunai Runcit
 PettyCashAccount=Akaun Wang Tunai Runcit
 PettyCashBook=Buku Wang Tunai Runcit
-Reconcile=Sesuaikan
-Reconciled=Telah Disesuaikan
-Reconciliation=Penyesuaian
-ReconciliationDate=Tarikh Penyesuaian
-Unreconciled=Belum Disesuaikan
+Reconcile=Padankan
+Reconciled=Telah Dipadankan
+Reconciliation=Pemadanan
+ReconciliationDate=Tarikh Pemadanan
+Unreconciled=Belum Dipadankan
 Withdrawal=Pengeluaran
 
 Amount=Jumlah

@@ -95,11 +95,11 @@ Bank=Bank
 BankAccount=Akaun Bank
 BankAccounts=Akaun Bank
 BankTransfer=Pindahan Bank
-Reconciliation=Penyesuaian
-BankReconciliation=Penyesuaian Bank
-Reconcile=Sesuaikan
-Reconciled=Telah Disesuaikan
-Unreconciled=Belum Disesuaikan
+Reconciliation=Pemadanan
+BankReconciliation=Pemadanan Bank
+Reconcile=Padankan
+Reconciled=Telah Dipadankan
+Unreconciled=Belum Dipadankan
 
 FiscalYear=Tahun Kewangan
 FiscalPeriod=Tempoh Kewangan
