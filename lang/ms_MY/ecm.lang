@@ -27,7 +27,7 @@ ECMFiles=Fail Pengurusan Kandungan
 ECMDocument=Dokumen Pengurusan Kandungan
 ECMDocuments=Dokumen Pengurusan Kandungan
 
-NewDirectory=Direktori Baharu
+NewDirectory=Direktori Baru
 CreateDirectory=Cipta Direktori
 AddDirectory=Tambah Direktori
 EditDirectory=Sunting Direktori
@@ -40,7 +40,7 @@ DirectoryCreated=Direktori Telah Dicipta
 DirectoryModified=Direktori Telah Diubah
 DirectoryDeleted=Direktori Telah Dihapuskan
 
-NewFolder=Folder Baharu
+NewFolder=Folder Baru
 CreateFolder=Cipta Folder
 AddFolder=Tambah Folder
 EditFolder=Sunting Folder

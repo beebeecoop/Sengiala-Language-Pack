@@ -9,7 +9,7 @@ ModuleBuilderConfiguration=Konfigurasi Pembina Modul
 
 Module=Modul
 Modules=Modul
-NewModule=Modul Baharu
+NewModule=Modul Baru
 CreateModule=Cipta Modul
 AddModule=Tambah Modul
 EditModule=Sunting Modul
@@ -26,7 +26,7 @@ ModuleDisabled=Modul Telah Dinyahaktifkan
 
 Object=Objek
 Objects=Objek
-NewObject=Objek Baharu
+NewObject=Objek Baru
 CreateObject=Cipta Objek
 AddObject=Tambah Objek
 EditObject=Sunting Objek
@@ -35,7 +35,7 @@ DeleteObject=Hapus Objek
 
 Field=Medan
 Fields=Medan
-NewField=Medan Baharu
+NewField=Medan Baru
 CreateField=Cipta Medan
 AddField=Tambah Medan
 EditField=Sunting Medan

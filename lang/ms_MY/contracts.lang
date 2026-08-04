@@ -13,7 +13,7 @@ ContractDescription=Keterangan Kontrak
 ContractStatus=Status Kontrak
 ContractType=Jenis Kontrak
 
-NewContract=Kontrak Baharu
+NewContract=Kontrak Baru
 CreateContract=Cipta Kontrak
 AddContract=Tambah Kontrak
 EditContract=Sunting Kontrak
@@ -184,7 +184,7 @@ CloseAllContracts=Tutup semua baris Kontrak
 DeleteContractLine=Hapus baris Kontrak
 ConfirmDeleteContractLine=Adakah anda pasti mahu menghapus baris Kontrak ini?
 MoveToAnotherContract=Pindahkan Perkhidmatan ke Kontrak lain.
-ConfirmMoveToAnotherContract=Saya memilih Kontrak sasaran baharu dan mengesahkan mahu memindahkan Perkhidmatan ini ke Kontrak tersebut.
+ConfirmMoveToAnotherContract=Saya memilih Kontrak sasaran baru dan mengesahkan mahu memindahkan Perkhidmatan ini ke Kontrak tersebut.
 ConfirmMoveToAnotherContractQuestion=Pilih Kontrak sedia ada (bagi Pihak Ketiga yang sama) untuk memindahkan Perkhidmatan ini.
 PaymentRenewContractId=Perbaharui Kontrak %s (Perkhidmatan %s)
 ExpiredSince=Tarikh tamat tempoh

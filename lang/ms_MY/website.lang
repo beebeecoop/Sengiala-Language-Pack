@@ -12,7 +12,7 @@ WebsiteLabel=Label Laman Web
 WebsiteDescription=Keterangan Laman Web
 WebsiteStatus=Status Laman Web
 
-NewWebsite=Laman Web Baharu
+NewWebsite=Laman Web Baru
 CreateWebsite=Cipta Laman Web
 AddWebsite=Tambah Laman Web
 EditWebsite=Sunting Laman Web
@@ -33,7 +33,7 @@ WebPage=Halaman Web
 WebPages=Halaman Web
 Page=Halaman
 Pages=Halaman
-NewPage=Halaman Baharu
+NewPage=Halaman Baru
 CreatePage=Cipta Halaman
 AddPage=Tambah Halaman
 EditPage=Sunting Halaman

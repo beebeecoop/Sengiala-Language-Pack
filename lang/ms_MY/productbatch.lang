@@ -25,7 +25,7 @@ SerialNumbers=Nombor Siri
 BatchRef=Rujukan Kelompok
 LotRef=Rujukan Lot
 
-NewBatch=Kelompok Baharu
+NewBatch=Kelompok Baru
 CreateBatch=Cipta Kelompok
 AddBatch=Tambah Kelompok
 EditBatch=Sunting Kelompok
@@ -40,7 +40,7 @@ BatchValidated=Kelompok Telah Disahkan
 BatchDeleted=Kelompok Telah Dihapuskan
 BatchClosed=Kelompok Telah Ditutup
 
-NewLot=Lot Baharu
+NewLot=Lot Baru
 CreateLot=Cipta Lot
 AddLot=Tambah Lot
 EditLot=Sunting Lot

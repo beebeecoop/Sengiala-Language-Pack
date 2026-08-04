@@ -11,7 +11,7 @@ OAuthApplications=Aplikasi OAuth
 OAuthService=Perkhidmatan OAuth
 OAuthServices=Perkhidmatan OAuth
 
-NewOAuthClient=Klien OAuth Baharu
+NewOAuthClient=Klien OAuth Baru
 CreateOAuthClient=Cipta Klien OAuth
 AddOAuthClient=Tambah Klien OAuth
 EditOAuthClient=Sunting Klien OAuth

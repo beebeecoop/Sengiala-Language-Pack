@@ -12,7 +12,7 @@ ExportProcess=Proses Eksport
 ExportResult=Keputusan Eksport
 ExportStatus=Status Eksport
 
-NewExport=Eksport Baharu
+NewExport=Eksport Baru
 CreateExport=Cipta Eksport
 StartExport=Mulakan Eksport
 RunExport=Jalankan Eksport
@@ -142,7 +142,7 @@ ExportCsvSeparator=Pemisah aksara CSV
 ImportCsvSeparator=Pemisah aksara CSV
 Step=Langkah
 FormatedImport=Pembantu Import
-FormatedImportDesc1=Klik di sini untuk menggunakan pembantu bagi mengemas kini data sedia ada atau menambah objek baharu ke dalam pangkalan data daripada fail.
+FormatedImportDesc1=Klik di sini untuk menggunakan pembantu bagi mengemas kini data sedia ada atau menambah objek baru ke dalam pangkalan data daripada fail.
 FormatedImportDesc2=Langkah pertama ialah memilih jenis data yang mahu diimport, kemudian format fail sumber, kemudian medan yang mahu diimport.
 FormatedExport=Pembantu Eksport
 FormatedExportDesc1=Klik di sini untuk menggunakan pembantu bagi mengeksport data dalam format yang disokong
