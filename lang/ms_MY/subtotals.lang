@@ -1,0 +1,41 @@
+# Dolibarr language file - ms_MY
+# Sprint 22Y manual review 28A
+
+NoTitleError=Tiada baris tajuk atau semua baris tajuk telah mempunyai baris subjumlah yang sepadan
+UnsupportedModuleError=Anda tidak boleh menambah baris subjumlah dalam modul yang tidak disokong
+TitleAfterStLineOfSameLevelTitle=Tajuk mesti berada selepas baris subjumlah bagi tajuk sebelumnya.
+PreviousTitleLevelTooHigh=Tahap tajuk sebelumnya adalah dua tahap atau lebih tinggi daripada baris yang dipindahkan.
+DeleteTitleLine=Hapus Baris Tajuk
+SubtotalOf=Subjumlah bagi %s:
+EnterRemisePercent=Masukkan peratus diskaun
+SubtotalSetup=Tetapan Modul Subjumlah
+SubTotalModuleDesc=Baris subjumlah dan tajuk untuk dokumen tertentu
+Subtotal=Subjumlah
+ApplyDiscountForBlock=Gunakan Diskaun untuk Blok Ini
+TitleEditedLevelTooHigh=Tahap tajuk yang diedit terlalu tinggi (sebaliknya diedit dengan tahap %s).
+SubtotalLineLevel=Tahap Baris
+ForcePageBreak=Paksa pemisah halaman sebelum tajuk
+AddTitleLine=Tambah Baris Tajuk
+SubtotalLevel=Tahap %s
+STLineUnderCorrespondingTitleDesc=Baris subjumlah mesti berada di bawah tajuk dengan tahap yang sama dan keterangan yang sama.
+TitleAddedLevelTooHigh=Tahap tajuk yang ditambah terlalu tinggi (sebaliknya ditambah dengan tahap %s).
+ShowTotalExludingVATOnPDF=Papar jumlah tidak termasuk SST pada PDF
+ShowUPOnPDF=Papar harga unit pada PDF
+CorrespondingTitleLine=Baris Tajuk Sepadan
+MaxSubtotalLevel=Tahap Maksimum
+TitleNeedDesc=Anda mesti memasukkan keterangan yang sah untuk mencipta tajuk.
+AddSubtotalLine=Tambah Baris Subjumlah
+SubtotalLineDesc=Keterangan Baris
+STLineUnderCorrespondingTitle=Baris subjumlah mesti berada di bawah tajuk dengan tahap dan keterangan yang sama.
+CorrespondingTitleNotFound=Tajuk yang sepadan tidak ditemukan
+DeleteSubtotalLine=Hapus Baris Subjumlah
+ApplyVATForBlock=Gunakan SST untuk Blok Ini
+SelectVATRate=Pilih Kadar SST
+SubtotalLineBackColor=Warna latar belakang baris tahap %s
+ConfirmDeleteTitleLine=Adakah anda pasti mahu menghapuskan baris tajuk ini?
+STLineUnderTitle=Baris subjumlah mesti berada di bawah tajuknya
+ConfirmDeleteSubtotalLine=Adakah anda pasti mahu menghapuskan baris subjumlah ini?
+NotSupportedByAllPDF=Akan berfungsi dengan PDF baru tetapi tidak dengan PDF lama %s
+TitleUnderSameLevelSTLine=Tajuk pada tahap yang sama mesti berada di bawah baris subjumlah tajuk sebelumnya.
+TitleUnderSameLevelOrGreater=Tajuk mesti berada di bawah tajuk pada tahap yang sama atau lebih tinggi.
+DeleteCorrespondingSubtotalLine=Hapus baris subjumlah yang sepadan?
