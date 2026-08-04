@@ -71,7 +71,7 @@ AccessControl=Kawalan Akses
 
 Company=Syarikat
 CompanySetup=Tetapan Syarikat
-CompanyInformation=Maklumat Syarikat
+CompanyInformation=Maklumat Syarikat/Koperasi
 MainCompany=Syarikat Utama
 Organization=Organisasi
 Entity=Entiti
@@ -1269,7 +1269,7 @@ CompanyZip=Poskod
 CompanyTown=Bandar
 CompanyCountry=Negara
 CompanyCurrency=Mata Wang utama
-CompanyObject=Objek syarikat
+CompanyObject=Aktiviti Syarikat/Koperasi
 IDCountry=ID negara
 Logo=Logo
 LogoDesc=Logo utama syarikat. Akan digunakan dalam Dokumen yang dijana (PDF, ...)
