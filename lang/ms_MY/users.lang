@@ -222,12 +222,12 @@ DateOfEmployment=Tarikh mula bekerja
 DateEmployment=Pekerjaan
 DateEmploymentStart=Tarikh mula pekerjaan
 DateEmploymentEnd=Tarikh tamat pekerjaan
-RangeOfLoginValidity=Julat tarikh kesahan akses
+RangeOfLoginValidity=Julat Tempoh Akses
 CantDisableYourself=Anda tidak boleh menyahaktifkan rekod pengguna sendiri
 CantDisableAnAdminUserWithMassActions=Anda tidak boleh menyahaktifkan pengguna melalui tindakan pukal apabila salah seorang daripadanya ialah pentadbir seperti '%s'. Nyahaktifkan pengguna pentadbir secara manual satu demi satu melalui halaman khusus mereka.
 CantEnableAnAdminUserWithMassActions=Anda tidak boleh mengaktifkan pengguna melalui tindakan pukal apabila salah seorang daripadanya ialah pentadbir seperti '%s'. Aktifkan pengguna pentadbir secara manual satu demi satu melalui halaman khusus mereka.
-ForceUserExpenseValidator=Paksa pengesah laporan perbelanjaan pengguna
-ForceUserHolidayValidator=Paksa pengesah permohonan cuti pengguna
+ForceUserExpenseValidator=Pengesah Tuntutan Perbelanjaan
+ForceUserHolidayValidator=Pengesah Permohonan Cuti
 
 # Sprint 22D manual review 7G — keys 301-339
 ValidatorIsSupervisorByDefault=Mengikut tetapan asal, pengesah ialah penyelia pengguna. Biarkan kosong untuk mengekalkan tetapan ini.
