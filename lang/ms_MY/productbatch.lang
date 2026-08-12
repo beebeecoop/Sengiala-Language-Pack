@@ -156,7 +156,7 @@ StockDetailPerBatch=Butiran Stok Mengikut Kelompok
 # Sprint 22G manual review 10F — keys 251-273
 SerialNumberAlreadyInUse=Nombor siri %s telah digunakan untuk produk %s
 TooManyQtyForSerialNumber=Hanya satu produk %s dibenarkan bagi nombor siri %s
-ManageLotMask=Topeng Tersuai
+ManageLotMask=Topeng Khusus
 CustomMasks=Pilihan untuk menentukan topeng penomboran yang berbeza bagi setiap produk
 BatchLotNumberingModules=Peraturan Penomboran bagi Penjanaan Automatik Nombor Kelompok
 BatchSerialNumberingModules=Peraturan Penomboran bagi Penjanaan Automatik Nombor Siri untuk produk yang menggunakan satu nombor kelompok/siri unik bagi setiap produk

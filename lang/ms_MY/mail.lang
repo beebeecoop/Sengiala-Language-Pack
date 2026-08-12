@@ -90,7 +90,7 @@ RemoveAttachment=Buang Lampiran
 
 Signature=Tandatangan
 EmailSignature=Tandatangan E-mel
-DefaultEmailTemplate=Templat E-mel Lalai
+DefaultEmailTemplate=Templat E-mel Tetapan Asal
 SelectEmailTemplate=Pilih Templat E-mel
 
 NoEmail=Tiada E-mel

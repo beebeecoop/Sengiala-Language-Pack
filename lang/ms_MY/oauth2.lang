@@ -64,7 +64,7 @@ RefreshTokenGrant=Geran Token Segar Semula
 
 Scope=Skop
 Scopes=Skop
-DefaultScope=Skop Lalai
+DefaultScope=Skop Tetapan Asal
 AllowedScope=Skop Dibenarkan
 AllowedScopes=Skop Dibenarkan
 

@@ -80,7 +80,7 @@ DeleteLine=Hapus Baris
 Version=Versi
 Revision=Semakan
 ActiveVersion=Versi Aktif
-DefaultBOM=BOM Lalai
+DefaultBOM=BOM Tetapan Asal
 ParentProduct=Produk Induk
 ChildProduct=Produk Anak
 

@@ -2,7 +2,7 @@
 # Sprint 22N manual review 17A
 
 WorkflowSetup=Tetapan Modul Aliran Kerja
-WorkflowDesc=Modul ini menyediakan beberapa tindakan automatik. Secara lalai, aliran kerja terbuka dan anda boleh melaksanakan tindakan mengikut susunan yang dikehendaki, tetapi di sini anda boleh mengaktifkan tindakan automatik tertentu.
+WorkflowDesc=Modul ini menyediakan beberapa tindakan automatik. Mengikut tetapan asal, aliran kerja terbuka dan anda boleh melaksanakan tindakan mengikut susunan yang dikehendaki, tetapi di sini anda boleh mengaktifkan tindakan automatik tertentu.
 ThereIsNoWorkflowToModify=Tiada pengubahsuaian aliran kerja tersedia dengan modul yang telah diaktifkan.
 descWORKFLOW_PROPAL_AUTOCREATE_ORDER=Cipta Pesanan Jualan secara automatik selepas Sebut Harga Pelanggan ditandatangani (pesanan baru akan mempunyai jumlah yang sama seperti sebut harga).
 descWORKFLOW_PROPAL_AUTOCREATE_INVOICE=Cipta Invois Pelanggan secara automatik selepas Sebut Harga Pelanggan ditandatangani (invois baru akan mempunyai jumlah yang sama seperti sebut harga).

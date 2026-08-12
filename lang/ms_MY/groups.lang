@@ -61,7 +61,7 @@ GroupRoles=Peranan Kumpulan
 Administrator=Pentadbir
 Administrators=Pentadbir
 AdminGroup=Kumpulan Pentadbir
-DefaultGroup=Kumpulan Lalai
+DefaultGroup=Kumpulan Tetapan Asal
 PublicGroup=Kumpulan Awam
 PrivateGroup=Kumpulan Persendirian
 

@@ -37,7 +37,7 @@ WarehouseClosed=Stor Telah Ditutup
 
 ActiveWarehouse=Stor Aktif
 InactiveWarehouse=Stor Tidak Aktif
-DefaultWarehouse=Stor Lalai
+DefaultWarehouse=Stor Tetapan Asal
 SourceWarehouse=Stor Sumber
 DestinationWarehouse=Stor Destinasi
 
