@@ -87,8 +87,8 @@ FailedLogins=Log Masuk Gagal
 Theme=Tema
 Language=Bahasa
 Timezone=Zon Masa
-DefaultLanguage=Bahasa Lalai
-DefaultTheme=Tema Lalai
+DefaultLanguage=Bahasa Tetapan Asal
+DefaultTheme=Tema Tetapan Asal
 
 NoUser=Tiada Pengguna
 NoUserFound=Tiada Pengguna Dijumpai
@@ -143,8 +143,8 @@ NameNotDefined=Nama belum ditetapkan.
 ListOfUsers=Senarai pengguna
 SuperAdministrator=Pentadbir berbilang syarikat
 SuperAdministratorDesc=Pentadbir sistem berbilang syarikat yang boleh mengubah tetapan dan pengguna
-DefaultRights=Kebenaran lalai
-DefaultRightsDesc=Tetapkan di sini kebenaran <u>lalai</u> yang diberikan secara automatik kepada pengguna <u>baru</u>. Untuk mengubah kebenaran pengguna sedia ada, pergi ke kad pengguna.
+DefaultRights=Kebenaran tetapan asal
+DefaultRightsDesc=Tetapkan di sini kebenaran <u>tetapan asal</u> yang diberikan secara automatik kepada pengguna <u>baru</u>. Untuk mengubah kebenaran pengguna sedia ada, pergi ke kad pengguna.
 DolibarrUsers=Pengguna aplikasi
 ListOfGroups=Senarai kumpulan
 NewGroup=Kumpulan baru
@@ -230,7 +230,7 @@ ForceUserExpenseValidator=Paksa pengesah laporan perbelanjaan pengguna
 ForceUserHolidayValidator=Paksa pengesah permohonan cuti pengguna
 
 # Sprint 22D manual review 7G — keys 301-339
-ValidatorIsSupervisorByDefault=Secara lalai, pengesah ialah penyelia pengguna. Biarkan kosong untuk mengekalkan tetapan ini.
+ValidatorIsSupervisorByDefault=Mengikut tetapan asal, pengesah ialah penyelia pengguna. Biarkan kosong untuk mengekalkan tetapan ini.
 UserPersonalEmail=E-mel peribadi
 UserPersonalMobile=Telefon mudah alih peribadi
 WarningNotLangOfInterface=Amaran: Ini ialah bahasa utama yang digunakan oleh pengguna, bukan bahasa antara muka yang dipilihnya. Untuk mengubah bahasa antara muka yang dilihat oleh pengguna ini, pergi ke tab %s

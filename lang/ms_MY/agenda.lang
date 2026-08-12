@@ -190,7 +190,7 @@ MyTerminatedEvents=Perkara tamat saya
 AllIncompleteEvents=Semua perkara belum lengkap
 AllTerminatedEvents=Semua perkara tamat
 BirthdaysOfContacts=Hari lahir kenalan
-DefaultCalendar=Kalendar lalai
+DefaultCalendar=Kalendar tetapan asal
 PerUserView=Paparan Mengikut Pengguna
 Month=Bulanan
 Week=Mingguan
@@ -205,7 +205,7 @@ IdAgenda=ID Perkara
 AgendaEvents=Perkara Agenda
 TMenuAgenda=Agenda
 Agendas=Agenda
-LocalAgenda=Kalendar Lalai
+LocalAgenda=Kalendar Tetapan Asal
 ActionsOwnedBy=Perkara Dimiliki Oleh
 ActionsOwnedByShort=Pemilik
 AffectedTo=Ditugaskan Kepada
@@ -218,7 +218,7 @@ MenuToDoActions=Semua Perkara yang Belum Siap
 MenuDoneActions=Semua Perkara yang Telah Siap
 MenuToDoMyActions=Perkara Saya yang Belum Siap
 MenuDoneMyActions=Perkara Saya yang Telah Siap
-ListOfEvents=Senarai Perkara (Kalendar Lalai)
+ListOfEvents=Senarai Perkara (Kalendar Tetapan Asal)
 ActionsAskedBy=Perkara Dilaporkan Oleh
 ActionsToDoBy=Perkara Ditugaskan Kepada
 ActionAssignedTo=Perkara Ditugaskan Kepada
@@ -339,14 +339,14 @@ AgendaUrlOptionsProject=project=__PROJECT_ID__ untuk mengehadkan output kepada t
 AgendaUrlOptionsType=actiontype=%s untuk mendapatkan perkara automatik atau manual
 AgendaUrlOptionsCode=actioncode=%s untuk mendapatkan hanya perkara dengan kod tertentu
 AgendaUrlOptionsIncludeHolidays=includeholidays=1 untuk memasukkan perkara Cuti.
-AgendaUrlOptionsLimitDays=notolderthan=%s untuk mengehadkan perkara kepada %s hari terakhir (lalai ialah %s).
-AgendaUrlOptionsLimit=limit=50 untuk mengehadkan kepada 50 perkara terkini (lalai dan maksimum ialah %s).
+AgendaUrlOptionsLimitDays=notolderthan=%s untuk mengehadkan perkara kepada %s hari terakhir (tetapan asal ialah %s).
+AgendaUrlOptionsLimit=limit=50 untuk mengehadkan kepada 50 perkara terkini (tetapan asal dan maksimum ialah %s).
 AgendaShowBirthdayEvents=Hari Lahir Kenalan
 AgendaHideBirthdayEvents=Sembunyikan Hari Lahir Kenalan
 Busy=Sibuk
 ExportDataset_event1=Senarai Perkara Agenda
-DefaultWorkingDays=Julat Hari Bekerja Lalai dalam Minggu (Contoh: 1-5, 1-6)
-DefaultWorkingHours=Waktu Bekerja Lalai dalam Hari (Contoh: 9-18)
+DefaultWorkingDays=Julat Hari Bekerja Tetapan Asal dalam Minggu (Contoh: 1-5, 1-6)
+DefaultWorkingHours=Waktu Bekerja Tetapan Asal dalam Hari (Contoh: 9-18)
 ExportCal=Eksport Kalendar
 ExtSites=Import Kalendar Luaran
 ExtSitesEnableThisTool=Paparkan Kalendar Luaran (ditakrifkan dalam Tetapan Global) dalam Agenda. Tidak menjejaskan Kalendar Luaran yang ditakrifkan oleh pengguna.
@@ -377,7 +377,7 @@ TimeType=Jenis Tempoh
 ReminderType=Jenis Panggilan Balik
 ErrorReminderActionCommCreation=Ralat mencipta pemberitahuan peringatan untuk perkara ini
 BrowserPush=Pemberitahuan Pop Timbul Pelayar
-ActiveByDefault=Didayakan secara lalai
+ActiveByDefault=Didayakan mengikut tetapan asal
 Until=sehingga
 DataFromWasMerged=Data daripada %s telah digabungkan
 AgendaShowBookcalCalendar=Kalendar Tempahan: %s

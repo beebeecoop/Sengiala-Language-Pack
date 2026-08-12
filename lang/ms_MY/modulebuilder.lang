@@ -242,7 +242,7 @@ ListOfDictionariesEntries=Senarai entri kamus
 ListOfPermissionsDefined=Senarai kebenaran yang ditetapkan
 SeeExamples=Lihat contoh di sini
 EnabledDesc=Syarat untuk mengaktifkan medan ini.<br><br>Contoh:<br>1<br>isModEnabled('anothermodule')<br>getDolGlobalString('MYMODULE_OPTION')==2
-VisibleDesc=Adakah medan ini kelihatan? Contoh: 0=Tidak pernah kelihatan, 1=Kelihatan dalam senarai dan borang cipta/kemas kini/papar, 2=Kelihatan dalam senarai sahaja, 3=Kelihatan dalam borang cipta/kemas kini/papar sahaja dan bukan dalam senarai, 4=Kelihatan dalam senarai dan borang kemas kini/papar sahaja, 5=Kelihatan dalam senarai dan borang paparan sahaja.<br><br>Nilai negatif bermaksud medan tidak dipaparkan secara lalai dalam senarai tetapi boleh dipilih untuk dipaparkan.
+VisibleDesc=Adakah medan ini kelihatan? Contoh: 0=Tidak pernah kelihatan, 1=Kelihatan dalam senarai dan borang cipta/kemas kini/papar, 2=Kelihatan dalam senarai sahaja, 3=Kelihatan dalam borang cipta/kemas kini/papar sahaja dan bukan dalam senarai, 4=Kelihatan dalam senarai dan borang kemas kini/papar sahaja, 5=Kelihatan dalam senarai dan borang paparan sahaja.<br><br>Nilai negatif bermaksud medan tidak dipaparkan mengikut tetapan asal dalam senarai tetapi boleh dipilih untuk dipaparkan.
 ItCanBeAnExpression=Nilai ini boleh berupa ungkapan. Contoh:<br>preg_match('/public/', $_SERVER['PHP_SELF'])?0:1<br>$user->hasRight('holiday', 'define_holiday')?1:5
 DisplayOnPdfDesc=Paparkan medan ini pada dokumen PDF yang serasi. Kedudukannya boleh diurus melalui medan 'Kedudukan'.<br><strong>Untuk dokumen:</strong><br>0 = tidak dipaparkan<br>1 = dipaparkan<br>2 = dipaparkan hanya jika tidak kosong<br><br><strong>Untuk baris dokumen:</strong><br>0 = tidak dipaparkan<br>1 = dipaparkan dalam lajur<br>3 = dipaparkan dalam lajur penerangan selepas penerangan<br>4 = dipaparkan dalam lajur penerangan selepas penerangan hanya jika tidak kosong
 DisplayOnPdf=Pada PDF
@@ -257,7 +257,7 @@ DictionariesDefDesc=Tetapkan di sini kamus yang disediakan oleh modul anda
 PermissionsDefDesc=Tetapkan di sini kebenaran Baru yang disediakan oleh modul anda
 MenusDefDescTooltip=Menu yang disediakan oleh modul atau aplikasi anda ditetapkan dalam tatasusunan <strong>$this->menus</strong> pada fail deskriptor modul. Anda boleh menyunting fail ini secara manual atau menggunakan penyunting terbina dalam.<br><br>Nota: Selepas ditetapkan dan modul diaktifkan semula, menu tersebut juga boleh dilihat dalam penyunting menu yang tersedia kepada pengguna pentadbir pada %s.
 DictionariesDefDescTooltip=Kamus yang disediakan oleh modul atau aplikasi anda ditetapkan dalam tatasusunan <strong>$this->dictionaries</strong> pada fail deskriptor modul. Anda boleh menyunting fail ini secara manual atau menggunakan penyunting terbina dalam.<br><br>Nota: Selepas ditetapkan dan modul diaktifkan semula, kamus tersebut juga boleh dilihat dalam ruang tetapan oleh pengguna pentadbir pada %s.
-PermissionsDefDescTooltip=Kebenaran yang disediakan oleh modul atau aplikasi anda ditetapkan dalam tatasusunan <strong>$this->rights</strong> pada fail deskriptor modul. Anda boleh menyunting fail ini secara manual atau menggunakan penyunting terbina dalam.<br><br>Nota: Selepas ditetapkan dan modul diaktifkan semula, kebenaran tersebut boleh dilihat dalam tetapan kebenaran lalai %s.
+PermissionsDefDescTooltip=Kebenaran yang disediakan oleh modul atau aplikasi anda ditetapkan dalam tatasusunan <strong>$this->rights</strong> pada fail deskriptor modul. Anda boleh menyunting fail ini secara manual atau menggunakan penyunting terbina dalam.<br><br>Nota: Selepas ditetapkan dan modul diaktifkan semula, kebenaran tersebut boleh dilihat dalam tetapan kebenaran tetapan asal %s.
 HooksDefDesc=Dalam sifat <b>module_parts['hooks']</b> pada fail deskriptor modul, tetapkan senarai konteks yang menentukan masa hook anda perlu dilaksanakan. Senarai konteks yang tersedia boleh ditemukan dengan mencari '<b>initHooks(</b>' dalam kod teras.<br>Kemudian sunting fail kod hook dengan kod fungsi hook anda. Senarai fungsi yang boleh menggunakan hook boleh ditemukan dengan mencari '<b>executeHooks</b>' dalam kod teras.
 TriggerDefDesc=Tetapkan dalam fail pencetus kod yang hendak dilaksanakan apabila peristiwa perniagaan di luar modul anda berlaku, termasuk peristiwa yang dicetuskan oleh modul lain.
 SeeIDsInUse=Lihat ID yang digunakan dalam pemasangan anda
@@ -278,8 +278,8 @@ ContentOfREADMECustomized=Nota: Kandungan fail README.md telah digantikan dengan
 RealPathOfModule=Laluan sebenar modul
 ContentCantBeEmpty=Kandungan fail tidak boleh kosong
 WidgetDesc=Anda boleh menjana dan menyunting widget yang akan disertakan bersama modul anda di sini.
-CSSDesc=Anda boleh menjana dan menyunting fail CSS tersuai yang disertakan bersama modul anda di sini.
-JSDesc=Anda boleh menjana dan menyunting fail JavaScript tersuai yang disertakan bersama modul anda di sini.
+CSSDesc=Anda boleh menjana dan menyunting fail CSS khusus yang disertakan bersama modul anda di sini.
+JSDesc=Anda boleh menjana dan menyunting fail JavaScript khusus yang disertakan bersama modul anda di sini.
 CLIDesc=Anda boleh menjana skrip baris perintah yang hendak disediakan bersama modul anda di sini.
 CLIFile=Fail CLI
 NoCLIFile=Tiada fail CLI
@@ -288,8 +288,8 @@ UseSpecificEditorURL=Gunakan URL penyunting khusus
 UseSpecificFamily=Gunakan keluarga khusus
 UseSpecificAuthor=Gunakan pengarang khusus
 UseSpecificVersion=Gunakan versi awal khusus
-IncludeRefGeneration=Rujukan objek ini mesti dijana secara automatik menggunakan peraturan penomboran tersuai
-IncludeRefGenerationHelp=Tandakan pilihan ini untuk menyertakan kod yang mengurus penjanaan rujukan secara automatik menggunakan peraturan penomboran tersuai
+IncludeRefGeneration=Rujukan objek ini mesti dijana secara automatik menggunakan peraturan penomboran khusus
+IncludeRefGenerationHelp=Tandakan pilihan ini untuk menyertakan kod yang mengurus penjanaan rujukan secara automatik menggunakan peraturan penomboran khusus
 IncludeDocGeneration=Saya mahu ciri untuk menjana dokumen seperti PDF dan ODT daripada templat bagi objek ini
 IncludeDocGenerationHelp=Jika pilihan ini ditandakan, kod akan dijana untuk menambahkan kotak 'Jana dokumen' pada rekod.
 ShowOnCombobox=Papar nilai dalam kotak gabungan
