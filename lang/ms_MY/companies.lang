@@ -2,7 +2,7 @@
 # Encoding: UTF-8
 
 ThirdParty=Pihak Ketiga
-ThirdParties=Perhubungan
+ThirdParties=Pihak Ketiga
 Company=Syarikat
 Companies=Syarikat
 Organization=Organisasi
@@ -73,8 +73,8 @@ Relationship=Perhubungan
 Relationships=Perhubungan
 RelationshipManagement=Pengurusan Perhubungan
 RelationshipArea=Ruang Perhubungan
-ThirdPartyNavigation=Perhubungan
-ThirdPartiesNavigation=Perhubungan
+ThirdPartyNavigation=Pihak Ketiga
+ThirdPartiesNavigation=Pihak Ketiga
 CustomerRelationship=Perhubungan Pelanggan
 SupplierRelationship=Perhubungan Pembekal
 ProspectRelationship=Perhubungan Prospek
